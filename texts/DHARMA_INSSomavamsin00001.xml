@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vakrantentali grant of Mahābhavagupta I Janamejaya, Year 3 </title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:amwb">
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:amwb">
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Berlin</pubPlace>
+                <idno type="filename">DHARMA_INSSomavamsin00001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Amandine Wattelier-Bricout.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2021-01-11" who="part:amwb">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+             <ab>
+                 <lb n="1"/>śrī janamejayadeva <supplied reason="lost">rājasya</supplied>
+             </ab>
+             </div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+             <pb n="1r"/>
+<p>
+    <lb
+n="1"/>svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita<supplied reason="omitted">ḥ</supplied> śrimato vijaya-skandhāvārāt para<lb
+n="2" break="no"/>mabhaṭṭāraka-mahārājādhirāja-parameśvara-śrī-śivaguptadeva-pādāndhyā<lb
+n="3" break="no"/>ta-paramamāheścara-paramabhaṭṭāraka-mahārājādhirāja-parameśvara-so<lb
+n="4" break="no"/>ma-kula-tilaka-tṛkaliṅgādhipati=śrī-mahābhavaguptarājadevaḥ kuśalī<lb
+n="5"/>lupattarā-khaṇḍīya vakratentalī-grāme bhrāhmaṇān sampūjya tat-pra<lb
+n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
+n="7" break="no"/>nnidhārtṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
+n="8" break="no"/>ṭa-bhaṭa-jātiyān samājñāpayati <supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb
+n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-baādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra 
+             <pb n="2r"/>
+ <lb
+n="10" break="no"/>-madhukaḥ sajalasthalaḥ sarvvoparikarādāna-sahitaḥ pratiniṣiddha-cāṭa<lb
+n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tuḥ simā-praryantaḥ kauṇḍinya-gotrāya m<supplied reason="lost">ai</supplied>trāvaruṇa-vāśi<lb
+n="12" break="no"/>ṣṭha-pravarāya cchandoga-caraṇāya rāḍhāyaṁ vallikandara-vinirgatāya meraṇḍā-vā<!-- 
+amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 
+--><lb
+n="13" break="no"/>stavyāya bhaṭṭaputra-jātarūpa-nāmne bhaṭṭaputra-śrīvaccha-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb
+n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb
+n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye viśumati-saṁkrāntyāṁ tāmra-śāsane<lb
+n="16" break="no"/>nākarikṛtya pratipādita ity avagatya samucita-bhoga-bhāgakara-hiraṇyā<lb
+n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti <supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb
+n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anuridhāc ca svadattir ivānupālanīyā <supplied reason="omitted">.</supplied></p>
+<p><lb
+n="19"/>tathā coktaṁ dharmma-śāstre <supplied reason="omitted">.</supplied></p>
+<p>
+<lg n="1" met="anuṣṭubh">
+    <l n="a">vahubhir vvasudhā dattā</l>
+    <l n="b">rājabhiḥ sagarādibhiḥ</l>
+    <l n="c">yasya ya
+-               
+
+             <pb n="2v"/>
+ <lb
+n="20" break="no"/>sya yadā bhūmis</l>
+    <l n="d">tasya tasya tadā phalaṁ</l><!-- 
+    amwb: Sircar 23
+    -->
+</lg>
+<lg n="2" met="anuṣṭubh">
+    <l n="a">mā bhūdaphalaśaṅkā vaḥ</l>
+    <l n="b">paradatteti<lb
+n="21"/>pārthivāḥ</l>
+    <l n="c">svadānāt phalam ānantyaṁ</l>
+    <l n="d">paradattānupālane</l><!-- 
+    amwb : Sircar 85
+    -->
+</lg>
+<lg n="3" met="anuṣṭubh">
+    <l n="a">śaṣṭhiṁ varṣasahasrāṇi</l>
+    <l n="b"><lb
+n="22"/>svarge modati bhūmidaḥ</l>
+    <l n="c">ākṣeptā cānumantā ca</l>
+    <l n="d">tāny eva narake vaset</l><!-- 
+    amwb : Sircar 123
+    -->
+</lg><lg n="4" met="indravajrā">
+    <l n="a">agner apa<lb
+n="23" break="no"/>tyaṁ prathamaṁ suvarṇṇaṁ</l>
+    <l n="b">bhūr vvaiṣṇavī s<choice><sic>u</sic><corr>ū</corr></choice>ryasutāś ca gāvaḥ</l>
+    <l n="c">yaḥ kāñcanaṁ gāñ ca mahīñ ca<lb
+n="24"/>dadyād</l>
+    <l n="d">dattāstrayastena bhavanti lokā</l><!-- 
+    amwb : Sircar 5 with inversion of the pādas a and b , EI11 adds a visarga omitted at the end of lokā 
+    --></lg>
+ <lg n="5" met="anuṣṭubh">
+     <l n="a">āsphoṭayanti pitaraḥ</l>
+     <l n="b">prava<lb
+n="25" break="no"/>lgayanti pitāmahāḥ</l>
+     <l n="c">bhūmidātā kule jātaḥ</l>
+     <l n="d">sa nas trātā bhaviṣyati</l><!-- 
+     amwb : Sircar 20
+     -->
+</lg><lb
+n="26"/><lg n="6" met="anuṣṭubh">
+    <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+    <l n="b">yaś ca bhūmiṁ prayacchati</l>
+    <l n="c">ubhau tau puṇyakarmāṇau</l>
+    <l n="d">niya<lb
+n="27" break="no"/>taṁ svargagāminau</l><!-- 
+amwb : Sircar 29 
+-->
+</lg>
+<lg n="7" met="anuṣṭubh">
+    <l n="a">taḍāgānāṁ sahasrāṇi</l>
+    <l n="b">vājapeyaśatāni ca</l>
+    <l n="c">gavaṁ koṭipradā<lb
+n="28" break="no"/>nena</l>
+    <l n="d">bhūmiharttā na śudhyate</l><!-- 
+    amwb : Sircar 137
+    -->
+</lg>
+<lg n="8" met="anuṣṭubh">
+    <l n="a">harate hārayate yas tu</l>
+    <l n="b">mandavuddhis tamovṛtaḥ</l>
+    <l n="c">sa vaddho<lb
+n="29"/>vāruṇaiḥ</l>
+    <l n="d">pāśais tiryagyoniṁ ca gacchati</l><!-- 
+    amwb : Sircar 64
+    -->
+</lg> 
+<lg n="9" met="anuṣṭubh">
+    <l n="a">svadattaṁ paradattaṁ vā</l>
+    <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasu
+             <pb n="3r"/>
+<lb
+n="30" break="no"/>ndharāṁ</l>
+    <l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l>
+    <l n="d">pacyate pitṛbhiḥ saha</l><!-- 
+    amwb : Sircar 132
+    -->
+</lg>
+<lg n="10" met="anuṣṭubh">
+    <l n="a">ādityo varuṇo viṣṇur</l>
+    <l n="b">vva<lb
+n="31" break="no"/>hmā somo hutāśanaḥ</l>
+     <l n="c">śulpāṇistu bhagavāḥ</l>
+     <l n="d"><choice><sic>ā</sic><corr>a</corr></choice>bhinaṁndanti bhūmida<supplied reason="omitted">M</supplied></l><!-- 
+     amwb : Sircar 4
+     -->
+</lg>
+<lg n="11" met="śālinī">
+    <l n="a">s<choice><sic>e</sic><corr>ā</corr></choice>mānyo<lb
+n="32"/>'yaṁ dharmmasetur nṛpāṇāṁ</l>
+    <l n="b">kāl<choice><sic>a</sic><corr>e</corr></choice> kāle pālanīyo bhavadbhiḥ</l>
+    <l n="c">sarvvān etān bhāvino bhūpatī<lb
+n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
+    <l n="d">bhūyo bhūyo yācate rāmacandraḥ</l><!-- 
+    amwb : Sircar 117 only one different reading at the end of the pāda c
+    -->
+</lg>
+<lg n="12" met="puṣpitāgrā">
+    <l n="a">ity kamaladalāmvu vindulol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
+    <l n="b">śriyam a<lb
+n="34" break="no"/>nucintya manuṣyajīvitañ ca</l>
+    <l n="c">sakalam idam u<supplied reason="omitted">dā</supplied>hṛtañ ca budhvā</l>
+    <l n="d">na hi pu<lb
+n="35" break="no"/>ruṣaiḥ parakīrttayo vilopyāḥ</l><!-- 
+amwb : Sircar 71
+-->
+</lg>
+    paramabhaṭṭāraka-mahārājādhirā<lb
+n="36" break="no"/>ja-parameśvara-śrī-janamejayadevasya vijayarājye samvatsare tṛtīye śrā<lb
+n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb
+n="38"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-kāyastha-koI-goṣeṇa vallaghoṣa<lb
+n="39" break="no"/>-sutena saṁṅgrāmena U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti rayaṇa-Ojjhā-sutena <supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
+</p> 
+             </div>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:amwb">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
+        	    <bibl n="R"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">93-95</citedRange></bibl>
+        	    <!-- 
+        	    amwb : missing Ajay Mitra Shastri Studies in Indian Epigraphy III 153-54 
+        	    -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1557</citedRange></bibl>
+              <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
