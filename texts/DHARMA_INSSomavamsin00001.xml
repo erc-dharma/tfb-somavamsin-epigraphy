@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vakrantentali grant of Mahābhavagupta I Janamejaya, Year 3 </title>
+                <title>Vakrantentalī grant of Mahābhavagupta I Janamejaya, Year 3 </title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2022-03-09" who="part:amwb">Correction of the first encoding and added a draft of translation</change>
             <change when="2021-01-11" who="part:amwb">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -96,18 +97,18 @@
 <p>
     <lb
 n="1"/>svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita<supplied reason="omitted">ḥ</supplied> śrimato vijaya-skandhāvārāt para<lb
-n="2" break="no"/>mabhaṭṭāraka-mahārājādhirāja-parameśvara-śrī-śivaguptadeva-pādāndhyā<lb
-n="3" break="no"/>ta-paramamāheścara-paramabhaṭṭāraka-mahārājādhirāja-parameśvara-so<lb
-n="4" break="no"/>ma-kula-tilaka-tṛkaliṅgādhipati=śrī-mahābhavaguptarājadevaḥ kuśalī<lb
-n="5"/>lupattarā-khaṇḍīya vakratentalī-grāme bhrāhmaṇān sampūjya tat-pra<lb
+n="2" break="no"/>mabhaṭṭāraka-mahārājādhirāja-parameśvara-śrī-śivaguptadeva-pādānudhyā<lb
+n="3" break="no"/>ta-paramamāheśvara-paramabhaṭṭāraka-mahārājādhirāja-parameśvara-so<lb
+n="4" break="no"/>ma-kula-tilaka-tṛkaliṅgādhipati-śrī-mahābhavaguptarājadevaḥ kuśalī<lb
+n="5"/>lupattarā-khaṇḍīya vakratentalī-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
 n="7" break="no"/>nnidhārtṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
-n="8" break="no"/>ṭa-bhaṭa-jātiyān samājñāpayati <supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb
-n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-baādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra 
+n="8" break="no"/>ṭa-bhaṭa-jāt<choice><orig>i</orig><reg>ī</reg></choice>yān samājñāpayati <supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb
+n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra 
              <pb n="2r"/>
  <lb
 n="10" break="no"/>-madhukaḥ sajalasthalaḥ sarvvoparikarādāna-sahitaḥ pratiniṣiddha-cāṭa<lb
-n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tuḥ simā-praryantaḥ kauṇḍinya-gotrāya m<supplied reason="lost">ai</supplied>trāvaruṇa-vāśi<lb
+n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tuḥ simā-paryantaḥ kauṇḍ<choice><sic>ī</sic><corr>i</corr></choice>nya-gotrāya m<supplied reason="lost">ai</supplied>trāvaruṇa-vā<choice><orig>ś</orig><reg>s</reg></choice>i<lb
 n="12" break="no"/>ṣṭha-pravarāya cchandoga-caraṇāya rāḍhāyaṁ vallikandara-vinirgatāya meraṇḍā-vā<!-- 
 amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 
 --><lb
@@ -116,7 +117,7 @@ n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogār
 n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye viśumati-saṁkrāntyāṁ tāmra-śāsane<lb
 n="16" break="no"/>nākarikṛtya pratipādita ity avagatya samucita-bhoga-bhāgakara-hiraṇyā<lb
 n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti <supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb
-n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anuridhāc ca svadattir ivānupālanīyā <supplied reason="omitted">.</supplied></p>
+n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā <supplied reason="omitted">.</supplied></p>
 <p><lb
 n="19"/>tathā coktaṁ dharmma-śāstre <supplied reason="omitted">.</supplied></p>
 <p>
@@ -246,14 +247,65 @@ n="39" break="no"/>-sutena saṁṅgrāmena U<supplied reason="omitted">t</suppl
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="8">
+                     <lem>cā<lb
+n="8" break="no"/>ṭa-bhaṭa</lem>
+                     <note><bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">391</citedRange></bibl> record the use of the compound <foreign>cāṭabhaṭa</foreign> in a inscription dated from 940 and suggest to understand it as <foreign>cārabhaṭa</foreign> <q><supplied reason="explanation">valorous</supplied> soldier</q>. I follow this understanding and include it in my translation.</note>
                   </app>
+                  <app loc="11">
+                      <lem><supplied reason="lost">ca</supplied>tuḥ</lem>
+                      <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> points that the letter <foreign>tu</foreign> looks like <foreign>tta</foreign>.</note>
+                  </app>
+                   <app loc="15">
+                       <lem>viśumati-</lem>
+                       <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> suggests reading <foreign>viṣuvati</foreign>. I follow this suggestion in my translation.</note>
+                   </app>
                </listApp>
          </div>
-         <div type="translation" resp="part:amwb">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:amwb"><head xml:lang="eng">Draft of translation</head>
+ 	<p n="1-8">Hail ! From his victorious camp situated at Suvarṇapura, the divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Mahābhavagupta, master of Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, the forehead ornement of the Soma dynasty <supplied reason="explanation">or lunar race</supplied>, the great lord <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, a devout worshipper of Maheśvara, being meditating upon the feet of the lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, worshipped the Brāhmaṇas in the village Vakratentalī situated in the part of Lupattarā and ordered the householders dwelling there <supplied reason="subaudible">and</supplied> seated in due time upon this division beginning with the <foreign>samāhartṛ</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhārtṛ</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the informer <supplied reason="explanation"><foreign>piśuna</foreign></supplied>, the people called Vetrika, the inmates of the royal harem, the favorites of the king  <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied> and others belonging to valorous soldiers : 
+</p>
+             <p n="8-11">You are informed that this village by us has been given <supplied reason="explanation"><foreign>pratipādita</foreign>, line 16</supplied> with its treasures <supplied reason="explanation"><foreign>nidhi</foreign></supplied> and its deposits <supplied reason="explanation"><foreign>upanidhi</foreign></supplied>, without any restrictions with its barren caves, with mango and <foreign>madhuka</foreign> trees, with all the supplementary receipts, preserved from the forbidden soldiers, with its four boundary-marks, </p>
+             <p n="11-16">to the Jātarūpa a noble son <supplied reason="explanation"><foreign>bhaṭṭaputra</foreign></supplied>, offspring of the Lord Vaccha, a noble son <supplied reason="explanation"><foreign>bhaṭṭaputra-śrīvaccha</foreign></supplied>, belonging to the Kauṇḍinya gotra, the best <supplied reason="explanation"><foreign>pravara</foreign></supplied> among  the descendants of Mitravaruṇa and Vasiṣṭha sages, issued from the Chandogya school, residing in Meraṇḍā after having immigrating from Vallikandra situated in Rāḍhā, in order to increase the merit and the fame of our two parents as well as our own ones, <supplied reason="subaudible">as permanent endowment</supplied> to be enjoyed in perpetuity as long as the moon, the sun and the stars along with the oceans [will last], after having edicted this by a copperplate at the occasion of the  sun’s equinoctial passage <supplied reason="explanation"><foreign>viṣuvatī-saṁkrantī</foreign></supplied>.
+</p>
+             <p n="16-18">After having considered this <supplied reason="explanation"><foreign>iti</foreign></supplied>, the proper enjoyments, the parts, the taxes, the gold etc… should easily remain thanks to the consecration made by Our Majesty qnd the future kings must protect this gift of Us out of Our respect and for the sake of Us as it was their own gift </p>
+             <p n="19-36">It is said in the Dharmaśāstra:</p>
+             <p n="1" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="2" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 85 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="3" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="4" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 5 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="5" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="6" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 29 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="7" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 137 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="8" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 64 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="9" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="10" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 4 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="11" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 117 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
+             <p n="12" rend="stanza"><note>
+                    This verse corresponds to the verse numbered 71 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note></p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -264,6 +316,7 @@ n="39" break="no"/>-sutena saṁṅgrāmena U<supplied reason="omitted">t</suppl
         	<listBibl type="primary">
 				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
         	    <bibl n="R"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">93-95</citedRange></bibl>
+        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">167-171</citedRange></bibl>
         	    <!-- 
         	    amwb : missing Ajay Mitra Shastri Studies in Indian Epigraphy III 153-54 
         	    -->
