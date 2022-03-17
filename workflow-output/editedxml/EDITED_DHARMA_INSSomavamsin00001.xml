@@ -89,6 +89,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-03-17" who="part:amwb">First implementation of person-tags</change>
          <change when="2022-03-09" who="part:amwb">Correction of the first encoding and added a draft of translation</change>
          <change when="2021-01-11" who="part:amwb">Creation of the file</change>
       </revisionDesc>
@@ -104,10 +105,10 @@
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
              <pb n="1r"/>
 <p>
-    <lb n="1"/>svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-skandhāvārāt para<lb n="2" break="no"/>mabhaṭṭāraka-mahārājādhirāja-parameśvara-śrī-śivaguptadeva-pādānudhyā<lb n="3" break="no"/>ta-paramamāheśvara-paramabhaṭṭāraka-mahārājādhirāja-parameśvara-so<lb n="4" break="no"/>ma-kula-tilaka-tṛkaliṅgādhipati-śrī-mahābhavaguptarājadevaḥ kuśalī<lb n="5"/>lupattarā-khaṇḍīya-vakratentalī-grāme brāhmaṇān sampūjya tat-pra<lb n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb n="8" break="no"/>ṭa-bhaṭa-jāt<choice><orig>i</orig><reg>ī</reg></choice>yān samājñāpayati<supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra<pb n="2r" break="no"/>
+    <lb n="1"/>svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-skandhāvārāt <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb n="2" break="no"/>mabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivaguptadeva</persName></rs>-pādānudhyā<lb n="3" break="no"/>ta-<roleName>paramamāheśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb n="5"/>lupattarā-khaṇḍīya-vakratentalī-grāme brāhmaṇān sampūjya tat-pra<lb n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb n="8" break="no"/>ṭa-bhaṭa-jāt<choice><orig>i</orig><reg>ī</reg></choice>yān samājñāpayati<supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra<pb n="2r" break="no"/>
  <lb n="10" break="no"/>-madhukaḥ sa-jala-sthalaḥ sarvvoparikarādāna-sahitaḥ pratiniṣiddha-cāṭa<lb n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tuḥ-simā-paryantaḥ kauṇḍ<choice><sic>ī</sic><corr>i</corr></choice>nya-gotrāya m<supplied reason="lost">ai</supplied>trāvaruṇa-vā<choice><orig>ś</orig><reg>s</reg></choice>i<lb n="12" break="no"/>ṣṭha-pravarāya cchandoga-caraṇāya rāḍhāyaṁ vallikandara-vinirgatāya meraṇḍā-vā<!-- 
 amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rāḍhāyāṁ
---><lb n="13" break="no"/>stavyāya bhaṭṭaputra-jātarūpa-nāmne bhaṭṭaputra-śrīvaccha-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb n="16" break="no"/>nākarīkṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā<supplied reason="omitted">.</supplied></p>
+--><lb n="13" break="no"/>stavyāya <rs type="masc" role="donee"><roleName>bhaṭṭaputra</roleName>-<persName>jātarūpa</persName>-</rs>nāmne <rs type="masc"><roleName>bhaṭṭaputra</roleName>-<persName>śrīvaccha</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb n="16" break="no"/>nākarīkṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā<supplied reason="omitted">.</supplied></p>
 <p><lb n="19"/>tathā coktaṁ dharmma-śāstre<supplied reason="omitted">.</supplied></p>
 <p>
 <lg n="1" met="anuṣṭubh">
@@ -209,7 +210,7 @@ amwb : Sircar 29
 amwb : Sircar 71
 -->
 </lg>
-    paramabhaṭṭāraka-mahārājādhirā<lb n="36" break="no"/>ja-parameśvara-śrī-janamejayadevasya vijayarājye samvatsare tṛtīye śrā<lb n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-kāyastha-koI-ghoṣeṇa vallaghoṣa<lb n="39" break="no"/>-sutena sa<surplus>ṁ</surplus>ṅgrāmena U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti rayaṇa-Ojjhā-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
+    <rs type="masc" subtype="ruler" role="donor"><roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="other">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye śrā<lb n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName></rs> <rs type="masc"><persName>vallaghoṣa</persName></rs><lb n="39" break="no"/>-sutena <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
 </p> 
              </div>
          </div>
@@ -346,7 +347,7 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>According to <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">227</citedRange></bibl>, this set of copperplates was found in possession of Nityananda Bhoi, a resident of the village of Gopalpur for several years. We have no information on the find-spot or the year of discovery. It seems that the set was acquired  by the Odisha State Museum, Bhubaneswar in 1990.  <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
         	    <bibl n="R"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">93-95</citedRange></bibl>
@@ -358,6 +359,7 @@ amwb : Sircar 71
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1557</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
            </listBibl>
         </div>
       </body>
