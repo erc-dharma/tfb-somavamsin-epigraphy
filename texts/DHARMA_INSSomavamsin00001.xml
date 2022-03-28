@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vakrantentalī grant of Mahābhavagupta I Janamejaya, Year 3 </title>
+                <title>Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3 </title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -105,7 +105,8 @@ n="5"/>lupattarā-khaṇḍīya-vakratentalī-grāme brāhmaṇān sampūjya tat
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
 n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
 n="8" break="no"/>ṭa-bhaṭa-jāt<choice><orig>i</orig><reg>ī</reg></choice>yān samājñāpayati<supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb
-n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra<pb n="2r" break="no"/>
+n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra<pb 
+    n="2r" break="no"/>
  <lb
 n="10" break="no"/>-madhukaḥ sa-jala-sthalaḥ sarvvoparikarādāna-sahitaḥ pratiniṣiddha-cāṭa<lb
 n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tuḥ-simā-paryantaḥ kauṇḍ<choice><sic>ī</sic><corr>i</corr></choice>nya-gotrāya m<supplied reason="lost">ai</supplied>trāvaruṇa-vā<choice><orig>ś</orig><reg>s</reg></choice>i<lb
@@ -381,7 +382,7 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
            <p>According to <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">227</citedRange></bibl>, this set of copperplates was found in possession of Nityananda Bhoi, a resident of the village of Gopalpur for several years. We have no information on the find-spot or the year of discovery. It seems that the set was acquired  by the Odisha State Museum, Bhubaneswar in 1990.  <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
-        	    <bibl n="R"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">93-95</citedRange></bibl>
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">16</citedRange><citedRange unit="page">95-99</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">167-171</citedRange></bibl>
         	    <!-- 
         	    amwb : missing Ajay Mitra Shastri Studies in Indian Epigraphy III 153-54 
@@ -390,6 +391,7 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1557</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
+               <bibl><ptr target="bib:Desai+Shastri2008_01"/><citedRange unit="book">iii</citedRange><citedRange unit="page">153-154</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
            </listBibl>
         </div>
