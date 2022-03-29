@@ -5,7 +5,7 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -122,54 +122,97 @@ n="3"/>soma-kul<sic>ā</sic>dbhavasya</l>
                    <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jātu na muñchatīha</l>
                    <l n="d"><rs type="masc"><persName type="coronation">svabhāvatuṅgaḥ</persName></rs> as nṛpo vabhūva</l></lg>
                    <lg n="3" met="vaṁśastha">
-                      <l n="abcd">nṛpa<lb
+                   <l n="abcd">nṛpa<lb
 n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaja-staneṣu sampātayato '<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">m</supplied><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
                    </lg>
                    <lg n="4" met="vaṁśastha">
-                      <l n="a"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
-                      <l n="b"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
-                      <l n="c">harer mm<supplied reason="omitted">a</supplied>hā-kola-vapur vidhāri<lb
+                   <l n="a"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
+                   <l n="b"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
+                   <l n="c">harer mm<supplied reason="omitted">a</supplied>hā-kola-vapur vidhāri<lb
 n="5" break="no"/>ṇo</l>
-                     <l n="d">bhuja-sthala-stheva virājitā mahī</l></lg>
+                   <l n="d">bhuja-sthala-stheva virājitā mahī</l></lg>
                    <lg n="5" met="indravajrā">
-                      <l n="a">tasyāccha-r<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharma-patnī</l>
-                      <l n="b">sindhuragaurī<lb
-n="6" break="no"/>ti vibhūṣaṇāya</l></lg><lb
-n="7"/><lb
-n="8"/><lb
-n="9"/><lb
-n="10"/><lb
-n="11"/>
-                </p>
+                   <l n="a">tasyāccha-r<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharma-patnī</l>
+                   <l n="b">sindhuragaurī<lb
+n="6" break="no"/>ti vibhūṣaṇāya</l>
+                   <l n="c">Aneka-tārā-kula-saṁkulasya </l>
+                   <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas talasya</l></lg><lb
+n="7"/><lg n="6" met="indravajrā">
+                   <l n="a">sarvvoddhtād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
+                   <l n="b">jāta<supplied reason="omitted">ḥ</supplied> sutaḥ kalpa-tar<choice><sic>u</sic><corr>ū</corr></choice>pameyaḥ</l>
+                   <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName>janamejayo</persName></rs><lb
+n="8"/>'sminn</l>
+                   <l n="d">ekaḥ śriyovāsa iti prasidhaḥ</l>
+</lg><lg n="7" met="upendravajrā">
+                   <l n="a">tasyāṁ viśuddhātmani mātar ītthaṁ</l>
+                   <l n="b">virājate sarvva-kālā<lb
+n="9" break="no"/>śrayosau</l>
+                  <l n="c">sphurat-prabhā-maṇḍala-rāja-rājaḥ</l>
+                  <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ</l>
+</lg>kṛta-yugā<lb
+n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī kula-bhavanānada-parampar āyatanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmai<gap reason="illegible" unit="character" quantity="1" precision="low"/>-ta<lb
+n="11" break="no"/>lāvam ārthi-jana-nikara-kala-taru-sajjanādhivāsakā-vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>
      <lb
-n="12"/><lb
-n="13"/><lb
-n="14"/><lb
-n="15"/><lb
-n="16"/><lb
-n="17"/><lb
-n="18"/><lb
-n="19"/><lb
-n="20"/><lb
-n="21"/><lb
-n="22"/><lb
-n="23"/>
+n="12" break="no"/>phala-māṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb
+n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sanāthāt pañca-ḍamvari-saṅgīta-nimitta-kara<lb
+n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇa-sambhāvita-ghana-ni<choice><sic>sva</sic><corr>ssva</corr></choice>na-bhavanodyāna-kalāpi-kula-sa<lb
+n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāt seyaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
+n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānydhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
+n="17" break="no"/>jādhirāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
+n="18"/>nandī-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb
+n="19" break="no"/>māhartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvorodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb
+n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>Ā</sic><corr>bā</corr></choice>dhā<lb
+n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ niṣiddha-cāṭa-bhaṭa-praveśaḥ 
+                   <lg n="8" met="sragdhāra">
+                   <l>sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān acītyāmalavā <lb
+n="22" break="no"/>ra-matinā samyag-arthais tad artahir yair</l>
+                   <l n="b"><choice><sic>āttu</sic></choice>ṣṭīyamāmair mmakha-śata-vidhinā jīva-lokaṁ pavitraṁ</l>
+                   <l n="c">kṛri<lb
+n="23" break="no"/>tvā dgarnnārtha-kāmaiḥ tṛbhir api niyataṁ bhāvitaṁ saṁpradeyair</l>
+                    <l n="d">bh<choice><sic>a</sic><corr>ā</corr></choice>radvājasya g<surplus>r</surplus>otrā dvija-kula
             <pb n="2v"/>
 <lb
-n="24"/><lb
-n="25"/><lb
-n="26"/><lb
-n="27"/><lb
-n="28"/><lb
-n="29"/><lb
-n="30"/><lb
-n="31"/><lb
-n="32"/><lb
-n="33"/><lb
-n="34"/><lb
-n="35"/><lb
-n="36"/>
+n="24" break="no"/>-tilakaḥ śobhanobhūt sa yajyā</l></lg>
+                   <lg n="9" met="śārdūlavikrīḍita">
+                   <l n="a">tasmāt puṇyavata<sic>ṁ</sic> sva-dharma-niratāj jāto viśuddhātmanaḥ</l>
+                   <l n="b">śrī-sā<lb
+n="25" break="no"/>dhāraṇa <unclear>e</unclear>ka-dharmma-nilayaḥ prajñāvatām agraṇīḥ</l>
+                   <l n="c">rajño 'mātya-padās<unclear>adaṃ</unclear> pariṇatas tasy<choice><sic>ā</sic><corr>a</corr></choice> pra<lb
+n="26" break="no"/>jāṁ pālayan</l>
+                   <l n="d">śakrasyeva vṛIhaspati ddaśarathasyāsīd vaśIṣṭho yathā</l></lg>tasmai bhāradvāja-gotra<lb
+n="27" break="no"/>yāṅgirasa-vārhaspatya-pravarāya prājāpaty<choice><sic>ā</sic><corr>a</corr></choice>nu-pravarāya vājasaneya-caraṇāya mādhyandi<lb
+n="28" break="no"/>na-śākhācyāyine ṭākkāri-vinirgatāya turvvunā-grāme vāstavyāya bhaṭṭa-śrī-sādhāraṇāya<lb
+n="29"/>bhaṭṭa-śocana-sunave salila-dārā-puraḥsareṇa prathama-rājyābhiṣeka-śakrotthāna-maho<lb
+n="30" break="no"/><choice><sic>ccha</sic><corr>tsa</corr></choice>va-samaye mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye tām<surplus>v</surplus>ra-śāsanenākarī<lb
+n="31" break="no"/>kṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādikam upanayadbhir bhavadbhiḥ suce<lb
+n="32" break="no"/>na <unclear>ra</unclear>tovastavuam itibhir ddattir iyam aśmadīya dharma-gauravād asmad anurodhāc ca sva-dattir ivānu<lb
+n="33" break="no"/>pālanīya<supplied reason="omitted">.</supplied> <sic>tjatā</sic> coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
+                   <lg n="10" met="anuṣṭubh">
+                   <l n="a">vahubhir vvasudhā datā</l>
+                   <l n="b">rājabhiḥ sagarādibhiḥ</l>
+                   <l n="c">yasya yasya ya<lb
+n="34" break="no"/>dā bhūmis</l>
+                   <l n="d">tasya tasya tadā phalaṁ</l><!-- 
+                    amwb: Sircar 23
+                     -->
+                   </lg>
+                   <lg n="11" met="anuṣṭubh">
+                  <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
+                  <l n="b">para-datteti pārthivāḥ</l>
+                  <l n="c">sva-dānā<lb
+n="35"/>t phalam ānantyaṁ</l>
+                  <l n="d">para-dattānupālane</l><!-- 
+                  amwb : Sircar 85
+                   -->
+                   </lg><lg n="3" met="anuṣṭubh">
+    <l n="a">śaṣṭhiṁ varṣasahasrāṇi</l>
+    <l n="b">svarge modati bhūmidaḥ</l><lb
+n="36"/><l n="c"></l>
+                   <l n="d"></l><!-- 
+                    amwb : Sircar 123ab
+                   -->
+                  </lg>
             <pb n="3r"/>
      <lb
 n="37"/><lb
@@ -189,7 +232,8 @@ n="48"/>
 n="49"/><lb
 n="50"/><lb
 n="51"/><lb
-n="52"/>
+n="52"/></p>
+         </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
