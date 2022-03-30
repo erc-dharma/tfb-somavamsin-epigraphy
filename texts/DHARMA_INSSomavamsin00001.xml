@@ -98,9 +98,9 @@
 <p>
     <lb
 n="1"/>svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-skandhāvārāt <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
-n="2" break="no"/>mabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivaguptadeva</persName></rs>-pādānudhyā<lb
+n="2" break="no"/>mabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">śivaguptadeva</persName></rs>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>paramamāheśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
-n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
+n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
 n="5"/>lupattarā-khaṇḍīya-vakratentalī-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
 n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
@@ -148,21 +148,21 @@ n="21"/>pārthivāḥ</l>
     <l n="a">śaṣṭhiṁ varṣasahasrāṇi</l>
     <l n="b"><lb
 n="22"/>svarge modati bhūmidaḥ</l>
-    <l n="c">ākṣeptā cānumantā ca</l>
+    <l n="c">Ākṣeptā cānumantā ca</l>
     <l n="d">tāny eva narake vaset</l><!-- 
     amwb : Sircar 123
     -->
 </lg><lg n="4" met="indravajrā">
-    <l n="a">agner apa<lb
+    <l n="a">Agner apa<lb
 n="23" break="no"/>tyaṁ prathamaṁ suvarṇṇaṁ</l>
     <l n="b">bhūr vvaiṣṇavī s<choice><sic>u</sic><corr>ū</corr></choice>ryasutāś ca gāvaḥ</l>
     <l n="c">yaḥ kāñcanaṁ gāñ ca mahīñ ca<lb
 n="24"/>dadyād</l>
-    <l n="d">dattās trayas tena bhavanti lokā</l><!-- 
-    amwb : Sircar 5 with inversion of the pādas a and b , EI11 adds a visarga omitted at the end of lokā 
+    <l n="d">dattās trayas tena bhavanti lokā<supplied reason="omitted">ḥ</supplied></l><!-- 
+    amwb : Sircar 5 with inversion of the pādas c and d , EI11 adds a visarga omitted at the end of lokā 
     --></lg>
  <lg n="5" met="anuṣṭubh">
-     <l n="a">āsphoṭayanti pitaraḥ</l>
+     <l n="a">Āsphoṭayanti pitaraḥ</l>
      <l n="b">prava<lb
 n="25" break="no"/>lgayanti pitāmahāḥ</l>
      <l n="c">bhūmi-dātā kule jātaḥ</l>
@@ -173,7 +173,7 @@ n="25" break="no"/>lgayanti pitāmahāḥ</l>
 n="26"/><lg n="6" met="anuṣṭubh">
     <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
-    <l n="c">ubhau tau puṇya-karmāṇau</l>
+    <l n="c">Ubhau tau puṇya-karmāṇau</l>
     <l n="d">niya<lb
 n="27" break="no"/>taṁ svarga-gāminau</l><!-- 
 amwb : Sircar 29 
@@ -184,7 +184,7 @@ amwb : Sircar 29
     <l n="b">vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
     <l n="c">gavaṁ koṭi-pradā<lb
 n="28" break="no"/>nena</l>
-    <l n="d">bhūmi-harttā na śudhyate</l><!-- 
+    <l n="d">bhūmi-harttā na śudhyat<choice><sic>e</sic><corr>i</corr></choice></l><!-- 
     amwb : Sircar 137
     -->
 </lg>
@@ -205,11 +205,11 @@ n="29"/>vāruṇaiḥ</l>
 n="30" break="no"/>ndharāṁ</l>
     <l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l>
     <l n="d">pacyate pitṛbhiḥ saha</l><!-- 
-    amwb : Sircar 132
+    amwb : Sircar 132 change in d inversion verb and complement
     -->
 </lg>
 <lg n="10" met="anuṣṭubh">
-    <l n="a">ādityo varuṇo viṣṇur</l>
+    <l n="a">Ādityo varuṇo viṣṇur</l>
     <l n="b"><choice><sic>vva</sic><corr>bra</corr></choice><lb
 n="31" break="no"/>hmā somo hutāśanaḥ</l>
      <l n="c">śulpāṇis tu bhagavā<choice><sic>ḥ</sic><corr>n</corr></choice></l>
@@ -228,7 +228,7 @@ n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
     -->
 </lg>
 <lg n="12" met="puṣpitāgrā">
-    <l n="a">ity kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
+    <l n="a">Ity kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
     <l n="b">śriyam a<lb
 n="34" break="no"/>nucintya manuṣya-jīvitañ ca</l>
     <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hṛtañ ca budhvā</l>
@@ -238,7 +238,7 @@ amwb : Sircar 71
 -->
 </lg>
     <rs type="masc" subtype="ruler" role="donor"><roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
-n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="other">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye śrā<lb
+n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye śrā<lb
 n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb
 n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName></rs> <rs type="masc"><persName>vallaghoṣa</persName></rs><lb
 n="39" break="no"/>-sutena <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>

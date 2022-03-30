@@ -54,7 +54,9 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                    <summary> <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p></summary>
+                     <handNote xml:id="Somavamsin00002_hand1">regular writing</handNote>
+                     <handNote xml:id="Somavamsin00002_hand2">writing less meticulous especially with much larger letters and unfinished lines</handNote>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -107,7 +109,7 @@
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
              <pb n="1v"/>
-                <p>
+                <p><handShift new="#Somavamsin00002_hand1"/>
     <lb
 n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied>
                    <lg n="1" met="āryā">
@@ -186,7 +188,9 @@ n="28" break="no"/>na-śākhācyāyine ṭākkāri-vinirgatāya turvvunā-grāme
 n="29"/>bhaṭṭa-śocana-sunave salila-dārā-puraḥsareṇa prathama-rājyābhiṣeka-śakrotthāna-maho<lb
 n="30" break="no"/><choice><sic>ccha</sic><corr>tsa</corr></choice>va-samaye mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye tām<surplus>v</surplus>ra-śāsanenākarī<lb
 n="31" break="no"/>kṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādikam upanayadbhir bhavadbhiḥ suce<lb
-n="32" break="no"/>na <unclear>ra</unclear>tovastavuam itibhir ddattir iyam aśmadīya dharma-gauravād asmad anurodhāc ca sva-dattir ivānu<lb
+n="32" break="no"/>na <choice><sic>ratovastavu</sic><corr>prativastavy</corr></choice>am iti<add place="bottom"><lb
+n="36"/>bhavibhiś ca bhūpati</add>
+                   bhir ddattir iyam aśmadīya dharma-gauravād asmad anurodhāc ca sva-dattir ivānu<lb
 n="33" break="no"/>pālanīya<supplied reason="omitted">.</supplied> <sic>tjatā</sic> coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
                    <lg n="10" met="anuṣṭubh">
                    <l n="a">vahubhir vvasudhā datā</l>
@@ -205,34 +209,81 @@ n="35"/>t phalam ānantyaṁ</l>
                   <l n="d">para-dattānupālane</l><!-- 
                   amwb : Sircar 85
                    -->
-                   </lg><lg n="3" met="anuṣṭubh">
-    <l n="a">śaṣṭhiṁ varṣasahasrāṇi</l>
-    <l n="b">svarge modati bhūmidaḥ</l><lb
-n="36"/><l n="c"></l>
-                   <l n="d"></l><!-- 
-                    amwb : Sircar 123ab
-                   -->
-                  </lg>
+                   </lg><lg n="12" met="anuṣṭubh">
+                  <l n="a">śaṣṭhiṁ varṣasahasrāṇi</l>
+                  <l n="b">svarge modati bhūmidaḥ</l>
             <pb n="3r"/>
      <lb
-n="37"/><lb
-n="38"/><lb
-n="39"/><lb
-n="40"/><lb
-n="41"/><lb
-n="42"/><lb
-n="43"/><lb
-n="44"/><lb
-n="45"/><lb
-n="46"/><lb
-n="47"/><lb
-n="48"/>
+n="37"/><l n="c">Ākṣeptā cānumantā ca</l>
+                   <l n="d">tāny eva narake vaset</l><!-- 
+                    amwb : Sircar 123
+                   -->
+                  </lg>
+                   <lg n="13" met="indravajrā">
+                   <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ</l>
+                   <l n="b">bhūr vvaiṣṇavī s<choice><sic>u</sic><corr>ū</corr></choice>ryasutā<lb
+n="38" break="no"/>ś ca gāvaḥ</l>
+                   <l n="c">yaḥ kāñcanaṁ gāñ ca<surplus>naṁ</surplus> mah<choice><sic>i</sic><corr>ī</corr></choice>ñ ca dadyā<supplied reason="omitted">d</supplied></l>
+                   <l n="d">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice></l><!-- 
+    amwb : Sircar 5 with inversion of the pādas c and d  
+    --></lg><lg n="14" met="anuṣṭubh">
+                  <l n="a">Āsphoṭayanti pi<lb
+n="39" break="no"/>taraḥ</l>
+                  <l n="b">praval<surplus>a</surplus>gayanti pitāmahāḥ</l>
+                  <l n="c">bhūmi-dātā kul<choice><sic>a</sic><corr>e</corr></choice> jātaḥ</l>
+                  <l n="d">sa na<sic>ḥ</sic> trātā bhaviṣyati</l><!-- 
+                   amwb : Sircar 20
+                    -->
+</lg><lg n="15" met="anuṣṭubh">
+                  <l n="a">bhūmiṁ yaḥ prati<lb
+n="40" break="no"/>gṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+                  <l n="b">yaś ca bhūmiṁ prayacchati</l>
+                  <l n="c">Ubhau tau puṇya-karmmāṇau</l>
+                  <l n="d">niyataṁ svarga-gāminau</l><!-- 
+                  amwb : Sircar 29 
+                  -->
+</lg><lg n="16" met="anuṣṭubh">
+                  <l n="a">taḍāgān<choice><sic>i</sic><corr>āṁ</corr></choice> sa<lb
+n="41" break="no"/>hasr<choice><sic>āṇi</sic><corr>ena</corr></choice></l>
+                  <l n="b">vāja-pe<supplied reason="omitted">ya</supplied>-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
+                  <l n="c">g<choice><sic>ā</sic><corr>a</corr></choice>vaṁ koṭi-pradānena</l>
+                  <l n="d">bhūmi-harttā na śudhyati</l><!-- 
+                   amwb : Sircar 137
+                   -->
+</lg><lg n="17" met="anuṣṭubh">
+                <l n="a">sva-dattaṁ para-da<lb
+n="42" break="no"/>ttaṁ vā</l>
+                <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasundharāṁ</l>
+                <l n="c">sa viṣṭhāyāṁ kṛm<surplus>it</surplus>ir bhūtvā</l>
+                <l n="d">pitṛbhiḥ saha pacyate</l><!-- 
+                amwb : Sircar 132
+                -->
+</lg><lg n="18" met="śālinī">
+               <l n="a">s<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">mānyo</supplied><lb
+n="43"/>'yaṁ <choice><sic>c</sic><corr>dha</corr></choice>rmma-settur nṛpāṇāṁ</l>
+               <l n="b">kāl<choice><sic>a</sic><corr>e</corr></choice> <supplied reason="omitted">kāle</supplied> pālan<choice><sic>i</sic><corr>ī</corr></choice>yo bhavadbhiḥ</l><lb
+n="44"/><l n="c"><supplied reason="omitted">sarvvān etān bhāvino</supplied> bhūpatīndrān</l>
+               <l n="d">bhūyo <supplied reason="omitted">bhūyo</supplied> yācate rāmacandraḥ</l><!-- 
+             amwb : Sircar 117 only one different reading at the end of the pāda c : bhūpatīndrān
+                -->
+</lg><lg n="19" met="puṣpitāgrā">
+              <l n="a">Ity kamala-dalāmvu-vindu-l<choice><sic>ā</sic><corr>o</corr></choice>l<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l><lb
+n="45"/><l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>yam anucintya manuṣya-jīvita<supplied reason="omitted">ñ</supplied> ca</l>
+               <l n="c">sa-kalam idam udāhṛtañ ca vuddhvā</l>
+               <l n="d">na hi puruṣaiḥ para<lb
+n="46" break="no"/>kīrttayo <choice><sic>ya</sic><corr>vi</corr></choice>lopyāḥ</l><!-- 
+                amwb : Sircar 71
+               -->
+</lg><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb
+n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvādaśyā<surplus>ṁ</surplus>m aṅken<choice><sic>a</sic><corr>ā</corr></choice>pi samvat <num value="1">1</num> bhādra <abbr>śudi</abbr> <num value="12">12</num> likaṅ<lb
+n="48"/>tam idam śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>īḥ<supplied reason="omitted">ṁ</supplied>
             <pb n="3v"/>
+            <handShift new="#Somavamsin00002_hand2"/>
      <lb
-n="49"/><lb
-n="50"/><lb
-n="51"/><lb
-n="52"/></p>
+n="49"/><rs type="masc" role="engraver"><persName type="human">saṅgrāmena</persName></rs> utkṛtaṁ <choice><sic>sāsam</sic><corr>śāsanam</corr></choice> iti <persName type="human">dāvara-Ojhā</persName> s<choice><sic>u</sic><corr>ū</corr></choice>nave<g type="ddanda">.</g><lb
+n="50"/>tad apara<unclear>ḥ</unclear> p<choice><sic>a</sic><corr>ū</corr></choice>rvva-pitāmahopārjjita-kontakapallīy-ārjja-grāma<unclear>ḥ</unclear> dhanaku<lb
+n="51" break="no"/>dda-sahita<unclear>ḥ</unclear> mahānadī-srotorddha-pariccheda<unclear>ḥ</unclear> turvvunā-grāmo 'py atrāpi śāsane<lb
+n="52"/>punar ddāna-puṇyodaya-hetave datto likhita iti<g type="ddanda">.</g></p>
          </div>
          </div>
          <div type="apparatus">
@@ -262,7 +313,7 @@ n="52"/></p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe;ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange>91-114</citedRange></bibl>.</p>
+           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe;ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange>91-114</citedRange></bibl>, but this edition contains a lot of printed errors.</p>
         	<listBibl type="primary">
 				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
