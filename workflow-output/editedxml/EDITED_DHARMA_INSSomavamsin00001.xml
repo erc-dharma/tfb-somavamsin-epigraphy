@@ -89,6 +89,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-03-31" who="part:amwb">First implementation of date-tags</change>
          <change when="2022-03-17" who="part:amwb">First implementation of person-tags</change>
          <change when="2022-03-09" who="part:amwb">Correction of the first encoding and added a draft of translation</change>
          <change when="2021-01-11" who="part:amwb">Creation of the file</change>
@@ -210,7 +211,7 @@ amwb : Sircar 29
 amwb : Sircar 71
 -->
 </lg>
-    <rs type="masc" subtype="ruler" role="donor"><roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye śrā<lb n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName></rs> <rs type="masc"><persName>vallaghoṣa</persName></rs><lb n="39" break="no"/>-sutena <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
+    <date calendar="cal:regnal" when-custom="0003"><rs type="masc" subtype="ruler" role="donor"><roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye <rs type="month" key="sravana">śrā<lb n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" key="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName></rs> <rs type="masc"><persName>vallaghoṣa</persName></rs><lb n="39" break="no"/>-sutena <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
 </p> 
              </div>
          </div>

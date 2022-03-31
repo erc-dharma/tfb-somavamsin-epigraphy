@@ -121,6 +121,7 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+                <ab><gap reason="illegible" quantity="1" unit="line"/></ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
              <pb n="1v"/>
@@ -270,15 +271,15 @@
             The four lines of the second side of the third plate are written by another hand 
             Content: siddham (symbol) svasti 
             One verse praising Śiva quite exceptionnal + idem praśasti of the predecessor not in other plates 
-            in other plates predeccesor anc actual king = the same titles ; here not exactly the same
+            in other plates predeccesor and actual king = the same titles ; here not exactly the same
             First occurrence of prefix maha- in coronation name 
             -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe; ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange>91-114</citedRange></bibl>, but this edition contains a lot of printed errors.</p>
+           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe; ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors.</p>
         	<listBibl type="primary">
-				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
