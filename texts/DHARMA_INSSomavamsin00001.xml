@@ -165,7 +165,7 @@ n="24"/>dadyād</l>
  <lg n="5" met="anuṣṭubh">
      <l n="a">Āsphoṭayanti pitaraḥ</l>
      <l n="b">prava<lb
-n="25" break="no"/>lgayanti pitāmahāḥ</l>
+n="25" break="no"/>lg<surplus>ay</surplus>anti pitāmahāḥ</l>
      <l n="c">bhūmi-dātā kule jātaḥ</l>
      <l n="d">sa nas trātā bhaviṣyati</l><!-- 
      amwb : Sircar 20
@@ -183,7 +183,7 @@ amwb : Sircar 29
 <lg n="7" met="anuṣṭubh">
     <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>ena</corr></choice></l>
     <l n="b">vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
-    <l n="c">gavaṁ koṭi-pradā<lb
+    <l n="c">gavāṁ koṭi-pradā<lb
 n="28" break="no"/>nena</l>
     <l n="d">bhūmi-harttā na śudhyat<choice><sic>e</sic><corr>i</corr></choice></l><!-- 
     amwb : Sircar 137
@@ -199,7 +199,7 @@ n="29"/>vāruṇaiḥ</l>
     -->
 </lg> 
 <lg n="9" met="anuṣṭubh">
-    <l n="a">sva-dattaṁ para-dattaṁ vā</l>
+    <l n="a">sva-dattāṁ para-dattāṁ vā</l>
     <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasu
              <pb n="3r" break="no"/>
 <lb
