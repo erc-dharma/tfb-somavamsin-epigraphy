@@ -88,7 +88,8 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:amwb" when="2022-03-28">Creation of the file</change>
+         <change when="2022-03-30" who="part:amwb" status="draft">Encoding the text of the inscription and start of the tag-implementation for persons and dates</change>
+         <change who="part:amwb" when="2022-03-28" status="draft">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
    </teiHeader>
@@ -114,16 +115,20 @@
     <lb
 n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied>
                    <lg n="1" met="āryā">
-                   <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-mala-vālam-ādhyāya</l>
+                   <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam-ādhyāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb
-n="2" break="no"/><supplied cert="low" reason="subaudible">kurumva</supplied> janayati yaḥ pātu sa śivo yaḥ</l>
+n="2" break="no"/>kurumva janayati yaḥ pātu sa śivo yaḥ</l><!-- 
+amwb note on the word kurumva by Shastri+Tripathy2011_01 : "it gives no sense. Can we correct it to nikaraṁ vaḥ which would give a good sens though vaḥ would be redundant
+-->
                    </lg>
                    <lg n="2" met="upajāti">
                    <l n="a">yasya pratāpānalatotidagdhaḥ</l>
                    <l n="b">śatru-drumaḥ<lb
 n="3"/>soma-kul<sic>ā</sic>dbhavasya</l>
-                   <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jātu na muñchatīha</l>
-                   <l n="d"><rs type="masc"><persName type="coronation">svabhāvatuṅgaḥ</persName></rs> as nṛpo vabhūva</l></lg>
+                   <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jātu na muñchatīha</l><!-- 
+amwb on the photo it seems to have one or two circles (visarga) after ṅku, so it would be written śauryāṅkuḥra , need to check
+-->
+                   <l n="d"><rs type="masc"><persName type="coronation">svabhāvatuṅgaḥ</persName></rs> sa nṛpo vabhūva</l></lg>
                    <lg n="3" met="vaṁśastha">
                    <l n="abcd">nṛpa<lb
 n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaja-staneṣu sampātayato '<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">m</supplied><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
@@ -135,44 +140,44 @@ n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-
 n="5" break="no"/>ṇo</l>
                    <l n="d">bhuja-sthala-stheva virājitā mahī</l></lg>
                    <lg n="5" met="indravajrā">
-                   <l n="a">tasyāccha-r<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharma-patnī</l>
+                   <l n="a">tasyāccha-r<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharmma-patnī</l>
                    <l n="b">sindhuragaurī<lb
 n="6" break="no"/>ti vibhūṣaṇāya</l>
-                   <l n="c">Aneka-tārā-kula-saṁkulasya </l>
+                   <l n="c">Aneka-tārā-kula-saṁkulasya</l>
                    <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas talasya</l></lg><lb
 n="7"/><lg n="6" met="indravajrā">
-                   <l n="a">sarvvoddhtād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
+                   <l n="a">sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
                    <l n="b">jāta<supplied reason="omitted">ḥ</supplied> sutaḥ kalpa-tar<choice><sic>u</sic><corr>ū</corr></choice>pameyaḥ</l>
                    <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName>janamejayo</persName></rs><lb
 n="8"/>'sminn</l>
-                   <l n="d">ekaḥ śriyovāsa iti prasidhaḥ</l>
+                   <l n="d">ekaḥ śriyovāsa Iti prasidhaḥ</l>
 </lg><lg n="7" met="upendravajrā">
                    <l n="a">tasyāṁ viśuddhātmani mātar ītthaṁ</l>
                    <l n="b">virājate sarvva-kālā<lb
 n="9" break="no"/>śrayosau</l>
                   <l n="c">sphurat-prabhā-maṇḍala-rāja-rājaḥ</l>
-                  <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ</l>
+                  <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ<g type="ddanda">.</g></l>
 </lg>kṛta-yugā<lb
-n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī kula-bhavanānada-parampar āyatanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmai<gap reason="illegible" unit="character" quantity="1" precision="low"/>-ta<lb
+n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī kula-bhavanānada-paramparāyatanā<choice><sic>dhi</sic><corr>d dhī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmailata<lb
 n="11" break="no"/>lāvam ārthi-jana-nikara-kala-taru-sajjanādhivāsakā-vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>
      <lb
 n="12" break="no"/>phala-māṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb
 n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sanāthāt pañca-ḍamvari-saṅgīta-nimitta-kara<lb
 n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇa-sambhāvita-ghana-ni<choice><sic>sva</sic><corr>ssva</corr></choice>na-bhavanodyāna-kalāpi-kula-sa<lb
-n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāt seyaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
+n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāt seyaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb
 n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānydhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
 n="17" break="no"/>jādhirāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
 n="18"/>nandī-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb
-n="19" break="no"/>māhartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvorodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb
-n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>Ā</sic><corr>bā</corr></choice>dhā<lb
-n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ niṣiddha-cāṭa-bhaṭa-praveśaḥ 
+n="19" break="no"/>māhartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb
+n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb
+n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ yatiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
                    <lg n="8" met="sragdhāra">
-                   <l n="a">sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān acītyāmalavā <lb
+                   <l n="a">sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān acītyāmalavā<lb
 n="22" break="no"/>ra-matinā samyag-arthais tad artahir yair</l>
                    <l n="b"><choice><sic>āttu</sic></choice>ṣṭīyamāmair mmakha-śata-vidhinā jīva-lokaṁ pavitraṁ</l>
-                   <l n="c">kṛri<lb
-n="23" break="no"/>tvā dgarnnārtha-kāmaiḥ tṛbhir api niyataṁ bhāvitaṁ saṁpradeyair</l>
+                   <l n="c">kṛ<lb
+n="23" break="no"/>tvā dharmmārtha-kāmaiḥ tṛbhir api niyataṁ bhāvitaṁ saṁpradeyair</l>
                     <l n="d">bh<choice><sic>a</sic><corr>ā</corr></choice>radvājasya g<surplus>r</surplus>otrā dvija-kula
             <pb n="2v"/>
 <lb
@@ -276,7 +281,7 @@ n="46" break="no"/>kīrttayo <choice><sic>ya</sic><corr>vi</corr></choice>lopyā
                 amwb : Sircar 71
                -->
 </lg><date calendar="cal:regnal"><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb
-n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvādaśyā<surplus>ṁ</surplus>m aṅken<choice><sic>a</sic><corr>ā</corr></choice>pi samvat <num value="1">1</num> bhādra <abbr>śudi</abbr> <num value="12">12</num></date> likaṅ<lb
+n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvādaśyā<surplus>ṁ</surplus>m aṅken<choice><sic>a</sic><corr>ā</corr></choice>pi samvat <num value="1">1</num> bhādra <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="12">12</num></date> likaṅ<lb
 n="48"/>tam idam śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>īḥ<supplied reason="omitted">ṁ</supplied>
             <pb n="3v"/>
             <handShift new="#Somavamsin00002_hand2"/>
@@ -290,9 +295,43 @@ n="52"/>punar ddāna-puṇyodaya-hetave datto likhita iti<g type="ddanda">.</g><
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc=""><!-- update the value of @loc.-->
-                     <lem></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1"><!-- update the value of @loc.-->
+                     <lem>-māla-</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">-mala-</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>dharmma°</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">dharma°</rdg>
+                  </app>
+                  <app loc="7">
+                     <lem>sarvvoddhatād</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">sarvvoddhtād</rdg>
+                     <note>The edition in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl> is full of printing errors.</note>
+                  </app>
+                  <app loc="10">
+                     <lem>°tanā<choice><sic>dhi</sic><corr>d dhī</corr></choice>ra-</lem>
+                  </app>
+                  <app loc="10">
+                     <lem>°dhyāmailata°</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">°dhyāmai<gap reason="illegible" unit="character" quantity="1"/>ta°</rdg>
+                  </app>
+                  <app loc="19">
+                     <lem>vetrikāvarodha-</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">vetrikāvarodhy-</rdg>
+                  </app>
+                  <app loc="20">
+                     <lem><choice><sic>va</sic><corr>bā</corr></choice>dhā°</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01"><choice><sic>Ā</sic><corr>bā</corr></choice>dhā</rdg>
+                  </app>
+                  <app loc="21">
+                     <lem>yatiniṣiddha°</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">niṣiddha°</rdg>
+                     <note>I'm not sure whether it is written <foreign>yati</foreign> or <foreign>pati</foreign> but there are two <foreign>akṣara</foreign>s missing in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                  </app>
+                  <app loc="23">
+                     <lem>dharmmārtha°</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">dgarmmārtha°</rdg>
+                     <note>Here this is certainly a printing error.</note>
                   </app>
                </listApp>
          </div>
