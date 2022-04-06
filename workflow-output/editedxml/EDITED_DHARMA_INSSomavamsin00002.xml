@@ -206,7 +206,7 @@
     amwb : Sircar 5 with inversion of the pādas c and d  
     --></lg><lg n="14" met="anuṣṭubh">
                   <l n="a">Āsphoṭayanti pi<lb n="39" break="no"/>taraḥ</l>
-                  <l n="b">praval<surplus>a</surplus>gayanti pitāmahāḥ</l>
+                  <l n="b">praval<surplus>a</surplus>g<surplus>ay</surplus>anti pitāmahāḥ</l>
                   <l n="c">bhūmi-dātā kul<choice><sic>a</sic><corr>e</corr></choice> jātaḥ</l>
                   <l n="d">sa na<sic>ḥ</sic> trātā bhaviṣyati</l><!-- 
                    amwb : Sircar 20
@@ -221,12 +221,12 @@
 </lg><lg n="16" met="anuṣṭubh">
                   <l n="a">taḍāgān<choice><sic>i</sic><corr>āṁ</corr></choice> sa<lb n="41" break="no"/>hasr<choice><sic>āṇi</sic><corr>ena</corr></choice></l>
                   <l n="b">vāja-pe<supplied reason="omitted">ya</supplied>-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
-                  <l n="c">g<choice><sic>ā</sic><corr>a</corr></choice>vaṁ koṭi-pradānena</l>
+                  <l n="c">g<choice><sic>ā</sic><corr>a</corr></choice>vāṁ koṭi-pradānena</l>
                   <l n="d">bhūmi-harttā na śudhyati</l><!-- 
                    amwb : Sircar 137
                    -->
 </lg><lg n="17" met="anuṣṭubh">
-                <l n="a">sva-dattaṁ para-da<lb n="42" break="no"/>ttaṁ vā</l>
+                <l n="a">sva-dattāṁ para-da<lb n="42" break="no"/>ttāṁ vā</l>
                 <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasundharāṁ</l>
                 <l n="c">sa viṣṭhāyāṁ kṛm<surplus>it</surplus>ir bhūtvā</l>
                 <l n="d">pitṛbhiḥ saha pacyate</l><!-- 
@@ -244,18 +244,18 @@
                <l n="d">na hi puruṣaiḥ para<lb n="46" break="no"/>kīrttayo <choice><sic>ya</sic><corr>vi</corr></choice>lopyāḥ</l><!-- 
                 amwb : Sircar 71
                -->
-</lg><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvādaśyā<surplus>ṁ</surplus>m aṅken<choice><sic>a</sic><corr>ā</corr></choice>pi samvat <num value="1">1</num> bhādra <abbr>śudi</abbr> <num value="12">12</num> likaṅ<lb n="48"/>tam idam śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>īḥ<supplied reason="omitted">ṁ</supplied>
+</lg><date calendar="cal:regnal"><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvādaśyā<surplus>ṁ</surplus>m aṅken<choice><sic>a</sic><corr>ā</corr></choice>pi samvat <num value="1">1</num> bhādra <abbr>śudi</abbr> <num value="12">12</num></date> likaṅ<lb n="48"/>tam idam śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>īḥ<supplied reason="omitted">ṁ</supplied>
             <pb n="3v"/>
             <handShift new="#Somavamsin00002_hand2"/>
-     <lb n="49"/><rs type="masc" role="engraver"><persName type="human">saṅgrāmena</persName></rs> utkṛtaṁ <choice><sic>sāsam</sic><corr>śāsanam</corr></choice> iti <persName type="human">dāvara-Ojhā</persName> s<choice><sic>u</sic><corr>ū</corr></choice>nave<g type="ddanda">.</g><lb n="50"/>tad apara<unclear>ḥ</unclear> p<choice><sic>a</sic><corr>ū</corr></choice>rvva-pitāmahopārjjita-kontakapallīy-ārjja-grāma<unclear>ḥ</unclear> dhanaku<lb n="51" break="no"/>dda-sahita<unclear>ḥ</unclear> mahānadī-srotorddha-pariccheda<unclear>ḥ</unclear> turvvunā-grāmo ’py atrāpi śāsane<lb n="52"/>punar ddāna-puṇyodaya-hetave datto likhita iti<g type="ddanda">.</g></p>
+     <lb n="49"/><rs type="masc" role="engraver"><persName type="human">saṅgrāmena</persName></rs> utkṛtaṁ <choice><sic>sāsam</sic><corr>śāsanam</corr></choice> iti <rs type="masc"><persName type="human">dāvara-Ojhā</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave<g type="ddanda">.</g><lb n="50"/>tad apara<unclear>ḥ</unclear> p<choice><sic>a</sic><corr>ū</corr></choice>rvva-pitāmahopārjjita-kontakapallīy-ārjja-grāma<unclear>ḥ</unclear> dhanaku<lb n="51" break="no"/>dda-sahita<unclear>ḥ</unclear> mahānadī-srotorddha-pariccheda<unclear>ḥ</unclear> turvvunā-grāmo ’py atrāpi śāsane<lb n="52"/>punar ddāna-puṇyodaya-hetave datto likhita iti<g type="ddanda">.</g></p>
          </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc=""><!-- update the value of @loc.-->
+                     <lem/>
+                     <rdg source="bib:Shastri+Tripathy2011_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
