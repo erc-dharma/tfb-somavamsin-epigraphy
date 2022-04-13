@@ -341,7 +341,7 @@ n="49"/><add place="right"><persName type="deity">vāsudev<choice><sic>a</sic><c
 				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">114-126</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">119-121</citedRange></bibl>
            </listBibl>
         </div>
       </body>
