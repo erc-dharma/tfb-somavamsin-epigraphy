@@ -426,11 +426,12 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe; ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors.</p>
+           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departe; ent of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
         	<listBibl type="primary">
 				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+              <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl>
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">113-115</citedRange></bibl>
            </listBibl>
         </div>
