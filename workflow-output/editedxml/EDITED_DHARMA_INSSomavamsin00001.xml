@@ -360,6 +360,7 @@ amwb : Sircar 71
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1557</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
+               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">941</citedRange></bibl>
                <bibl><ptr target="bib:Desai+Shastri2008_01"/><citedRange unit="book">iii</citedRange><citedRange unit="page">153-154</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">456-457</citedRange></bibl>
