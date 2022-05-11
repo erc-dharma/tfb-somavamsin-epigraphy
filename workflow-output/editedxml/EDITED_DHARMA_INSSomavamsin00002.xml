@@ -133,20 +133,23 @@
                 -->
     <lb n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied>
                    <lg n="1" met="āryā">
-                   <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam-ādhāya</l>
-                   <l n="cd">su-jaṭā-taru-ni<lb n="2" break="no"/>kurumva janayati yaḥ pātu sa śivo vaḥ</l><!-- 
+                   <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam ādhāya</l>
+                   <l n="cd">su-jaṭā-taru-ni<lb n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied> janayati yaḥ pātu sa śivo vaḥ</l><!-- 
 amwb note on the word kurumva by Shastri+Tripathy2011_01 : "it gives no sense. Can we correct it to nikaraṁ vaḥ which would give a good sens though vaḥ would be redundant
 -->
                    </lg>
                    <lg n="2" met="upajāti">
-                   <l n="a">yasya pratāpānalatotidagdhaḥ</l>
+                   <l n="a">yasya pratāpānalato ’tidagdhaḥ</l>
                    <l n="b">śatru-drumaḥ<lb n="3"/>soma-kul<choice><sic>ā</sic><corr>o</corr></choice>dbhavasya</l>
                    <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jātu na muñcatīha</l><!-- 
 amwb on the photo it seems to have one or two circles (visarga) after ṅku, so it would be written śauryāṅkuḥra , need to check
 -->
                    <l n="d"><rs type="masc"><persName type="coronation">svabhāvatuṅgaḥ</persName></rs> sa nṛpo vabhūva</l></lg>
                    <lg n="3" met="vaṁśastha">
-                   <l n="abcd">nṛpa<lb n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaka-staneṣu sampātayato ’<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
+                   <l n="a">nṛpa<lb n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaka</l>
+                   <l n="b">-staneṣu sampātayato ’<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></l>
+                   <l n="c"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
+                   <l n="d"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
                    </lg>
                    <lg n="4" met="vaṁśastha">
                    <l n="a"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
@@ -155,37 +158,37 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
                    <l n="d"><space type="feature"/>bhuja-sthala-stheva virājitā mahī</l></lg>
                    <lg n="5" met="indravajrā">
                    <l n="a">tasyānur<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharmma-patnī</l>
-                   <l n="b">sindhuragaurī<lb n="6" break="no"/>ti<space type="feature"/> vibhūṣaṇāya</l>
+                   <l n="b">sinduragaurī<lb n="6" break="no"/>ti<space type="feature"/> vibhūṣaṇāya</l>
                    <l n="c">Aneka-tārā-kula-saṁkulasya</l>
-                   <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas talasya</l></lg><lb n="7"/><lg n="6" met="indravajrā">
+                   <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas-talasya</l></lg><lb n="7"/><lg n="6" met="indravajrā">
                    <l n="a">sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
                    <l n="b">jāta<supplied reason="omitted">ḥ</supplied> <choice><sic>sva</sic><corr>su</corr></choice>taḥ kalpa-tar<choice><sic>u</sic><corr>ū</corr></choice>pameyaḥ</l>
                    <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName>janamejayo</persName></rs><lb n="8"/>’sminn</l>
-                   <l n="d">ekaḥ śriyovāsa Iti prasiddhaḥ</l>
+                   <l n="d">ekaḥ śriyo vāsa Iti prasiddhaḥ</l>
 </lg><lg n="7" met="upendravajrā">
-                   <l n="a">tasyāṁ viśuddhātmani mātar ītthaṁ</l>
-                   <l n="b">virājate sarvva-kalā<lb n="9" break="no"/>śrayosau</l>
+                   <l n="a">tasyāṁ viśuddhātmani mātarītthaṁ</l>
+                   <l n="b">virājate sarvva-kalā<lb n="9" break="no"/>śrayo ’sau</l>
                   <l n="c">sphurat-prabhā-maṇḍala-rāja-rājaḥ</l>
                   <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ<g type="ddanda">.</g></l>
-</lg>kṛta-yugā<lb n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī kula-bhavanānanda-paramparāyatanā<choice><sic>dhi</sic><corr>d dhī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb n="11" break="no"/>lāvan ārthi-jana-nikara-kalpa-taru-sajanādhivāsakādvipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
+</lg>kṛta-yugā<lb n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>
-     <lb n="12" break="no"/>phala-maṇi-pravāla-kāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sanāthāt pañca-ḍamvari-saṅgīta-nimitta-kara<lb n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-ni<choice><sic>sva</sic><corr>ssva</corr></choice>na-bhavanodyāna-kalāpi-kula-sa<lb n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so ’yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ yatiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
+     <lb n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-nisvana-bhavanodyāna-kalāpi-kula-sa<lb n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so ’yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati<supplied reason="omitted">.</supplied> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
                    <lg n="8" met="sragdhāra">
-                   <l n="a">sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān adhītyāmalavā<lb n="22" break="no"/>ra-matinā samyag-arthais tad arthair yair<surplus>ā</surplus></l>
-                   <l n="b">tuṣṭīyamānair mmakha-śata-vidhinā jīva-lokaṁ pavitraṁ</l>
+                   <l n="a">sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān adhītyāmalata<lb n="22" break="no"/>ra-matinā samyag-arthais tad-arthair yair</l>
+                   <l n="b">cirāt tuṣ<surplus>ṭī</surplus>yamānair mmakha-śata-vidhinā jīva-lokaṁ pavitraṁ</l>
                    <l n="c">kṛ<lb n="23" break="no"/>tvā dharmmārtha-kāmaiḥ tṛbhir api niyataṁ bhāvitaṁ saṁpradeyair</l>
                     <l n="d">bh<choice><sic>a</sic><corr>ā</corr></choice>radvājasya g<surplus>r</surplus>otre dvija-kula<!-- 
                     amwb : end of the photo 249.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F249.jpg&mode=grid
                     -->
             <pb n="2v"/>
-<lb n="24" break="no"/>-tilakaḥ śobhanobhūt sa yajyā</l></lg>
+<lb n="24" break="no"/>-tilakaḥ śobhano ’bhūt sa yajvā</l></lg>
                    <lg n="9" met="śārdūlavikrīḍita">
-                   <l n="a">tasmāt puṇyavata<sic>ṁ</sic> sva-dharmma-niratāj jāto viśuddhātmanaḥ</l>
+                   <l n="a">tasmāt puṇyavat<choice><sic>a</sic><corr>ā</corr></choice>ṁ sva-dharmma-niratāj jāto viśuddhātmanaḥ</l>
                    <l n="b">śrī-sā<lb n="25" break="no"/>dhāraṇa Eka-dharmma-nilayaḥ prajñāvatām agraṇīḥ</l>
                    <l n="c">rājño ’mātya-padāspadaṃ pariṇatas tasy<choice><sic>ā</sic><corr>a</corr></choice> pra<lb n="26" break="no"/>jāṁ pālayaN</l>
                    <l n="d">śakrasyeva vṛhaspatir ddaśarathasyāsīd vaśiṣṭho yathā<g type="ddanda">.</g></l>
                    </lg>tasmai bhāradvāja-gotrā<lb n="27" break="no"/>yāṅgirasa-vārhaspatya-pravarāya prājāpaty<choice><sic>ā</sic><corr>a</corr></choice>nu-pravarāya vājasaneya-caraṇāya mādhyandi<lb n="28" break="no"/>na-śākhādhyāyine ṭākkārī-vinirgatāya turvvunā-grāme vāstavyāya bhaṭṭa-śrī-sādhāraṇāya<lb n="29"/>bhaṭṭa<space type="feature"/>-śobhana-s<choice><sic>u</sic><corr>ū</corr></choice>nave salila-dhārā-puraḥsareṇa prathama-rājyābhiṣeka-śakrotthāna-maho<lb n="30" break="no"/><choice><sic>ccha</sic><corr>tsa</corr></choice>va<space type="feature"/>-samaye mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye tām<surplus>v</surplus>ra-śāsanenākarī<lb n="31" break="no"/>kṛtya pratipādita Ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādikam upanayadbhir bhavadbhiḥ sukhe<lb n="32" break="no"/>na prativastavyam iti<add place="bottom"><lb n="36"/>bhavibhiś ca bhūpati</add>
-                   bhir ddantir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca sva-dattir ivānu<lb n="33" break="no"/>pālanīya<supplied reason="omitted">.</supplied> tathā coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
+                   bhir dda<choice><sic>n</sic><corr>t</corr></choice>tir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca sva-dattir ivānu<lb n="33" break="no"/>pālanīya<supplied reason="omitted">.</supplied> tathā coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
                    <lg n="10" met="anuṣṭubh">
                    <l n="a">vahubhir vvasudhā dattā</l>
                    <l n="b">rājabhiḥ sagarādibhiḥ</l>
@@ -270,15 +273,19 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
          </div>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="1"><!-- update the value of @loc.-->
+               <listApp>
+                  <app loc="1">
                      <lem source="bib:Tripathy2000_01">-māla-</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">-mala-</rdg>
                   </app>
                   <app loc="1">
-                     <lem source="bib:Tripathy2000_01">-ādhāya-</lem>
+                     <lem source="bib:Tripathy2000_01">ādhāya</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">ādhyāya</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem>ni<lb n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">nikurumva</rdg>
+                     <note><bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="note">1</citedRange><citedRange unit="page">111</citedRange></bibl> suggest correcting <foreign>nikurmva</foreign> by <foreign>nikaraṁ vaḥ</foreign> but add the <foreign>vaḥ</foreign> inserted could be redundant. I prefer to correct simply by assuming an omitted <foreign>anusvāra</foreign>.</note>
                   </app>
                   <app loc="2">
                      <lem source="bib:Tripathy2000_01">śivo vaḥ</lem>
@@ -302,8 +309,13 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <rdg source="bib:Tripathy2000_01">tasyā<choice><sic>ch</sic><corr>ccha</corr></choice>°</rdg>
                   </app>
                   <app loc="5">
-                     <lem>dharmma°</lem>
+                     <lem source="bib:Tripathy2000_01">dharmma°</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">dharma°</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>sindūragaurī</lem>
+                     <rdg source="bib:Tripathy2000_01">sinduragaurī°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011_01">sindhuragaurī°</rdg>
                   </app>
                   <app loc="7">
                      <lem>sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>°</lem>
@@ -320,29 +332,40 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <rdg source="bib:Shastri+Tripathy2011_01">prasidhaḥ</rdg>
                   </app>
                   <app loc="10">
-                     <lem>°tanā<choice><sic>dhi</sic><corr>d dhī</corr></choice>ra-</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">°tanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-</rdg>
+                     <lem>°tana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-</lem>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">°tanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-</rdg><!-- 
+                     amwb the final a of āyatana is clearly short ; so I introduce only one correction and don't follow the editor's correction which implies from my reading the introduction of two corrections
+                     -->
                   </app>
                   <app loc="10">
                      <lem source="bib:Tripathy2000_01">°dhyāmalita°</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">°dhyāmai<gap reason="illegible" unit="character" quantity="1"/>ta°</rdg>
                   </app>
                   <app loc="11">
-                     <lem source="bib:Tripathy2000_01">°lāvan ārthi°</lem>
+                     <lem>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi°</lem>
+                     <rdg source="bib:Tripathy2000_01">°lāvan ārthi°</rdg>
                      <rdg source="bib:Shastri+Tripathy2011_01">°lāvam ārthi°</rdg>
                   </app>
                   <app loc="11">
-                     <lem>-kalpa-taru-</lem>
+                     <lem source="bib:Tripathy2000_01">-kalpa-taru-</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">-kala-taru-</rdg>
                   </app>
                   <app loc="11">
-                     <lem>sajanādhivāsakādvipaṇi</lem>
+                     <lem>saj<supplied reason="omitted">j</supplied>anādhivāsakādvipaṇi</lem>
                      <rdg source="bib:Tripathy2000_01">sajjanādhivāsakādvipaṇi</rdg>
                      <rdg source="bib:Shastri+Tripathy2011_01">sajjanādhivāsakā-vipaṇi</rdg>
                   </app>
+                  <app loc="12">
+                     <lem source="bib:Shastri+Tripathy2011_01">-cāmīkara-</lem>
+                     <rdg source="bib:Tripathy2000_01">-kāmīkara-</rdg>
+                  </app>
+                  <app loc="13">
+                     <lem>-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-</lem>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">-ḍamvari-</rdg>
+                  </app>
                   <app loc="14">
                      <lem source="bib:Tripathy2000_01">-ravākarṇṇana-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">ravākarṇṇa</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011_01">-ravākarṇṇa-</rdg>
                   </app>
                   <app loc="15">
                      <lem source="bib:Tripathy2000_01">so ’yaṁ</lem>
@@ -357,9 +380,14 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <rdg source="bib:Shastri+Tripathy2011_01"><choice><sic>Ā</sic><corr>bā</corr></choice>dhā</rdg>
                   </app>
                   <app loc="21">
-                     <lem>yatiniṣiddha°</lem>
+                     <lem>pratiniṣiddha°</lem>
                      <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">niṣiddha°</rdg>
-                     <note>I’m not sure whether it is written <foreign>yati</foreign> or <foreign>pati</foreign> but there are two <foreign>akṣara</foreign>s missing in the two available editions <supplied reason="explanation"><bibl><ptr target="bib:Tripathy2000_01"/></bibl><bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl></supplied>.</note>
+                     <note>It is clearly written <foreign>prati</foreign>. These two <foreign>akṣara</foreign>s are missing in the two available editions <supplied reason="explanation"><bibl><ptr target="bib:Tripathy2000_01"/></bibl><bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl></supplied>.</note>
+                  </app>
+                  <app loc="21">
+                     <lem>adhītyāmalata°</lem>
+                     <rdg source="bib:Tripathy2000_01">adhītyāmalava°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011_01">acītyāmalavā°</rdg>
                   </app>
                   <app loc="22">
                      <lem source="bib:Tripathy2000_01">arthair</lem>
@@ -373,6 +401,16 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <lem source="bib:Tripathy2000_01">dharmmārtha°</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">dgarmmārtha°</rdg>
                      <note>Here this is certainly a printing error.</note>
+                  </app>
+                  <app loc="24">
+                     <lem source="bib:Tripathy2000_01">yajvā</lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">yajyā</rdg>
+                  </app>
+                  <app loc="24">
+                     <lem>puṇyavat<choice><sic>a</sic><corr>ā</corr></choice>ṁ</lem>
+                     <rdg source="bib:Tripathy2000_01">puṇyavataṁ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011_01">puṇyavata<choice><sic>ṁ</sic><corr>s</corr></choice></rdg>
+                     <note>The long vowel is required by metrical rules.</note>
                   </app>
                   <app loc="24">
                      <lem source="bib:Tripathy2000_01">sva-dharmma-</lem>
@@ -409,8 +447,9 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <note>Here this seems to be another printing error in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>’s edition.</note>
                   </app>
                   <app loc="32">
-                     <lem>ddantir</lem>
+                     <lem>dda<choice><sic>n</sic><corr>t</corr></choice>tir</lem>
                      <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">ddattir</rdg>
+                     <note>UIt is clearly written <foreign>ddantir</foreign>.</note>
                   </app>
                   <app loc="32">
                      <lem source="bib:Tripathy2000_01">asmadīyā</lem>
@@ -502,11 +541,91 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
+             <div type="textpart" n="A"><head xml:lang="eng">English translation draft</head>
+               <p n="1" rend="stanza">
+                  May Śiva protect you, he the creator of the river of the gods who, after depositing it in the midst of his hair, his garlands of skulls <supplied reason="explanation">literally: of killed men</supplied> and his snakes, begets numerous of virtuous trees and ascetics.<note>There are several possibilities to translate the compound: <q>many forests filled with ascetics</q> or <q>many virtuous ascetics like trees</q>. Need to check this point and choose a translation.</note>
+               </p>
+                <p n="2" rend="stanza">
+                   The king from the lineage of Soma whose tree of enemies was totally burnt by the fire of his power and whose vigorous courage never left him here on earth was called Svabhāvatuṅga.
+                </p>
+                <p n="3" rend="stanza">
+                   The 2 <supplied reason="omitted">powerful arms?</supplied> of this king caused a flood of tears in the midst of the breasts of the multitude of wives of the enemies <gap reason="omitted"/>.
+                </p>
+                <p n="4" rend="stanza">
+                 <gap reason="omitted"/> he who possesses the body of those from the great lineages <gap reason="omitted"/> the earth, like the one held firmly by the arms of the earth bearer Hari, shines.
+                </p>
+                <p n="5" rend="stanza">
+                   Perfectly matched to him, his virtuous wife named Sindūragaurī <supplied reason="explanation"><q>the one with the vermilion glow</q></supplied> was by her adornment like the line of a moonlight ray on the surface of the sky studded with thousands of stars.
+                </p>
+                <p n="6" rend="stanza">
+                   Of that <supplied reason="omitted">king</supplied> who rises above all like the best of the snow-covered mountains, of that <supplied reason="omitted">king</supplied> who obtained the end of rebirths <supplied reason="explanation"><foreign>A-janmanaḥ</foreign></supplied>, a son was born like a wishing-tree, His Majesty Janamejaya, known as the only abode of Fortune.
+                </p>
+                <p n="7" rend="stanza">
+                   The latter in the womb of his pure-hearted mother, he who is a refuge in all circumstances, he the king who possesses a sparkling splendour among ruling kings, splendid, he shines like a full moon in the sky.
+                </p>
+                <p n="9-20">
+                   Of the best and great capital, of Suvarṇapura, the birth-place of the behaviours of the golden age, which has palaces of lineages associated with fortune, a place where joy perpetually resides, a city whose view is obscured by the constant smoke of hundreds of fires, a city whose inhabitants are good men like wishing-trees for the needy multitude, a place covered with markets, where gold is found in profusion, where buds are precious stones, fruits are pearls and mother-of-pearl shells, a territory protected by the Telā river whose golden water from Kashmir flows from the water-pots like the water flowing from the breasts of pretty women as they come out of their ablutions, a place made pleasant by the dances perpetually performed in the forests <supplied reason="explanation">word for word: multitude of branches</supplied>, in the gardens and palaces, <supplied reason="explanation">alternative translation: from the forests to the palace gardens</supplied>, <supplied reason="explanation">made pleasant</supplied> by the uninterrupted voices united with the low sounds heard from the drums struck which cause the harmony of the five sounds, that divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied>, His Majesty Mahābhavagupta <supplied reason="explanation"><foreign>śrī-mahābhavagupta</foreign></supplied>, lord of the Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, the forehead ornament of the Soma dynasty, Paramabhaṭṭāraka and Mahārājādhirāja, a devout worshipper of Maheśvara <supplied reason="explanation"><foreign>parama-maheśvara</foreign></supplied> having meditated upon the feet of His Majesty <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, honoured the brahmins in the village Konnayillā attached to the territory of Nandiita. ta and then informed the householders installed from time to time, they belonging to the class of valiant soldiers <supplied reason="omitted">and</supplied> beginning with the <foreign>samāhartṛ</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhātṛ</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the chambellans <supplied reason="explanation"><foreign>vetrika</foreign></supplied>, the inmates of the royal harem and the favorites of the king <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied><note>Comparison of this list with the <ref target="DHARMA_INSSomavamsin00001.xml">Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</ref> gives the impression of an omission.</note> as followed:
+                </p>
+                <p n="20-21"/>
+                <p n="8" rend="stanza"/>
+                <p n="9" rend="stanza"/>
+                <p n="26-33"/>
+                <p n="10" rend="stanza"/>
+                <p n="11" rend="stanza"/>
+                <p n="12" rend="stanza"/>
+                <p n="13" rend="stanza"/>
+                <p n="14" rend="stanza"/>
+                <p n="15" rend="stanza"/>
+                <p n="16" rend="stanza"/>
+                <p n="17" rend="stanza"/>
+                <p n="18" rend="stanza"/>
+                <p n="19" rend="stanza"/>
+                <p n="46-52"/>
+             </div>
+             <div type="textpart" n="B"><head xml:lang="fra">Ébauche de traduction française</head>
+                 <p n="1" rend="stanza">
+                    Que Śiva vous protège, lui le créateur de la rivière des dieux, qui, après avoir déposée celle-ci au milieu de ses cheveux, de ses guirlandes de crânes <supplied reason="explanation">littéralement: d’hommes tués</supplied> et de ses serpents, engendre des multitudes d’arbres et ascètes vertueux<note>Plusieurs traductions du composé sont envisageables: <q>de nombreuses forêts remplies d’ascètes</q> ou <q>de nombreux vertueux ascètes semblables à des arbres</q>. A revoir pour choisir la traduction la plus probable</note>.
+                 </p>
+                <p n="2" rend="stanza">
+                   Le roi issu de la lignée de Soma dont l’arbre des ennemis fut totalement brûlé par le feu de sa puissance et dont le vigoureux courage ne fit jamais défaut ici-bas, s’appelait Svabhāvatuṅga. 
+                </p>
+                <p n="3" rend="stanza">
+                   Les deux <supplied reason="omitted">puissants bras?</supplied> de ce roi ont provoqué un flot de larmes au milieu des seins de la multitude des épouses des ennemis <gap reason="omitted"/>.
+</p>
+                <p n="4" rend="stanza">
+                   <gap reason="omitted"/> lui qui possède le corps de ceux issus des grandes lignées <gap reason="omitted"/>
+la terre, telle celle tenue fermement par les bras de Hari le support de la terre, resplendit.</p>
+                <p n="5" rend="stanza">
+                   Parfaitement assortie à lui, sa vertueuse épouse du nom de Sindūragaurī <supplied reason="explanation"><q>celle à l’éclat vermillon</q></supplied> était par son ornement telle le trait d’un rayon clair de lune à la surface du ciel constellé de milliers d’étoiles
+                </p>
+                <p n="6" rend="stanza">
+                   De ce <supplied reason="omitted">roi</supplied> qui s’élève au-dessus de tout telle la meilleure des montagnes enneigées, de ce <supplied reason="omitted">roi</supplied> qui a obtenu la fin des renaissances <supplied reason="explanation"><foreign>A-janmanaḥ</foreign></supplied>, est né un fils pareil à un arbre à souhait, Sa Majesté Janamejaya, connu comme étant l’unique demeure de la Fortune.
+                </p>
+                <p n="7" rend="stanza">Ce dernier dans le sein de sa mère à l’âme pure, lui qui est un refuge en toutes circonstances, roi qui possède une splendeur étincelante parmi les rois gouvernants, resplendit splendide telle une pleine lune dans le ciel.</p>
+                <p n="9-20">
+                   De la meilleure et grande capitale, de Suvarṇapura, terre de création des comportements de l’âge d’or, qui possède des palais de lignées associées à la fortune, lieu où réside de façon perpétuelle la joie, ville dont la vue est obscurcie par la fumée constante de centaines de feux, ville dont les habitants sont des hommes de biens semblables à des arbres à souhaits pour la multitude de nécessiteux, lieu couvert de marchés, lieu où l’on trouve de l’or à profusion, où les bourgeons sont des pierres précieuses, où les fruits sont des perles et le nacre des coquillages, territoire protégé par la rivère Telā dont l’eau dorée originaire du Cachemire s’écoule des cruches telle l’eau ruisselant des seins des femmes coquettes au moment où elles sortent de leurs ablutions, localité rendue agréable par les danses exécutées perpétuellement dans les forêts <supplied reason="explanation">littéralement: multitude de branches</supplied>, dans les jardins et les palais, ((<supplied reason="explanation">autre traduction possible: des forêts aux jardins des palais</supplied>, <supplied reason="explanation">rendue agréable</supplied> par les voix ininterrompues unies aux sons graves entendus des tambours frappés qui provoquent l’harmonie des cinq sons, ce divin roi que voici, sa Majesté Mahābhavagupta <supplied reason="explanation"><foreign>śrī-mahābhavagupta</foreign></supplied>, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma,  le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja, fervent dévot de Maheśvara <supplied reason="explanation"><foreign>parama-maheśvara</foreign></supplied>, ayant médités aux pieds de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes dans le village Konnayillā attaché au territoire de Nandītaṭa, a instruit les propriétaires installés en temps voulu, eux appartenant à la classe des valeureux soldats en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartṛ</foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtṛ</foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans <supplied reason="explanation"><foreign>vetrika</foreign></supplied><note>Contrairement à la <ref target="DHARMA_INSSomavamsin00001.xml">donation de Mahābhavagupta à Vakratentalī</ref>, <foreign>piśuna</foreign> n’est pas associé à <foreign>vetrika</foreign>.</note>, les membres du harem royal et les proches du roi<note>La comparaison de cette liste avec le formulaire <ref target="DHARMA_INSSomavamsin00001.xml">donation de Mahābhavagupta à Vakratentalī</ref> donne l’impression d’une omission dans l’inscription. </note> de la manière suivante:
+                </p>
+                <p n="20-21"/>
+                <p n="8" rend="stanza"/>
+                <p n="9" rend="stanza"/>
+                <p n="26-33"/>
+                <p n="10" rend="stanza"/>
+                <p n="11" rend="stanza"/>
+                <p n="12" rend="stanza"/>
+                <p n="13" rend="stanza"/>
+                <p n="14" rend="stanza"/>
+                <p n="15" rend="stanza"/>
+                <p n="16" rend="stanza"/>
+                <p n="17" rend="stanza"/>
+                <p n="18" rend="stanza"/>
+                <p n="19" rend="stanza"/>
+                <p n="46-52"/>
+             </div>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 
+            <!-- 
             Language : sanskrit influenced by prakritis;s and the local dialect and popular though grammatically incorrect pronunciations. ixed verse and prose Champu
             othographical remarks: see Shastri+Tripathy2011_01 p.95-96 
             viruda de Janamejaya : Śriyovāsa abode of fortune 
@@ -516,6 +635,7 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
             One verse praising Śiva quite exceptionnal + idem praśasti of the predecessor not in other plates 
             in other plates predeccesor and actual king = the same titles ; here not exactly the same
             First occurrence of prefix maha- in coronation name 
+            Structure of the text difficult to translate need to adapt the translation to render illegible the text in English and French ; several lacunae in the first verses (error of the scribe?) ; seems to be different from the latest CP of this King with eulogy and genealogy for the king and the recipient??? 
             -->
          </div>
         <div type="bibliography">
