@@ -88,6 +88,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-05-03" who="part:amwb">Draft of English and French translations, introduction of changes in the text and apparatus</change>
          <change when="2022-04-27" who="part:amwb" status="draft">Comparison of the text with Tripathy2000_01's edition and addition of its reading in apparatus</change>
          <change when="2022-04-26" who="part:amwb" status="draft">Check the encoded text with the photos available on the Sharedocs and issuing from the Orissa State Museum</change>
          <change when="2022-03-30" who="part:amwb" status="draft">Encoding the text of the inscription and start of the tag-implementation for persons and dates</change>
@@ -604,23 +605,75 @@ n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
                    The latter in the womb of his pure-hearted mother, he who is a refuge in all circumstances, he the king who possesses a sparkling splendour among ruling kings, splendid, he shines like a full moon in the sky.
                 </p>
                 <p n="9-20">
-                   Of the best and great capital, of Suvarṇapura, the birth-place of the behaviours of the golden age, which has palaces of lineages associated with fortune, a place where joy perpetually resides, a city whose view is obscured by the constant smoke of hundreds of fires, a city whose inhabitants are good men like wishing-trees for the needy multitude, a place covered with markets, where gold is found in profusion, where buds are precious stones, fruits are pearls and mother-of-pearl shells, a territory protected by the Telā river whose golden water from Kashmir flows from the water-pots like the water flowing from the breasts of pretty women as they come out of their ablutions, a place made pleasant by the dances perpetually performed in the forests <supplied reason="explanation">word for word: multitude of branches</supplied>, in the gardens and palaces, <supplied reason="explanation">alternative translation: from the forests to the palace gardens</supplied>, <supplied reason="explanation">made pleasant</supplied> by the uninterrupted voices united with the low sounds heard from the drums struck which cause the harmony of the five sounds, that divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied>, His Majesty Mahābhavagupta <supplied reason="explanation"><foreign>śrī-mahābhavagupta</foreign></supplied>, lord of the Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, the forehead ornament of the Soma dynasty, Paramabhaṭṭāraka and Mahārājādhirāja, a devout worshipper of Maheśvara <supplied reason="explanation"><foreign>parama-maheśvara</foreign></supplied> having meditated upon the feet of His Majesty <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, honoured the brahmins in the village Konnayillā attached to the territory of Nandiita. ta and then informed the householders installed from time to time, they belonging to the class of valiant soldiers <supplied reason="omitted">and</supplied> beginning with the <foreign>samāhartṛ</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhātṛ</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the chambellans <supplied reason="explanation"><foreign>vetrika</foreign></supplied>, the inmates of the royal harem and the favorites of the king <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied><note>Comparison of this list with the <ref target="DHARMA_INSSomavamsin00001.xml">Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</ref> gives the impression of an omission.</note> as followed:
+                   Of the best and great capital, of Suvarṇapura, the birth-place of the behaviours of the golden age, which has palaces of lineages associated with fortune, a place where joy perpetually resides, a city whose view is obscured by the constant smoke of hundreds of fires, a city whose inhabitants are good men like wishing-trees for the needy multitude, a place covered with markets, where gold is found in profusion, where buds are precious stones, fruits are pearls and mother-of-pearl shells, a territory protected by the Telā river whose golden water from Kashmir flows from the water-pots like the water flowing from the breasts of pretty women as they come out of their ablutions, a place made pleasant by the dances perpetually performed in the forests <supplied reason="explanation">word for word: multitude of branches</supplied>, in the gardens and palaces, <supplied reason="explanation">alternative translation: from the forests to the palace gardens</supplied>, <supplied reason="explanation">made pleasant</supplied> by the uninterrupted voices united with the low sounds heard from the drums struck which cause the harmony of the five sounds, that divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied>, His Majesty Mahābhavagupta <supplied reason="explanation"><foreign>śrī-mahābhavagupta</foreign></supplied>, lord of the Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, the forehead ornament of the Soma dynasty, Paramabhaṭṭāraka and Mahārājādhirāja, a devout worshipper of Maheśvara <supplied reason="explanation"><foreign>parama-maheśvara</foreign></supplied> having meditated upon the feet of His Majesty <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, honoured the brahmins in the village Konnayillā attached to the territory of Nandītaṭa and then informed the householders installed from time to time, they belonging to the class of valiant soldiers <supplied reason="omitted">and</supplied> beginning with the <foreign>samāhartṛ</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhātṛ</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the chambellans <supplied reason="explanation"><foreign>vetrika</foreign></supplied>, the inmates of the royal harem and the favorites of the king <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied><note>Comparison of this list with the <ref target="DHARMA_INSSomavamsin00001.xml">Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</ref> gives the impression of an omission.</note> as followed:
                 </p>
-                <p n="20-21"></p>
-                <p n="8" rend="stanza"></p>
-                <p n="9" rend="stanza"></p>
-                <p n="26-33"></p>
-                <p n="10" rend="stanza"></p>
-                <p n="11" rend="stanza"></p>
-                <p n="12" rend="stanza"></p>
-                <p n="13" rend="stanza"></p>
-                <p n="14" rend="stanza"></p>
-                <p n="15" rend="stanza"></p>
-                <p n="16" rend="stanza"></p>
-                <p n="17" rend="stanza"></p>
-                <p n="18" rend="stanza"></p>
-                <p n="19" rend="stanza"></p>
-                <p n="46-52"></p>
+                <p n="20-21">Be it known to you that this village with its deposits and its treasures, without any restriction, together with all its donations and taxes I give <supplied reason="explanation"><foreign>pratipādita</foreign>, line 31</supplied> it to <supplied reason="omitted">this one</supplied>:</p>
+                <p n="8" rend="stanza">
+                    From the <foreign>gotra</foreign> of Bhāradvāja was born the jewel of the twice-born lineage, Śobhana the sacrificer, who, having studied all the Vedas, possesses the purest thought <supplied reason="omitted">and</supplied> who, by good deeds and by his deeds which bring satisfaction for a long time, purified the world by hundreds of oblation prescriptions, and having also done <supplied reason="explanation">this</supplied> constantly in the three <supplied reason="omitted">goals</supplied> - <foreign>dharma</foreign>, <foreign>artha</foreign>, <foreign>kāma</foreign> - well-disposed <supplied reason="explanation"><foreign>bhāvita</foreign></supplied> it by his liberalities.
+                </p>
+                <p n="9" rend="stanza">
+                   From him deeply engaged in his own dharma among the pious men was born His Majesty the pure-minded Sādhāraṇa, the unique abode of Dharma, the first one among the wise men; bent down the minister office of the king, protecting His subjects, he was like Bṛhaspati for Śakra and like Vaśiṣṭha for Daśaratha. 
+                </p>
+                <p n="26-33">To this descendant of Aṅgirasas and Bṛhaspati, issued of the <foreign>gotra</foreign> of Bhāradvāja, going back to the lineage of Prājāpati from the school of Vājasaneya, studying in the school of Mādhyandina, having migrated from Ṭākkari to the village of Turvvunā, to his majesty Bhaṭṭa Sādhāraṇa, son of Bhaṭṭa Śobhana, was given <supplied reason="explanation"><foreign>pratipādita</foreign>, line 31</supplied> <supplied reason="omitted">this village Konnayillā attached to the territory of Nandītaṭa</supplied><note>I assume that the donation consists of the village mentioned in lines 18 and 20.</note> in order to increase the merit and fame of his two parents, as well as his own ones, and this, accompanied by libations after having edicted this <supplied reason="explanation">decision</supplied> by a copper plate produced at the occasion of the great festival of Śakra's banner which took place during the first royal consecration. After having considered this <supplied reason="explanation"><foreign>iti</foreign></supplied>, thanks to our acquisition, crops, dues, taxes, gold etc... should easily remain appropriated and future kings should protect this gift made by Us out of the respect of Dharma and out of Our consideration as it was their own gift as if it were their own donation.</p>
+                <p n="33-36">Thus it is said in the <title>Dharmaśāstra</title>:</p>
+                <p n="10" rend="stanza">
+                   Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="11" rend="stanza">
+                   Have no doubt about the fruit of what is given by another, o sons of Pṛthu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
+                    This verse corresponds to the verse numbered 85 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="12" rend="stanza">
+                   The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="13" rend="stanza">
+                   Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.<note>
+                    This verse corresponds to the verse numbered 5 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note><!-- 
+             In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
+             -->
+                </p>
+                <p n="14" rend="stanza">
+                   The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q><note>
+                    This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="15" rend="stanza">
+                   The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.<note>
+                    This verse corresponds to the verse numbered 29 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="16" rend="stanza">
+                   The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.<note>
+                    This verse corresponds to the verse numbered 137 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="17" rend="stanza">
+                   The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="18" rend="stanza">
+                   Rāmacandra begs repeatedly to all these future kings: this bridge of Dharma which is common to all the kings, you always must protect it.<note>
+                    This verse corresponds to the verse numbered 117 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="19" rend="stanza">
+                   Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts mabe by others not be destroyed by men.<note>
+                    This verse corresponds to the verse numbered 71 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="46-48">
+                   On the twelfth day of the clear fortnight of the month Bhadra in the first year of the victorious reign of His Majesty Janamejaya, i.e., on the 12th Bhadra of the year 1, this charter was written by the clerk <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Koighoṣa attached to the great office of peace and war <supplied reason="explanation"><foreign>mahāsāndhivigraha</foreign></supplied>. Benediction and good fortune!
+</p>
+                <p n="49-52">
+                   This charter was engraved by Saṅgrāma, son of Dāvara Ojjhā. This other village Ārjjaṭṭā belonging to Kontalapalla which was acquired in the past by the grandfather, along with Dhanakuda crossed by the Mahānādī river, as well as the village Turvvunā, this grant is also written here again on this plate in order to increase the merit. 
+                </p>
              </div>
              <div type="textpart" n="B"><head xml:lang="fra">Ébauche de traduction française</head>
                  <p n="1" rend="stanza">
@@ -645,21 +698,72 @@ la terre, telle celle tenue fermement par les bras de Hari le support de la terr
                 <p n="9-20">
                    De la meilleure et grande capitale, de Suvarṇapura, terre de création des comportements de l’âge d’or, qui possède des palais de lignées associées à la fortune, lieu où réside de façon perpétuelle la joie, ville dont la vue est obscurcie par la fumée constante de centaines de feux, ville dont les habitants sont des hommes de biens semblables à des arbres à souhaits pour la multitude de nécessiteux, lieu couvert de marchés, lieu où l’on trouve de l’or à profusion, où les bourgeons sont des pierres précieuses, où les fruits sont des perles et le nacre des coquillages, territoire protégé par la rivère Telā dont l’eau dorée originaire du Cachemire s’écoule des cruches telle l’eau ruisselant des seins des femmes coquettes au moment où elles sortent de leurs ablutions, localité rendue agréable par les danses exécutées perpétuellement dans les forêts <supplied reason="explanation">littéralement : multitude de branches</supplied>, dans les jardins et les palais, ((<supplied reason="explanation">autre traduction possible: des forêts aux jardins des palais</supplied>, <supplied reason="explanation">rendue agréable</supplied> par les voix ininterrompues unies aux sons graves entendus des tambours frappés qui provoquent l’harmonie des cinq sons, ce divin roi que voici, sa Majesté Mahābhavagupta <supplied reason="explanation"><foreign>śrī-mahābhavagupta</foreign></supplied>, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma,  le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja, fervent dévot de Maheśvara <supplied reason="explanation"><foreign>parama-maheśvara</foreign></supplied>, ayant médités aux pieds de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes dans le village Konnayillā attaché au territoire de Nandītaṭa, a instruit les propriétaires installés en temps voulu, eux appartenant à la classe des valeureux soldats en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartṛ</foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtṛ</foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans <supplied reason="explanation"><foreign>vetrika</foreign></supplied><note>Contrairement à la <ref target="DHARMA_INSSomavamsin00001.xml">donation de Mahābhavagupta à Vakratentalī</ref>, <foreign>piśuna</foreign> n'est pas associé à <foreign>vetrika</foreign>.</note>, les membres du harem royal et les proches du roi<note>La comparaison de cette liste avec le formulaire <ref target="DHARMA_INSSomavamsin00001.xml">donation de Mahābhavagupta à Vakratentalī</ref> donne l'impression d'une omission dans l'inscription. </note> de la manière suivante :
                 </p>
-                <p n="20-21"></p>
-                <p n="8" rend="stanza"></p>
-                <p n="9" rend="stanza"></p>
-                <p n="26-33"></p>
-                <p n="10" rend="stanza"></p>
-                <p n="11" rend="stanza"></p>
-                <p n="12" rend="stanza"></p>
-                <p n="13" rend="stanza"></p>
-                <p n="14" rend="stanza"></p>
-                <p n="15" rend="stanza"></p>
-                <p n="16" rend="stanza"></p>
-                <p n="17" rend="stanza"></p>
-                <p n="18" rend="stanza"></p>
-                <p n="19" rend="stanza"></p>
-                <p n="46-52"></p>
+                <p n="20-21">Que cela soit porté à votre connaissance :  ce village avec et ses dépôts et ses trésors, sans aucune restriction, accompagnés de tous ses dons et de tous ses impôts je le donne <supplied reason="explanation"><foreign>pratipādita</foreign>, line 31</supplied> à <supplied reason="omitted">celui-ci</supplied> :</p>
+                <p n="8" rend="stanza">
+                  C’est au sein du <foreign>gotra</foreign> de Bhāradvāja que naquit le joyau de la lignée des deux fois nés, Śobhana le sacrifiant, lui qui, ayant étudié tous les Veda, possède la pensée des plus pures <supplied reason="omitted">et</supplied> qui, par de bons actes et par ses actes qui apportent la satisfaction pour longtemps,  purifia le monde par des centaines de prescriptions d’oblations, et l’ayant fait aussi constamment dans les trois <supplied reason="omitted">buts</supplied> - <foreign>dharma</foreign>, <foreign>artha</foreign>, <foreign>kāma</foreign> - le contenta <supplied reason="explanation"><foreign>bhāvita</foreign></supplied> par ses libéralités.
+                </p>
+                <p n="9" rend="stanza">
+                   De ce dernier extrêmement dévoué à son propre dharma parmi les pieux, est né Sādhāraṇa le pur d'esprit, unique demeure du Dharma, premier parmi les sages ; incliné respectueusement devant le ministère du roi, protégeant Ses sujets, il était tel Bṛhaspati pour Śakra, Vaśiṣṭha pour Daśaratha.
+                </p>
+                <p n="26-33">À celui-ci descendant d’Aṅgirasas et de Bṛhaspati, du <foreign>gotra</foreign> de Bhāradvāja, remontant à la lignée de Prājāpati issu de l’école de Vājasaneya, étudiant dans l'école de Mādhyandina, ayant migré de Ṭākkari pour le village de Turvvunā, à sa majesté Bhaṭṭa Sādhāraṇa, fils de Bhaṭṭa Śobhana, a été donné <supplied reason="explanation"><foreign>pratipādita</foreign>, ligne 31</supplied> <supplied reason="omitted">ce village Konnayillā attaché au territoire de Nandītaṭa</supplied><note>Je suppose que le don est celui du village mentionné lignes 18 et 20.</note> afin d’augmenter le mérite et la gloire de son père et de sa mère, ainsi que les siens, et ce, accompagné de libations après l’avoir décrété grâce à une plaque de cuivre produite au moment de la grande fête du lever de bannière de Śakra qui eut lieu lors de la première consécraton royale. Après avoir considéré ceci, grâce à notre acquisition, les récoltes, les dus, les impôts, l’or etc…  resteront appropriés facilement et les futurs rois devront protéger  comme s'il s'agissait de leur propre donation ce don fait par nous par considération du Dharma et par respect pour nous. </p>
+                <p n="33-46">Ainsi est-il dit dans le <title>Dharmaśāstra</title>:</p>
+                <p n="10" rend="stanza">
+                   Des terres ont été données par des centaines de rois à commencer par Sagara. C'est à celui qu'appartient ces terres à un moment donné, que revient le bénéfice.<note>
+                    Ce vers correspond au vers 23 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="11" rend="stanza">
+                   N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pṛthu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
+                    Ce vers correspond au vers 85 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="12" rend="stanza">
+                   Celui qui donne des terres se réjouit durant soixante mille ans aux cieux, mais celui qui consteste <supplied reason="subaudible">un don</supplied> ou celui qui approuve <supplied reason="subaudible">cette contestation</supplied> séjournera aussi longtemps en enfer.<note>
+                    Ce vers correspond au vers 123 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="13" rend="stanza">
+                    L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.<note>
+                    Ce vers correspond au vers 5 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note><!-- 
+             In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
+             -->
+                </p>
+                <p n="14" rend="stanza">
+                    Les pères applaudissent, les ancêtres trépignent de joie <supplied reason="subaudible">quand ils peuvent dire :</supplied> <q>Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!</q><note>
+                    Ce vers correspond au vers 20 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="15" rend="stanza">
+                   Celui qui reçoit un don de terre et celui qui l'offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.<note>
+                   Ce vers correspond au vers 29 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="16" rend="stanza">
+                   Celui qui a volé une terre, l'excellent don d'une vache, une centaine de mets et breuvages sacrificiels, un millier de réservoirs ne peuvent le purifier.<note>
+                    Ce vers correspond au vers 137 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="17" rend="stanza">
+                   Celui qui vole une terre donnée par lui-même ou par un autre, devient un ver dans des excréments et cuit avec ses ancêtres.<note>
+                    Ce vers correspond au vers 132 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="18" rend="stanza">
+                   À de nombreuses reprises, Rāmacandra a exhorté les rois futurs <supplied reason="subaudible">en ces termes</supplied> : ce pont du Dharma commun à tous les rois, vous devez toujours le protéger.<note>
+                    Ce vers correspond au vers 117 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="19" rend="stanza">
+                   Ayant considéré que fortune et vie humaine sont aussi éphémères qu'une goutte d'eau sur un pétale de lotus et que le monde entier n'est qu'une représentation, ne laissons pas des hommes détruire les actes glorieux accomplis par d'autres.<note>
+                    Ce vers correspond au vers 71 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+                </p>
+                <p n="46-48">C'est au douzième jour de la quinzaine claire du mois Bhadra dans la première année du règne victorieux de sa Majesté Janamejaya, c’est-à-dire le 12 Bhadra de l’année 1, que cette charte a été écrite par le clerc <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Koighoṣa rattaché au ministère de la guerre et de la paix <supplied reason="explanation"><foreign>mahāsāndhivigraha</foreign></supplied>. Bénédiction et fortune!
+                </p>
+                <p n="49-52">
+                   Cette charte a été gravée par Saṅgrāma, fils de Dāvara Ojjhā. Cet autre village Ārjjaṭṭā appartenant à Kontalapalla qui fut acquis autrefois par le grandpère, avec Dhanakuda traversé par la rivère Mahānādī, ainsi que le village Turvvunā, cette donation est écrite aussi ici à nouveau sur cette plaque afin d'accroître le mérite. 
+                </p>
              </div>
          </div>
          <div type="commentary">
