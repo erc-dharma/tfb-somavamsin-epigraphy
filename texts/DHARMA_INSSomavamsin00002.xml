@@ -88,6 +88,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-05-19" who="part:amwb">Implementation of reference numbers for the king names</change>
          <change when="2022-05-03" who="part:amwb">Draft of English and French translations, introduction of changes in the text and apparatus</change>
          <change when="2022-04-27" who="part:amwb" status="draft">Comparison of the text with Tripathy2000_01's edition and addition of its reading in apparatus</change>
          <change when="2022-04-26" who="part:amwb" status="draft">Check the encoded text with the photos available on the Sharedocs and issuing from the Orissa State Museum</change>
@@ -174,8 +175,8 @@ n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvat�
 n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb
 n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-nisvana-bhavanodyāna-kalāpi-kula-sa<lb
 n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so 'yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb
-n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
-n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
+n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb
+n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
 n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb
 n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb
 n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati<supplied reason="omitted">.</supplied> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb
@@ -294,7 +295,7 @@ n="45"/><l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>yam anucintya ma
 n="46" break="no"/>kīrttayo <choice><sic>va</sic><corr>vi</corr></choice>lopyāḥ</l><!-- 
                 amwb : Sircar 71
                -->
-</lg><date calendar="cal:regnal" when-custom="0001"><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb
+</lg><date calendar="cal:regnal" when-custom="0001"><rs type="masc" role="donor"><roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samva<choice><sic>cch</sic><corr>ts</corr></choice>are prathame<lb
 n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvāda<choice><sic>ś</sic><corr>s</corr></choice>yā<surplus>ṁ</surplus>m aṅkenāpi samvaT <num value="1">1</num> bhādra <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="12">12</num></date> likhi<lb
 n="48"/>tam idaṁ śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>ī<choice><sic>ḥ</sic><corr>ṁ</corr></choice><!-- 
 see photo 251.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F251.jpg&mode=grid
