@@ -189,7 +189,7 @@ amwb : Sircar 29
     -->
 </lg>
 <lg n="8" met="anuṣṭubh">
-    <l n="a">harate hārayate yas tu</l>
+    <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
     <l n="b">manda-vuddhis tamo-vṛtaḥ</l>
     <l n="c">sa vaddho vā<lb n="39" break="no"/>ruṇaiḥ</l>
     <l n="d">pāśais <choice><sic>rī</sic><corr>ti</corr></choice>ryag-yoniñ ca gacchati</l><!-- 
@@ -211,7 +211,8 @@ amwb : Sircar 29
    <l n="d">yāvad ā<supplied reason="omitted">b</supplied>h<choice><sic>u</sic><corr>ū</corr></choice>ta-saṁplavaṁ</l><!-- 
    amwb Sircar 55 unmetrical due to the omissions in the two first pādas 
    -->
-</lg><lg n="11" met="śālinī">
+</lg>
+<lg n="11" met="śālinī">
     <l n="a">sāmānyo ’yaṁ dharma-setur nṛpāṇāṁ</l>
     <l n="b"><supplied reason="omitted">kāle</supplied> kāle pālanīyo bha<lb n="42" break="no"/>vadbhiḥ</l>
     <l n="c">sarvvān etān bhāvi<choice><sic>h</sic><corr>n</corr></choice>aḥ pārthivendrān</l>
@@ -246,6 +247,10 @@ amwb : here it seems to be like a 3 not really O
                   <app loc="37">
                      <lem>vā<choice><sic>k</sic><corr>j</corr></choice>a-peya°</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">vākapeya°</rdg>
+                  </app>
+                  <app loc="38">
+                     <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
+                     <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
                   </app>
                   <app loc="40">
                      <lem><supplied reason="omitted">gām ekaṁ</supplied> s<surplus>u</surplus>varṇṇ<choice><sic>ā</sic><corr>a</corr></choice>m</lem>

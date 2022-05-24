@@ -188,7 +188,7 @@ amwb : Sircar 29
     -->
 </lg>
 <lg n="8" met="anuṣṭubh">
-    <l n="a">harate hārayate yas tu</l>
+    <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
     <l n="b">manda-vuddhis tamo-vṛ<lb n="43" break="no"/>taḥ</l>
     <l n="c">sa vaddho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
     <l n="d">pāśais tiryag-yoniñ ca gacchati<g type="ddanda">.</g></l><!-- 
@@ -222,7 +222,7 @@ amwb : Sircar 29
     amwb : Sircar 117 only one different reading at the end of the pāda c
     -->
 </lg><lg n="13" met="puṣpitāgrā">
-    <l n="a">Ity kamala-dalāmvu-vindu-lolāṁ</l>
+    <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
     <l n="b">śriyam anucintya<lb n="50"/>manuṣya-jīvitaṁ ca</l>
     <l n="c">sa-kalam idam udāhṛtañ ca vuddhvā</l>
     <l n="d">na hi puruṣaiḥ para-kī<lb n="51" break="no"/>rttayo vilopyā<supplied reason="omitted">ḥ</supplied></l><!-- 
@@ -305,6 +305,10 @@ amwb : Sircar 71
                   <app loc="40">
                      <lem>Ubhau tau</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">tau</rdg>
+                  </app>
+                  <app loc="42">
+                     <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
+                     <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
                   </app>
                   <app loc="44">
                      <lem><supplied reason="omitted">vā</supplied> bhūmer</lem>

@@ -116,9 +116,7 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
 <lg n="1" met="anuṣṭubh">
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ</l>
-    <l n="c">yasya ya
--               
-
+    <l n="c">yasya ya               
              <pb n="2v"/>
  <lb n="20" break="no"/>sya yadā bhūmis</l>
     <l n="d">tasya tasya tadā phalaṁ</l><!-- 
@@ -171,7 +169,7 @@ amwb : Sircar 29
     -->
 </lg>
 <lg n="8" met="anuṣṭubh">
-    <l n="a">harate hārayate yas tu</l>
+    <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
     <l n="b">manda-vuddhis tamo-vṛtaḥ</l>
     <l n="c">sa vaddho<lb n="29"/>vāruṇaiḥ</l>
     <l n="d">pāśais tiryag-yoniṁ ca gacchati</l><!-- 
@@ -205,7 +203,7 @@ amwb : Sircar 29
     -->
 </lg>
 <lg n="12" met="puṣpitāgrā">
-    <l n="a">Ity kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
+    <l n="a">Iti kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
     <l n="b">śriyam a<lb n="34" break="no"/>nucintya manuṣya-jīvitañ ca</l>
     <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hṛtañ ca budhvā</l>
     <l n="d">na hi pu<lb n="35" break="no"/>ruṣaiḥ para-kīrttayo vilopyāḥ</l><!-- 
@@ -238,6 +236,10 @@ amwb : Sircar 71
                    <app loc="27">
                        <lem>vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice></lem>
                        <note>I suggest emending <foreign>vāja-peya-śatena</foreign> <supplied reason="explanation">see the stanza 137 listed by Sircar <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. I included this reading in my translation.</note>
+                   </app>
+                   <app loc="28">
+                       <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
+                       <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
                    </app>
                    <app loc="39">
                        <lem>U<supplied reason="omitted">t</supplied>kṛtaṁ</lem>
