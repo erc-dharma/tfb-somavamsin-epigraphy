@@ -180,7 +180,7 @@ amwb : Sircar 29
 -->
 </lg>
 <lg n="7" met="anuṣṭubh">
-    <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>ena</corr></choice></l>
+    <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></l>
     <l n="b">vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
     <l n="c">gavāṁ koṭi<lb n="42" break="no"/>-pradānena</l>
     <l n="d">bhūmi-harttā na śudhyati<g type="ddanda">.</g></l><!-- 
@@ -195,7 +195,7 @@ amwb : Sircar 29
     amwb : Sircar 64
     -->
 </lg><lg n="9" met="anuṣṭubh">
-   <l n="a">s<surplus>u</surplus>varṇṇam ekaṁ gām ekāṁ</l><lb n="44"/><l n="b"><supplied reason="omitted">vā</supplied> bhūmer apy arddham aṅgulaṁ</l>
+   <l n="a">suvarṇṇam ekaṁ gām ekāṁ</l><lb n="44"/><l n="b">bhūmer apy arddham aṅgulaṁ</l>
    <l n="c">haran narakam āyāti</l>
    <l n="d">yāvad ābh<choice><sic>u</sic><corr>ū</corr></choice>ta-saṁplavaṁ<g type="ddanda">.</g></l><!-- 
    amwb Sircar 55 unmetrical due to the omissions in the two first pādas 
@@ -309,10 +309,6 @@ amwb : Sircar 71
                   <app loc="42">
                      <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
                      <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
-                  </app>
-                  <app loc="44">
-                     <lem><supplied reason="omitted">vā</supplied> bhūmer</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">bhūmer</rdg>
                   </app>
                   <app loc="46">
                      <lem>śul<surplus>a</surplus>°</lem>

@@ -161,7 +161,7 @@ amwb : Sircar 29
 -->
 </lg>
 <lg n="7" met="anuṣṭubh">
-    <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>ena</corr></choice></l>
+    <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></l>
     <l n="b">vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
     <l n="c">gavāṁ koṭi-pradā<lb n="28" break="no"/>nena</l>
     <l n="d">bhūmi-harttā na śudhyat<choice><sic>e</sic><corr>i</corr></choice></l><!-- 
@@ -230,8 +230,8 @@ amwb : Sircar 71
                        <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> suggests reading <foreign>viṣuvati</foreign>. I follow this suggestion in my translation.</note>
                    </app>
                    <app loc="27">
-                       <lem>sahasr<choice><sic>āṇi</sic><corr>ena</corr></choice></lem>
-                       <note>I suggest emending <foreign>sahasrena</foreign> <supplied reason="explanation">see the stanza 137 listed by Sircar <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. I included this reading in my translation.</note>
+                       <lem>sahasr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></lem>
+                       <note>I suggest emending <foreign>sahasreṇa</foreign> <supplied reason="explanation">see the stanza 137 listed by Sircar <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. I included this reading in my translation.</note>
                    </app>
                    <app loc="27">
                        <lem>vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice></lem>
