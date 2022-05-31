@@ -31,7 +31,7 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Berlin</pubPlace>
             <idno type="filename">DHARMA_INSSomavamsin00013</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
@@ -366,7 +366,7 @@ amwb : Sircar 71
 n="59" break="no"/>ya-pariṣvaṅga-sandīpta-vidyud</l> 
                   <l n="b">vahni-jvālā-samūhair anumita-jalada-vyūha-saṁcā<lb 
 n="60" break="no"/>ra-līlāḥ<g type="danda">.</g></l> 
-                  <l n="c">Udgacchanto ghanebhyas tad anu ca <choice><sic>s</sic><corr>ś</corr></choice>ikhayā gumphitān eka-tārā</l>
+                  <l n="c">Udgacchanto ghanebhyas tad-anu ca <choice><sic>s</sic><corr>ś</corr></choice>ikhayā gumphitān eka-tārā</l>
                   <l n="d">santāna<lb 
 n="61" break="no"/>-granthitās te katham api dharaṇī-pṛṣṭha-pa<supplied reason="omitted">r</supplied>yantam īyuḥ<g type="ddanda">.</g></l>
                </lg> 
