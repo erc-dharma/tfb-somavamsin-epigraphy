@@ -4,8 +4,7 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -218,7 +217,7 @@ n="26"/>'bhimanyau mataḥ<g type="ddanda">.</g></l>
 n="27"/>raṇa-bhuvi vyāpādayad d<supplied reason="omitted">v</supplied>eṣiṇa<supplied reason="omitted">ṁ</supplied><g type="danda">.</g></l> 
                   <l n="c">tal lakṣmī<supplied reason="omitted">ṁ</supplied> dvijasattamair anumatām āsādya se<unclear>nā</unclear><lb 
 n="28" break="no"/><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice></l> 
-                  <l>trairājyañ ca turaṅgakeṇa jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
+                  <l n="d">trairājyañ ca turaṅgakeṇa jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
                </lg> 
                parama-māheśvara-mā<lb 
 n="29" break="no"/>tāpitṛ-pādānudhyāta-parama-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula<lb 
@@ -385,7 +384,7 @@ n="65" break="no"/><unclear>bhiḥ</unclear></l>
                   <l n="b">kṛtv ātho nija-deha-maṇḍana-vidhiṁ yad khaḍga-lekhā-naṭī<g type="danda">.</g></l> 
                   <l n="c">saṅgrāmāṅgaṇa-raṅga-bhūmi<lb 
 n="66" break="no"/><choice><sic>s</sic><corr>ṣ</corr></choice>u muhuḥ svacchandato līlayā</l> 
-                  <l>nṛtyanti hṛdayaṅgamā samabhavad vidveṣi-bhūmī-bhujāM<g type="ddanda">.</g></l>
+                  <l n="d">nṛtyanti hṛdayaṅgamā samabhavad vidveṣi-bhūmī-bhujāM<g type="ddanda">.</g></l>
                </lg> 
                <lg n="31" met="pr̥thvī">
                   <l n="a">Asau<lb 
