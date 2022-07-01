@@ -605,7 +605,7 @@ amwb : Sircar 71
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <!-- findspot Banpur in the district of Puri in Orissa 
-            Date of discovery 1963 while digging for layong the foundation of the local college
+            Date of discovery 1963 while digging for laying the foundation of the local college
             First deceiphered by Dr K. B. Trripathy in the Oriya Journal the Jhankāra n° X p.661-668 
             First edited by Dr K. B. Trripathy in the Journal of the Asicatic Society vol VIII n°4 109966 p 271-276
             According to Behera1988_01 the charter is now kept in the department of History, Utkal University 
@@ -626,7 +626,7 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. </p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
         	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">I</citedRange><citedRange unit="page">325-331</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
