@@ -123,7 +123,6 @@ n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<su
 n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā<supplied reason="omitted">.</supplied></p>
 <p><lb
 n="19"/>tathā coktaṁ dharmma-śāstre<supplied reason="omitted">.</supplied></p>
-<p>
 <lg n="1" met="anuṣṭubh">
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ</l>
@@ -140,7 +139,7 @@ n="20" break="no"/>sya yadā bhūmis</l>
     <l n="b">para-datteti<lb
 n="21"/>pārthivāḥ</l>
     <l n="c">sva-dānāt phalam ānantyaṁ</l>
-    <l n="d">para-dattānupālane</l><!-- 
+    <l n="d">para-dattānupālane</l><!--
     amwb : Sircar 85
     -->
 </lg>
@@ -237,7 +236,7 @@ n="35" break="no"/>ruṣaiḥ para-kīrttayo vilopyāḥ</l><!--
 amwb : Sircar 71
 -->
 </lg>
-    <date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
+    <p><date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
 n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye <rs type="month" key="sravana">śrā<lb
 n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" subtype="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb
 n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <rs type="masc"><persName type="human">vallaghoṣa</persName></rs><lb

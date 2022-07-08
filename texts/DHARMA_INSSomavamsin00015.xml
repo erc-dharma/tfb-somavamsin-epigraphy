@@ -107,10 +107,9 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <pb n="1v"/>
-            <p>
 <lb 
 n="1"/><lg n="1" met="śārdūlavikrīḍita">
-   <l n="a">jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31 -->ddhi-bhu<!-- ū soma31 -->ūḥ kumudinī-hāsaika-sampā<lb 
+   <l n="a">jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31 -->ddhi-bhu<!-- ū soma31 -->ḥ kumudinī-hāsaika-sampā<lb 
 n="2" break="no"/>danā</l>
    <l n="b">dhūrtto <choice><sic>dhṛja</sic><corr>dhūrja</corr></choice>ṭi<!-- dhūrjjati soma31 -->-mauli-saudha-va<supplied reason="omitted">sa</supplied>tiḥ pīyū<choice><sic>s</sic><corr>ṣ</corr></choice>a-dhārā-gṛhaṁ<g type="danda">.</g></l>
    <l n="c">tārānta<supplied reason="omitted">ḥ</supplied>-pu<lb 
@@ -124,7 +123,7 @@ n="5" break="no"/>-kalaṅka</l>
       <l n="b">vicchāya-dig-valaya-mārjjana-kūrcchakasya<g type="danda">.</g></l> 
       <l n="c">Utpedire sakala-sad-guṇa<lb 
 n="6" break="no"/>-janma-kandāḥ</l> 
-      <l n="d">kundāvadāta-yaśaso jagatībhujas te<g type="ddanda">.</g></l> 
+      <l n="d">kundāvadāta-yaśaso jagatī bhujas te<g type="ddanda">.</g></l> 
       </lg>
       <lg n="3" met="śārdūlavikrīḍita">
          <l n="a">rājābhūj janamejayo<lb 
@@ -203,7 +202,7 @@ n="28" break="no"/>-kusuma-<supplied reason="omitted">dāma</supplied>-rājaya�
                  <l n="d"> yaṁ praṇemur a<choice><sic>hi</sic><corr>bhi</corr></choice>to mah<choice><sic>i</sic><corr>ī</corr></choice>-bhujaḥ<g type="ddanda">.</g><!-- here there are six supplementary verses in soma31  --></l>
                </lg>
                <lb 
-n="29"/>svasti śrī-yayāti-nagarāt<g type="danda">.</g> parama-māheśvara-pa<supplied reason="omitted">ra</supplied>bhaṭṭāraka-mahārājādhi<lb 
+n="29"/><p>svasti śrī-yayāti-nagarāt<g type="danda">.</g> parama-māheśvara-pa<supplied reason="omitted">ra</supplied>bhaṭṭāraka-mahārājādhi<lb 
 n="30" break="no"/>rāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī-mahāśivagu<lb 
 n="31" break="no"/>pta-gajadevapādānudhyāta<g type="danda">.</g>  parama-māheśvara-parama-bhaṭṭāraka-mahā<lb 
 n="32" break="no"/>rājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī-mahā<lb 
@@ -228,7 +227,8 @@ n="48"/>sampradattaḥ<supplied reason="omitted">.</supplied> Airāvaṭṭama�
 n="49"/>tasya sodara-bhrātṛ-śrī-valabhadra<surplus><g type="danda">.</g></surplus> <choice><sic>s</sic><corr>ś</corr></choice>armmaṇe Evaṁ sampradattaḥ<surplus><g type="danda">.</g></surplus> Ity avaga<lb 
 n="50" break="no"/>tya samucita-karabhoga-bhāgādikam upanayadbhir bhavadbhiḥ sukhena prativasta<lb 
 n="51" break="no"/>vya<supplied reason="omitted">M</supplied><supplied reason="omitted">.</supplied> s<supplied reason="omitted">v</supplied>ad<choice><sic>e</sic><corr>a</corr></choice>ttir iyam asmadīya-dharmma-gauravād āsmad anurodhāc ca sva-dattir ivā<lb 
-n="52" break="no"/>nupālanīyo<g type="ddanda">.</g> tathā coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied> 
+n="52" break="no"/>nupālanīyo<g type="ddanda">.</g> tathā coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
+            </p> 
                <lg n="12" met="anuṣṭubh">
                   <l n="a">vahubhir vasudhā dattā</l> 
                   <l n="b">rājabhiḥ
@@ -364,13 +364,13 @@ n="73" break="no"/>tta Iti śrutaḥ<g type="ddanda">.</g></l>
                   <l n="c">Alī<lb 
 n="74" break="no"/>l<choice><sic>ī</sic><corr>i</corr></choice>khadida<supplied reason="omitted">ṁ</supplied> tām<surplus>v</surplus>ra</l>
                   <l n="d">śasana<supplied reason="omitted">ṁ</supplied> śatru<choice><sic>s</sic><corr>ś</corr></choice>āsana<choice><sic>ḥ</sic><corr>M</corr></choice><g type="ddanda">.</g></l>
-               </lg> 
+               </lg>
+               <p>
                mahārājādhirāja-para<lb 
 n="75" break="no"/>meśvara-śrīmad-uddyotakesari-rāja-devasya pravarddhamāna-vijaya<lb 
 n="76" break="no"/>rājye caturthe samva<supplied reason="omitted">tsa</supplied>re mārgga <abbr>vadi</abbr> daśamyāṁ<g type="danda">.</g> yatrāṅke samvat<surplus>a</surplus> <num value="4">4</num><lb 
 n="77"/>mārgga <abbr>vadi</abbr> <num value="10">10</num> suvarṇṇa-vithi-vijñāni vāheru maṅgākābhyāṁ Utkī<supplied reason="omitted">rṇṇa</supplied><lb 
 n="78" break="no"/>m idaṁ<g type="ddanda">.</g>
-
             </p>
          </div>
          <div type="apparatus">

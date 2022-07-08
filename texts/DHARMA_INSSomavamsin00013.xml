@@ -108,7 +108,6 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <pb n="1v"/>
-            <p>
             <lb 
 n="1"/><lg n="1" met="vasantatilakā">
    <l n="a">Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikṣā-piśaṅgī</l> 
@@ -219,7 +218,7 @@ n="27"/>raṇa-bhuvi vyāpādayad d<supplied reason="omitted">v</supplied>eṣi�
 n="28" break="no"/><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice></l> 
                   <l n="d">trairājyañ ca turaṅgakeṇa jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
                </lg> 
-               parama-māheśvara-mā<lb 
+               <p>parama-māheśvara-mā<lb 
 n="29" break="no"/>tāpitṛ-pādānudhyāta-parama-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula<lb 
 n="30" break="no"/>-tilaka-trikaliṅgādhipati-śrīmad-indraratha-rājadevaḥ kuśalī<g type="ddanda">.</g> ko<choice><sic>ngo</sic><corr>ṅga</corr></choice>da-maṇḍalīya-<unclear>tho</unclear>ra<lb 
 n="31" break="no"/>ṇa-viṣaya-sagh<choice><sic>a</sic><corr>ṛ</corr></choice>ta-khallīkhaṇḍīya-laghukumbhi-grāme<g type="danda">.</g> Atas tad viṣayīya-vrāhmaṇān āpūjya samā<lb 
@@ -235,7 +234,7 @@ n="38" break="no"/>lopac<choice><sic>e</sic><corr>a</corr></choice>yo Ācandrār
 n="39" break="no"/>ye salila-dhārā-puraḥsara<choice><sic>m</sic><corr>ṁ</corr></choice> tāmra-śāsanenākarīkṛtya pratipādita Ity avagatya samucita<lb 
 n="40"/>kara-bhoga-bhāgādikam upanayadbhi<supplied reason="omitted">ḥ</supplied> bhavadbhiḥ sukhena prativastavyam iti<g type="ddanda">.</g> bhāvibhiś ca bhūpatibhiḥ<lb 
 n="41"/>dattir iyam asmadīy<choice><sic>ā</sic><corr>a</corr></choice>-dharma-gauravād asmad anurodhāc ca sudattir ivānupālanīyā<g type="ddanda">.</g> tath<choice><sic>o</sic><corr>ā</corr></choice> cokta<supplied reason="omitted">ṁ</supplied> dharma-śā<lb 
-n="42" break="no"/>stre<g type="ddanda">.</g> 
+n="42" break="no"/>stre<g type="ddanda">.</g></p> 
                <lg n="15" met="anuṣṭubh">
     <l n="a">vahubhir vasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ<g type="danda">.</g></l>
@@ -395,7 +394,7 @@ n="68" break="no"/>lā-nivaha-janma-bhūr amṛta-candra-nāmā nidhiḥ</l>
                   <l n="d">samasta-guṇa-sampadām idam alīlikhac chāsa<lb 
 n="69" break="no"/>naM<g type="ddanda">.</g></l>
                </lg> 
-               parama-māheśvara-mahārājādhirāja-śrīmad-indraratharāja-devasya pravarddhamāna<lb 
+               <p>parama-māheśvara-mahārājādhirāja-śrīmad-indraratharāja-devasya pravarddhamāna<lb 
 n="70" break="no"/>-vijaya-rājye ṣaṣṭhe samvatsare kārttika-māsi śukla-pakṣa-dvitīyāyāṁ tithau likhitam i<lb 
 n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <abbr>śudi</abbr> <num value="2">2</num> vijñāni vāherukeṇa Utkīrṇṇaṁ<g type="ddanda">.</g>
 </p>            

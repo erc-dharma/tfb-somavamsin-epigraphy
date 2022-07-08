@@ -115,11 +115,11 @@
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
              <pb n="1v"/>
-                <p><handShift new="#Somavamsin00002_hand1"/><!-- 
+                <ab><handShift new="#Somavamsin00002_hand1"/><!-- 
                 amwb see Orissa state museum photo 253.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F253.jpg&mode=grid
                 -->
     <lb
-n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied>
+n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied></ab>
                    <lg n="1" met="āryā">
                    <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam ādhāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb
@@ -166,7 +166,8 @@ n="8"/>'sminn</l>
 n="9" break="no"/>śrayo 'sau</l>
                   <l n="c">sphurat-prabhā-maṇḍala-rāja-rājaḥ</l>
                   <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ<g type="ddanda">.</g></l>
-</lg>kṛta-yugā<lb
+</lg>
+                <p>kṛta-yugā<lb
 n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb
 n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>

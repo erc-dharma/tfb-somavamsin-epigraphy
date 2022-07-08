@@ -107,9 +107,8 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <p>
                <lb 
-n="1"/><milestone unit="fragment" n="a"/><g type="dandaHooked">.</g> Oṁ 
+n="1"/><milestone unit="fragment" n="a"/><ab><g type="dandaHooked">.</g> Oṁ </ab>
                <lg n="1" met="śārdūlavikrīḍita">
          <l n="a">brahmopendra-maheśvarendra-bali<gap reason="lost" unit="character" quantity="9" precision="low"/><supplied reason="lost" cert="low">bhī rajjū kṛtāhīśvarair</supplied></l> 
          <l n="b"><supplied reason="lost">bhrā</supplied><milestone unit="fragment" n="b"/>myan-mandara-parvvatena <unclear cert="low">mathitāt kṣīrodadher madhyataḥ</unclear><g type="danda">.</g></l> 
@@ -230,7 +229,8 @@ n="19"/><milestone unit="fragment" n="a"/>sa-naga-vana-samudrā medinī yāva<un
                 <l n="b"> <gap reason="lost" unit="character" quantity="2" precision="low"/><supplied reason="lost">tribhu</supplied><milestone unit="fragment" n="b"/>vana-nija-netre <unclear cert="low">pu</unclear>ṣpavantau ca yāva<unclear cert="low">T</unclear><g type="danda">.</g></l> 
                  <l n="c">Ati-jagad-upari-stho yāvad auttāna<unclear cert="low">pā</unclear>dir</l> 
                  <l n="d">jana-vadana-sudheyan tāvad a<unclear cert="low">stu praśastiḥ</unclear><g type="ddanda">.</g></l>
-              </lg><lb 
+              </lg>
+               <p><lb 
 n="20"/><milestone unit="fragment" n="a"/>parama-māheśvara-mahārājādhirāja-soma<gap reason="lost" unit="character" quantity="4" precision="low"/><supplied reason="lost">kula-tila</supplied><milestone unit="fragment" n="b"/><unclear>ka</unclear>-trikaliṅgādhipati-śrīmad-udyotakesari-rājadevasya vijayarājye saṁvaT <num value="18">18</num> phālguna <abbr>śudi</abbr> <num value="3">3</num> sūtradhāra-rā<unclear cert="low">ye</unclear><supplied reason="lost">ṇa UtkīrṇaM<g type="ddanda">.</g></supplied>
             </p>
          </div>
@@ -442,10 +442,12 @@ n="20"/><milestone unit="fragment" n="a"/>parama-māheśvara-mahārājādhirāja
                   de l'épouse principale du très valeureux roi ennemi, le renommé, lui dont la pensée est prodigieuse, lui qui a le courage d'un chef, <supplied reason="lost">seigneur d'un royaume composé de sept régions</supplied>, dont la conduite <supplied reason="lost">et les actes demeurèrent conformes aux lois et inchangés depuis l'enfance</supplied>, lui le libéral à la grande morale, <supplied reason="lost">était</supplied> <gap reason="lost" quantity="3" unit="character"/> le roi Yayāti homme de valeur <supplied reason="lost">qui</supplied> <gap reason="lost" quantity="1" unit="character"/> fut un ornement de la Terre.    </p>
 <p n="4-5"/>
                <p n="4" rend="stanza">
-                  Après lui, <supplied reason="subaudible">il y eut</supplied> semblable à un arbre à souhait dans la période Kali, ce paragon des seigneurs de la Terre, lui qui est une mine dont les joyaux sont sa dignité, un bouquet dont les lotus sont sa patience, lui dont l'essence est celle de l'ambroisie par sa ligne de conduite, fin connaisseur de puissance et de la perfection qui sont toutes deux annonciatrices du succès, lui dont la gloire est <supplied reason="lost">toujours</supplied> <gap reason="lost" quantity="2" unit="character"/> chantée, le roi Bhīmaratha, qui possède les qualités d'un Mahāratha, héros et tueur d'ennemis. 
+                  À sa suite, <supplied reason="subaudible">il y eut</supplied> semblable à un arbre à souhait dans la période Kali, ce paragon des seigneurs de la Terre, lui qui est une mine dont les joyaux sont sa dignité, un bouquet dont les lotus sont sa patience, lui dont l'essence est celle de l'ambroisie par sa ligne de conduite, fin connaisseur de puissance et de la perfection qui sont toutes deux annonciatrices du succès, lui dont la gloire est <supplied reason="lost">toujours</supplied> <gap reason="lost" quantity="2" unit="character"/> chantée, le roi Bhīmaratha, qui possède les qualités d'un Mahāratha, héros et tueur d'ennemis. 
                </p>
 <p n="5-6"/>
-               <p n="5" rend="stanza"></p>
+               <p n="5" rend="stanza">
+                   Après lui, il y eut sur terre le roi Dharmaratha le meilleur des héros 
+               </p>
 <p n="6-7"/>
                <p n="6" rend="stanza"></p>
 <p n="7-8"/>
