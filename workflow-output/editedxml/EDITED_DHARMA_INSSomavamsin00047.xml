@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kandavindha Plates of Mahābhavagupta Uddyotakeśarī, Year 3</title>
+            <title>Kāṇḍavindhā Plates of Mahābhavagupta Uddyotakeśarī, Year 3</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -33,7 +33,7 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Berlin</pubPlace>
             <idno type="filename">DHARMA_INSSomavamsin00047</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
@@ -122,6 +122,37 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
+            <pb n="1v"/>
+            <ab><lb n="1"/>siddham<!-- 
+symbol check the plate to see exactly the symbol used 
+--><supplied reason="omitted">.</supplied></ab>
+            <lg n="1" met="śārdūlavikrīḍita">
+       <l n="a">jyotsnā-śāli-samṛddhi-bhūḥ kumudinī-<add place="below">hāsai</add>ka-sampādan<choice><sic>yo</sic><corr>ā</corr></choice></l>
+       <l n="b">dhūrtto dhūrjaṭī<!-- short i in soma 15 --><lb n="2" break="no"/>-maulī<!-- short i in soma 15 -->-saudha-vasatiḥ pīyūṣa-dhārā-gṛhaM<g type="danda">.</g><!-- I don't understand why in note 16 tripathy says this punctuation mark is superfluous --></l>
+       <l n="c">tārāntaḥ-pura-nāyako rati-pa<lb n="3" break="no"/><supplied reason="omitted">teḥ</supplied> śastraikaśā<choice><sic>n</sic><corr>ṇ</corr></choice>opalaḥ</l> 
+       <l n="d">kṣīrodārṇṇava-nandano vijayate devaḥ suddhādīdhi<lb n="4" break="no"/>tiḥ<g type="ddanda">.</g></l>
+   </lg>
+            <lg n="2" met="vasantatilakā">
+      <l n="a">tasyānvaye<!-- Asyānvaye Soma 175 --> mahati sāndra-tamaḥ kalaṅka</l>
+      <l n="b">vicchā<add place="below">ya</add>-dig-valaya-mārjana-kṛ<!-- ūr in soma 15 ; tripathy suggests kuccakasya --><lb n="5" break="no"/>cchakasya<g type="danda">.</g></l> 
+      <l n="c">Utpedire sakala-sad-guṇa-janma-kandāḥ</l> 
+      <l n="d">kundāvadāta-yaśaso<lb n="6"/>jagatī bhujas te<g type="ddanda">.</g></l> 
+      </lg> 
+            <lg n="3" met="śārdūlavikrīḍita">
+         <l n="a">rājābhūj janamejayo ’tha nṛpatir jāto yayātis tata<lb n="7" break="no"/>ḥ</l> 
+         <l n="b">śrīmān bhīmaratho ’bhavat tadanu ca kṣmā-cakra-rakṣā-maniḥ<supplied reason="omitted">.</supplied></l> 
+         <l n="c">Aṣṭāsv eva di<lb n="8" break="no"/>g-a<space unit="character" quantity="3"/>ntareṣu vijaya-stambhāvali-cchadmanā</l>
+         <l n="d">hṛtselyāni<!-- hṛcchalyāni soma 15 --> diśā<!-- diśa soma 15 --><lb n="9" break="no"/>-bhujām api samāropyanta yair vvisphuṭaM<g type="danda">.</g></l>
+         </lg>
+            <lg n="4" met="śārdūlavikrīḍita">      
+            <l n="a">tasmād dharmmaratho manora<lb n="10" break="no"/>tha-phalaṁ śītānśu-vanśa-śriyo<!-- Tripathy suggests reading śītīśuvaṁśaśriyo --></l> 
+            <l n="b">nīstrinśaika-śakhā<!-- Tripathy suggests reading nistriṁśaikasakhā ; nitriṁśaika-<choice><sic>ś</sic><corr>s</corr></choice>akhāin Soma 15 --> śikhā-maṇ<choice><sic>ī</sic><corr>i</corr></choice>r abhū<lb n="11" break="no"/>n niḥśeṣa-bhūmī-bh<choice><sic>ū</sic><corr>u</corr></choice>jāM<g type="danda">.</g></l> 
+            <l n="c">yasmin dig-viyajāvatāriṇi<!-- viyajāvatār<choice><sic>a</sic><corr>i</corr></choice>ṇi soma31 --> pūrā vidveṣi-bhūm<choice><sic>ī</sic><corr>i</corr></choice><lb n="12"/>bh<choice><sic>ū</sic><corr>u</corr></choice>jaḥ</l> 
+            <l n="d">pr<choice><sic>a</sic><corr>ā</corr></choice>tiṣṭhanta dig-antara<supplied reason="omitted">ṁ</supplied> tadanuṁ ca sphītāś camū-reṇavaḥ<g type="ddanda">.</g></l>
+</lg><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/><lb n="18"/>
+               <pb n="2r"/><lb n="19"/><lb n="20"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><lb n="25"/><lb n="26"/><lb n="27"/><lb n="28"/><lb n="29"/><lb n="30"/><lb n="31"/><lb n="32"/><lb n="33"/><lb n="34"/><lb n="35"/><lb n="36"/>
+               <pb n="2v"/><lb n="37"/><lb n="38"/><lb n="39"/><lb n="40"/><lb n="41"/><lb n="42"/><lb n="43"/><lb n="44"/><lb n="45"/><lb n="46"/><lb n="47"/><lb n="48"/><lb n="49"/><lb n="50"/><lb n="51"/><lb n="52"/><lb n="53"/><lb n="54"/><lb n="55"/>
+               <pb n="3r"/><lb n="56"/><lb n="57"/><lb n="58"/><lb n="59"/><lb n="60"/><lb n="61"/><lb n="62"/><lb n="63"/><lb n="64"/><lb n="65"/><lb n="66"/><lb n="67"/><lb n="68"/><lb n="69"/><lb n="70"/><lb n="71"/><lb n="72"/><lb n="73"/><lb n="74"/><lb n="75"/>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -137,12 +168,16 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+            <!-- paleographic remarks from Sharma+Handa2005_01 : "palaeography language style and orthography identical to soma 15 and soma 38" +
+            + as these two plates and that of the Ratnagiri charter (Soma 31) here there is the distinction between the marks of anusvāra and that of the final M "anusvāra is represented by a small dot sometimes not distinct over the top of the letter ; whereas the final m is shown as a circle with a slanting stroke below by the right side of letter resemblling the modern Bengali anusvāra" 
+            According to Sharma+Handa2005_01, this plate is engraved by the same person as Soma 15 38 and 31?  
+            p.290-291 reference to a slab inscription about Raa.naka Prahaasa -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="siglum"><ptr target="bib:Sharma+Handa2005_01"/><citedRange unit="page">288-295</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

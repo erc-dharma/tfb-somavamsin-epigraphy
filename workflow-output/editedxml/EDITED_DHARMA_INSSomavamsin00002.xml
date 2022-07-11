@@ -130,10 +130,10 @@
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
              <pb n="1v"/>
-                <p><handShift new="#Somavamsin00002_hand1"/><!-- 
+                <ab><handShift new="#Somavamsin00002_hand1"/><!-- 
                 amwb see Orissa state museum photo 253.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F253.jpg&mode=grid
                 -->
-    <lb n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied>
+    <lb n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied></ab>
                    <lg n="1" met="āryā">
                    <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam ādhāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied> janayati yaḥ pātu sa śivo vaḥ</l><!-- 
@@ -172,7 +172,8 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
                    <l n="b">virājate sarvva-kalā<lb n="9" break="no"/>śrayo ’sau</l>
                   <l n="c">sphurat-prabhā-maṇḍala-rāja-rājaḥ</l>
                   <l n="d">sampūrṇṇa-candr<choice><sic>ā</sic><corr>o</corr></choice> viyatīva śubhraḥ<g type="ddanda">.</g></l>
-</lg>kṛta-yugā<lb n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
+</lg>
+                <p>kṛta-yugā<lb n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>
      <lb n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-nisvana-bhavanodyāna-kalāpi-kula-sa<lb n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so ’yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati<supplied reason="omitted">.</supplied> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
                    <lg n="8" met="sragdhāra">
