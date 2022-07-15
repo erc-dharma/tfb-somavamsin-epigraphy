@@ -187,7 +187,7 @@
                <lg n="11" met="śārdūlavikrīḍita">
                   <l n="a"><lb n="12"/><milestone unit="fragment" n="a"/>tan-mātā dinakṛt-kulasya duhitā kolāvatī nāmato</l>
                   <l n="b"><gap reason="lost" unit="character" quantity="2" precision="low"/><supplied reason="lost">yāsau</supplied><milestone unit="fragment" n="b"/> śītakarānvayasya mahīṣī durgeva la<unclear cert="low">kṣmī</unclear>r iva<g type="danda">.</g></l> 
-                  <l n="c">yasyāḥ kīrttina mūrddhasu dhvaja-trayo vātyābhir ūrddhvaṅ gato</l> 
+                  <l n="c">yasyāḥ kīrtt<sic>i</sic>na mūrddhasu dhvaja-trayo vātyābhir ūrddhvaṅ gato</l> 
                   <l n="d">hastābhaḥ śaśi-lakṣma loptum iva<lb n="13"/><milestone unit="fragment" n="a"/><sic>khe</sic> sotsāham udgacchati<g type="ddanda">.</g></l>
                </lg> 
                <lg n="12" met="sragdharā">
@@ -312,6 +312,11 @@
                      <rdg source="bib:Shastri1995_02">d<choice><sic>ū</sic><corr>u</corr></choice>rgeva</rdg>
                   </app>
                   <app loc="12">
+                     <lem>kīrtt<sic>i</sic>na</lem>
+                     <rdg source="bib:Rajaguru1966_01 bib:Shastri1995_02">kīrttina</rdg>
+                     <note>Due to metrical reason, I don’t introduce correction within the text but I suggest undestanding <foreign>kīrttanaṁ</foreign>.</note>
+                  </app>
+                  <app loc="12">
                      <lem source="bib:Shastri1995_02">mūrddhasu</lem>
                      <rdg source="bib:Rajaguru1966_01">mūrddhavasu</rdg>
                      <note><bibl><ptr target="bib:Rajaguru1966_01"/></bibl>’s reading is unmetrical.</note>
@@ -416,20 +421,36 @@
                   The latter defeated in battle, as if it were child’s play, the whole of his enemies - Ḍāhala, Coḍra and Gauḍa - during confrontations between soldiers wearing armors and troops of two-tusked elephants, victorious, he made all the new kings bow down, conquered the earth, the surface of which assailed by this burden bowed due to the advance of the heavy footsteps of his proud and complete army <supplied reason="explanation"><foreign>akṣauhiṇī</foreign></supplied>. 
                </p>
 <p n="12-13"/>
-               <p n="11" rend="stanza"/>
+               <p n="11" rend="stanza">
+                  Her mother was a daughter of the solar lineage, named Kolāvatī, the principal queen <foreign>mahīṣī</foreign> of the descendant of the moon lineage,  like Durgā and  Lakṣmī; her glory, like a threefold flag erected by the winds high above our heads, vigorously rises with noise like a hand wishing to erase the moon’s mark.
+               </p>
 <p n="13-14"/>
-               <p n="12" rend="stanza"/>
+               <p n="12" rend="stanza">
+                  This temple of the glorious Brahmeśvara, he who removes the faults of those who honour him and offers liberation to those who touch him, this temple whose pinnacle touches the clouds, similar to Sthāṇu whose prayers are like a boat crossing a stream, provided with four pleasant dwellings for the gods, is a king by his fame like a crown over the head of the earth, it was erected by Kolāvatī. 
+               </p>
 <p n="14-15"/>
-               <p n="13" rend="stanza"/>
+               <p n="13" rend="stanza">
+                  Its base is formed by the mountain Lokāloka and the seven oceans with their islands and lands, its liṅga such as Mount Meru stretches at its centre higher than Mount Himālaya, that lord of the three worlds bathed by the waters of the Ganges, he whom Brahmā in person honours day and night, that blessed one is Lord Brahmeśvara.
+               </p>
 <p n="15-16"/>
-               <p n="14" rend="stanza"/>
+               <p n="14" rend="stanza">
+                 Its radiance, spreading all around like a radiant light made of multiple rays of light, is produced by the golden pinnacle illuminating its summit; its palace, like the light of a multitude of rising dawns in the sky, rises very high like a moutain peak adorning the whole sky. 
+               </p>
 <p n="16-17"/>
-               <p n="15" rend="stanza"/>
+               <p n="15" rend="stanza">
+                  To the god have been offered young girls, resplendent with all their beautiful jewelled limbs, girls who, though motionless, flicker like a dancing light because of the curves of their breasts and hips, these women who placed in the sight of men are in their eyes beautiful as young virgins, they whose walk is like that of a cloud of agitated lotuses. 
+               </p>
 <p n="17-18"/>
-               <p n="16" rend="stanza"/>
+               <p n="16" rend="stanza">
+                  The Lord Bhaṭṭa Puruṣottama, the best of all poets, he whose lineage is pure, whose teaching and understanding are true and perspicuous like those of Brahmā, he who is well-versed in the Vedas, grammar, political science, poetry, and logic, has composed this poem which extends the immaculate glory of the lineage of those born in the family of the lord of stars. 
+               </p>
 <p n="19"/>
-               <p n="17" rend="stanza"/>
-<p n="20"/>
+               <p n="17" rend="stanza">
+                  As long as the earth with its mountains, forests and oceans, as long as three regions with the sun and the moon as their eyes, as long as the  pole-star in the firmament shall endure, so long may this eulogy always be like a nectar in everyone’s mouth.
+               </p>
+<p n="20">
+   This was engraved in the realm of the supreme Maheśvara, Mahārājādhirāja of the lunar dynasty, lord of the Trikaliṅga, His majesty Uddyotakeśarin, Rājadeva, in the year 18 on the third day of the clear fortnight of the month Phālguna by the artisan-engraver Rāya.
+</p>
             </div>
             <div type="textpart" n="B"><head xml:lang="eng">French translation draft</head>
                <p n="1-2"/>
@@ -474,20 +495,32 @@
                   Ce dernier, après avoir vaincu en combat comme s’il s’agissait d’un jeu d’enfant, le Ḍāhala ennemi tout entier et l’ensemble du Coḍra et du Gauḍa, durant une bataille opposant des combattants équipés et des troupes d’éléphants à deux défenses, triomphant et faisant s’incliner toutes les têtes nouvelles des rois, conquit la terre dont la surface assaillie par ce fardeau s’inclinait au passage des pas lourds de son orgueilleuse et complète armée <supplied reason="explanation"><foreign>akṣauhiṇī</foreign></supplied>. 
                </p>
 <p n="12-13"/>
-               <p n="11" rend="stanza"> </p>
+               <p n="11" rend="stanza">
+                  Sa mère, fille de la lignée solaire, nommée Kolāvatī, elle qui était comme Durgā la <foreign>mahīṣī</foreign> <supplied reason="explanation">reine principale</supplied> du descendant de la lignée de la lune, était semblable à Lakṣmī, elle dont la gloire, tel un triple drapeau dressé bien au-dessus de nos têtes <supplied reason="subaudible">flottant</supplied> grâce aux vents, s’élève vigoureusement <supplied reason="subaudible">avec bruit</supplied> comme une main voulant effacer la marque de la lune.</p>
 <p n="13-14"/>
-               <p n="12" rend="stanza"/>
+               <p n="12" rend="stanza">
+                  C’est par Kolāvatī que fut érigé ce temple, temple du glorieux Brahmeśvara, lui qui ôte les fautes de ceux qui l’honorent et qui offre la libération à ceux qui le touchent, lui dont le faîte touche les nuages, semblable à Sthāṇu dont les prières sont comme un bateau faisant traverser un cours d’eau, pourvu de quatre agréables demeures pour les dieux, roi par sa renommée il est comme une tiare posée sur la terre. 
+             </p>
 <p n="14-15"/>
-               <p n="13" rend="stanza"/>
+               <p n="13" rend="stanza">
+                  Celui dont la base est formée de la montagne Lokāloka et des sept océans avec leurs îles et leurs terres, celui dont le liṅga tel le mont Meru s’étend en son centre plus haut que le mont Himālaya, baigné par les eaux du Gange, ce seigneur des trois mondes que Brahmā en personne honore jour et nuit, ce bienheureux est le seigneur Brahmeśvara.
+               </p>
 <p n="15-16"/>
-               <p n="14" rend="stanza"/>
+               <p n="14" rend="stanza">
+                  Son éclat se diffusant tout alentour telle une lumière irradiante faite de multiples rayons de lumière est produit par le pinacle d’or illuminant son sommet; son palais telle la lumière d’une multitude d’aurores naissantes dans le ciel s’élève très haut comme le sommet d’une montagne décorant le ciel tout entier. 
+               </p>
 <p n="16-17"/>
-               <p n="15" rend="stanza"/>
+               <p n="15" rend="stanza">
+                  Au dieu ont été offertes des jeunes filles, resplendissantes par tous leurs magnifiques membres décorés de joyaux, elles qui, bien qu’immobiles, vacillent telle une lumière dansante en raison de la rondeur de leurs seins et de leurs hanches, ces femmes qui placées à la vue des hommes sont à leurs yeux belles comme de jeunes vierges, elles dont la démarche est semblable à celle d’une nuée de lotus agités.
+               </p>
 <p n="17-18"/>
-               <p n="16" rend="stanza"/>
+               <p n="16" rend="stanza">
+                  Sa majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Bhaṭṭa Puruṣottama, le meilleur d’entre tous les poètes, lui dont la lignée est pure, dont l’enseignement et la compréhension sont justes et pertinents tels ceux de Brahmā, lui qui est versé dans la connaissance des Veda, de la grammaire, des sciences politiques, de la poésie et de la logique, a composé ce poème qui étend la gloire immaculée de la lignée de ceux qui sont nés dans la famille du seigneur des étoiles. 
+               </p>
 <p n="19"/>
-               <p n="17" rend="stanza"/>
-<p n="20"/>
+               <p n="17" rend="stanza">
+                  Puisse cet éloge demeurer aussi longtemps que la terre avec ses montagnes, ses forêts et ses océans demeurera, aussi lontemps que trois régions auront pour yeux le soleil et la lune, aussi longtemps que l’étoile polaire restera fixée au-dessus du monde entier, que celui-ci soit toujours comme un nectar dans la bouche de tout à chacun.                </p>
+<p n="20"><supplied reason="subaudible">Ceci a été</supplied> gravé dans le royaume du suprême Maheśvara, Mahārājādhirāja de la dynastie lunaire, seigneur du Trikaliṅga, Sa majesté Uddyotakeśarin, Rājadeva, en l’an 18 au troisième jour de la quinzaine claire du mois Phālguna par l’artisan-graveur Rāya. </p>
             </div>
  	<!--translation encoded as per EGD §9.2 -->
             <!-- amwb : translation of line 18-21 = verse 7 by Pandit B. Misra quoted by Rajaguru p. 385  -->
