@@ -291,20 +291,20 @@ amwb : Sircar 71
    <l n="b">mantreṇa cira-praṇāma<lb n="70" break="no"/>-rahita-kṣoṇībhujo bhog<choice><sic>ī</sic><corr>i</corr></choice>na<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied></l> 
    <l n="c">yad-dor-daṇḍa-bhavapratāpaśi<choice><sic>kṣī</sic><corr>khi</corr></choice>no n<choice><sic>ī</sic><corr>i</corr></choice>striṁ<choice><sic>s</sic><corr>ś</corr></choice>a
             <pb n="3v"/>
-<lb n="71"/><seg met="+--="><gap reason="lost" unit="character" quantity="4"/></seg></l>
-<l n="d"><seg met="+++--+-+---+++-++-="><gap reason="lost" unit="character" quantity="19"/></seg></l>
+<lb n="71"/><seg met="+--="><gap reason="lost" unit="character" quantity="4"/></seg></l><!-- dhūmacchaṭā in soma47 -->
+<l n="d"><seg met="+++--+-+---+++-++-="><gap reason="lost" unit="character" quantity="19"/></seg></l><!-- dūra-sthāyi cakāra vairiyuvatīnetreṣu vāṣpodgamaM soma47 -->
 </lg>
                <lg n="25" met="anuṣṭubh">
                   <l n="a">U<lb n="72" break="no"/>tkale ko<choice><sic>ṣ</sic><corr>s</corr></choice>ale deśe</l>
-                   <l n="b">sa mahāsandhivigrahī<g type="danda">.</g></l>
-                   <l n="c">Aśvāṅgaṇagaṇādhāro</l>
+                   <l n="b">sa mahāsandhivigrahī<g type="danda">.</g></l><!-- mahāsandhivigrahī<supplied reason="omitted">ḥ</supplied> in soma47 -->
+                   <l n="c">Aśvāṅgaṇagaṇādhāro</l><!-- Ā<choice><sic>ś</sic><corr>s</corr></choice>id guṇagaṇādhāro in soma47 -->
                   <l n="d">rudrada<lb n="73" break="no"/>tta Iti śrutaḥ<g type="ddanda">.</g></l>
                </lg>
                <lg n="26" met="anuṣṭubh">
                   <l n="a">mahākṣapaṭalādhyakṣa<supplied reason="omitted">ḥ</supplied></l>
                   <l n="b">śrī-mahaddakṣaḥ satā<supplied reason="omitted">ṁ</supplied>mataḥ<g type="danda">.</g></l>
                   <l n="c">Alī<lb n="74" break="no"/>l<choice><sic>ī</sic><corr>i</corr></choice>khadida<supplied reason="omitted">ṁ</supplied> tām<surplus>v</surplus>ra</l>
-                  <l n="d">śasana<supplied reason="omitted">ṁ</supplied> śatru<choice><sic>s</sic><corr>ś</corr></choice>āsana<choice><sic>ḥ</sic><corr>M</corr></choice><g type="ddanda">.</g></l>
+                  <l n="d" enjamb="yes">-śāsana<supplied reason="omitted">ṁ</supplied> śatru<choice><sic>s</sic><corr>ś</corr></choice>āsana<choice><sic>ḥ</sic><corr>M</corr></choice><g type="ddanda">.</g></l>
                </lg>
                <p>
                mahārājādhirāja-para<lb n="75" break="no"/>meśvara-śrīmad-uddyotakesari-rāja-devasya pravarddhamāna-vijaya<lb n="76" break="no"/>rājye caturthe samva<supplied reason="omitted">tsa</supplied>re mārgga <abbr>vadi</abbr> daśamyāṁ<g type="danda">.</g> yatrāṅke samvat<surplus>a</surplus> <num value="4">4</num><lb n="77"/>mārgga <abbr>vadi</abbr> <num value="10">10</num> suvarṇṇa-vithi-vijñāni vāheru maṅgākābhyāṁ Utkī<supplied reason="omitted">rṇṇa</supplied><lb n="78" break="no"/>m idaṁ<g type="ddanda">.</g>

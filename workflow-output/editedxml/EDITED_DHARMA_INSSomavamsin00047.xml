@@ -226,7 +226,91 @@ I read jihavā in Tripathy's edtion but maybe it is just a problem of tied lette
     amwb : Sircar 5 with inversion of the pādas c and d  
     -->
 </lg>
-               <pb n="3r"/><lb n="56"/><lb n="57"/><lb n="58"/><lb n="59"/><lb n="60"/><lb n="61"/><lb n="62"/><lb n="63"/><lb n="64"/><lb n="65"/><lb n="66"/><lb n="67"/><lb n="68"/><lb n="69"/><lb n="70"/><lb n="71"/><lb n="72"/><lb n="73"/><lb n="74"/><lb n="75"/>
+               <pb n="3r"/><lb n="56"/><lg n="16" met="anuṣṭubh">
+                   <l n="a">Āsphoṭayanti pitaro</l>
+                   <l n="b">valgayanti pitāmahāḥ<supplied reason="omitted">.</supplied></l><!-- mention the reading pitaro valgayanti instead of pitaraḥ pravalganti -->
+                   <l n="c">bhūmi-dātā kule jātaḥ</l>
+                   <l n="d">sa<lb n="57"/>na<choice><sic>ḥ</sic><corr>s</corr></choice> trātā bhavi<choice><sic>s</sic><corr>ṣ</corr></choice>yati<g type="danda">.</g></l><!-- 
+                    amwb : Sircar 20
+                    -->
+</lg>
+            <lg n="17" met="anuṣṭubh">
+                   <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigṛhṇāti</l>
+                   <l n="b">yaś ca bhūmi<choice><sic>ḥ</sic><corr>ṁ</corr></choice> prayacchati<g type="danda">.</g></l>
+                   <l n="c">Ubhau<lb n="58"/>tau puṇya-karmmāṇau</l>
+                   <l n="d">niyata<supplied reason="omitted">ṁ</supplied> svargga-gāminau<g type="ddanda">.</g></l><!-- 
+amwb : Sircar 29 
+-->
+</lg>
+            <lg n="18" met="anuṣṭubh">
+                  <l n="a">taḍāgānāṁ sahasreṇa</l>
+                  <l n="b">vāja-pe<lb n="59" break="no"/>ya-śatena ca<supplied reason="omitted">.</supplied></l>
+                  <l n="c">gavā<supplied reason="omitted">ṁ</supplied> <unclear>ko</unclear>ṭi-pradānena</l>
+                 <l n="d">bhūmi-harttā na śudhyati<g type="ddanda">.</g></l><!-- 
+    amwb : Sircar 137 
+    -->
+</lg>
+            <lg n="19" met="anuṣṭubh">
+               <l n="a">harate hāray<choice><sic>eta</sic><corr>ed</corr></choice><lb n="60"/>yas tu</l>
+               <l n="b">manda-vuddhi<supplied reason="omitted">s</supplied> tamo-vṛtaḥ<supplied reason="omitted">.</supplied></l>
+               <l n="c">sa vaddho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
+               <l n="d">pā<sic>sai</sic><corr>śais</corr> tirya<choice><sic>k</sic><corr>g</corr></choice>-yon<choice><sic>iṣu</sic><corr>iṁ</corr></choice> sa gacchati<g type="danda">.</g></l><!-- 
+    amwb : Sircar 64
+    -yoniṁ ca  is the reading in Sircar Bhumi stanzas  
+    -->
+</lg>
+            <lg n="20" met="anuṣṭubh">
+               <l n="a">su<lb n="61" break="no"/>varṇṇam eka<supplied reason="omitted">ṁ</supplied> gām ekā<supplied reason="omitted">ṁ</supplied></l><!-- here I don't introduce correction and retain suvarṇṇam instead of svarṇṇam + vā-->
+               <l n="b">bhūmer apy arddham aṅgula<supplied reason="omitted">M</supplied><supplied reason="omitted">.</supplied></l>
+               <l n="c">hara<supplied reason="omitted">n</supplied> narakam <choice><sic>a</sic><corr>ā</corr></choice>yāti</l><!-- āpnoti in SOma31 and āyāti in SIrcar -->
+               <l n="d">yāvad āhūta<!-- ābhūta sircar -->-sa<supplied reason="omitted">m</supplied>pla<lb n="62"/>vaM<g type="danda">.</g></l><!-- 
+   amwb Sircar 55 
+   -->
+</lg>
+            <lg n="21" met="anuṣṭubh">
+               <l n="a">sva-dattā<supplied reason="omitted">m</supplied> para-dattām vā</l>
+               <l n="b">yo ha<choice><sic>red va</sic><corr>reta va</corr></choice>sundharā<supplied reason="omitted">M</supplied><supplied reason="omitted">.</supplied></l>
+               <l n="c">sa viṣṭhāyāṁ kṛmi<supplied reason="omitted">r</supplied> bhūtvā</l>
+               <l n="d">pitṛbhiḥ<lb n="63"/>saha <choice><sic>ṣ</sic><corr>p</corr></choice>acyate<g type="ddanda">.</g></l><!-- 
+    amwb : Sircar 132 
+    -->
+</lg>
+            <lg n="22" met="śālinī">
+               <l n="a">sāmānyo ’yaṁ dharmma-setu<choice><sic>ḥ</sic><corr>r</corr></choice> <supplied reason="omitted">nṛpāṇāṁ</supplied></l>
+               <l n="b">kāle kāle pālanīyo bhavadbhiḥ<supplied reason="omitted">.</supplied></l>
+               <l n="c">sarvv<choice><sic>a</sic><corr>ā</corr></choice><lb n="64" break="no"/>nn etān bhāvinaḥ pārthivendrāN</l><!-- amwb here as in Soma3-4 and 13 but in Soma1-2 bhūpatīndrāN -->
+               <l n="d">bhūyo bhūyo yācate rāmabhadraḥ<supplied reason="omitted">.</supplied></l><!-- 
+    amwb : Sircar 117 
+    rāmabhadraḥ as in soma13 but in soma1-2-3-4 rāmacandraḥ Caution Shastri has rāmabhadraḥ but Rajaguru has rāmacandraḥ
+    -->
+</lg>
+            <lg n="23" met="puṣpitāgrā">
+               <l n="a">Iti kamala-da<lb n="65" break="no"/>lāmvu-vindu-lolāṁ</l>
+               <l n="b">śriyam anucintya manuṣya-jīvitañ ca<g type="danda">.</g></l>
+               <l n="c">sa-kalam ida<lb n="66" break="no"/>m udā<choice><sic>dda</sic><corr>hṛ</corr></choice>tañ<!-- I add the correction not present in tripathy --> ca vu<choice><sic>ddhā</sic><corr>ddhvā</corr></choice></l>
+               <l n="d">na hi puru<choice><sic>s</sic><corr>ṣ</corr></choice>aiḥ para-kīrttayo vilopyāḥ<g type="danda">.</g></l><!-- 
+amwb : Sircar 71
+-->
+</lg>
+            <lg n="24" met="śārdūlavikrīḍita">
+               <l n="a">yat-kīrttir bhu<lb n="67" break="no"/>vana-t<supplied reason="omitted">r</supplied>ayasya kuhare sa<choice><sic>s</sic><corr>ś</corr></choice>vattanī pūrṇ<supplied reason="omitted">ṇ</supplied><surplus>mā</surplus>yan</l>
+               <l n="b">mantr<choice><sic>i</sic><corr>e</corr></choice>ṇa cira-praṇ<choice><sic>a</sic><corr>ā</corr></choice>ma-rahita<!-- Tripathy suggests rahitāḥ as in Sankhameri plate SOMA38 edited by shastri  --><lb n="68" break="no"/>-kṣoṇībh<choice><sic>ū</sic><corr>u</corr></choice>jo bhoginaḥ<g type="danda">.</g></l> 
+               <l n="c">yad-dor-daṇḍa-bhuvaḥ<!-- bhava in Soma15 --> pratāpaśikhino n<choice><sic>ī</sic><corr>i</corr></choice>stri<choice><sic>ns</sic><corr>ṁś</corr></choice>a dhūmaccha<lb n="69" break="no"/>ṭā</l>
+               <l n="d">dūra-sthāyi cakāra vairiyuvatīnetreṣu vāṣpodgamaM<g type="ddanda">.</g></l>
+</lg>
+            <lg n="25" met="anuṣṭubh">
+                  <l n="a">Utkale ko<choice><sic>ś</sic><corr>s</corr></choice>ale de<lb n="70" break="no"/>śe</l>
+                   <l n="b">sa mahāsandhivigrahī<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied></l>
+                   <l n="c">Ā<choice><sic>ś</sic><corr>s</corr></choice>id guṇagaṇādhāro</l><!--  aśvāṅgaṇagaṇādhāro in soma15 -->
+                  <l n="d">bhadradatta<!-- rudradatta in soma15 --> Iti śrutaḥ<g type="ddanda">.</g></l>
+               </lg><lb n="71"/><lg n="26" met="anuṣṭubh">
+                  <l n="a">mahākṣapaṭalādhyakṣaḥ</l>
+                  <l n="b">śrī-prahāsaḥ prabhuḥ sutaḥ<!-- mahaddakṣaḥ satā<supplied reason="omitted">ṁ</supplied>mataḥ in soma15 --><g type="ddanda">.</g></l>
+                  <l n="c">Alīlikhadidaṁ tāmra</l>
+                  <l n="d" enjamb="yes">-<choice><sic>s</sic><corr>ś</corr></choice>ā<lb n="72" break="no"/>sanaṁ <supplied reason="omitted">śatruśāsanaM</supplied><supplied reason="omitted">.</supplied></l>
+               </lg> 
+            <p>
+               mahārā<supplied reason="omitted">jā</supplied>dhirāja-parame<choice><sic>s</sic><corr>ś</corr></choice>vara-soma-kula-t<choice><sic>ī</sic><corr>i</corr></choice>laka-trikaliṅgādhipati-śrīma<supplied reason="omitted">d-u</supplied>dyota-ke<choice><sic>ś</sic><corr>s</corr></choice>ari<lb n="73" break="no"/>-rāja-devasya prava<supplied reason="omitted">r</supplied>ddhamāna vijaya-rājye tṛtīye samvatsare kārttika-māsi<surplus><g type="danda">.</g></surplus> śuklapakṣe<g type="ddanda">.</g><lb n="74"/>tithau daśamyāṁ<g type="ddanda">.</g> aṅke samvaT <num value="3">3</num> kārttika <abbr>śudi</abbr> <num value="10">10</num><supplied reason="omitted">.</supplied> vijñāni vāharu-māgokābhyām iti<g type="ddanda">.</g><lb n="75"/><choice><sic>śa</sic><corr>śrī</corr></choice></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -235,9 +319,9 @@ I read jihavā in Tripathy's edtion but maybe it is just a problem of tied lette
                      <lem><abbr>saṁ</abbr></lem>
                      <note>As indicated by <bibl><ptr target="bib:Sharma+Handa2005_01"/></bibl>, here <foreign>sa</foreign> is the contraction for <foreign>saṁbaddha</foreign>.</note>
                   </app>
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="60"><!-- update the value of @loc.-->
+                     <lem>°vuddhi<supplied reason="omitted">s</supplied> tamo°</lem>
+                     <rdg source="bib:Sharma+Handa2005_01">°vuddhi<supplied reason="omitted">ḥ</supplied> tamo°</rdg>
                   </app>
                </listApp>
          </div>
