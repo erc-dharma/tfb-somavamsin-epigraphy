@@ -317,11 +317,11 @@ amwb : Sircar 71
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="32">
                      <lem><abbr>saṁ</abbr></lem>
-                     <note>As indicated by <bibl><ptr target="bib:Sharma+Handa2005_01"/></bibl>, here <foreign>sa</foreign> is the contraction for <foreign>saṁbaddha</foreign>.</note>
+                     <note>As indicated by <bibl><ptr target="bib:Tripathy2005_01"/></bibl>, here <foreign>sa</foreign> is the contraction for <foreign>saṁbaddha</foreign>.</note>
                   </app>
                   <app loc="60"><!-- update the value of @loc.-->
                      <lem>°vuddhi<supplied reason="omitted">s</supplied> tamo°</lem>
-                     <rdg source="bib:Sharma+Handa2005_01">°vuddhi<supplied reason="omitted">ḥ</supplied> tamo°</rdg>
+                     <rdg source="bib:Tripathy2005_01">°vuddhi<supplied reason="omitted">ḥ</supplied> tamo°</rdg>
                   </app>
                </listApp>
          </div>
@@ -330,16 +330,16 @@ amwb : Sircar 71
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-            <!-- paleographic remarks from Sharma+Handa2005_01 : "palaeography language style and orthography identical to soma 15 and soma 38" +
+            <!-- paleographic remarks from Tripathy2005_01: "palaeography language style and orthography identical to soma 15 and soma 38" +
             + as these two plates and that of the Ratnagiri charter (Soma 31) here there is the distinction between the marks of anusvāra and that of the final M "anusvāra is represented by a small dot sometimes not distinct over the top of the letter ; whereas the final m is shown as a circle with a slanting stroke below by the right side of letter resemblling the modern Bengali anusvāra" 
-            According to Sharma+Handa2005_01, this plate is engraved by the same person as Soma 15 38 and 31?  
+            According to Tripathy2005_01, this plate is engraved by the same person as Soma 15 38 and 31?  
             p.290-291 reference to a slab inscription about Raa.naka Prahaasa -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="siglum"><ptr target="bib:Sharma+Handa2005_01"/><citedRange unit="page">288-295</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="T"><ptr target="bib:Tripathy2005_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
