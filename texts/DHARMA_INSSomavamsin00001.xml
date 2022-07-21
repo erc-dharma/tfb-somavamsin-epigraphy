@@ -92,7 +92,7 @@
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
              <ab>
-                 <lb n="1"/>śrī janamejayadeva <supplied reason="lost">rājasya</supplied>
+                 <lb n="1"/><roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-deva-<supplied reason="lost">-rājasya</supplied>
              </ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
@@ -102,7 +102,7 @@
 n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
 n="2" break="no"/>mabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivaguptadeva</persName></rs>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>paramamāheśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
-n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb
+n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
 n="5"/><placeName type="region" subtype="district">lupattarā</placeName>-khaṇḍīya-<placeName type="settlement" subtype="village">vakratentalī</placeName>-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
 n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
@@ -144,7 +144,7 @@ n="21"/>pārthivāḥ</l>
     -->
 </lg>
 <lg n="3" met="anuṣṭubh">
-    <l n="a">ṣaṣṭhiṁ varṣasahasrāṇi</l>
+    <l n="a">ṣaṣṭhiṁ varṣa-sahasrāṇi</l>
     <l n="b"><lb
 n="22"/>svarge modati bhūmidaḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
@@ -446,8 +446,8 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
               <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
                <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">941</citedRange></bibl>
                <bibl><ptr target="bib:Desai+Shastri2008_01"/><citedRange unit="book">iii</citedRange><citedRange unit="page">153-154</citedRange></bibl>
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">456-457</citedRange></bibl>
+               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
            </listBibl>
         </div>
       </body>

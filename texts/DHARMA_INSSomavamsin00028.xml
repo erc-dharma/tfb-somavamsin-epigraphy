@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mahakosala Historical Society's Plates of Mahābhavagupta IV, Uddyotakesarin, Year 11</title>
+            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+            <!-- Add your name in the respStmt matching your involvement -->
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <!-- Work done in the file, e.g. editor ...-->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <!-- This may be the same as the creator of the file -->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">DHARMA_INSSomavamsin00028</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                     Licence. To view a copy of the licence, visit
+                     https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                     Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                     California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Amandine
+                     Wattelier-Bricout.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/><!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+            <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
+               <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
+         </listPrefixDef>
+         <tagsDecl partial="true">
+            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
+            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:amwb" when="2022-07-19">Creation of the file</change>
+         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+      </revisionDesc>
+   </teiHeader>
+   <!-- Part to be used only, if you want to declare and link some photos with your encoding -->
+   <facsimile>
+      <graphic url="filename.jpg" xml:id="photo1"/>
+      <!-- graphic should take at least an attribute @url containing either the https where the photo is stored or the filename of the file itself. An @xml:id can be declared if you want to link part of your encoding with a facsimile using the attribute @facs. -->
+      <!-- If you want to provide a description, use the following pattern 
+      <graphic url="filename.jpg" xml:id="photo1">
+      <desc>Some description</desc>
+      </graphic>-->
+   </facsimile>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+            <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+             <ab><lb n="1"/><roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01002">mahābhavagupta</persName>
+                 <lb n="2" break="no"/>-<roleName>rāja-devasya</roleName>
+             </ab>
+             </div>
+            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+            <pb n="1v"/>
+            <p>
+            <lb 
+n="1"/>Oṁ<!-- express with a symbol looking like 3 according to Shastri For the moment I have encoded the text edited by rajaguru and I have to compare with Shastri's edition--> nama<supplied reason="omitted">ḥ</supplied> śivāya<g type="ddanda">.</g> svasti<supplied reason="omitted">.</supplied> kisarakellā-samāvāsita mahā-vijaya<lb 
+n="2" break="no"/>-kaṭakāt parama-māheśvara-mātā-pitṛ-pādānudhyāta-mahārājādhirā<lb 
+n="3" break="no"/>ja-parameśvara-parama-bhaṭṭāraka-somakula-tilaka-trikaliṅgādhipa<lb 
+n="4" break="no"/>ti śrī-mahābhavagupta-rāja-devaḥ kuśalī<g type="ddanda">.</g> pṛthur ābhuktyanta<supplied reason="omitted">ḥ</supplied> pā<lb 
+n="5" break="no"/>tiliñjira-grāme brāhmaṇāN saṁpūjya tat-pratinivāsikuṭumbhinaḥ samā<lb 
+n="6" break="no"/>hartṛ-sannidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-cāṭa-bhaṭa-rājavalabhādi<choice><sic>t sa</sic><corr>n sa</corr></choice>rvvā<supplied reason="omitted">N</supplied> samā<lb 
+n="7" break="no"/>jñāpayati viditam astu bhavatāṁ yathasmābhis sanidhiḥ sopanidhi<supplied reason="omitted">ḥ</supplied><lb 
+n="8"/>sadaśāparādho niṣaddha-cāṭa-bhaṭa-praveśaḥ sarvvopari<supplied reason="omitted">ka</supplied><lb 
+n="9" break="no"/><supplied reason="omitted">ri</supplied>-karakarādāna-sameta<supplied reason="omitted">ḥ</supplied> sarvvapoḍāparivarjjitaḥ kapi
+                <pb n="2r"/>
+               <lb 
+n="10" break="no"/>ṣṭhallagotrāya Ek<choice><sic>ā</sic><corr>a</corr></choice>rṣ<choice><sic>e</sic><corr>i</corr></choice>vaśiṣṭha-pravarāya maitrāy<choice><sic>i</sic><corr>a</corr></choice>ṇīśā<lb 
+n="11" break="no"/>khādhyāyine madhya-deśa-madhuravinirggat<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ya</supplied> Ullakheṭavāsta<lb 
+n="12" break="no"/>vya-bhaṭṭa-brāhmaṇāya cakradhara-sutāya siṁ<surplus>g</surplus>ha-saṅkrāntau mātā<lb 
+n="13" break="no"/>pitror ātmanaś<!-- rajaguru atmataśca --> ca puṇyābhivṛddhaye salila<surplus>d</surplus>dhārāpuraḥsa<lb 
+n="14" break="no"/>reṇacandratārakāka-kṣiti-talasamakāl<choice><sic>o</sic><corr>a</corr></choice><supplied reason="omitted">m u</supplied>pabhoktu<choice><sic>ntāmba</sic><corr>ṁ tāmra</corr></choice><lb 
+n="15"/>śāsanenākarīkṛtya pratipādityo 'yam ity avagatya sa<lb 
+n="16" break="no"/>mucita-bhogakarahiraṇyā<supplied reason="omitted">di</supplied>kam upanayadbhir bhavadbhiḥ
+                <pb n="2v"/>
+               <lb 
+n="17"/>sukhena prativastvayam iti<g type="ddanda">.</g> bhavibhiś ca bhūpati<surplus>r</surplus>bhir ddharmma-gau<lb 
+n="18" break="no"/>ravād asm<choice><sic>ā</sic><corr>a</corr></choice>d-anurodhā<choice><sic>sva</sic><corr>c ca</corr></choice> svadattir ivānupālanīyā tathā caiva<lb 
+n="19" break="no"/>m paṭhyate dharmmaśāstre<g type="ddanda">.</g></p>
+               <lg n="1" met="anuṣṭubh">
+                  <l n="a">vahubhir vvasudhā dattā</l>
+                  <l n="b">rājabhiḥ saga<lb 
+n="20" break="no"/>rādibhir</l>
+                  <l n="c">yasya yasya yadā bhūmis</l>
+                  <l n="d">tasya tasya tadā pha<lb 
+n="21" break="no"/>laṁ<supplied reason="omitted">.</supplied></l><!-- 
+    amwb: Sircar 23
+    -->
+</lg>
+            <lg n="2" met="anuṣṭubh">
+               <l n="a">mā bhū<surplus>ḥ</surplus>d a-phala-śaṅkā vaḥ</l>
+               <l n="b">para-dat<supplied reason="omitted">t</supplied>eti pā<supplied reason="omitted">r</supplied>thiv<sic>a</sic><corr>āḥ</corr><g type="danda">.</g></l>
+               <l n="c">sva-dā<lb 
+n="22"/>nāt phalam ānantyaṁ</l>
+               <l n="d">para-dattānupālane<supplied reason="omitted">.</supplied></l><!--
+    amwb : Sircar 85
+    -->
+</lg>
+            <lg n="3" met="anuṣṭubh">
+               <l n="a">bhūmiṁ yaḥ<lb 
+n="23"/>pratigṛhṇāti</l>
+               <l n="b">yaś ca bhūm<choice><sic>ī</sic><corr>i</corr></choice>m prayacchat<choice><sic>ī</sic><corr>i</corr></choice></l>
+               <l n="c">Ubhau tau
+                  <pb n="3r"/>
+                  <lb 
+n="24"/>puṇya-karmmāṇau</l>
+               <l n="d">n<choice><sic>ī</sic><corr>i</corr></choice>yat<choice><sic>au</sic><corr>aṁ</corr></choice> svarga-gām<choice><sic>ī</sic><corr>i</corr></choice>nau<g type="ddanda">.</g></l><!-- 
+amwb : Sircar 29 
+-->
+</lg>
+            <lg n="4" met="anuṣṭubh">
+               <l n="a">ṣaṣṭhiṁ varṣa<lb 
+n="25" break="no"/>-sahasrāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
+               <l n="b">svargge modati bhūm<choice><sic>ī</sic><corr>i</corr></choice>daḥ</l>
+               <l n="c">Ācchet<surplus>v</surplus>ā cānuma<lb 
+n="26" break="no"/>ntā ca</l><!-- for the first time Ācchetā instead of Ākṣeptā -->
+               <l n="d">tā<choice><sic>veva</sic><corr>ny eva</corr></choice> narake vaset<g type="ddanda">.</g></l><!-- 
+    amwb : Sircar 123
+    -->
+</lg>
+            <lg n="5" met="anuṣṭubh">
+               <l n="a">suvarṇṇam ekāṁ gām ekāṁ</l>
+               <l n="b">bhūmer apy a<lb 
+n="27"/>rddham aṅgula<choice><sic>N</sic><corr>ṁ</corr></choice></l>
+               <l n="c">haran <supplied reason="omitted">n</supplied>arakam āyāti</l><!-- āyāti instead of āpnoti -->
+               <l n="d">yāvad ā<supplied reason="omitted">b</supplied>hūta-saṁplavaM<g type="ddanda">.</g></l><!-- 
+   amwb Sircar 55 
+   -->
+</lg>
+            <lg n="6" met="indravajrā">
+                   <lb 
+n="28"/><l n="a">Agner apatyam prathamaṁ suvarṇṇaṁ</l>
+                   <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāv<choice><sic>o</sic><corr>aḥ</corr></choice></l>
+                   <lb 
+n="29"/><l n="c">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice></l>
+                   <l n="d">ya<choice><sic>ṣ</sic><corr>ḥ</corr></choice> kāñcanaṁ gāñ ca mahīñ ca dadyā<lb 
+n="30"/>t<supplied reason="omitted">.</supplied></l><!-- 
+    amwb : Sircar 5  
+    --></lg>
+            <lg n="7" met="śālinī">
+               <l n="a">sāmānyo'ya<choice><sic>n</sic><corr>ṁ</corr></choice> dharmma-settu<supplied reason="omitted">r</supplied> nṛpāṇāṁ</l>
+               <l n="b">kāle kāle pālanīyo bhavadbhiḥ</l>
+               <l n="c"><lb 
+n="31"/>sarvvān<surplus>n</surplus> etā<choice><sic>m</sic><corr>n</corr></choice> bhāv<choice><sic>ī</sic><corr>i</corr></choice>naḥ pa<supplied reason="omitted">r</supplied>thivendrā<supplied reason="omitted">N</supplied></l><!-- bhūpatīndrān in soma2 -->
+               <l n="d">bhūyo bhūyo yācate rāmabhadraḥ</l><!-- 
+             amwb : Sircar 117 rāmacandraḥ in soma2
+                -->
+</lg>
+            <lg n="8" met="puṣpitāgrā">
+               <lb 
+n="32"/><l n="a">Iti kamala-dalāmbu-vindu-lolā<supplied reason="omitted">ṁ</supplied></l>
+               <l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>yam anucintya manuṣya-jīvitañ ca</l>
+               <l n="c">sa-ka<lb 
+n="33" break="no"/>lam idam udāhṛtañ ca vu<supplied reason="omitted">d</supplied>dhvā</l>
+               <l n="d">na hi puruṣaiḥ parakīrttayo vilopy<sic>a</sic><corr>āḥ</corr><g type="danda">.</g></l><!-- 
+                amwb : Sircar 71
+               -->
+</lg><p>
+         pravarddhamā<lb 
+n="34"/>na-vijayarājya-samvatsare bhādrapadavad<choice><sic>ī</sic><corr>i</corr></choice>na <supplied reason="subaudible"><num value="3">3</num></supplied><supplied reason="omitted">.</supplied> mahāsandh<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">vi</supplied>grahīka-śrī<lb 
+n="35" break="no"/>-rudradattena devadattasya sutena Ayodhyā-pura-vinirggatena<lb 
+n="36"/><surplus>l</surplus>likh<choice><sic>ī</sic><corr>i</corr></choice>tam idaṁ śās<sic>ā</sic><corr>a</corr>na<supplied reason="omitted">M</supplied><g type="danda">.</g><!-- check symbol and add the right encoding for it --><g type="danda">.</g> yadi Akṣara<supplied reason="omitted">ṁ</supplied>par<choice><sic>ī</sic><corr>i</corr></choice>mraṣṭhaṁ<lb 
+ n="37"/>mātrāhīnastutyadbhe kṣāntamarahaśīvidvāṅsa kasya na<lb
+ n="38"/>skhalate mana<supplied reason="omitted">ḥ</supplied>
+</p>
+</div>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">212-217</citedRange></bibl>
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">296-302</citedRange></bibl><!-- The bibliography is not complete for the moment Don't forget adding ARIE1953-54 CP14 p.15 ARIE1954-55 CP5 p,24 Epigraphia Indica XXII 1933-34 p.135-138  -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">226</citedRange></bibl><!-- Don't forget adding Tripathy2010_01 131 133  Gai1986_01 number 945-->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
