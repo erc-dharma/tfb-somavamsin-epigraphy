@@ -101,6 +101,7 @@
         <a class="dropdown-item" href="https://erc-dharma.github.io/mdt-authorities/output/DHARMA_places.html">Places</a>
         <a class="dropdown-item" href="https://erc-dharma.github.io/mdt-authorities/output/DHARMA_persons.html">Persons</a>
         <a class="dropdown-item" href="https://erc-dharma.github.io/mdt-authorities/output/DHARMA_monuments.html">Monuments</a>
+        <a class="dropdown-item" href="https://erc-dharma.github.io/mdt-authorities/output/DHARMA_mcollections.html">Collections</a>
       </div>
     </li>
         <li class="nav-item dropdown">
@@ -136,7 +137,7 @@
             <a href="https://github.com/erc-dharma/tfb-somavamsin-epigraphy">Somavaṁśin Metadata</a>
           </h1>
           <img src="https://img.shields.io/badge/licence-CC--BY-green.svg" class="img-fluid" alt="CC-BY"/>
-          <p>Preview of the full metadata content to allow reviewing process and fact checking.</p>
+          <p>Preview for metadata reviewing process.</p>
           <p>Metadata edited in XML TEI by Amandine Wattelier-Bricout for the ERC-DHARMA Task force B.</p>
           <p><span  class="badge badge-warning">Number of files <b id="lenght"></b> </span> </p>
           <br/>
@@ -196,8 +197,10 @@
       const updateList = (data, filter = '') => {
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
+
           const fileName = file.path.replace('.md', '');
-          const fileDisplayName = fileName.replace('workflow-output/html/', '').replace('.html', '');
+          let re = /\_[a-z0-9]+\.html/
+          var fileDisplayName = fileName.replace('workflow-output/mdt/DHARMA_mdt_', 'Metadata ').replace(re, '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
