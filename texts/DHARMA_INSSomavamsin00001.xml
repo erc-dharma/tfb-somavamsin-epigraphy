@@ -80,10 +80,10 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change when="2022-05-19" who="part:amwb">Implementation of reference numbers for the king names</change>
-            <change when="2022-03-31" who="part:amwb">First implementation of date-tags</change>
-            <change when="2022-03-17" who="part:amwb">First implementation of person-tags</change>
-            <change when="2022-03-09" who="part:amwb">Correction of the first encoding and added a draft of translation</change>
+            <change when="2022-05-19" who="part:amwb" status="draft">Implementation of reference numbers for the king names</change>
+            <change when="2022-03-31" who="part:amwb" status="draft">First implementation of date-tags</change>
+            <change when="2022-03-17" who="part:amwb" status="draft">First implementation of person-tags</change>
+            <change when="2022-03-09" who="part:amwb" status="draft">Correction of the first encoding and added a draft of translation</change>
             <change when="2021-01-11" who="part:amwb">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -100,8 +100,8 @@
 <p>
     <lb
 n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
-n="2" break="no"/>mabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivaguptadeva</persName></rs>-pādānudhyā<lb
-n="3" break="no"/>ta-<roleName>paramamāheśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
+n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyā<lb
+n="3" break="no"/>ta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
 n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
 n="5"/><placeName type="region" subtype="district">lupattarā</placeName>-khaṇḍīya-<placeName type="settlement" subtype="village">vakratentalī</placeName>-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
@@ -237,7 +237,7 @@ amwb : Sircar 71
 -->
 </lg>
     <p><date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
-n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejayadevasya</persName></rs> vijayarājye samvatsare tṛtīye <rs type="month" key="sravana">śrā<lb
+n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijayarājye samvatsare tṛtīye <rs type="month" key="sravana">śrā<lb
 n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" subtype="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb
 n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <rs type="masc"><persName type="human">vallaghoṣa</persName></rs><lb
 n="39" break="no"/>-sutena</rs> <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc" role="engraver"><rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena</rs><supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>

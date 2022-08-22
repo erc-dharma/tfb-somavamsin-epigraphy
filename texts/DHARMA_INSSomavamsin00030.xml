@@ -90,6 +90,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-07-12" who="part:amwb" status="draft">Implementation of some persName-tags</change>
          <change when="2022-05-16" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -118,7 +119,7 @@ n="2" break="no"/><milestone unit="fragment" n="a"/>gra-vasatiḥ sārddhaṁ ś
                </lg> 
                <lg n="2" met="śārdūlavikrīḍita">
                   <l n="a">tad-va<gap reason="lost" unit="character" quantity="12" precision="low"/><supplied reason="lost" cert="low"><choice><sic>ṅ</sic><corr>ṁ</corr></choice>śo 'jani śubhra-kīrttir atulo vi</supplied><milestone unit="fragment" n="b"/>śvambha<unclear cert="low">rā-vallabho</unclear></l> 
-                  <l n="b">rā<supplied reason="lost">jā śrī</supplied><unclear cert="low">-janame</unclear>jayaḥ <unclear cert="low">sa ripuhā bhū</unclear>ta<unclear cert="low">s trili</unclear>ṅgādhipaḥ<g type="danda">.</g></l> 
+                  <l n="b"><roleName>rā<supplied reason="lost">jā</supplied></roleName> <roleName><supplied reason="lost">śrī</supplied></roleName>-<persName type="king" ref="PSN01001"><unclear cert="low">janame</unclear>jayaḥ</persName> <unclear cert="low">sa ripuhā bhū</unclear>ta<unclear cert="low">s trili</unclear>ṅgādhipaḥ<g type="danda">.</g></l> 
                   <l n="c">dantā<unclear cert="low">dantika</unclear><supplied reason="lost">kari-śramam iṣād bhagne ripūṣāṁ</supplied><lb 
 n="3"/><milestone unit="fragment" n="a"/>dvipe</l> 
                   <l n="d">yaḥ kuntāgra-hatauḍra-deśa-nṛpater lla<unclear cert="low">kṣmīṁ</unclear><gap reason="lost" unit="character" quantity="11" precision="low"/><supplied reason="lost">samākṛṣṭavān<g type="ddanda">.</g></supplied>
@@ -129,21 +130,21 @@ n="3"/><milestone unit="fragment" n="a"/>dvipe</l>
                   <l n="b"><unclear cert="low">vikhyāto nayavikramādbhu</unclear>ta<unclear cert="low">matiḥ</unclear> <supplied reason="lost">saptāṅga-rājyeśvaraḥ<g type="danda">.</g></supplied></l> 
                   <l n="c"><supplied reason="lost">bālyād akṣata-vaidha-karmma</supplied><lb 
 n="4" break="no"/><milestone unit="fragment" n="a"/>-caritas tyāgī mahā-dhārmmako</l> 
-                  <l n="d">rājā śauryya-mayo yayā<unclear>ti</unclear><gap reason="lost" unit="character" quantity="4" precision="low"/><supplied reason="lost">r abhavad yo</supplied><milestone unit="fragment" n="b"/>medinī-maṇḍanaḥ<g type="ddanda">.</g></l> 
+                  <l n="d"><roleName>rājā</roleName> śauryya-mayo <persName type="king" ref="PSN01005">yayā<unclear>ti</unclear></persName><gap reason="lost" unit="character" quantity="4" precision="low"/><supplied reason="lost">r abhavad yo</supplied><milestone unit="fragment" n="b"/>medinī-maṇḍanaḥ<g type="ddanda">.</g></l> 
                </lg>
                <lg n="4" met="śārdūlavikrīḍita">
                   <l n="a">tasyānte ka<unclear cert="low">li</unclear>-kāla-kalpa-<unclear cert="low">viṭa</unclear>pī bhūpāla-<unclear cert="low">cū</unclear>ḍā<unclear cert="low">maṇi</unclear>r</l>
                   <l n="b">mma<unclear cert="low">ryyādā</unclear>mṛta-satva<unclear cert="low">dhairyya-ka</unclear>malā<unclear cert="low">-gāmbhīryya-ratnākaraḥ<g type="danda">.</g></unclear></l>
                   <l n="c"><lb 
 n="5"/><milestone unit="fragment" n="a"/>māṅgalyodaya-śakti-siddhi-viduraḥ prakhyāta-kīrttiḥ<gap reason="lost" unit="character" quantity="3" precision="low"/><supplied reason="lost">sadā</supplied></l> 
-                  <l n="d"><supplied reason="lost">rā</supplied><milestone unit="fragment" n="b"/>jā bhī<unclear cert="low">ma</unclear>ratho mahā-ratha-guṇaḥ śūro babhūvarihā<g type="ddanda">.</g></l>
+                  <l n="d"><roleName><supplied reason="lost">rā</supplied><milestone unit="fragment" n="b"/>jā</roleName> <persName type="king" ref="PSN01006">bhī<unclear cert="low">ma</unclear>ratho</persName> mahā-ratha-guṇaḥ śūro babhūvarihā<g type="ddanda">.</g></l>
                </lg> 
                <lg n="5" met="vasantatilakā">
                   <l n="a">tasmmād ajayya-bhujavaj<choice><sic>a</sic><corr>ra</corr></choice><unclear cert="low">vinirji</unclear>tā<unclear cert="low">ri</unclear>r</l>
                   <l n="b"><choice><sic>u</sic><corr>ū</corr></choice>rjjasvalaḥ paraśurāma Iva dvitī<unclear cert="low">yaḥ</unclear></l>
                   <l n="c"><lb 
 n="6"/><milestone unit="fragment" n="a"/>madhyandinārka Iva tīvratarapratāpo</l> 
-                  <l n="d">rājā babhū<gap reason="lost" unit="character" quantity="10" precision="low"/><supplied reason="lost">va bhuvi dharmaratho 'gravīraḥ</supplied><milestone unit="fragment" n="b"/><g type="ddanda">.</g></l>
+                  <l n="d">rājā babhū<gap reason="lost" unit="character" quantity="10" precision="low"/><supplied reason="lost">va bhuvi <persName type="king" ref="PSN01007">dharmaratho</persName> 'gravīraḥ</supplied><milestone unit="fragment" n="b"/><g type="ddanda">.</g></l>
                </lg> 
                <lg n="6" met="vasantatilakā">
                   <l n="a">tasmin gate divam a-putriṇi rājamalle</l> 
@@ -153,11 +154,11 @@ n="7" break="no"/><milestone unit="fragment" n="a"/>pravīre</l>
                   <l n="d">kālaḥ kiyān agamad atra yathākathañcit<g type="ddanda">.</g></l>
                </lg> 
                <lg n="7" met="śārdūlavikrīḍita">
-                  <l n="a">ta<gap reason="lost" unit="character" quantity="2" precision="low"/><supplied reason="lost">tra śrī</supplied><milestone unit="fragment" n="b"/>janameyasya tanayo bhūtaḥ prasiddhaḥ kṣitau</l> 
-                  <l n="b">sarvvatrāpi vicitravīra Iti yas tasmād ajany ātmajaḥ<g type="danda">.</g></l> 
-                  <l n="c">dhanyo 'sāv abhimanyur ity atibalī<lb 
+                  <l n="a">ta<gap reason="lost" unit="character" quantity="2" precision="low"/><supplied reason="lost">tra <roleName>śrī</roleName>-</supplied><milestone unit="fragment" n="b"/><persName type="king" ref="PSN01001">janameyasya</persName> tanayo bhūtaḥ prasiddhaḥ kṣitau</l> 
+                  <l n="b">sarvvatrāpi <persName>vicitravīra</persName> Iti yas tasmād ajany ātmajaḥ<g type="danda">.</g></l> 
+                  <l n="c">dhanyo 'sāv <persName>abhimanyur</persName> ity atibalī<lb 
 n="8"/><milestone unit="fragment" n="a"/>tasyo<unclear>pa</unclear>tejāḥ sutaḥ</l> 
-                  <l n="d">śrīcaṇḍīhara Ity abhūn narapa<gap reason="lost" unit="character" quantity="1" precision="low"/><supplied reason="lost">tiḥ</supplied><milestone unit="fragment" n="b"/>sarvvair amātyaiḥ kṛtaḥ<g type="ddanda">.</g></l>
+                  <l n="d"><roleName>śrī</roleName>-<persName type="king" ref="PSN01003">caṇḍīhara</persName> Ity abhūn narapa<gap reason="lost" unit="character" quantity="1" precision="low"/><supplied reason="lost">tiḥ</supplied><milestone unit="fragment" n="b"/>sarvvair amātyaiḥ kṛtaḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="8" met="śārdūlavikrīḍita">
                   <l n="a">bhṛtyāmātya-suhṛt-prajā-śrita-jana-jñātīṣṭa-bandhūn yathā</l> 
@@ -171,7 +172,7 @@ n="9"/><milestone unit="fragment" n="a"/>bhūto 'neka-narendra-śekhara-maṇi-p
                   <l n="b">mmāndhāteva pṛthūpamo<lb 
 n="10"/><milestone unit="fragment" n="a"/>bharata-vad rājā jagajjitvaraḥ<g type="danda">.</g></l> 
                   <l n="c">sūrryācandrama<unclear cert="low">soḥ</unclear><gap reason="lost" unit="character" quantity="3" precision="low"/><supplied reason="lost">samair nni</supplied><milestone unit="fragment" n="b"/>jakarair uddīpayan roda<unclear cert="low">sī</unclear></l>
-                 <l n="d">pūrvvādreḥ saviteva sū<unclear cert="low">nu</unclear>r udagād uddyotakaḥ keśarī<g type="ddanda">.</g></l>
+                 <l n="d">pūrvvādreḥ saviteva sū<unclear cert="low">nu</unclear>r udagād uddyotakaḥ <persName type="king" ref="PSN01002">keśarī</persName><g type="ddanda">.</g></l>
                </lg> 
                <lg n="10" met="sragdharā">
                   <l n="a">bālakrīḍābhir eva pratibhaṭam akhilaṁ ḍāhalaṁ coḍra<lb 
@@ -182,7 +183,7 @@ n="11" break="no"/><milestone unit="fragment" n="a"/>-gauḍau</l>
                </lg>
                <lg n="11" met="śārdūlavikrīḍita">
                   <l n="a"><lb 
-n="12"/><milestone unit="fragment" n="a"/>tan-mātā dinakṛt-kulasya duhitā kolāvatī nāmato</l>
+n="12"/><milestone unit="fragment" n="a"/>tan-mātā dinakṛt-kulasya duhitā <persName type="queen">kolāvatī</persName> nāmato</l>
                   <l n="b"><gap reason="lost" unit="character" quantity="2" precision="low"/><supplied reason="lost">yāsau</supplied><milestone unit="fragment" n="b"/> śītakarānvayasya mahīṣī durgeva la<unclear cert="low">kṣmī</unclear>r iva<g type="danda">.</g></l> 
                   <l n="c">yasyāḥ kīrtt<sic>i</sic>na mūrddhasu dhvaja-trayo vātyābhir ūrddhvaṅ gato</l> 
                   <l n="d">hastābhaḥ śaśi-lakṣma loptum iva<lb 
@@ -231,7 +232,7 @@ n="19"/><milestone unit="fragment" n="a"/>sa-naga-vana-samudrā medinī yāva<un
                  <l n="d">jana-vadana-sudheyan tāvad a<unclear cert="low">stu praśastiḥ</unclear><g type="ddanda">.</g></l>
               </lg>
                <p><lb 
-n="20"/><milestone unit="fragment" n="a"/>parama-māheśvara-mahārājādhirāja-soma<gap reason="lost" unit="character" quantity="4" precision="low"/><supplied reason="lost">kula-tila</supplied><milestone unit="fragment" n="b"/><unclear>ka</unclear>-trikaliṅgādhipati-śrīmad-udyotakesari-rājadevasya vijayarājye saṁvaT <num value="18">18</num> phālguna <abbr>śudi</abbr> <num value="3">3</num> sūtradhāra-rā<unclear cert="low">ye</unclear><supplied reason="lost">ṇa UtkīrṇaM<g type="ddanda">.</g></supplied>
+n="20"/><milestone unit="fragment" n="a"/><roleName>parama-māheśvara</roleName>-<roleName>mahārājādhirāja</roleName>-soma<gap reason="lost" unit="character" quantity="4" precision="low"/><supplied reason="lost">kula-tila</supplied><milestone unit="fragment" n="b"/><unclear>ka</unclear>-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king" ref="PSN01002">udyotakesari</persName>-<roleName>rājadevasya</roleName> vijayarājye saṁvaT <num value="18">18</num> phālguna <abbr>śudi</abbr> <num value="3">3</num> sūtradhāra-rā<unclear cert="low">ye</unclear><supplied reason="lost">ṇa UtkīrṇaM<g type="ddanda">.</g></supplied>
             </p>
          </div>
          <div type="apparatus">
@@ -479,7 +480,7 @@ n="20"/><milestone unit="fragment" n="a"/>parama-māheśvara-mahārājādhirāja
                </p>
 <p n="5-6"/>
                <p n="5" rend="stanza">
-                   Après lui, il y eut <supplied reason="lost">sur terre</supplied> <gap reason="lost" quantity="2" unit="character"/> le roi <supplied reason="lost">Dharmaratha le meilleur des héros</supplied> <gap reason="lost" quantity="7" unit="character"/> lui dont le bras invicible, tel un foudre, vainc son ennemi, lui qui poosède la même force que Paraśurāma, lui dont le suprême éclat de sa majesté est tel celui du soleil à son zénith.  
+                   Après lui, il y eut <supplied reason="lost">sur terre</supplied> <gap reason="lost" quantity="2" unit="character"/> le roi <supplied reason="lost">Dharmaratha le meilleur des héros</supplied> <gap reason="lost" quantity="7" unit="character"/> lui dont le bras invicible, tel un foudre, vainc son ennemi, lui qui possède la même force que Paraśurāma, lui dont le suprême éclat de sa majesté est comme celui du soleil à son zénith.  
                </p>
 <p n="6-7"/>
                <p n="6" rend="stanza">

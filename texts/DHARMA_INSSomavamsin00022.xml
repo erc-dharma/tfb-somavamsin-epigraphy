@@ -90,6 +90,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-18" who="part:amwb" status="draft">Implementation of some persName-tags without reference numbers</change>
          <change when="2022-07-21" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -100,10 +101,10 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/><p><lb 
-n="1"/>Oṁ<!-- symbol? check Here I reproduce Rajaguru's edition for the moment but I have to compare it with others editions soon--> svasti<g type="danda">.</g> śrīvin<choice><sic>i</sic><corr>ī</corr></choice>tap<choice><sic>ū</sic><corr>u</corr></choice>rāt kaṭakāt para<unclear>ma</unclear>māhe<choice><sic>s</sic><corr>ś</corr></choice>varaparamabha<lb 
-n="2" break="no"/>ṭṭārakamahārājādhirājaśrīmahābhavaguptarājadevapā<unclear>dā</unclear>n<choice><sic>ū</sic><corr>u</corr></choice>dhyāyī<lb 
-n="3"/>paramamāhe<choice><sic>s</sic><corr>ś</corr></choice>varaparamabhaṭṭārakamahārājādhirājaparame<choice><sic>s</sic><corr>ś</corr></choice>varaso<lb 
-n="4" break="no"/>mak<choice><sic>ū</sic><corr>u</corr></choice>latilatrikaliṅgādhipatiśrīmahā<choice><sic>s</sic><corr>ś</corr></choice>ivag<choice><sic>ū</sic><corr>u</corr></choice>ptarājadevaḥ k<choice><sic>ū</sic><corr>u</corr></choice><choice><sic>s</sic><corr>ś</corr></choice>a<lb 
+n="1"/>Oṁ<!-- symbol? check Here I reproduce Rajaguru's edition for the moment but I have to compare it with others editions soon--> svasti<g type="danda">.</g> śrīvin<choice><sic>i</sic><corr>ī</corr></choice>tap<choice><sic>ū</sic><corr>u</corr></choice>rāt kaṭakāt <roleName>para<unclear>ma</unclear>-māhe<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-<roleName>parama-bha<lb 
+n="2" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-<roleName>rāja-deva</roleName>-pā<unclear>dā</unclear>n<choice><sic>ū</sic><corr>u</corr></choice>dhyāyī<lb 
+n="3"/><roleName>parama-māhe<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parame<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-so<lb 
+n="4" break="no"/>ma-k<choice><sic>ū</sic><corr>u</corr></choice>la-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahā<choice><sic>s</sic><corr>ś</corr></choice>ivag<choice><sic>ū</sic><corr>u</corr></choice>pta</persName>-<roleName>rāja-devaḥ</roleName> k<choice><sic>ū</sic><corr>u</corr></choice><choice><sic>s</sic><corr>ś</corr></choice>a<lb 
 n="5" break="no"/>lī<surplus>ḥ</surplus><supplied reason="omitted">.</supplied> ko<choice><sic>s</sic><corr>ś</corr></choice>aladeśe<supplied reason="omitted">.</supplied> sanulāviṣayoyatalakajjagrāmasambandhī<lb 
 n="6"/>turadāśānarīya nadī sameta bhūmiś catu<choice><sic>s</sic><corr>ś</corr></choice>imayākṣi<choice><sic>pre</sic><corr>pta</corr></choice><lb 
 n="7" break="no"/>vataḥ<gap unit="character" extent="unknown" reason="illegible"/>brāhmaṇān sampūjya <choice><sic>ca</sic><corr>ta</corr></choice>dviṣayīya<lb 
@@ -238,9 +239,9 @@ n="35" break="no"/>dāhṛtañ ca vuddhvā</l>
 amwb : Sircar 71
 -->
 </lg><p>
-   paramamāhe<lb 
-n="36" break="no"/>śvaraparamabhaṭṭārakamahārājādhirājaparame<choice><sic>s</sic><corr>ś</corr></choice>varasomakulati<lb 
-n="37" break="no"/>lakatrikaliṅgādhipatiśrīmadyatātidevarājasya vijayarājye sāmva<lb 
+   <roleName>parama-māhe<lb 
+n="36" break="no"/>śvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parame<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-soma-kula-ti<lb 
+n="37" break="no"/>laka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king">yayāti</persName>-<roleName>deva-rājasya</roleName> vijayarājye sāmva<lb 
 n="38" break="no"/>tsarāṣṭame m<choice><sic>a</sic><corr>ā</corr></choice>rggaśiramāse śuklapakṣe trayodasyāmaṅke samvaT <num value="8">8</num><lb 
 n="39"/>mārgga <abbr>śudi</abbr> <num value="13">13</num> likhitam idaṁ tāmraśāsanaṁ mahāsandhivigrahi rāṇa<lb 
 n="40" break="no"/>kadhāradatta<choice><sic>smā</sic><corr>syā</corr></choice>vagatena Uthītāsanī śrī Ucchava<choice><sic>ṇ</sic><corr>n</corr></choice>āgasa

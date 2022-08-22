@@ -89,6 +89,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-17" who="part:amwb">Implementation of PersNames with one number reference</change>
          <change when="2022-05-24" who="part:amwb">Encoding the text with the two available editions</change>
         <change when="2022-05-23" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -110,7 +111,7 @@
             <pb n="1v"/>
             <lb 
 n="1"/><lg n="1" met="vasantatilakā">
-   <l n="a">Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikṣā-piśaṅgī</l> 
+   <l n="a">Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikhā-piśaṅgī</l> 
    <l n="b">lālāṭa-cakṣuṣi gale viṣabhañjanābham<g type="danda">.</g></l> 
    <l n="c">sattvaṁ rajas tama I<lb 
 n="2" break="no"/>ti triguṇasya tasya</l> 
@@ -179,30 +180,30 @@ n="17" break="no"/><unclear>la</unclear>mbhitenendra-rājya-vara-lābhaḥ<g typ
                   <l n="a">śirasi kṛta-śivājñ<choice><sic>ā</sic><corr>o</corr></choice> martya-loke vivasvān</l> 
                   <l n="b">ajani ca kula-putro bhīma<lb 
 n="18" break="no"/>nām ottama-śrīḥ<g type="danda">.</g></l> 
-                  <l n="c">ayam alabhata durgā<supplied reason="omitted">ṁ</supplied> pūrva-patnīñ ca patnīm</l> 
+                  <l n="c">ayam alabhata <persName type="queen">durgā<supplied reason="omitted">ṁ</supplied></persName> pūrva-patnīñ ca patnīm</l> 
                   <l n="d">ajanayad atha tasyāṁ pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice> ca putrān<g type="ddanda">.</g></l>
                </lg>
                         <pb n="2r"/>
             <lg n="11" met="śārdūlavikrīḍita">
                <l n="a"><lb 
-n="19"/>śrimān indraratho 'jani prathamataḥ saundarya-śaurya-kṣamā</l>
+n="19"/>śrimān <persName type="king" ref="PSN01004">indraratho</persName> 'jani prathamataḥ saundarya-śaurya-kṣamā</l>
                <l n="b">dharma-tyāga-dayā-viveka-vinaya-prāga<lb 
 n="20" break="no"/>lbha-satyāśrayaḥ<g type="danda">.</g></l> 
                <l n="c">prāsūtām atha vikramādi-su-guṇa-grāmaika-līlāspad<choice><sic>e</sic><corr>au</corr></choice></l> 
-               <l n="d">pūrvam vaṅgaratho 'tha<lb 
-n="21"/>śaṅkararathas tasyānurūpānujau<g type="ddanda">.</g></l>
+               <l n="d">pūrvam <persName>vaṅgaratho</persName> 'tha<lb 
+n="21"/><persName>śaṅkararathas</persName> tasyānurūpānujau<g type="ddanda">.</g></l>
             </lg> 
             <lg n="12" met="śārdūlavikrīḍita">
-               <l n="a">yo 'sāv indraratha<supplied reason="omitted">ḥ</supplied> rathāṅga-mahīmā somānvaya-kṣmāpatiḥ</l> 
+               <l n="a">yo 'sāv <persName type="king" ref="PSN01004">indraratha<supplied reason="omitted">ḥ</supplied></persName> rathāṅga-mahīmā somānvaya-kṣmāpatiḥ</l> 
               <l n="b"> śri<lb 
-n="22" break="no"/>mad dharmarathasya vallabhatayā lebhe kaliṅga-śriyam<g type="danda">.</g></l> 
+n="22" break="no"/>mad <persName type="king">dharmarathasya</persName> vallabhatayā lebhe kaliṅga-śriyam<g type="danda">.</g></l> 
                <l n="c">sañjagrāha ca vigrahe bhuja-valāt tām vajra<lb 
 n="23" break="no"/>-hastād aho<supplied reason="omitted">.</supplied></l> 
                <l n="d">vikrāntir mahatī padāti-vahutālpatve tu nyasthādaraḥ<g type="ddanda">.</g></l>
             </lg> 
                <lg n="13" met="śārdūlavikrīḍita">
                   <l n="a">svarga<choice><sic>n</sic><corr>ṁ</corr></choice> dharma-dharā-patau<lb 
-n="24"/>gatavati śrī-vatsarājo nṛp<choice><sic>ā</sic><corr>o</corr></choice></l> 
+n="24"/>gatavati śrī-<persName type="king">vatsarājo</persName> nṛp<choice><sic>ā</sic><corr>o</corr></choice></l> 
                   <l n="b">bhṛtyān sādayati prajām iti muhuḥ śrutvā janebhyo giraḥ<g type="danda">.</g></l> 
                   <l n="c">ya<lb 
 n="25"/>Āgatya kaliṅgato nija-bhujādarpeṇa dṛptātmak<choice><sic>a</sic><corr>o</corr></choice></l> 
@@ -210,16 +211,16 @@ n="25"/>Āgatya kaliṅgato nija-bhujādarpeṇa dṛptātmak<choice><sic>a</sic
 n="26"/>'bhimanyau mataḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="14" met="śārdūlavikrīḍita">
-                  <l n="a">yo vidhvān abhimanyum apy anucita<unclear>ṁ</unclear> prāptādhipatpyam bhuvo</l> 
+                  <l n="a">yo vidhvān <persName>abhimanyum</persName> apy anucita<unclear>ṁ</unclear> prāptādhipatpyam bhuvo</l> 
                   <l n="b">va<choice><sic>ṅ</sic><corr>ṁ</corr></choice>śasyānadhikāriṇa<supplied reason="omitted">ṁ</supplied><lb 
 n="27"/>raṇa-bhuvi vyāpādayad d<supplied reason="omitted">v</supplied>eṣiṇa<supplied reason="omitted">ṁ</supplied><g type="danda">.</g></l> 
                   <l n="c">tal lakṣmī<supplied reason="omitted">ṁ</supplied> dvijasattamair anumatām āsādya se<unclear>nā</unclear><lb 
 n="28" break="no"/><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice></l> 
                   <l n="d">trairājyañ ca turaṅgakeṇa jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
                </lg> 
-               <p>parama-māheśvara-mā<lb 
-n="29" break="no"/>tāpitṛ-pādānudhyāta-parama-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula<lb 
-n="30" break="no"/>-tilaka-trikaliṅgādhipati-śrīmad-indraratha-rājadevaḥ kuśalī<g type="ddanda">.</g> ko<choice><sic>ngo</sic><corr>ṅga</corr></choice>da-maṇḍalīya-<unclear>tho</unclear>ra<lb 
+               <p><rs type="masc" subtype="ruler" role="donor"><roleName>parama-māheśvara</roleName>-mā<lb 
+n="29" break="no"/>tāpitṛ-pādānudhyāta-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula<lb 
+n="30" break="no"/>-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king" ref="PSN01004">indraratha</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="ddanda">.</g> ko<choice><sic>ngo</sic><corr>ṅga</corr></choice>da-maṇḍalīya-<unclear>tho</unclear>ra<lb 
 n="31" break="no"/>ṇa-viṣaya-sagh<choice><sic>a</sic><corr>ṛ</corr></choice>ta-khallīkhaṇḍīya-laghukumbhi-grāme<g type="danda">.</g> Atas tad viṣayīya-vrāhmaṇān āpūjya samā<lb 
 n="32" break="no"/>ha<supplied reason="omitted">r</supplied>tṛ-sannidhātṛ-niyuktādhikārika-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājñī-rāṇaka-rāja<lb 
 n="33" break="no"/>-putra-rāja-vallabha-bhogijana-pramukha-samasta-janapadān samājñāpayati<g type="danda">.</g> viditam astu bhava<lb 
@@ -393,7 +394,7 @@ n="68" break="no"/>lā-nivaha-janma-bhūr amṛta-candra-nāmā nidhiḥ</l>
                   <l n="d">samasta-guṇa-sampadām idam alīlikhac chāsa<lb 
 n="69" break="no"/>naM<g type="ddanda">.</g></l>
                </lg> 
-               <p>parama-māheśvara-mahārājādhirāja-śrīmad-indraratharāja-devasya pravarddhamāna<lb 
+               <p><rs type="masc" subtype="ruler" role="donor"><roleName>parama-māheśvara</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>śrīmad</roleName>-<persName type="king" ref="PSN01004">indraratha</persName>-<roleName>rāja-devasya</roleName></rs> pravarddhamāna<lb 
 n="70" break="no"/>-vijaya-rājye ṣaṣṭhe samvatsare kārttika-māsi śukla-pakṣa-dvitīyāyāṁ tithau likhitam i<lb 
 n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <abbr>śudi</abbr> <num value="2">2</num> vijñāni vāherukeṇa Utkīrṇṇaṁ<g type="ddanda">.</g>
 </p>            
@@ -404,6 +405,10 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                   <app loc="1"><!-- update the value of @loc.-->
                      <lem>Indu<supplied reason="omitted">ḥ</supplied></lem>
                      <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> indicates in his edition that the inscription begins with a symbol, but I am unable to confirm this from the photos available in his appendix. </note>
+                  </app>
+                  <app loc="1">
+                     <lem source="bib:Shastri1995_02">'gniśikhā-piśaṅgī</lem>
+                     <rdg source="bib:Behera1988_01">'gniśikṣā-piśaṅgī</rdg>
                   </app>
                   <app loc="1">
                      <lem source="bib:Shastri1995_02">viṣabhañja°</lem>
@@ -668,7 +673,7 @@ n="35" break="no"/>rūva-</rdg>
             First deceiphered by Dr K. B. Trripathy in the Oriya Journal the Jhankāra n° X p.661-668 
             First edited by Dr K. B. Trripathy in the Journal of the Asicatic Society vol VIII n°4 109966 p 271-276
             According to Behera1988_01 the charter is now kept in the department of History, Utkal University 
-            According to Behera1988_01 the charavters are similar to those found in the copper plate grants of Dharmaratha and Uddyotakesari 
+            According to Behera1988_01 the characters are similar to those found in the copper plate grants of Dharmaratha and Uddyotakesari 
             Influence of local prononciation on orthographical peculiarities 
             Charter issued from Yayātinagara
             Registers grant of the village Laghukumbhi situated in the khaṇḍa of Sadyatukhallī in the viṣaya of Thoraṇa in Kongada-maṇḍala 

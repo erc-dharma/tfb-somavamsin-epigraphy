@@ -90,6 +90,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-17" who="part:amwb">Implementation of person-tags and reference numbers for kings</change>
          <change when="2022-04-20" who="part:amwb" status="draft">Check the text edited with the photos of the plates in Shastri+Tripathy2011_01</change>
          <change when="2022-04-19" who="part:amwb" status="draft">Encoding of the text edited by Shastri+Tripathy2011_01</change>
          <change who="part:amwb" when="2022-04-06" status="draft">Creation of the
@@ -124,10 +125,10 @@ n="4" break="no"/>-vidyālaṅkṛta-vidvaj-jana-janita-vidagdha-kāvy<choice><s
 n="5" break="no"/>bhava-sparddhita-vipaṇi-jana-parasparāmarṣa-racita-vicitra-prāsādā<lb 
 n="6" break="no"/>ṭṭālikā-devakulārāmodyāna-vāpī-kūpa-ṭaḍāgopaśo<lb 
 n="7" break="no"/>bhā-jita-sura-pura-mahimnaḥ śrīmato murasīma-nāmadheya<lb 
-n="8" break="no"/>-pattana-vara-rājadhānyāḥ<g type="danda">.</g> parama-bhaṭṭāraka-mahārājādhirāja-para<lb 
-n="9" break="no"/>meśvara-śrī-śivagupta-deva-pā<supplied reason="omitted">da</supplied>nudhyāta-parama-m<choice><sic>ā</sic><corr>a</corr></choice>heśvara-parama-bha<lb 
-n="10" break="no"/>ṭṭāraka-mahārājādhirāja-soma-kula-tilaka-tṛkaliṅgādhipa<lb 
-n="11" break="no"/>ti-parameśvara-śrī-mahābhavagupta-rāja-devaḥ kuśalī<g type="danda">.</g> kṣiti-ma <lb
+n="8" break="no"/>-pattana-vara-rājadhānyāḥ<g type="danda">.</g> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>para<lb 
+n="9" break="no"/>meśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pā<supplied reason="omitted">da</supplied>nudhyāta-<roleName>parama-m<choice><sic>a</sic><corr>ā</corr></choice>heśvara</roleName>-<roleName>parama-bha<lb 
+n="10" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-soma-kula-tilaka-<roleName>tṛkaliṅgādhipa<lb 
+n="11" break="no"/>ti</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="danda">.</g> kṣiti-ma<lb
 n="12" break="no"/>ṇdapādhāra-viṣaya-prativaddha-vādaveṅga-nām<supplied reason="omitted">n</supplied>i grāme harṣadat<supplied reason="omitted">t</supplied>a
                    
                 <pb n="2r"/>
@@ -266,8 +267,8 @@ n="51" break="no"/>rttayo vilopyā<supplied reason="omitted">ḥ</supplied></l><
 amwb : Sircar 71
 -->
 </lg> 
-                <p>Iti parama-bhaṭṭā<supplied reason="omitted">ra</supplied>ka-mahārājādhirāja-parameśvara-śrī<lb
-n="52" break="no"/>-janamejaya-devasya vijaya-rājye samvatsare dvādaśame <choice><sic>A</sic><corr>Ā</corr></choice>śvina-māsa
+                <p>Iti <rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭā<supplied reason="omitted">ra</supplied>ka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName><lb
+n="52" break="no"/>-<persName type="king" ref="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye samvatsare dvādaśame <choice><sic>A</sic><corr>Ā</corr></choice>śvina-māsa
                 <pb n="3v"/>
 <lb 
 n="53"/>dvit<choice><sic>i</sic><corr>ī</corr></choice>ya-pakṣe tithau śaptyām aṅkenāpi samvaT <num value="12">12</num> <choice><sic>A</sic><corr>Ā</corr></choice>śvina <gap reason="illegible" unit="character" quantity="1"/><g type="ddanda">.</g> likhita <lb 
@@ -313,7 +314,7 @@ n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied 
                      <rdg source="bib:Shastri+Tripathy2011_01">devakulṇārām-odhāna</rdg>
                   </app>
                   <app loc="9">
-                     <lem>-m<choice><sic>ā</sic><corr>a</corr></choice>heśvara-</lem>
+                     <lem>-m<choice><sic>a</sic><corr>ā</corr></choice>heśvara-</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">-maheśvara-</rdg>
                   </app>
                   <app loc="12">
