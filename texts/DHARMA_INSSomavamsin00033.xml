@@ -90,6 +90,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-23" who="part:amwb" status="draft">Implementation of PersNames with reference numbers for kings</change>
          <change when="2022-07-19" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -109,8 +110,8 @@
             <!--edition encoded as per EGD §§2−7-->
               <pb n="1r"/>
             <p><lb 
-n="1"/>śrī-caṇḍ<choice><sic>i</sic><corr>ī</corr></choice>hara-devasya suta<supplied reason="omitted">ḥ</supplied> śrī-Uddyotakesari<lb 
-n="2" break="no"/>-devaḥ kuśalī yamalāṇkhaṇḍa-prativaddha-gomuṇḍa<lb
+n="1"/><roleName>śrī</roleName>-<persName type="king" ref="PSN01003">caṇḍ<choice><sic>i</sic><corr>ī</corr></choice>hara</persName>-<roleName>devasya</roleName> suta<supplied reason="omitted">ḥ</supplied> <roleName>śrī</roleName>-<persName type="king" ref="PSN01002">Uddyotakesari</persName><lb 
+n="2" break="no"/>-<roleName>devaḥ</roleName> kuśalī yamalāṇkhaṇḍa-prativaddha-gomuṇḍa<lb
 n="3" break="no"/>llāgrām<choice><sic>e</sic><corr>aḥ</corr></choice> sām<surplus>v</surplus>ra-madhutālasa-sagartoṣara<supplied reason="omitted">ḥ</supplied> sajalastha<lb 
 n="4" break="no"/>la<supplied reason="omitted">ḥ</supplied>sakh<choice><sic>a</sic><corr>e</corr></choice>ṭaviṭapa<supplied reason="omitted">ḥ</supplied>sapadrāraṇya<supplied reason="omitted">ḥ</supplied> sama<choice><sic>cchā</sic><corr>tsya</corr></choice>kacchapa<supplied reason="omitted">ḥ</supplied> catu<supplied reason="omitted">ḥ</supplied><lb 
 n="5" break="no"/>-s<choice><sic>i</sic><corr>ī</corr></choice>mā-bhūmicchidrāny api <choice><sic>nā</sic><corr>Ā</corr></choice>candratārakārka-kṣiti-sama<lb 
