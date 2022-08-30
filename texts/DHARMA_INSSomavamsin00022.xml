@@ -246,17 +246,42 @@ n="38" break="no"/>tsarāṣṭame m<choice><sic>a</sic><corr>ā</corr></choice>
 n="39"/>mārgga <abbr>śudi</abbr> <num value="13">13</num> likhitam idaṁ tāmraśāsanaṁ mahāsandhivigrahi rāṇa<lb 
 n="40" break="no"/>kadhāradatta<choice><sic>smā</sic><corr>syā</corr></choice>vagatena Uthītāsanī śrī Ucchava<choice><sic>ṇ</sic><corr>n</corr></choice>āgasa
    <pb n="3r"/><lb 
-n="41" break="no"/>rmpaṇāllavasutena<supplied reason="omitted">.</supplied> Utkīrṇṇa<supplied reason="omitted">ṁ</supplied> vijñānī mādhavena vāsusuteneti<g type="danda">.</g> sambe<lb
-n="42" break="no"/>do jalajaparṇṇajala<supplied reason="omitted">ṁ</supplied> bhājīvitaṁ maraṇasantatasasthaṁ<supplied reason="omitted">.</supplied> bhogamuktīratināṁ<lb 
-n="43"/>pravilokyāḥ kīrttayo nṛpatibhirnavilopyā Iti<surplus>ḥ</surplus><g type="danda">.</g> so bhūnṛpaḥ so<lb 
-n="44" break="no"/>makulāvjabhānuḥ svabhāvatuṅgo nijapauruṣeṇa<g type="danda">.</g> yaḥ ko<choice><sic>s</sic><corr>ś</corr></choice>lā<lb 
-n="45" break="no"/>pālanakaumudindu vijitya <choice><sic>cau</sic><corr>cai</corr></choice>dyānbitatāna lakṣmīṁ<g type="ddanda">.</g> rāmāha<lb 
-n="46" break="no"/>rāścedipa paddha <gap reason="undefined"/> ṭāN sa bhaṭ<supplied reason="omitted">ṭ</supplied>peḍi prabhṛtiN <gap reason="undefined"/> muṇḍaṁ niha<lb 
-n="47" break="no"/>ṇyāhita śarvvarāmañ sa lakṣmaṇorāma Ivāptase<lb 
-n="48" break="no"/>tuḥ<g type="danda">.</g> tasmāt<surplus>a</surplus> suto viṣṇurivājaneṣu sa durgarājaṁ <choice><sic>mbī</sic><corr>vi</corr></choice>ghaṭapralā<lb 
-n="49" break="no"/>paṁ tṛṇāya <choice><sic>ca I</sic><corr>cai</corr></choice>dhya<supplied reason="omitted">ṁ</supplied> vata manyamāno dagdhāṁ ḍahālā vijanī<lb 
-n="50" break="no"/>ñcakāra<supplied reason="omitted">.</supplied>
-   </p>
+n="41" break="no"/>rmpaṇāllavasutena<supplied reason="omitted">.</supplied> Utkīrṇṇa<supplied reason="omitted">ṁ</supplied> vijñānī mādhavena vāsusuteneti<g type="danda">.</g>
+</p> 
+            <lg n="14" met="rathoddhatā">
+               <l n="a">sambe<lb
+n="42" break="no"/>do jalajaparṇṇajala<supplied reason="omitted">ṁ</supplied>bhā</l> 
+               <l n="b">jīvitaṁ maraṇasantatasasthaṁ<supplied reason="omitted">.</supplied></l>
+               <l n="c">bhogamuktīratināṁ<lb 
+n="43"/>pravilokyāḥ</l> 
+               <l n="d">kīrttayo nṛpatibhirnavilopyā</l>
+            </lg> 
+            <p>Iti<surplus>ḥ</surplus><g type="danda">.</g></p>
+            <lg n="15" met="upajāti">
+               <l n="a">so bhūnṛpaḥ so<lb 
+n="44" break="no"/>makulāvjabhānuḥ</l> 
+               <l n="b"><persName type="king" ref="PSN01000">svabhāvatuṅgo</persName> nijapauruṣeṇa<g type="danda">.</g></l> 
+               <l n="c">yaḥ ko<choice><sic>s</sic><corr>ś</corr></choice>alā<lb 
+n="45" break="no"/>pālanakaumudindu</l> 
+               <l n="d">vijitya <choice><sic>cau</sic><corr>cai</corr></choice>dyānbitatāna lakṣmīṁ<g type="ddanda">.</g></l>
+            </lg> 
+            <lg n="16" met="upajāti">
+               <l n="a">rāmāha<lb 
+n="46" break="no"/>rāścedipa paddha <gap reason="undefined"/> ṭāN sa</l> 
+               <l n="b">bhaṭ<supplied reason="omitted">ṭ</supplied>apeḍi prabhṛtiN <gap reason="undefined"/></l>
+               <l n="c">muṇḍaṁ niha<lb 
+n="47" break="no"/>ṇyāhita śarvvarāmañ</l> 
+               <l n="d">sa lakṣmaṇorāma Ivāptase<lb 
+n="48" break="no"/>tuḥ<g type="danda">.</g></l>
+            </lg>
+               <lg n="17" met="upajāti">
+                  <l n="a">tasmāt<surplus>a</surplus> suto viṣṇurivājaneṣu</l> 
+                  <l n="b">sa durgarājaṁ <choice><sic>mbī</sic><corr>vi</corr></choice>ghaṭapralā<lb 
+n="49" break="no"/>paṁ</l> 
+                  <l n="c">tṛṇāya <choice><sic>ca I</sic><corr>cai</corr></choice>dhya<supplied reason="omitted">ṁ</supplied> vata manyamāno</l> 
+                  <l n="d">dagdhāṁ ḍahālā vijanī<lb 
+n="50" break="no"/>ñcakāra<supplied reason="omitted">.</supplied></l>
+               </lg>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
