@@ -104,6 +104,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-18" who="part:amwb" status="draft">Implementation of some persName-tags without reference numbers</change>
          <change who="part:amwb" when="2022-07-19">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -122,14 +123,14 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-             <ab><lb n="1"/><roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01002">mahābhavagupta</persName>
+             <ab><lb n="1"/><roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>
                  <lb n="2" break="no"/>-<roleName>rāja-devasya</roleName>
              </ab>
              </div>
             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
             <pb n="1v"/>
             <p>
-            <lb n="1"/>Oṁ<!-- express with a symbol looking like 3 according to Shastri For the moment I have encoded the text edited by rajaguru and I have to compare with Shastri's edition--> nama<supplied reason="omitted">ḥ</supplied> śivāya<g type="ddanda">.</g> svasti<supplied reason="omitted">.</supplied> kisarakellā-samāvāsita mahā-vijaya<lb n="2" break="no"/>-kaṭakāt parama-māheśvara-mātā-pitṛ-pādānudhyāta-mahārājādhirā<lb n="3" break="no"/>ja-parameśvara-parama-bhaṭṭāraka-somakula-tilaka-trikaliṅgādhipa<lb n="4" break="no"/>ti śrī-mahābhavagupta-rāja-devaḥ kuśalī<g type="ddanda">.</g> pṛthur ābhuktyanta<supplied reason="omitted">ḥ</supplied> pā<lb n="5" break="no"/>tiliñjira-grāme brāhmaṇāN saṁpūjya tat-pratinivāsikuṭumbhinaḥ samā<lb n="6" break="no"/>hartṛ-sannidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-cāṭa-bhaṭa-rājavalabhādi<choice><sic>t sa</sic><corr>n sa</corr></choice>rvvā<supplied reason="omitted">N</supplied> samā<lb n="7" break="no"/>jñāpayati viditam astu bhavatāṁ yathasmābhis sanidhiḥ sopanidhi<supplied reason="omitted">ḥ</supplied><lb n="8"/>sadaśāparādho niṣaddha-cāṭa-bhaṭa-praveśaḥ sarvvopari<supplied reason="omitted">ka</supplied><lb n="9" break="no"/><supplied reason="omitted">ri</supplied>-karakarādāna-sameta<supplied reason="omitted">ḥ</supplied> sarvvapoḍāparivarjjitaḥ kapi
+            <lb n="1"/>Oṁ<!-- express with a symbol looking like 3 according to Shastri For the moment I have encoded the text edited by rajaguru and I have to compare with Shastri's edition--> nama<supplied reason="omitted">ḥ</supplied> śivāya<g type="ddanda">.</g> svasti<supplied reason="omitted">.</supplied> kisarakellā-samāvāsita mahā-vijaya<lb n="2" break="no"/>-kaṭakāt <roleName>parama-māheśvara</roleName>-mātā-pitṛ-pādānudhyāta-<roleName>mahārājādhirā<lb n="3" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-somakula-tilaka-<roleName>trikaliṅgādhipa<lb n="4" break="no"/>ti</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> pṛthur ābhuktyanta<supplied reason="omitted">ḥ</supplied> pā<lb n="5" break="no"/>tiliñjira-grāme brāhmaṇāN saṁpūjya tat-pratinivāsikuṭumbhinaḥ samā<lb n="6" break="no"/>hartṛ-sannidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-cāṭa-bhaṭa-rājavalabhādi<choice><sic>t sa</sic><corr>n sa</corr></choice>rvvā<supplied reason="omitted">N</supplied> samā<lb n="7" break="no"/>jñāpayati viditam astu bhavatāṁ yathasmābhis sanidhiḥ sopanidhi<supplied reason="omitted">ḥ</supplied><lb n="8"/>sadaśāparādho niṣaddha-cāṭa-bhaṭa-praveśaḥ sarvvopari<supplied reason="omitted">ka</supplied><lb n="9" break="no"/><supplied reason="omitted">ri</supplied>-karakarādāna-sameta<supplied reason="omitted">ḥ</supplied> sarvvapoḍāparivarjjitaḥ kapi
                 <pb n="2r"/>
                <lb n="10" break="no"/>ṣṭhallagotrāya Ek<choice><sic>ā</sic><corr>a</corr></choice>rṣ<choice><sic>e</sic><corr>i</corr></choice>vaśiṣṭha-pravarāya maitrāy<choice><sic>i</sic><corr>a</corr></choice>ṇīśā<lb n="11" break="no"/>khādhyāyine madhya-deśa-madhuravinirggat<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ya</supplied> Ullakheṭavāsta<lb n="12" break="no"/>vya-bhaṭṭa-brāhmaṇāya cakradhara-sutāya siṁ<surplus>g</surplus>ha-saṅkrāntau mātā<lb n="13" break="no"/>pitror ātmanaś<!-- rajaguru atmataśca --> ca puṇyābhivṛddhaye salila<surplus>d</surplus>dhārāpuraḥsa<lb n="14" break="no"/>reṇacandratārakāka-kṣiti-talasamakāl<choice><sic>o</sic><corr>a</corr></choice><supplied reason="omitted">m u</supplied>pabhoktu<choice><sic>ntāmba</sic><corr>ṁ tāmra</corr></choice><lb n="15"/>śāsanenākarīkṛtya pratipādityo ’yam ity avagatya sa<lb n="16" break="no"/>mucita-bhogakarahiraṇyā<supplied reason="omitted">di</supplied>kam upanayadbhir bhavadbhiḥ
                 <pb n="2v"/>
@@ -199,7 +200,7 @@ amwb : Sircar 29
                 amwb : Sircar 71
                -->
 </lg><p>
-         pravarddhamā<lb n="34"/>na-vijayarājya-samvatsare bhādrapadavad<choice><sic>ī</sic><corr>i</corr></choice>na <supplied reason="subaudible"><num value="3">3</num></supplied><supplied reason="omitted">.</supplied> mahāsandh<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">vi</supplied>grahīka-śrī<lb n="35" break="no"/>-rudradattena devadattasya sutena Ayodhyā-pura-vinirggatena<lb n="36"/><surplus>l</surplus>likh<choice><sic>ī</sic><corr>i</corr></choice>tam idaṁ śās<sic>ā</sic><corr>a</corr>na<supplied reason="omitted">M</supplied><g type="danda">.</g><!-- check symbol and add the right encoding for it --><g type="danda">.</g> yadi Akṣara<supplied reason="omitted">ṁ</supplied>par<choice><sic>ī</sic><corr>i</corr></choice>mraṣṭhaṁ<lb n="37"/>mātrāhīnastutyadbhe kṣāntamarahaśīvidvāṅsa kasya na<lb n="38"/>skhalate mana<supplied reason="omitted">ḥ</supplied>
+         pravarddhamā<lb n="34"/>na-vijayarājya-samvatsare bhādrapadavad<choice><sic>ī</sic><corr>i</corr></choice>na <supplied reason="subaudible"><num value="3">3</num></supplied><supplied reason="omitted">.</supplied> <roleName>mahāsandh<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">vi</supplied>grahīka</roleName>-<roleName>śrī</roleName><lb n="35" break="no"/>-<persName>rudradattena</persName> <persName>devadattasya</persName> sutena Ayodhyā-pura-vinirggatena<lb n="36"/><surplus>l</surplus>likh<choice><sic>ī</sic><corr>i</corr></choice>tam idaṁ śās<sic>ā</sic><corr>a</corr>na<supplied reason="omitted">M</supplied><g type="danda">.</g><!-- check symbol and add the right encoding for it --><g type="danda">.</g> yadi Akṣara<supplied reason="omitted">ṁ</supplied>par<choice><sic>ī</sic><corr>i</corr></choice>mraṣṭhaṁ<lb n="37"/>mātrāhīnastutyadbhe kṣāntamarahaśīvidvāṅsa kasya na<lb n="38"/>skhalate mana<supplied reason="omitted">ḥ</supplied>
 </p>
 </div>
          </div>
@@ -217,6 +218,7 @@ amwb : Sircar 29
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+            <!-- amwb : caution about the identification of the king  -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

@@ -103,6 +103,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2022-08-17" who="part:amwb">Addition of reference numbers missing for some persNames</change>
          <change when="2022-05-19" who="part:amwb">Implementation of reference numbers for the king names</change>
          <change when="2022-05-03" who="part:amwb">Draft of English and French translations, introduction of changes in the text and apparatus</change>
          <change when="2022-04-27" who="part:amwb" status="draft">Comparison of the text with Tripathy2000_01’s edition and addition of its reading in apparatus</change>
@@ -146,7 +147,7 @@ amwb note on the word kurumva by Shastri+Tripathy2011_01 : "it gives no sense. C
                    <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jātu na muñcatīha</l><!-- 
 amwb on the photo it seems to have one or two circles (visarga) after ṅku, so it would be written śauryāṅkuḥra , need to check
 -->
-                   <l n="d"><rs type="masc"><persName type="coronation">svabhāvatuṅgaḥ</persName></rs> sa nṛpo vabhūva</l></lg>
+                   <l n="d"><rs type="masc"><persName type="king" ref="PSN01000">svabhāvatuṅgaḥ</persName></rs> sa nṛpo vabhūva</l></lg>
                    <lg n="3" met="vaṁśastha">
                    <l n="a">nṛpa<lb n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaka</l>
                    <l n="b">-staneṣu sampātayato ’<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></l>
@@ -160,12 +161,12 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
                    <l n="d"><space type="feature"/>bhuja-sthala-stheva virājitā mahī</l></lg>
                    <lg n="5" met="indravajrā">
                    <l n="a">tasyānur<choice><sic>u</sic><corr>ū</corr></choice>pāsti ca dharmma-patnī</l>
-                   <l n="b">sinduragaurī<lb n="6" break="no"/>ti<space type="feature"/> vibhūṣaṇāya</l>
+                   <l n="b"><persName type="queen">sinduragaurī</persName><lb n="6" break="no"/>ti<space type="feature"/> vibhūṣaṇāya</l>
                    <l n="c">Aneka-tārā-kula-saṁkulasya</l>
                    <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas-talasya</l></lg><lb n="7"/><lg n="6" met="indravajrā">
                    <l n="a">sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
                    <l n="b">jāta<supplied reason="omitted">ḥ</supplied> <choice><sic>sva</sic><corr>su</corr></choice>taḥ kalpa-tar<choice><sic>u</sic><corr>ū</corr></choice>pameyaḥ</l>
-                   <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName>janamejayo</persName></rs><lb n="8"/>’sminn</l>
+                   <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejayo</persName></rs><lb n="8"/>’sminn</l>
                    <l n="d">ekaḥ śriyo vāsa Iti prasiddhaḥ</l>
 </lg><lg n="7" met="upendravajrā">
                    <l n="a">tasyāṁ viśuddhātmani mātarītthaṁ</l>
@@ -175,7 +176,7 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
 </lg>
                 <p>kṛta-yugā<lb n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
             <pb n="2r"/>
-     <lb n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-nisvana-bhavanodyāna-kalāpi-kula-sa<lb n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so ’yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-maheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rājadevaḥ</roleName></rs> kuśalī<lb n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati<supplied reason="omitted">.</supplied> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
+     <lb n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb n="14" break="no"/>-talāhata-gambhīra-muraja-ravākarṇṇana-sambhāvita-ghana-nisvana-bhavanodyāna-kalāpi-kula-sa<lb n="15" break="no"/>tata-pravṛtta-nṛtya-ramaṇīyān mahā-kaṭaka-varāt suvarṇṇapurāT so ’yaṁ <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājā<lb n="16" break="no"/>dhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārā<lb n="17" break="no"/>jādhi<space type="feature"/>rāja</roleName>-somakula-tilaka-tṛkaliṅgādhipati-<roleName>śrī</roleName>-<persName type="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb n="18"/>nandī<space type="feature"/>-taṭa-viṣaya-prativaddha-konnayillā-grāme brāhmaṇā<supplied reason="omitted">n</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya yathā-kālādhyāsinaḥ sa<lb n="19" break="no"/>mā<space type="feature"/>hartṛ-sannidhātṛ-dāṇḍapāśika-vetrikāvarodha-jana-rāja-vallabhādi-cāṭa-bhaṭa-jātīyā<lb n="20" break="no"/>n<surplus>a</surplus> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati<supplied reason="omitted">.</supplied> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-<choice><sic>va</sic><corr>bā</corr></choice>dhā<lb n="21" break="no"/>-vivarjjitaḥ sarvva-karādāna-sametaḥ pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ 
                    <lg n="8" met="sragdhāra">
                    <l n="a">sarvvā<choice><sic>t</sic><corr>n</corr></choice> vedān adhītyāmalata<lb n="22" break="no"/>ra-matinā samyag-arthais tad-arthair yair</l>
                    <l n="b">cirāt tuṣ<surplus>ṭī</surplus>yamānair mmakha-śata-vidhinā jīva-lokaṁ pavitraṁ</l>
