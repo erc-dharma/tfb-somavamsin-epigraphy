@@ -113,7 +113,7 @@
 <lb 
 n="1"/><ab><g type="spiralL"/></ab>
         <lg n="1" met="śārdūlavikrīḍita">
-              <l n="a">jyotsnā-śāli-samṛddhi-bhūḥ kumudinī-hāsaika-sampādanā</l>
+              <l n="a">jyotsnā-śāli-samṛddhi-bhūḥ kumudinī-hāsaika<!-- kāsaika soma38 -->-sampādanā</l>
               <l n="b">-dhūrtto dhūrjjati-mauli-sau<lb 
 n="2" break="no"/>dha-vasatiḥ pīyūṣa-dhārā-gṛhaṁ<g type="danda">.</g></l> 
               <l n="c">tārāntaḥ-pura-nāyako rati-pateḥ śastraika-<choice><sic>s</sic><corr>ś</corr></choice>āṇopalaḥ</l> 
@@ -150,7 +150,7 @@ n="10"/>sphītāś cam<choice><sic>u</sic><corr>ū</corr></choice>-reṇavaḥ<g
             <l n="b">prāgambhodhi-ta<lb 
 n="11" break="no"/>ṭī-vaneṣ<choice><sic>a</sic><corr>u</corr></choice> kaṭake pūrvvetarakṣṃābhṛtaḥ<g type="danda">.</g></l> 
            <l n="c">yasyottāmyad-arāti-rāja-yuvatī-niśvāsa-jhañjhā<lb 
-n="12" break="no"/>nilā</l>
+n="12" break="no"/>nilā</l><!-- soma38 Shastri suggests ni<supplied reason="omitted">ḥ</supplied>śvāsa + bhuñjhanila in soma38 + jhañjhānila short a in Soma15 -->
            <l n="d">-vyāsaṅga-svanad-antarāla-mukharair ggītaṁ yaśaḥ kīcakaiḥ<g type="ddanda">.</g></l>
 </lg> 
       <lg n="6" met="śārdūlavikrīḍita">
@@ -181,7 +181,7 @@ n="18"/><supplied reason="subaudible">ja-ro</supplied>ciḥ<g type="danda">.</g>
 <lb 
 n="19"/>
       <lg n="9" met="upajāti">
-          <l n="a">bhaṭair avaṣṭavdham idaṁ narendrai</l>
+          <l n="a">bhaṭair avaṣṭavdham idaṁ narendrai<supplied reason="omitted">ḥ</supplied></l>
           <l n="b">rāṣṭradvayaṁ ko<choice><sic>ṣ</sic><corr>s</corr></choice>alam utkalañ ca<g type="danda">.</g></l> 
           <l n="c">A-kaṇṭakaṁ sādhayataḥ samantād</l> 
           <l n="d">bh<choice><sic>ū</sic><corr>u</corr></choice>ja-dva<lb 
@@ -421,6 +421,10 @@ n="68" break="no"/>śaṅkhukena tāmra-śāsanam idam utkīrṇṇam iti<suppli
                      <lem source="bib:Debala1961-1962_01">pūrvvetarakṣṃā°</lem>
                      <rdg source="bib:Shastri1995_02">p<choice><sic>u</sic><corr>ū</corr></choice>rvvetarakṣṃā°</rdg>
                   </app>
+                  <app loc="19">
+                     <lem>narendrai<supplied reason="omitted">ḥ</supplied></lem>
+                     <rdg source="bib:Debala1961-1962_01 bib:Shastri1995_02">narendrai</rdg>
+                  </app>
                   <app loc="26">
                      <lem source="bib:Debala1961-1962_01">°sunāsīra°</lem>
                      <rdg source="bib:Shastri1995_02">°sunā<choice><sic>s</sic><corr>ś</corr></choice>īra°</rdg>
@@ -528,7 +532,8 @@ n="59"/>ta-</rdg>
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">2077</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1957-1958"/><citedRange unit="entry">35</citedRange><citedRange unit="page">17</citedRange></bibl>
               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">949</citedRange></bibl>
-              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">254-255</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">254-255</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">280</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
