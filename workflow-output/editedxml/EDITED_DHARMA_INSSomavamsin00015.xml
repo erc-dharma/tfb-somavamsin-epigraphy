@@ -124,7 +124,7 @@
             <!--edition encoded as per EGD §§2−7-->
             <pb n="1v"/>
 <lb n="1"/><lg n="1" met="śārdūlavikrīḍita">
-   <l n="a">jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31 -->ddhi-bhu<!-- ū soma31 -->ḥ kumudinī-hāsaika-sampā<lb n="2" break="no"/>danā</l>
+   <l n="a">jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31+38 -->ddhi-bhu<!-- ū soma31+38-->ḥ kumudinī-hāsaika<!-- kāsaika soma38 -->-sampā<lb n="2" break="no"/>danā</l>
    <l n="b">dhūrtto <choice><sic>dhṛja</sic><corr>dhūrja</corr></choice>ṭi<!-- dhūrjjati soma31 -->-mauli-saudha-va<supplied reason="omitted">sa</supplied>tiḥ pīyū<choice><sic>s</sic><corr>ṣ</corr></choice>a-dhārā-gṛhaṁ<g type="danda">.</g></l>
    <l n="c">tārānta<supplied reason="omitted">ḥ</supplied>-pu<lb n="3" break="no"/>ra-nāyako rati-pateḥ śastraikaśā<choice><sic>n</sic><corr>ṇ</corr></choice>opalaḥ</l> 
    <l n="d">kṣīrodārṇṇava<lb n="4" break="no"/>-nandano vijayate devaḥ suddhādīdhitiḥ<g type="ddanda">.</g></l>
@@ -150,7 +150,7 @@
                <lg n="5" met="śārdūlavikrīḍita">
                   <l n="a">se<lb n="13" break="no"/>tūpānta-vanāntare himavataḥ pa<supplied reason="omitted">r</supplied>yanta-bhūsīmani</l> 
                   <l n="b">prāgambhodhi-taṭī-vaneṣu kaṭa<lb n="14" break="no"/>ke pūrvvetarakṣṃābhṛtaḥ<supplied reason="omitted">.</supplied></l> 
-                  <l n="c">yasyottāmyad-arāti-rāja-yuvatī-ni<supplied reason="omitted">ḥ</supplied>śvāsa-jhañjhānila<!-- niśvāsa-jhañjhānilā soma31 --></l>
+                  <l n="c">yasyottāmyad-arāti-rāja-yuvatī-ni<supplied reason="omitted">ḥ</supplied>śvāsa-jhañjhānila<!-- niśvāsa soma31 + soma38 Shastri suggests ni<supplied reason="omitted">ḥ</supplied>śvāsa + Caution jhañjhānila the final a is shor here but long in Soma31+38 --></l>
                   <l n="d"><lb n="15"/>vyāsaṅga-svanad-antarāla-mukharair ggītaṁ yaśaḥ k<choice><sic>i</sic><corr>ī</corr></choice>cakaiḥ<g type="ddanda">.</g></l>
 </lg>
                <lg n="6" met="śārdūlavikrīḍita">
@@ -583,7 +583,8 @@ amwb : Sircar 71
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">2076</citedRange></bibl>
-              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">147-148</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">147-148</citedRange></bibl>
+               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">272</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
