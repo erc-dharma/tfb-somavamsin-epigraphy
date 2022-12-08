@@ -395,7 +395,7 @@ amwb : Sircar 71
                   <app loc="22">
                      <lem source="bib:Rajaguru1966_01">°ratnāṁ śumalita-<supplied reason="omitted">su</supplied>pāda°</lem>
                      <rdg source="bib:Shastri1995_02">°ratn<choice><sic>ān su</sic><corr>ṁ śu</corr></choice>malita-pāda°</rdg>
-                     <note>In note, <bibl><ptr target="bib:Shastri1995_02"/></bibl> reports the metrical problem and suggests reading <foreign>sammilita</foreign>°. In <ref><ptr target="DHARMA_INSSomavamsin00031.xml"/></ref>, the reading is °<foreign>ratnātsumātsalita-pāda</foreign>°.</note>
+                     <note>In note, <bibl><ptr target="bib:Shastri1995_02"/></bibl> reports the metrical problem and suggests reading <foreign>sammilita</foreign>°. In <ref target="DHARMA_INSSomavamsin00031.xml">Somavamsin 31</ref>, the reading is °<foreign>ratnātsumātsalita-pāda</foreign>°.</note>
                   </app>
                   <app loc="25">
                      <lem source="bib:Shastri1995_02">tasya tataḥ</lem><!-- as in Soma31 -->

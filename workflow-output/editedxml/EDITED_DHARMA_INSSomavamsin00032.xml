@@ -4,8 +4,7 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -209,7 +208,7 @@ amwb : Sircar 71 sat? in pāda d adds here
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">318</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">281</citedRange></bibl>/&gt;<!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">281</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
