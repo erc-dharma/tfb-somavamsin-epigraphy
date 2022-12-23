@@ -150,7 +150,7 @@ amwb on the photo it seems to have one or two circles (visarga) after ṅku, so 
                    <l n="d"><rs type="masc"><persName type="king" ref="PSN01000">svabhāvatuṅgaḥ</persName></rs> sa nṛpo vabhūva</l></lg>
                    <lg n="3" met="vaṁśastha">
                    <l n="a">nṛpa<lb n="4" break="no"/>sya tasyāri-vadh<choice><sic>u</sic><corr>ū</corr></choice>-kadamvaka</l>
-                   <l n="b">-staneṣu sampātayato ’<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></l>
+                   <l n="b">-staneṣu sampātayato ’stra-jālaka<supplied reason="omitted">ṁ</supplied></l>
                    <l n="c"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
                    <l n="d"><seg met="-+-++--+-+-="><gap reason="omitted"/></seg></l>
                    </lg>
@@ -304,6 +304,10 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                      <lem source="bib:Tripathy2000_01">-kadamvaka-</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">-kadamvaja-</rdg>
                   </app>
+                  <app loc="4">
+                     <lem>’stra-jālaka<supplied reason="omitted">ṁ</supplied></lem>
+                     <rdg source="bib:Shastri+Tripathy2011_01">’<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></rdg>
+                  </app><!-- finally I'm not convinced by the correction suggested by Shastri+Tripathy2011_01; I found no compound aśrujālaka in my electronic texts , only the compound aśrujāla while I found one occurrence of astrajālaka -->
                   <app loc="4">
                      <lem>-vapur vvidhāri</lem>
                      <rdg source="bib:Shastri+Tripathy2011_01">-vapur vidhāri</rdg>
@@ -556,8 +560,8 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                    The king from the lineage of Soma whose tree of enemies was totally burnt by the fire of his power and whose vigorous courage never left him here on earth was called Svabhāvatuṅga.
                 </p>
                 <p n="3" rend="stanza">
-                   The 2 <supplied reason="omitted">powerful arms?</supplied> of this king caused a flood of tears in the midst of the breasts of the multitude of wives of the enemies <gap reason="omitted"/>.
-                </p>
+                  In the heart of the many wives of his enemies, the two <supplied reason="omitted" cert="low">powerful arms</supplied> of this king rained down a stream of arrows  <gap reason="omitted"/>.
+                </p><!-- First translation with Tripathy correction : The 2 <supplied reason="omitted">powerful arms?</supplied> of this king caused a flood of tears in the midst of the breasts of the multitude of wives of the enemies -->
                 <p n="4" rend="stanza">
                  <gap reason="omitted"/> he who possesses the body of those from the great lineages <gap reason="omitted"/> the earth, like the one held firmly by the arms of the earth bearer Hari, shines.
                 </p>
@@ -649,13 +653,13 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                    Le roi issu de la lignée de Soma dont l’arbre des ennemis fut totalement brûlé par le feu de sa puissance et dont le vigoureux courage ne fit jamais défaut ici-bas, s’appelait Svabhāvatuṅga. 
                 </p>
                 <p n="3" rend="stanza">
-                   Les deux <supplied reason="omitted">puissants bras?</supplied> de ce roi ont provoqué un flot de larmes au milieu des seins de la multitude des épouses des ennemis <gap reason="omitted"/>.
-</p>
+                   Au coeur des nombreuses épouses de <supplied reason="explanation">ses</supplied> ennemis, ses deux <supplied reason="omitted">puissants bras?</supplied> de ce roi firent pleuvoir un flot de flèches <gap reason="omitted"/>.
+</p><!-- Première traduction avec la correction proposée par Tripathy :  Les deux ⟨puissants bras?⟩ de ce roi ont provoqué un flot de larmes au milieu des seins de la multitude des épouses des ennemis -->
                 <p n="4" rend="stanza">
                    <gap reason="omitted"/> lui qui possède le corps de ceux issus des grandes lignées <gap reason="omitted"/>
-la terre, telle celle tenue fermement par les bras de Hari le support de la terre, resplendit.</p>
+la terre, telle celle tenue fermement par les bras de Hari, lui le support de la terre, resplendit.</p>
                 <p n="5" rend="stanza">
-                   Parfaitement assortie à lui, sa vertueuse épouse du nom de Sindūragaurī <supplied reason="explanation"><q>celle à l’éclat vermillon</q></supplied> était par son ornement telle le trait d’un rayon clair de lune à la surface du ciel constellé de milliers d’étoiles
+                   Parfaitement assortie à lui, sa vertueuse épouse du nom de Sindūragaurī <supplied reason="explanation"><q>celle à l’éclat vermillon</q></supplied> était par son ornement telle le trait d’un rayon clair de lune à la surface du ciel constellé de milliers d’étoiles.
                 </p>
                 <p n="6" rend="stanza">
                    De ce <supplied reason="omitted">roi</supplied> qui s’élève au-dessus de tout telle la meilleure des montagnes enneigées, de ce <supplied reason="omitted">roi</supplied> qui a obtenu la fin des renaissances <supplied reason="explanation"><foreign>A-janmanaḥ</foreign></supplied>, est né un fils pareil à un arbre à souhait, Sa Majesté Janamejaya, connu comme étant l’unique demeure de la Fortune.
