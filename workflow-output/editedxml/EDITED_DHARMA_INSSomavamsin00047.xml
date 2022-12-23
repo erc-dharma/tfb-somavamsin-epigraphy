@@ -254,7 +254,7 @@ amwb : Sircar 29
                <l n="a">harate hāray<choice><sic>eta</sic><corr>ed</corr></choice><lb n="60"/>yas tu</l>
                <l n="b">manda-vuddhi<supplied reason="omitted">s</supplied> tamo-vṛtaḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa vaddho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
-               <l n="d">pā<sic>sai</sic><corr>śais</corr> tirya<choice><sic>k</sic><corr>g</corr></choice>-yon<choice><sic>iṣu</sic><corr>iṁ</corr></choice> sa gacchati<g type="danda">.</g></l><!-- 
+               <l n="d">pā<choice><sic>sai</sic><corr>śais</corr></choice> tirya<choice><sic>k</sic><corr>g</corr></choice>-yon<choice><sic>iṣu</sic><corr>iṁ</corr></choice> sa gacchati<g type="danda">.</g></l><!-- 
     amwb : Sircar 64
     -yoniṁ ca  is the reading in Sircar Bhumi stanzas  
     -->
@@ -342,7 +342,8 @@ amwb : Sircar 71
 				<bibl n="T"><ptr target="bib:Tripathy2005_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">168-169</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="entry">35</citedRange><citedRange unit="page">271-272</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

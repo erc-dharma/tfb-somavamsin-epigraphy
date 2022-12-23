@@ -146,19 +146,22 @@
     amwb: Sircar 23
     --></lg>
 <lg n="2" met="anuṣṭubh">
-    <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l><lb n="34"/><l n="b">para-datteti pārthivāḥ</l>
+    <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
+   <l n="b"><lb n="34"/>para-datteti pārthivāḥ</l>
     <l n="c">sva-dānāt phalam ānantyaṁ</l>
     <l n="d">para-dattānupālane<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 85
     -->
-</lg><lb n="35"/><lg n="3" met="anuṣṭubh">
-    <l n="a">ṣaṣṭhi<supplied reason="omitted">ṁ</supplied> varṣasahasrāṇi</l>
+</lg>
+                <lg n="3" met="anuṣṭubh">
+    <l n="a"><lb n="35"/>ṣaṣṭhi<supplied reason="omitted">ṁ</supplied> varṣasahasrāṇi</l>
     <l n="b">svargge modati bhūmidaḥ<g type="danda">.</g></l>
     <l n="c">Ākṣeptā cānuma<lb n="36" break="no"/>ntā ca</l>
     <l n="d">tāny eva narake vaseT<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 123
     -->
-</lg><lg n="4" met="indravajrā">
+</lg>
+                <lg n="4" met="indravajrā">
     <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ</l>
     <l n="b">bhūr vvaiṣṇa<lb n="37" break="no"/>vī sūrya-sutāś ca gāvaḥ</l>
     <l n="c">yaḥ kāñcanaṁ gāñ ca mahīñ ca dadyād</l>
@@ -167,14 +170,15 @@
     --></lg>
  <lg n="5" met="anuṣṭubh">
      <l n="a">Āsphoṭayanti pitaraḥ</l>
-                <pb n="3r"/>
-<lb n="39"/><l n="b">pravalg<surplus>ay</surplus>anti pitāmahā<supplied reason="omitted">ḥ</supplied></l>
+     <l n="b"><pb n="3r"/>
+<lb n="39"/>pravalg<surplus>ay</surplus>anti pitāmahā<supplied reason="omitted">ḥ</supplied></l>
      <l n="c">bhūmi-dātā kule jātaḥ</l>
      <l n="d">sa nas trātā bhaviṣyati</l><!-- 
      amwb : Sircar 20
      -->
-</lg><lb n="40"/><lg n="6" met="anuṣṭubh">
-    <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+</lg>
+                <lg n="6" met="anuṣṭubh">
+    <l n="a"><lb n="40"/>bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
     <l n="c">Ubhau tau puṇya-karmmāṇau</l>
     <l n="d">niya<lb n="41" break="no"/>taṁ svargga-gāminau<g type="ddanda">.</g></l><!-- 
@@ -196,34 +200,40 @@ amwb : Sircar 29
     <l n="d">pāśais tiryag-yoniñ ca gacchati<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 64
     -->
-</lg><lg n="9" met="anuṣṭubh">
-   <l n="a">suvarṇṇam ekaṁ gām ekāṁ</l><lb n="44"/><l n="b">bhūmer apy arddham aṅgulaṁ</l>
+</lg>
+                <lg n="9" met="anuṣṭubh">
+   <l n="a">suvarṇṇam ekaṁ gām ekāṁ</l>
+   <l n="b"><lb n="44"/>bhūmer apy arddham aṅgulaṁ</l>
    <l n="c">haran narakam āyāti</l>
    <l n="d">yāvad ābh<choice><sic>u</sic><corr>ū</corr></choice>ta-saṁplavaṁ<g type="ddanda">.</g></l><!-- 
    amwb Sircar 55 unmetrical due to the omissions in the two first pādas 
    -->
-</lg><lg n="10" met="anuṣṭubh">
+</lg>
+                <lg n="10" met="anuṣṭubh">
     <l n="a">sva-dattāṁ pa<lb n="45" break="no"/>ra-dattām vā</l>
     <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasundharāṁ<g type="ddanda">.</g></l>
    <l n="c">sa viṣṭhāyā<unclear>ṁ</unclear> kṛmir bhūtvā</l>
     <l n="d">pacyate pitṛ<lb n="46" break="no"/>bhiḥ saha<surplus>ḥ</surplus><g type="ddanda">.</g></l><!-- 
     amwb : Sircar 132 change in d inversion verb and complement
     -->
-</lg><lg n="11" met="anuṣṭubh">
+</lg>
+                <lg n="11" met="anuṣṭubh">
     <l n="a">Ādityo varuṇo viṣṇuḥ</l>
     <l n="b"><choice><sic>vva</sic><corr>bra</corr></choice>hmā somo hutāśanaḥ</l>
-     <l n="c">śul<surplus>a</surplus><lb n="47" break="no"/>pāṇis tu bhagavāN</l>
+     <l n="c">śūla<lb n="47" break="no"/>pāṇis tu bhagavāN</l>
      <l n="d">abhinandanti bhūmidaṁ<g type="ddanda">.</g></l><!-- 
-     amwb : Sircar 4
+     amwb : Sircar 4 in pāda c here tu , ca in Sircar
      -->
-</lg><lg n="12" met="śālinī">
+</lg>
+                <lg n="12" met="śālinī">
     <l n="a">sāmānyo ’yaṁ dharmma-setur nṛpāṇāṁ</l>
     <l n="b">kā<lb n="48" break="no"/>le kāle pālanīyo bhavadbhiḥ</l>
     <l n="c">sarvvān etāN bhāvinaḥ pārthivendrāN&gt;</l>
    <l n="d">bhūyo bhū<lb n="49" break="no"/>yo yācate rāmacandraḥ<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 117 only one different reading at the end of the pāda c
     -->
-</lg><lg n="13" met="puṣpitāgrā">
+</lg>
+                <lg n="13" met="puṣpitāgrā">
     <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
     <l n="b">śriyam anucintya<lb n="50"/>manuṣya-jīvitaṁ ca</l>
     <l n="c">sa-kalam idam udāhṛtañ ca vuddhvā</l>
@@ -312,10 +322,6 @@ amwb : Sircar 71
                   <app loc="42">
                      <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
                      <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
-                  </app>
-                  <app loc="46">
-                     <lem>śul<surplus>a</surplus>°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">śula°</rdg>
                   </app>
                   <app loc="48">
                      <lem>pārthivendrā<supplied reason="omitted">n</supplied></lem>
