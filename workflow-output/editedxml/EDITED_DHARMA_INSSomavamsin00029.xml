@@ -122,7 +122,7 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <!-- amwb For the moment it is Shastri's edition -->
-             <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" ref="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijayarājye samvaT <num value="18">18</num><lb n="2"/>śrī-Ārya-saṁgha-prativaddha-graha-kula-vinirggata-deśī-gaṇa-Ācārya śrī-kula-candra<lb n="3" break="no"/>bhaṭṭarakasya tasya śiṣyasu bhacandrasya</p>
+             <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" ref="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijaya-rājye samvaT <num value="18">18</num><lb n="2"/>śrī-Ārya-saṁgha-prativaddha-graha-kula-vinirggata-deśī-gaṇa-Ācārya-śrī-kulacandra<lb n="3" break="no"/>-bhaṭṭārakasya tasya śiṣya-subhacandrasya</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

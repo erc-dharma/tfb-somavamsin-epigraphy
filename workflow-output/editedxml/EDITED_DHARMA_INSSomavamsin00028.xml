@@ -104,6 +104,8 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2023-01-11" who="part:amwb" status="draft">Check the text of the third plate from an artefact availabalble on the Indoskript website</change>
+         <change when="2022-12-23" who="part:amwb" status="draft">Draft of translation</change>
          <change when="2022-08-18" who="part:amwb" status="draft">Implementation of some persName-tags without reference numbers</change>
          <change who="part:amwb" when="2022-07-19">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -130,7 +132,7 @@
             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
             <pb n="1v"/>
             <p>
-            <lb n="1"/>Oṁ<!-- express with a symbol looking like 3 according to Shastri For the moment I have encoded the text edited by rajaguru and I have to compare with Shastri's edition--> nama<supplied reason="omitted">ḥ</supplied> śivāya<g type="ddanda">.</g> svasti<supplied reason="omitted">.</supplied> kisarakellā-samāvāsita-mahā-vijaya<lb n="2" break="no"/>-kaṭakāt <roleName>parama-māheśvara</roleName>-mātā-pitṛ-pādānudhyāta-<roleName>mahārājādhirā<lb n="3" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-somakula-tilaka-<roleName>trikaliṅgādhipa<lb n="4" break="no"/>ti</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> pṛthurābhukty-anta<supplied reason="omitted">ḥ</supplied>-pā<lb n="5" break="no"/>tiliñjira-grāme brāhmaṇāN saṁpūjya tat-pratinivāsikuṭumbhinaḥ samā<lb n="6" break="no"/>hartṛ-sannidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-cāṭa-bhaṭa-rājavalabhādi<choice><sic>t sa</sic><corr>n sa</corr></choice>rvvā<supplied reason="omitted">N</supplied> samā<lb n="7" break="no"/>jñāpayati viditam astu bhavatāṁ yathasmābhis sanidhiḥ sopanidhi<supplied reason="omitted">ḥ</supplied><lb n="8"/>sadaśāparādho niṣaddha-cāṭa-bhaṭa-praveśaḥ sarvvopari<supplied reason="omitted">ka</supplied><lb n="9" break="no"/><supplied reason="omitted">ri</supplied>-karakarādāna-sameta<supplied reason="omitted">ḥ</supplied> sarvvapīḍāparivarjjitaḥ kapi
+            <lb n="1"/>Oṁ<!-- "express with a symbol looking like 3 according to Shastri For the moment I have encoded the text edited by rajaguru and I have to compare with Shastri's edition--> nama<supplied reason="omitted">ḥ</supplied> śivāya<g type="ddanda">.</g> svasti<supplied reason="omitted">.</supplied> kisarakellā-samāvāsita-mahā-vijaya<lb n="2" break="no"/>-kaṭakāt <roleName>parama-māheśvara</roleName>-mātā-pitṛ-pādānudhyāta-<roleName>mahārājādhirā<lb n="3" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-somakula-tilaka-<roleName>trikaliṅgādhipa<lb n="4" break="no"/>ti</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> pṛthurābhukty-anta<supplied reason="omitted">ḥ</supplied>-pā<lb n="5" break="no"/>tiliñjira-grāme brāhmaṇāN saṁpūjya tat-pratinivāsikuṭumbhinaḥ samā<lb n="6" break="no"/>hartṛ-sannidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-cāṭa-bhaṭa-rājavalabhādi<choice><sic>t sa</sic><corr>n sa</corr></choice>rvvā<supplied reason="omitted">N</supplied> samā<lb n="7" break="no"/>jñāpayati viditam astu bhavatāṁ yathasmābhis sanidhiḥ sopanidhi<supplied reason="omitted">ḥ</supplied><lb n="8"/>sadaśāparādho niṣaddha-cāṭa-bhaṭa-praveśaḥ sarvvopari<supplied reason="omitted">ka</supplied><lb n="9" break="no"/><supplied reason="omitted">ri</supplied>-karakarādāna-sameta<supplied reason="omitted">ḥ</supplied> sarvvapīḍāparivarjjitaḥ kapi
                 <pb n="2r"/>
                <lb n="10" break="no"/>ṣṭhallagotrāya Ek<choice><sic>ā</sic><corr>a</corr></choice>rṣ<choice><sic>e</sic><corr>i</corr></choice>vaśiṣṭha-pravarāya maitrāy<choice><sic>i</sic><corr>a</corr></choice>ṇīśā<lb n="11" break="no"/>khādhyāyine madhya-deśa-madhuravinirggat<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ya</supplied> Ullakheṭavāsta<lb n="12" break="no"/>vya-bhaṭṭa-brāhmaṇāya cakradhara-sutāya siṁ<surplus>g</surplus>ha-saṅkrāntau mātā<lb n="13" break="no"/>pitror ātmanaś<!-- rajaguru atmataśca --> ca puṇyābhivṛddhaye salila<surplus>d</surplus>dhārāpuraḥsa<lb n="14" break="no"/>reṇacandratārakāka-kṣiti-talasamakāl<choice><sic>o</sic><corr>a</corr></choice><supplied reason="omitted">m u</supplied>pabhoktu<choice><sic>ntāmba</sic><corr>ṁ tāmra</corr></choice><lb n="15"/>śāsanenākarīkṛtya pratipādityo ’yam ity avagatya sa<lb n="16" break="no"/>mucita-bhogakarahiraṇyā<supplied reason="omitted">di</supplied>kam upanayadbhir bhavadbhiḥ
                 <pb n="2v"/>
@@ -157,38 +159,38 @@
                <l n="c">Ubhau tau
                   <pb n="3r"/>
                   <lb n="24"/>puṇya-karmmāṇau</l>
-               <l n="d">n<choice><sic>ī</sic><corr>i</corr></choice>yat<choice><sic>au</sic><corr>aṁ</corr></choice> svarga-gām<choice><sic>ī</sic><corr>i</corr></choice>nau<g type="ddanda">.</g></l><!-- 
+               <l n="d">n<choice><sic>ā</sic><corr>i</corr></choice>yat<choice><sic>au</sic><corr>aṁ</corr></choice> svar<space type="binding-hole"/>gga-gām<choice><sic>ī</sic><corr>i</corr></choice>nau<g type="ddandaStrokeLeft">.</g></l><!-- 
 amwb : Sircar 29 
 -->
 </lg>
             <lg n="4" met="anuṣṭubh">
-               <l n="a">ṣaṣṭhiṁ varṣa<lb n="25" break="no"/>-sahasrāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
-               <l n="b">svargge modati bhūm<choice><sic>ī</sic><corr>i</corr></choice>daḥ</l>
+               <l n="a">ṣaṣṭim varṣa<lb n="25" break="no"/>-sahasrāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
+               <l n="b">svargge modati<space type="binding-hole"/> bhūm<choice><sic>ī</sic><corr>i</corr></choice>daḥ</l>
                <l n="c">Ācchet<surplus>v</surplus>ā cānuma<lb n="26" break="no"/>ntā ca</l><!-- for the first time Ācchetā instead of Ākṣeptā -->
-               <l n="d">tā<choice><sic>veva</sic><corr>ny eva</corr></choice> narake vaset<g type="ddanda">.</g></l><!-- 
+               <l n="d">tā<choice><sic>verā</sic><corr>ny eva</corr></choice> narake vaseT<g type="ddandaStrokeLeft">.</g></l><!-- 
     amwb : Sircar 123
     -->
 </lg>
             <lg n="5" met="anuṣṭubh">
-               <l n="a">suvarṇṇam ekāṁ gām ekāṁ</l>
-               <l n="b">bhūmer apy a<lb n="27"/>rddham aṅgula<choice><sic>N</sic><corr>ṁ</corr></choice></l>
+               <l n="a">suvarṇṇam ek<choice><sic>a</sic><corr>āṁ</corr></choice> gām ekām</l>
+               <l n="b">bhūmer apy a<lb n="27"/>rddham aṅgula<choice><sic>n</sic><corr>ṁ</corr></choice></l>
                <l n="c">haran <supplied reason="omitted">n</supplied>arakam āyāti</l><!-- āyāti instead of āpnoti -->
-               <l n="d">yāvad ā<supplied reason="omitted">b</supplied>hūta-saṁplavaM<g type="ddanda">.</g></l><!-- 
+               <l n="d">yāvad ābhūta-samplavaM<g type="ddandaStrokeLeft">.</g></l><!-- 
    amwb Sircar 55 
    -->
 </lg>
             <lg n="6" met="indravajrā">
-                   <lb n="28"/><l n="a">Agner apatyam prathamaṁ suvarṇṇaṁ</l>
+                   <lb n="28"/><l n="a">Agner apatyam prathamaṁ suvarṇṇam</l>
                    <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāv<choice><sic>o</sic><corr>aḥ</corr></choice></l>
                    <lb n="29"/><l n="c">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice></l>
                    <l n="d">ya<choice><sic>ṣ</sic><corr>ḥ</corr></choice> kāñcanaṁ gāñ ca mahīñ ca dadyā<lb n="30"/>t<supplied reason="omitted">.</supplied></l><!-- 
     amwb : Sircar 5  
     --></lg>
             <lg n="7" met="śālinī">
-               <l n="a">sāmānyo’ya<choice><sic>n</sic><corr>ṁ</corr></choice> dharmma-settu<supplied reason="omitted">r</supplied> nṛpāṇāṁ</l>
+               <l n="a">sāmānyo’ya<choice><sic>n</sic><corr>ṁ</corr></choice> dharma-settu<supplied reason="omitted">r</supplied> nṛpāṇāṁ</l>
                <l n="b">kāle kāle pālanīyo bhavadbhiḥ</l>
-               <l n="c"><lb n="31"/>sarvvān<surplus>n</surplus> etā<choice><sic>m</sic><corr>n</corr></choice> bhāv<choice><sic>ī</sic><corr>i</corr></choice>naḥ pa<supplied reason="omitted">r</supplied>thivendrā<supplied reason="omitted">N</supplied></l><!-- bhūpatīndrān in soma2 -->
-               <l n="d">bhūyo bhūyo yācate rāmabhadraḥ</l><!-- 
+               <l n="c"><lb n="31"/>sarvvān<surplus>n</surplus> etā<choice><sic>m</sic><corr>n</corr></choice> bhāv<choice><sic>ī</sic><corr>i</corr></choice>naḥ pa<supplied reason="omitted">r</supplied>thivendrā<supplied reason="omitted">N</supplied><g type="ddandaStrokeLeft">.</g></l><!-- bhūpatīndrān in soma2 -->
+               <l n="d">bhūyo bhūyo yācate rāmabhadraḥ<g type="dandaStrokeLeft">.</g></l><!-- 
              amwb : Sircar 117 rāmacandraḥ in soma2
                 -->
 </lg>
@@ -196,20 +198,48 @@ amwb : Sircar 29
                <lb n="32"/><l n="a">Iti kamala-dalāmbu-vindu-lolā<supplied reason="omitted">ṁ</supplied></l>
                <l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>yam anucintya manuṣya-jīvitañ ca</l>
                <l n="c">sa-ka<lb n="33" break="no"/>lam idam udāhṛtañ ca vu<supplied reason="omitted">d</supplied>dhvā</l>
-               <l n="d">na hi puruṣaiḥ parakīrttayo vilopy<sic>a</sic><corr>āḥ</corr><g type="danda">.</g></l><!-- 
+               <l n="d">na hi puruṣaiḥ parakīrttayo vilopy<sic>a</sic><corr>āḥ</corr><g type="ddandaStrokeLeft">.</g><g type="floretQuatrefoil">.</g><g type="ddandaStrokeLeft">.</g></l><!-- 
                 amwb : Sircar 71
                -->
 </lg><p>
-         pravarddhamā<lb n="34"/>na-vijayarājya-samvatsare ekādaśamo bhādrapadavadi<surplus>dī</surplus>na <supplied reason="subaudible"><num value="6">6</num></supplied><supplied reason="omitted">.</supplied> <roleName>mahāsandh<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">vi</supplied>grahīka</roleName>-<roleName>śrī</roleName><lb n="35" break="no"/>-<persName>rudradattena</persName> <persName>devadattasya</persName> sutena Ayodhyā-pura-vinirggatena<lb n="36"/><surplus>l</surplus>likh<choice><sic>ī</sic><corr>i</corr></choice>tam idaṁ śās<choice><sic>ā</sic><corr>a</corr></choice>na<supplied reason="omitted">M</supplied><g type="danda">.</g><!-- check symbol and add the right encoding for it --><g type="danda">.</g> yadi Ākṣara<supplied reason="omitted">ṁ</supplied>par<choice><sic>ī</sic><corr>i</corr></choice>bhraṣṭaṁ<lb n="37"/>mātrāhīn<choice><sic>as</sic><corr>ā</corr></choice> tu yad <choice><sic>bhe</sic><corr>bhaveT</corr></choice> kṣāntamarahaśī<supplied reason="omitted">r</supplied><!-- I add the correction hīnas=hīnā and the r supplied I understand a compound kṣāntamarāśīḥ this praise which makes apology --> vidvāṅsa kasya na<lb n="38"/>skhalate mana<supplied reason="omitted">ḥ</supplied>
+         pravarddhamā<lb n="34"/>na-vijayarājya-samvatsare ekādaśamo bhādrapadavadi<surplus>dī</surplus>na <supplied reason="subaudible"><num value="6">6</num></supplied><supplied reason="omitted">.</supplied> <roleName>mahāsandh<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">vi</supplied>grahīka</roleName>-<roleName>śrī</roleName><lb n="35" break="no"/>-<persName>rudradattena</persName> <persName>devadattasya</persName> sutena Ayodhyā-pura-vinirggatena<lb n="36"/><surplus>l</surplus>likh<choice><sic>ī</sic><corr>i</corr></choice>tam idaṁ śās<choice><sic>ā</sic><corr>a</corr></choice>na<supplied reason="omitted">M</supplied><g type="ddandaStrokeLeft">.</g><g type="circleConcentric">.</g><g type="danda">.</g> yadi Ākṣara<supplied reason="omitted">ṁ</supplied>par<choice><sic>ī</sic><corr>i</corr></choice>bhraṣṭaṁ<lb n="37"/>mātrāhīn<choice><sic>as</sic><corr>ā</corr></choice> tu yad <choice><sic>bhe</sic><corr>bhaveT</corr></choice> kṣāntamarahaśī<supplied reason="omitted">r</supplied><!-- I add the correction hīnas=hīnā and the r supplied I understand a compound kṣāntamarāśīḥ this praise which makes apology --> vidvāṅsa kasya na<lb n="38"/>skhalate mana<supplied reason="omitted">ḥ</supplied>
 </p>
 </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="24"><!-- update the value of @loc.-->
+                     <lem>n<choice><sic>ā</sic><corr>i</corr></choice>yat<choice><sic>au</sic><corr>aṁ</corr></choice></lem>
+                     <rdg source="bib:Shastri1995_02">n<choice><sic>ī</sic><corr>i</corr></choice>yat<choice><sic>au</sic><corr>aṁ</corr></choice></rdg>
+                  </app>
+                  <app loc="24">
+                     <lem>svargga°</lem>
+                     <rdg source="bib:Shastri1995_02">svarga</rdg>
+                  </app>
+                  <app loc="24">
+                     <lem>ṣaṣṭim va°</lem>
+                     <rdg source="bib:Shastri1995_02">ṣaṣṭhiṁ va°</rdg>
+                  </app>
+                  <app loc="26">
+                     <lem>tā<choice><sic>verā</sic><corr>ny eva</corr></choice></lem>
+                     <rdg source="bib:Shastri1995_02">tā<choice><sic>veva</sic><corr>ny eva</corr></choice></rdg>
+                  </app>
+                  <app loc="26">
+                     <lem>ek<choice><sic>a</sic><corr>āṁ</corr></choice> gām ekām bhū°</lem>
+                     <rdg source="bib:Shastri1995_02">ekāṁ gām ekāṁ bhū</rdg>
+                  </app>
+                  <app loc="27">
+                     <lem>ābhūta</lem>
+                     <rdg source="bib:Shastri1995_02">āhūta</rdg>
+                  </app>
+                  <app loc="28">
+                     <lem>suvarṇṇam</lem>
+                     <rdg source="bib:Shastri1995_02">suvarṇṇaṁ</rdg>
+                  </app>
+                  <app loc="30">
+                     <lem>dharma°</lem>
+                     <rdg source="bib:Shastri1995_02">dharmma°</rdg>
                   </app>
                </listApp>
          </div>
@@ -281,7 +311,7 @@ amwb : Sircar 29
                 <p n="1-4">Salutations! Depuis son glorieux et victorieux champ de bataille établi à  Kisarakellā, le divin roi, le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Mahārājādhirāja, son éminence <supplied reason="explanation">parameśvara</supplied> Paramabhaṭṭāraka, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Mahābhavagupta, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>  considéré avec faveur par Ses respectés père et mère, fervents dévots de Maheśvara,</p>
                 <p n="4-7">après avoir honoré les brahmanes du village nommé Pātiliñjira situé dans la province de Pṛthurā, il instruisit tous les propriétaires résidant en ces lieux en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartṛ</foreign></supplied>, les percepteurs <supplied reason="explanation">saṁnidhārtṛ</supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> ainsi que les proches du roi de la sorte:
 </p>
-                <p n="7-15">Que cela soit porté à votre connaissance: ceci <supplied reason="explanation">cette donation</supplied>, avec et ses dépôts et ses trésors, avec les amendes pour les dix infractions, avec l’interdiction d’intrusion militaire, avec ses prélèvements supplémentaires, sans aucune restriction, je le donne au fils de Cakradhara un noble brahmane appartenant au gotra Kapiṣṭhalla, le meilleur parmi les descendants de l’unique sage Vaśiṣṭha, issu de l’école Maitrāyaṇī, émigré originaire de Madhura situé dans le Madhyadeśa , et ce, à l’occasion de l’entrée du soleil dans la constellation du lion <supplied reason="explanation"><foreign>siṁha</foreign></supplied> et afin d’augmenter le mérite et la gloire de mon père et de ma mère, ainsi que le mien, avec les libations rituelles en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, après l’avoir décrété cette décision grâce à une plaque de cuivre. 
+                <p n="7-15">Que cela soit porté à votre connaissance: ceci <supplied reason="explanation">cette donation</supplied>, avec et ses dépôts et ses trésors, avec les amendes pour les dix infractions, avec l’interdiction d’intrusion militaire, avec ses prélèvements supplémentaires, sans aucune restriction, je le donne au fils de Cakradhara un noble brahmane appartenant au gotra Kapiṣṭhalla, le meilleur parmi les descendants de l’unique sage Vaśiṣṭha, issu de l’école Maitrāyaṇī, émigré originaire de Madhura situé dans le Madhyadeśa, et ce, à l’occasion de l’entrée du soleil dans la constellation du lion <supplied reason="explanation"><foreign>siṁha</foreign></supplied> et afin d’augmenter le mérite et la gloire de mon père et de ma mère, ainsi que le mien, avec les libations rituelles en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, après l’avoir décrété cette décision grâce à une plaque de cuivre. 
 </p>
                 <p n="15-18">Après avoir considéré ceci, grâce à notre acquisition, les récoltes, les dus, les impôts, l’or etc… resteront appropriés facilement et les futurs rois devront protéger ce don fait par nous par considération du Dharma et par respect pour nous, et ce, comme s’il s’agissait de leur propre donation. 
 </p>
@@ -335,6 +365,18 @@ amwb : Sircar 29
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <!-- amwb : caution about the identification of the king  -->
+           <p> According to <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="note">390</citedRange><citedRange unit="page">131</citedRange></bibl>, Kisarakellā seems to correspond with <q>the modern village Kesarakela about 6 miles to the east of Bolangir in the Bolangir district</q>. </p>
+            <!-- 
+            This copper plate is really linked to the Ruchida Plates of Mahābhavagupta, Year 8 INSSOmavamsin00039. Indeed, in addition to share a large part of their text, these two plates present some particular features : 
+            1. First, both of them are attached by a ring whose seal represents a standing bull and a crescent moon. However none of the preserved seals belonging to this dynasty uses this standing bull. For those which the drawing is still legible, one can recognize a woman seated on a lotus and flanked by two elephants. 
+2. Second, these two grants are introduced by a verse paying homage to the deity named Puruṣottama and Śiva.
+3. Third, the issuer refers to his predecessor only with the coronation name without royal titles associated to the predecessor.
+4. Fourth the long compound used in the Somavaṁśin Dynasty and consisting on royal titles + Coronation name of the predecessor  + pādānudhyāta +  Royal titles + coronoation name of the issuer is here replaced by the compound beginning by mātāpitṛpādānudhyāta 
+5. Fifth the dimension of the plate, the palaeography and the disposition of the binding hole are all atypical
+6. And sixth we find a particular prose sentence at the end 
+a final verse craving for the indulgence of the learned readers
+
+Beyond these specific features, these two copper plates are really connected each other because they share a common text and were composed by the same writer Rudradatta -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
