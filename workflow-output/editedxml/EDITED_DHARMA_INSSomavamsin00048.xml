@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lalāṭendukesari’s Cave Inscription of Mahābhavagupta IV Uddyotakesarin, Year 5</title>
+            <title>Navamuni Cave Inscription of Mahābhavagupta Uddyotakesarin</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -34,7 +34,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSSomavamsin00027</idno>
+            <idno type="filename">DHARMA_INSSomavamsin00048</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -44,7 +44,7 @@
                      Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                      California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Amandine
-                     Wattlier-Bricout.</p>
+                     Wattelier-Bricout.</p>
                   <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                </licence>
             </availability>
@@ -105,7 +105,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2022-08-29" who="part:amwb">Creation of the file</change>
+         <change when="2023-03-15" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
    </teiHeader>
@@ -122,57 +122,65 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <!-- amwb shastri and rajaguru combination of the two editions -->
-           <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrī</roleName>-<persName type="king" ref="PSN01002">Udyotakeśarī</persName> vijayarājya-samvaT <num value="5">5</num><lb n="2"/>śrī-<placeName type="naturalPlace" subtype="mountain">kumāra-parvvata</placeName>-sthāne j<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">r</supplied>nna-vāpī-jirnna Isaṇa<lb n="3"/>Udyotita tasmin yāne catur-vinsati tīrtha<supplied reason="omitted">ṁ</supplied> kara<lb n="4" break="no"/>sthāpita pratiṣṭha-kāle hari Aupā jasanandika<lb n="5"/><unclear>nanditadrathā</unclear> śrī-pārasthanāthasya karmmakhayaḥ</p>
-            
+            <lb n="1"/><milestone type="pagelike" unit="zone" n="B"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb n="2"/><milestone type="pagelike" unit="zone" n="B"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb n="3"/><milestone type="pagelike" unit="zone" n="A"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><milestone type="pagelike" unit="zone" n="B"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="1"><!-- update the value of @loc.-->
-                     <lem source="bib:Rajaguru1966_01">°keśarī</lem>
-                     <rdg source="bib:Shastri1995_02">°keśari</rdg>
+               <listApp>
+                  <!-- one <app> for each apparatus entry -->
+                  <app loc="1">
+                     <lem>Ācārya<surplus>ḥ</surplus></lem>
+                     <rdg source="bib:Rajaguru1966 bib:Shastri1995_02">Ācārya°</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem>°candrasya<surplus>ḥ</surplus></lem>
+                     <rdg source="bib:Rajaguru1966_01 bib:Shastri1995_02">candrasya</rdg>
+                  </app>
+                  <app loc="2"><!-- update the value of @loc.-->
+                        <lem>śiṣya-vell<unclear>u</unclear>°</lem>
+                     <rdg source="bib:Rajaguru1966_01">śiṣya-vellu°</rdg>
+                     <rdg source="bib:Banerji1915-1916_01">śiṣya-khalla°</rdg>
+                     <rdg source="bib:Shastri1995_02">śiṣya-racella°</rdg>
                   </app>
                   <app loc="2">
-                     <lem source="bib:Rajaguru1966_01">°j<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">r</supplied>nna°</lem>
-                     <rdg source="bib:Shastri1995_02">°jirnna°</rdg>
+                     <lem>°drasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></lem>
+                     <rdg source="bib:Rajaguru1966_01">°drasya<g type="ddanda">.</g></rdg>
+                     <rdg source="bib:Shastri1995_02">°drasya</rdg>
                   </app>
-                  <app loc="4">
-                     <lem source="bib:Shastri1995_02">pratiṣṭha-kāle</lem>
-                     <rdg source="bib:Rajaguru1966_01">pratiṣṭha-<unclear>kā</unclear>le</rdg>
+                  <app loc="3">
+                     <lem>śrī-vara<unclear>ḥ</unclear>-chātra</lem>
+                     <rdg source="bib:Shastri1995_02">śrī-dhara-chātra</rdg>
+                     <note>This part of the line situated on the left side of the inscription is omitted by <bibl><ptr target="bib:Rajaguru1966_01"/></bibl>. It is seen as an incomplete and another part of the inscription by <bibl><ptr target="bib:Shastri1995_02"/></bibl>. According to him, the two parts seem to be separate and issued by two different donees.</note>
                   </app>
-                  <app loc="4">
-                     <lem source="bib:Shastri1995_02">hari</lem>
-                     <rdg source="bib:Rajaguru1966_01">har<unclear>ri</unclear></rdg>
-                  </app>
-                  <app loc="5">
-                     <lem source="bib:Rajaguru1966_01"><unclear>nanditadrathā</unclear></lem>
-                     <rdg source="bib:Shastri1995_02"><unclear cert="low">knadatidrathā</unclear></rdg>
+                  <app loc="3">
+                     <lem source="bib:Banerji1915-1916_01">chātra vij<supplied reason="omitted">ñ</supplied>o</lem>
+                     <rdg source="bib:Rajaguru1966_01">chātra vijño</rdg>
+                     <rdg source="bib:Shastri1995_02">chātra vi vijo<supplied reason="omitted">.</supplied></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
-            <!-- BANERJEE (given by Panigrahi1981_01 p.138 and given by Rajaguru) In the fitth year of the victorious reign of illustrious Uddyotakeśarī, on the illustrious Kumāra mountain, decayed tanks, and decayed temples were caused to shine, (and) at the place the images of 24 Tīrthaṅkaras were set up. At the time of the dedication… Jasanandi…. in the place (? temple) of the illustrious Pārasyanātha (Pārsvanātha) -->
-            <!-- Panigrahi's translation (Panigrahi1981_01 p.138) : In the year 549 in the victorious reign of Sri Uddyotakesarin the decayed well and decayed tanks were shown (i.e. cleaned) for bathing and drinking, and (the images of) 24 tirthankaras were established (i.e., carved on the walls of the cave ) on the auspicious Kumara parvata. If any heretic causes even damage (to them), such a cheat (will) excite the anger of Sri-Parsvanatha by his act.  -->
+         <div type="translation" resp="part:amwb">
+ 	<!--translation encoded as per EGD §9.2 --><!-- chāttra 'sheltered' pupil scholar  -->
+            <p>
+               Homage! From Subhacandra <supplied reason="explanation">originated from</supplied> Vellu, disciple of the venerable Master Kulacandra.
+            </p>
+            <p>The venerable best of pupils.</p>
+            <p>A learned pupil.</p>
          </div>
          <div type="commentary">
-            <p>According to <bibl><ptr target="bib:Panigrahi1981_01"/><citedRange unit="page">108</citedRange></bibl>, there are two other digits engraved after the five: a four and a nine. Since there is no era accompanying this three-digit number, he assumes that the reference era is the Gaṅga one beginning in AD 496 because <q>the Gaṅga era had become widely current in the southern part of Orissa long before 1045 AD and its use in an inscription of Orissa of the period will not appear surprising or unusual, particularly if its donor belonged to the southern part</q>. The engraved inscription would date, according to him, to 1045 AD.</p> 
             <!--commentary encoded as per section §9.3 -->
-            <!-- Kumāraparvata is the ancient na;e of the Khaṇḍagiri hills note 3 Shastri1995_02 p.294 
-            Voir EI 13 p. 166 XVI-->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-        	   <bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XVI</citedRange><citedRange unit="page">166</citedRange></bibl>
-        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">36</citedRange><citedRange unit="page">235-236</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">294-295</citedRange></bibl>
-        	   <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XV</citedRange><citedRange unit="page">166</citedRange></bibl>
+        	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>
+				<bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">38</citedRange><citedRange unit="page">242-243</citedRange></bibl>
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="note">5</citedRange><citedRange unit="page">302</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">299</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
