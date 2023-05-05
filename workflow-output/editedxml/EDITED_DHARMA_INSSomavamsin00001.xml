@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</title>
+            <title>Vakratentalī grant of Mahābhavagupta Janamejaya, Year 3</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -218,7 +218,7 @@ amwb : Sircar 71
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="8">
                      <lem>cā<lb n="8" break="no"/>ṭa-bhaṭa</lem>
-                     <note>The dictionary <bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">391</citedRange></bibl> records the use of the compound <foreign>cāṭabhaṭa</foreign> in a inscription dated from 940 and suggests to understand it as <foreign>cārabhaṭa</foreign> <q><supplied reason="explanation">valorous</supplied> soldier</q>. I follow this understanding and include it in my translation. See also <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">67</citedRange></bibl>.</note>
+                     <note>The dictionary <bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">391</citedRange></bibl> records the use of the compound <foreign>cāṭabhaṭa</foreign> in a inscription dated from 940 and suggests to understand it as <foreign>cārabhaṭa</foreign> <q><supplied reason="explanation">valorous</supplied> soldier</q>. I follow this understanding and include it in my translation. See also <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">67</citedRange></bibl>.</note>
                   </app>
                   <app loc="11">
                       <lem><supplied reason="lost">ca</supplied>tuḥ</lem>
