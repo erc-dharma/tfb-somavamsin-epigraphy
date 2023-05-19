@@ -89,6 +89,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2023-05-19" who="part:amwb">Addition of the final stanzas with their correspondance to Sircar's list</change>
          <change when="2022-11-15" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -133,11 +134,21 @@ n="20"/>vātyam tamraśasanam pradadye ye kenacit ka
             <pb n="3r"/>
 <lb 
 n="21"/>ladhyāsino bhavāni mama data paripālanīyam ka<unclear>thi</unclear>tam<lb 
-n="22"/>svadat<supplied reason="omitted">t</supplied>am paradattam bā yo harant<choice><sic>a</sic><corr>i</corr></choice> vasundharām sa vi<lb 
-n="23" break="no"/>ṣṭhāyām kṛmir bhutvā pitṛbhiḥ saha <unclear>pa</unclear>cyati harati ha<lb 
-n="24" break="no"/>rāti yastu manda buddhi tamo vṛtaḥ sava<lb 
-n="25" break="no"/>ddho barunai pāśaiḥ tiryakyiniśca<lb 
-n="26"/>jayate likhitam parama māheśvara kāyasthadi<lb 
+n="22"/>
+               <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0123">
+   <l n="a">svadat<supplied reason="omitted">t</supplied>am<!-- add a correction with a long a?  --> paradattam bā</l>
+   <l n="b">yo harant<choice><sic>a</sic><corr>i</corr></choice> vasundharām</l> 
+   <l n="c">sa vi<lb 
+n="23" break="no"/>ṣṭhāyām kṛmir bhutvā</l> 
+   <l n="d">pitṛbhiḥ saha <unclear>pa</unclear>cyati</l></lg><!-- Sircar 123 --> 
+               <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0064">
+                  <l n="a">harati ha<lb 
+n="24" break="no"/>rāti yas tu</l> 
+                  <l n="b">manda buddhi tamo vṛtaḥ</l> 
+                  <l n="c">sava<lb 
+n="25" break="no"/>ddho barunai pāśaiḥ</l> 
+                  <l n="d">tiryak-yiniś<!-- yonis? -->ca<lb 
+n="26"/>jayate</l></lg> likhitam parama māheśvara kāyasthadi<lb 
 n="27"/>tya suta somanātham iti 
                 </p>
          </div>
