@@ -89,6 +89,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
          <change when="2022-05-19" who="part:amwb" status="draft">Implementation of reference numbers for the king names</change>
          <change when="2022-03-31" who="part:amwb" status="draft">First implementation of date-tags</change>
          <change when="2022-03-17" who="part:amwb" status="draft">First implementation of person-tags</change>
@@ -112,7 +113,7 @@
 amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rāḍhāyāṁ
 --><lb n="13" break="no"/>stavyāya <rs type="masc" role="donee"><roleName>bhaṭṭaputra</roleName>-<persName>jātarūpa</persName>-</rs>nāmne <rs type="masc"><roleName>bhaṭṭaputra</roleName>-<persName>śrīvaccha</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb n="16" break="no"/>nākarīkṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā<supplied reason="omitted">.</supplied></p>
 <p><lb n="19"/>tathā coktaṁ dharmma-śāstre<supplied reason="omitted">.</supplied></p>
-<lg n="1" met="anuṣṭubh">
+<lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0023">
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ</l>
     <l n="c">yasya ya               
@@ -122,7 +123,7 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
     amwb: Sircar 23
     -->
 </lg>
-<lg n="2" met="anuṣṭubh">
+<lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
     <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
     <l n="b">para-datteti<lb n="21"/>pārthivāḥ</l>
     <l n="c">sva-dānāt phalam ānantyaṁ</l>
@@ -130,7 +131,7 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
     amwb : Sircar 85
     -->
 </lg>
-<lg n="3" met="anuṣṭubh">
+<lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0123">
     <l n="a">ṣaṣṭhiṁ varṣa-sahasrāṇi</l>
     <l n="b"><lb n="22"/>svarge modati bhūmidaḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
@@ -144,14 +145,14 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
     <l n="d">dattās trayas tena bhavanti lokā<supplied reason="omitted">ḥ</supplied></l><!-- 
     amwb : Sircar 5 with inversion of the pādas c and d , EI11 adds a visarga omitted at the end of lokā 
     --></lg>
- <lg n="5" met="anuṣṭubh">
+ <lg n="5" met="anuṣṭubh" corresp="#Sircar1965_st0020">
      <l n="a">Āsphoṭayanti pitaraḥ</l>
      <l n="b">prava<lb n="25" break="no"/>lg<surplus>ay</surplus>anti pitāmahāḥ</l>
      <l n="c">bhūmi-dātā kule jātaḥ</l>
      <l n="d">sa nas trātā bhaviṣyati</l><!-- 
      amwb : Sircar 20
      -->
-</lg><lb n="26"/><lg n="6" met="anuṣṭubh">
+</lg><lb n="26"/><lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0029">
     <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
     <l n="c">Ubhau tau puṇya-karmāṇau</l>
@@ -159,7 +160,7 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
 amwb : Sircar 29 
 -->
 </lg>
-<lg n="7" met="anuṣṭubh">
+<lg n="7" met="anuṣṭubh" corresp="#Sircar1965_st0137">
     <l n="a">taḍāgānāṁ sahasr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></l>
     <l n="b">vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice> ca</l>
     <l n="c">gavāṁ koṭi-pradā<lb n="28" break="no"/>nena</l>
@@ -167,7 +168,7 @@ amwb : Sircar 29
     amwb : Sircar 137
     -->
 </lg>
-<lg n="8" met="anuṣṭubh">
+<lg n="8" met="anuṣṭubh" corresp="#Sircar1965_st0064">
     <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
     <l n="b">manda-vuddhis tamo-vṛtaḥ</l>
     <l n="c">sa vaddho<lb n="29"/>vāruṇaiḥ</l>
@@ -175,7 +176,7 @@ amwb : Sircar 29
     amwb : Sircar 64
     -->
 </lg> 
-<lg n="9" met="anuṣṭubh">
+<lg n="9" met="anuṣṭubh" corresp="#Sircar1965_st0132">
     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
     <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasu
              <pb n="3r" break="no"/>
@@ -185,7 +186,7 @@ amwb : Sircar 29
     amwb : Sircar 132 change in d inversion verb and complement
     -->
 </lg>
-<lg n="10" met="anuṣṭubh">
+<lg n="10" met="anuṣṭubh" corresp="#Sircar1965_st0004">
     <l n="a">Ādityo varuṇo viṣṇur</l>
     <l n="b"><choice><sic>vva</sic><corr>bra</corr></choice><lb n="31" break="no"/>hmā somo hutāśanaḥ</l>
      <l n="c">śulpāṇis tu bhagavā<choice><sic>ḥ</sic><corr>n</corr></choice></l>
@@ -193,7 +194,7 @@ amwb : Sircar 29
      amwb : Sircar 4
      -->
 </lg>
-<lg n="11" met="śālinī">
+<lg n="11" met="śālinī" corresp="#Sircar1965_st0117">
     <l n="a">s<choice><sic>e</sic><corr>ā</corr></choice>mānyo<lb n="32"/>’yaṁ dharmma-setur nṛpāṇāṁ</l>
     <l n="b">kāl<choice><sic>a</sic><corr>e</corr></choice> kāle pālanīyo bhavadbhiḥ</l>
     <l n="c">sarvvān etān bhāvino bhūpatī<lb n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
@@ -201,7 +202,7 @@ amwb : Sircar 29
     amwb : Sircar 117 only one different reading at the end of the pāda c
     -->
 </lg>
-<lg n="12" met="puṣpitāgrā">
+<lg n="12" met="puṣpitāgrā" corresp="#Sircar1965_st0071">
     <l n="a">Iti kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
     <l n="b">śriyam a<lb n="34" break="no"/>nucintya manuṣya-jīvitañ ca</l>
     <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hṛtañ ca budhvā</l>

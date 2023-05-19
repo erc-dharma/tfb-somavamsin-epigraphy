@@ -105,6 +105,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
          <change when="2022-12-15" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -129,14 +130,14 @@
                <pb n="2r"/>
                <lb n="14" break="no"/>-kośava-śrī-Apyābhā<supplied reason="omitted">ṁ</supplied> bhaṭṭa-dāddīs<choice><sic>ū</sic><corr>u</corr></choice>tābhyā<supplied reason="omitted">ṁ</supplied> saliladhārāp<choice><sic>ū</sic><corr>u</corr></choice>raḥ<lb n="15" break="no"/>saram ācandra-tārakārkka-kṣiti-samakālopabhogārtha<choice><sic>ḥ</sic><corr>ṁ</corr></choice> śrī-deva-mātā<lb n="16" break="no"/>-pitror ātmanaś ca p<choice><sic>ū</sic><corr>u</corr></choice>ṇya-yaśo ’bhivṛddhaye t<surplus>r</surplus>āmra-śāsanenākarīkṛ<lb n="17" break="no"/>tya pratipādita Ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādi<lb n="18" break="no"/>kam <choice><sic>a</sic><corr>u</corr></choice>panayadbhir bhavadbhiḥ sukhena prativastavyam iti<g type="danda">.</g> bhāviśbhiś ca bhūpa<lb n="19" break="no"/>tibhir dattir <choice><sic>ī</sic><corr>i</corr></choice>yam asmadīyā dharmma-gauravād asmad-anurodhāc ca sva<lb n="20" break="no"/>-dattir ivānupālanīyā<supplied reason="omitted">.</supplied> tathā cokta<supplied reason="omitted">ṁ</supplied> dharmmaśāstre<g type="danda">.</g>
             </p>
-             <lg n="1" met="anuṣṭubh">
+             <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0023">
                    <l n="a">vahubhir vvas<choice><sic>ū</sic><corr>u</corr></choice>dhā dat<supplied reason="omitted">t</supplied>ā</l>
                    <l n="b"><lb n="21"/>rājabhiḥ sagarādibhir</l>
                    <l n="c">yasya yasya yadā bhūmiḥ</l>
                    <l n="d">tasya tasya tadā phalaṁ<g type="ddanda">.</g></l><!-- 
                 amwb: Sircar 23
                --></lg>
-            <lg n="2" met="anuṣṭubh">
+            <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
                   <l n="a"><lb n="22"/>mā bhūd a-phala-śaṅkā vaḥ</l>
                   <l n="b">para-datteti pā<supplied reason="omitted">r</supplied>thivāḥ</l>
                   <l n="c">sva-dānāt phalam āna<lb n="23" break="no"/>ntyaṁ</l>
@@ -144,7 +145,7 @@
                   amwb : Sircar 85
                   -->
 </lg>
-            <lg n="3" met="anuṣṭubh">
+            <lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0123">
                    <l n="a">ṣaṣṭhi-varṣa-sahasrāṇi</l>
                    <l n="b">svargge modati bhūmi<lb n="24" break="no"/>daḥ</l>
                    <l n="c">Ākṣeptā cānumantā ca</l>
@@ -152,7 +153,7 @@
     amwb : Sircar 123
     -->
 </lg>
-            <lg n="4" met="indravajrā">
+            <lg n="4" met="indravajrā" corresp="#Sircar1965_st0005">
                   <l n="a">Agner apatyaṁ pratha
                      <pb n="2v"/>
                      <lb n="25" break="no"/>ma<supplied reason="omitted">ṁ</supplied> suva<supplied reason="omitted">r</supplied>ṇṇa<supplied reason="omitted">ṁ</supplied></l>
@@ -161,7 +162,7 @@
                   <l n="d">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice><g type="ddanda">.</g></l><!-- 
     amwb : Sircar 5 with inversion of the pādas c and d 
     --></lg>
-            <lg n="5" met="anuṣṭubh">
+            <lg n="5" met="anuṣṭubh" corresp="#Sircar1965_st0020">
                   <l n="a">Āsphoṭayanti pitar<choice><sic>a</sic><corr>o</corr></choice></l><!-- it could be better to suggest pitara<supplied reason="omitted">ḥ</supplied> -->
                   <l n="b"><lb n="27"/>pravalg<surplus>ay</surplus>anti pitāmahā<supplied reason="omitted">ḥ</supplied></l>
                   <l n="c">bhūmi-dātā kule jātaḥ</l>
@@ -169,7 +170,7 @@
      amwb : Sircar 20
      -->
 </lg> 
-            <lg n="6" met="anuṣṭubh">
+            <lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0029">
                   <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
                   <l n="b">yaś ca bhūmiṁ prayacchati</l>
                   <l n="c">Ubhau t<choice><sic>o</sic><corr>au</corr></choice> puṇya-ka<lb n="29" break="no"/>rmmāṇau</l>
@@ -177,7 +178,7 @@
                   amwb : Sircar 29 
                   -->
 </lg>
-            <lg n="18" met="anuṣṭubh">
+            <lg n="18" met="anuṣṭubh" corresp="#Sircar1965_st0137">
                   <l n="a">taḍāgānā<supplied reason="omitted">ṁ</supplied> sahasr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></l>
                   <l n="b">vāja-peya<lb n="30" break="no"/>-śat<choice><sic>āṇi</sic><corr>eṇa</corr></choice> ca<supplied reason="omitted">.</supplied></l>
                   <l n="c">gavāṁ koṭi-pradānena</l>
@@ -185,7 +186,7 @@
     amwb : Sircar 137 
     -->
 </lg>
-            <lg n="7" met="anuṣṭubh">
+            <lg n="7" met="anuṣṭubh" corresp="#Sircar1965_st0064">
                <l n="a">ha<lb n="31" break="no"/>rate hāray<choice><sic>ate</sic><corr>ed</corr></choice> <choice><sic>bhūmi</sic><corr>yas tu</corr></choice></l>
                <l n="b">manda-vuddhi<supplied reason="omitted">s</supplied> tamo-vṛtaḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa vaddho vāruṇaiḥ</l>
@@ -193,7 +194,7 @@
     amwb : Sircar 64  
     -->
 </lg>
-            <lg n="8" met="anuṣṭubh">
+            <lg n="8" met="anuṣṭubh" corresp="#Sircar1965_st0132">
                <l n="a">sva-dattā<supplied reason="omitted">m</supplied> para-dattām vā</l>
                <l n="b"><choice><sic>po</sic><corr>yo</corr></choice> ha<choice><sic>red va</sic><corr>reta va</corr></choice>sundharāṁ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa<lb n="33"/>viṣṭhāyāṁ kṛmir bhūtvā</l>
@@ -201,7 +202,7 @@
     amwb : Sircar 132 
     -->
 </lg>
-            <lg n="9" met="anuṣṭubh">
+            <lg n="9" met="anuṣṭubh" corresp="#Sircar1965_st0055">
                <l n="a">suva<supplied reason="omitted">r</supplied>ṇṇam eka<supplied reason="omitted">ṁ</supplied> gām ekāṁ</l>
                <l n="b"><lb n="34"/>bhūmer apy arddham aṅgulaṁ<supplied reason="omitted">.</supplied></l>
                <l n="c">haran narakam āyāti</l><!-- āpnoti in SOma31 and āyāti in SIrcar -->
@@ -209,7 +210,7 @@
    amwb Sircar 55 
    -->
 </lg>
-            <lg n="10" met="anuṣṭubh">
+            <lg n="10" met="anuṣṭubh" corresp="#Sircar1965_st0004">
                   <l n="a">Ā<lb n="35" break="no"/>dityo varuṇo viṣṇuḥ</l>
                   <l n="b">vrahmā somo hutāśanaḥ</l>
                   <l n="c">śūlapāṇis ca bhaga
@@ -219,7 +220,7 @@
      amwb : Sircar 4
      -->
 </lg>
-            <lg n="11" met="śālinī">
+            <lg n="11" met="śālinī" corresp="#Sircar1965_st0117">
                <l n="a">sāmānyo ’yaṁ dha<supplied reason="omitted">r</supplied>mma-setu<supplied reason="omitted">r</supplied> nṛpāṇāṁ</l>
                <l n="b">kāle kāle <lb n="37" break="no"/>pālanīyo bhavadbhiḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sarvvānn etān bhāvinaḥ pārthivendrāN</l><!-- amwb here as in Soma3-4 13 and 47 but in Soma1-2 bhūpatīndrāN -->
@@ -228,7 +229,7 @@
     rāmabhadraḥ as in soma13 but in soma1-2-3-4 rāmacandraḥ Caution Shastri has rāmabhadraḥ but Rajaguru has rāmacandraḥ
     -->
 </lg>
-            <lg n="12" met="puṣpitāgrā">
+            <lg n="12" met="puṣpitāgrā" corresp="#Sircar1965_st0071">
                <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
                <l n="b">śriyam anucintya<lb n="39" break="no"/>manuṣya-j<choice><sic>i</sic><corr>ī</corr></choice>vitañ ca<supplied reason="omitted">.</supplied></l>
                <l n="c">sa-kalam idam udāhṛtañ ca vu<supplied reason="omitted">d</supplied>dhvā</l>
