@@ -110,9 +110,9 @@
             <pb n="1v"/><!-- here I repoduce the edition of Dr. Satyanarayana Rajaguru but it seems there is a lot of printed errors and so on... Moreover there is no mention of the place of preservation and I have no idea where I can find the copper plate to check his readings and produce a better edition -->
             <lb 
 n="1"/><ab>Oṃ</ab>
-            <p>parameśvara-parama-māheśvara-<unclear>paramabhaṭṭāraka-mahā</unclear><lb 
-n="2" break="no"/>rājādhirāja-somakula-tilaka-tr<unclear>i</unclear>kaliṅgādhi<lb 
-n="3" break="no"/>pati-ma<surplus>ma</surplus>hāś<sic>ī</sic>vagupta-rājadeva-śrī-yayāti<lb 
+            <p><roleName>parameśvara</roleName>-<roleName>parama-māheśvara</roleName>-<roleName><unclear>paramabhaṭṭāraka</unclear></roleName>-<roleName><unclear>mahā</unclear><lb 
+n="2" break="no"/>rājādhirāja</roleName>-somakula-tilaka-<roleName>tr<unclear>i</unclear>kaliṅgādhi<lb 
+n="3" break="no"/>pati</roleName>-<persName type="king" subtype="coronation">ma<surplus>ma</surplus>hāś<sic>ī</sic>vagupta</persName>-<roleName>rājadeva</roleName>-<roleName>śrī</roleName>-<persName type="king">yayāti</persName><lb 
 n="4"/>pāda-pravarddhamāna-vijayaraājye sanvacchare tṛ<lb 
 n="5" break="no"/>tīye ank<choice><sic>a</sic><corr>e</corr></choice> samvat <num value="3">3</num> parama-mahe<lb 
 n="6" break="no"/>śvara-samadhigata-pañca-mahāśabda-yāmala<lb 
