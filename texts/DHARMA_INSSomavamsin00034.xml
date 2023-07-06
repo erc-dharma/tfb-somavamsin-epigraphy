@@ -110,7 +110,7 @@
             <p>
                <lb 
 n="1"/><gap reason="lost" unit="character" extent="unknown"/>dhirāja-parameśvara-soma-kula-tilaka-tṛ<gap reason="lost" unit="character" extent="unknown"/><lb 
-n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-karṇṇa-rājadevasya pravarddhamāna-vi<gap reason="lost" unit="character" extent="unknown"/>
+n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-<persName type="king" ref="PSN01011">karṇṇa</persName>-rājadevasya pravarddhamāna-vi<gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="apparatus">
@@ -128,7 +128,7 @@ n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-karṇṇa-r�
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">335</citedRange></bibl> suggests the following reconstruction :
-               <q><supplied reason="lost">siddham parama-bhaṭṭāraka-mahārājā</supplied>dhirāja-parameśvara-somq-kula-tilaka-tṛ<supplied reason="lost">kaliṅgādhipati-parama-māheśvara</supplied>-śrī-karṇṇa-rāja-devasya pravarddhamāna-vi<supplied reason="lost">jaya-rājye samvatsare</supplied></q>
+               <q><supplied reason="lost">siddham parama-bhaṭṭāraka-mahārājā</supplied>dhirāja-parameśvara-soma-kula-tilaka-tṛ<supplied reason="lost">kaliṅgādhipati-parama-māheśvara</supplied>-śrī-karṇṇa-rāja-devasya pravarddhamāna-vi<supplied reason="lost">jaya-rājye samvatsare</supplied></q>
              
              </p>
 
@@ -137,8 +137,9 @@ n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-karṇṇa-r�
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
+        	   <bibl n="Si"><ptr target="bib:Sircar1959-1960_12"/></bibl>
 				<bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">41</citedRange><citedRange unit="page">265-267</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">III</citedRange><citedRange unit="page">334-335</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="Sh"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">III</citedRange><citedRange unit="page">334-335</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">73-74</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->

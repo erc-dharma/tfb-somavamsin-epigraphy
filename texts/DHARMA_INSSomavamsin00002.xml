@@ -155,9 +155,10 @@ n="5" break="no"/>ṇo</l>
                    <l n="b"><persName type="queen">sinduragaurī</persName><lb
 n="6" break="no"/>ti<space type="feature"/> vibhūṣaṇāya</l>
                    <l n="c">Aneka-tārā-kula-saṁkulasya</l>
-                   <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas-talasya</l></lg><lb
-n="7"/><lg n="6" met="indravajrā">
-                   <l n="a">sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
+                   <l n="d">śitāṅg<choice><sic>u</sic><corr>ṁśu</corr></choice>-l<choice><sic>a</sic></choice>kheva nabhas-talasya</l></lg>
+                <lg n="6" met="indravajrā">
+                   <l n="a"><lb
+n="7"/>sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>ma-nagendra-kalpāj</l>
                    <l n="b">jāta<supplied reason="omitted">ḥ</supplied> <choice><sic>sva</sic><corr>su</corr></choice>taḥ kalpa-tar<choice><sic>u</sic><corr>ū</corr></choice>pameyaḥ</l>
                    <l n="c">A-janmanaḥ <rs type="masc" subtype="ruler"><roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejayo</persName></rs><lb
 n="8"/>'sminn</l>
@@ -235,9 +236,8 @@ n="35"/>t phalam ānantyaṁ</l>
                   <l n="b">svargge modati bhūmidaḥ</l><!-- 
                   amwb see photo 250.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F250.jpg&mode=grid
                   -->
-            <pb n="3r"/>
      <lb
-n="37"/><l n="c">Ākṣeptā cānumantā ca</l>
+n="37"/><l n="c"><pb n="3r"/>Ākṣeptā cānumantā ca</l>
                    <l n="d">tāny eva narake vaseT</l><!-- 
                     amwb : Sircar 123
                    -->
@@ -303,9 +303,9 @@ n="46" break="no"/>kīrttayo <choice><sic>va</sic><corr>vi</corr></choice>lopyā
 n="47"/>bhādrapad<choice><sic>ā</sic><corr>a</corr></choice>-māse sita-pakṣe dvāda<choice><sic>ś</sic><corr>s</corr></choice>yā<surplus>ṁ</surplus>m aṅkenāpi samvaT <num value="1">1</num> bhādra <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="12">12</num></date> likhi<lb
 n="48"/>tam idaṁ śāsanaṁ mahāsandhivigrah<choice><sic>a</sic><corr>i</corr></choice>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇe</persName></rs>ti<supplied reason="omitted">.</supplied> maṅgala<supplied reason="omitted">ṁ</supplied> mahāś<supplied reason="omitted">r</supplied>ī<choice><sic>ḥ</sic><corr>ṁ</corr></choice><!-- 
 see photo 251.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F251.jpg&mode=grid
--->
-            <pb n="3v"/>
+-->           
             <handShift new="#Somavamsin00002_hand2"/>
+                   <pb n="3v"/>
      <lb
 n="49"/><rs type="masc" role="engraver"><persName type="human">saṅgrāmena</persName></rs> Utkṛtaṁ <choice><sic>sāsam</sic><corr>śāsanam</corr></choice> iti <rs type="masc"><persName type="human">dāvara-Ojhā</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave<g type="ddanda">.</g><lb
 n="50"/>tad apara<supplied reason="omitted">ḥ</supplied> p<choice><sic>u</sic><corr>ū</corr></choice>rvva-pitāmahopārjjita-kontakapallīyārjjaṭṭā-g<supplied reason="omitted">r</supplied>āma<supplied reason="omitted">ḥ</supplied> dhanaku<lb

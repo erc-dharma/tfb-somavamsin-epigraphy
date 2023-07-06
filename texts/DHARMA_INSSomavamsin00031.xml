@@ -522,8 +522,8 @@ n="59"/>ta-</rdg>
 	<!--bibliography encoded as per section §9.4 -->
            <p>The text incised on the first plate was first edited by Tripathy <!-- amwb : I should add the reference in Zotero but for the moment, I haven't the titel f the paper of  the Journal of of Bihar and Orissa Research Society 16 (2) 1930, p. 206-210 --> and then reedited by <bibl><ptr target="bib:Sircar1961-1962_04"/></bibl>. The text incised on the two other plates was first edited by <bibl><ptr target="bib:Debala1961-1962_01"/></bibl>. </p>
         	<listBibl type="primary">
-        	   <bibl n="D"><ptr target="bib:Debala1961-1962_01"/></bibl>
-        	   <bibl n="DCS"><ptr target="bib:Sircar1961-1962_04"/></bibl>
+        	   <bibl n="D"><ptr target="bib:Debala1959-1960_01"/></bibl>
+        	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_12"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">253-264</citedRange></bibl>
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
