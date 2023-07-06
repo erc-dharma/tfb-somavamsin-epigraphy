@@ -353,123 +353,123 @@ amwb : Sircar 71
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
                   <app loc="3">
-                     <lem source="bib:Sircar1961-1962_04">nṛpatir jjāto</lem>
+                     <lem source="bib:Sircar1959-1960_12">nṛpatir jjāto</lem>
                      <rdg source="bib:Shastri1995_02">napatir jj<choice><sic>a</sic><corr>ā</corr></choice>to</rdg>
                   </app>
                   <app loc="7">
-                     <lem source="bib:Sircar1961-1962_04">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</lem>
+                     <lem source="bib:Sircar1959-1960_12">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</lem>
                      <rdg source="bib:Shastri1995_02">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dbhanā</rdg>
                   </app>
                   <app loc="10">
-                     <lem source="bib:Debala1961-1962_01">paryyanta°</lem>
+                     <lem source="bib:Debala1959-1960_01">paryyanta°</lem>
                      <rdg source="bib:Shastri1995_02">paryanta°</rdg>
                   </app>
                   <app loc="11">
-                     <lem source="bib:Debala1961-1962_01">pūrvvetarakṣṃā°</lem>
+                     <lem source="bib:Debala1959-1960_01">pūrvvetarakṣṃā°</lem>
                      <rdg source="bib:Shastri1995_02">p<choice><sic>u</sic><corr>ū</corr></choice>rvvetarakṣṃā°</rdg>
                   </app>
                   <app loc="19">
                      <lem>narendrai<supplied reason="omitted">ḥ</supplied></lem>
-                     <rdg source="bib:Debala1961-1962_01 bib:Shastri1995_02">narendrai</rdg>
+                     <rdg source="bib:Debala1959-1960_01 bib:Shastri1995_02">narendrai</rdg>
                   </app>
                   <app loc="26">
-                     <lem source="bib:Debala1961-1962_01">°sunāsīra°</lem>
+                     <lem source="bib:Debala1959-1960_01">°sunāsīra°</lem>
                      <rdg source="bib:Shastri1995_02">°sunā<choice><sic>s</sic><corr>ś</corr></choice>īra°</rdg>
                   </app>
                   <app loc="27">
-                     <lem source="bib:Debala1961-1962_01">bhuja-sāra-śaṅkayā</lem>
+                     <lem source="bib:Debala1959-1960_01">bhuja-sāra-śaṅkayā</lem>
                      <rdg source="bib:Shastri1995_02">bhuja-bhāra-śaṅkayā</rdg>
                   </app>
                   <app loc="33">
-                     <lem source="bib:Debala1961-1962_01">vra<unclear cert="low">hmo</unclear>-Aṭṭhāvīsa-</lem>
+                     <lem source="bib:Debala1959-1960_01">vra<unclear cert="low">hmo</unclear>-Aṭṭhāvīsa-</lem>
                      <rdg source="bib:Shastri1995_02">vra<unclear cert="low">hme</unclear> Aṭṭhāvīsa-</rdg><!-- amwb shastri indicates in note that sircar reads vrajme and regards it as an error for raajye -->
                   </app>
                   <app loc="33">
                      <lem><abbr>saṁ</abbr></lem>
-                     <note>As indicated by <bibl><ptr target="bib:Debala1961-1962_01"/></bibl>, here <foreign>saṁ</foreign> is the contraction for <foreign>saṁbaddha</foreign>.</note>
+                     <note>As indicated by <bibl><ptr target="bib:Debala1959-1960_01"/></bibl>, here <foreign>saṁ</foreign> is the contraction for <foreign>saṁbaddha</foreign>.</note>
                   </app>
                   <app loc="34">
-                     <lem source="bib:Debala1961-1962_01">āp<choice><sic>u</sic><corr>ū</corr></choice>jya</lem>
+                     <lem source="bib:Debala1959-1960_01">āp<choice><sic>u</sic><corr>ū</corr></choice>jya</lem>
                      <rdg source="bib:Shastri1995_02">āpūjya</rdg>
                   </app>
                   <app loc="34">
-                     <lem source="bib:Debala1961-1962_01">vetrikāvarodha°</lem>
+                     <lem source="bib:Debala1959-1960_01">vetrikāvarodha°</lem>
                      <rdg source="bib:Shastri1995_02">v<choice><sic>e</sic><corr>ai</corr></choice>trikāvarodha°</rdg>
                   </app>
                   <app loc="35">
-                     <lem source="bib:Debala1961-1962_01">rājñī-<surplus><g type="danda">.</g></surplus> rāṇaka<surplus><g type="danda">.</g></surplus></lem>
+                     <lem source="bib:Debala1959-1960_01">rājñī-<surplus><g type="danda">.</g></surplus> rāṇaka<surplus><g type="danda">.</g></surplus></lem>
                      <rdg source="bib:Shastri1995_02">rājñīrāṇaka<surplus><g type="danda">.</g></surplus></rdg>
                   </app>
                   <app loc="36">
                      <lem source="bib:Shastri1995_02">samājñāpayati<supplied reason="omitted">.</supplied></lem>
-                     <rdg source="bib:Debala1961-1962_01">samājñāpayati</rdg>
+                     <rdg source="bib:Debala1959-1960_01">samājñāpayati</rdg>
                   </app>
                   <app loc="39">
                      <lem source="bib:Shastri1995_02"><choice><sic>Ā</sic><corr>A</corr></choice>hi-daṇḍa°</lem>
-                     <rdg source="bib:Debala1961-1962_01">Āhi-daṇḍa°</rdg>
+                     <rdg source="bib:Debala1959-1960_01">Āhi-daṇḍa°</rdg>
                   </app>
                   <app loc="41">
-                     <lem source="bib:Debala1961-1962_01">°parikara-dāna°</lem>
+                     <lem source="bib:Debala1959-1960_01">°parikara-dāna°</lem>
                      <rdg source="bib:Shastri1995_02">°parikar<choice><sic>a</sic><corr>ā</corr></choice>dāna°</rdg>
                   </app>
                   <app loc="43">
-                     <lem source="bib:Debala1961-1962_01">pautryai</lem>
+                     <lem source="bib:Debala1959-1960_01">pautryai</lem>
                      <rdg source="bib:Shastri1995_02">pautrye</rdg>
                   </app>
                   <app loc="49">
                      <lem>sva-d<choice><sic>att</sic><corr>ān</corr></choice>āt</lem>
-                     <rdg source="bib:Debala1961-1962_01 bib:Shastri1995_02">sva-dattāt</rdg>
+                     <rdg source="bib:Debala1959-1960_01 bib:Shastri1995_02">sva-dattāt</rdg>
                   </app>
                   <app loc="56">
                      <lem source="bib:Shastri1995_02">harat<choice><sic>i</sic><corr>e</corr></choice></lem>
-                     <rdg source="bib:Debala1961-1962_01">harati</rdg>
+                     <rdg source="bib:Debala1959-1960_01">harati</rdg>
                   </app>
                   <app loc="56">
                      <lem source="bib:Shastri1995_02">vāruṇaiḥ</lem>
-                     <rdg source="bib:Debala1961-1962_01">dāruṇaiḥ</rdg>
+                     <rdg source="bib:Debala1959-1960_01">dāruṇaiḥ</rdg>
                   </app>
                   <app loc="58">
                      <lem source="bib:Shastri1995_02">ā<supplied reason="omitted">b</supplied>hū<lb n="59"/>ta-</lem>
-                     <rdg source="bib:Debala1961-1962_01">āhū<lb n="59"/>ta-</rdg>
+                     <rdg source="bib:Debala1959-1960_01">āhū<lb n="59"/>ta-</rdg>
                   </app>
                   <app loc="62">
-                     <lem source="bib:Debala1961-1962_01 bib:Shastri1995_02"><choice><unclear>pa</unclear><unclear>ya</unclear></choice><choice><unclear>hṛ</unclear><unclear>jṛ</unclear><unclear>ju</unclear></choice>ṇḍa°</lem>
-                     <note><bibl><ptr target="bib:Debala1961-1962_01"/></bibl> suggests understanding <foreign>pracaṇḍa</foreign>.</note>
+                     <lem source="bib:Debala1959-1960_01 bib:Shastri1995_02"><choice><unclear>pa</unclear><unclear>ya</unclear></choice><choice><unclear>hṛ</unclear><unclear>jṛ</unclear><unclear>ju</unclear></choice>ṇḍa°</lem>
+                     <note><bibl><ptr target="bib:Debala1959-1960_01"/></bibl> suggests understanding <foreign>pracaṇḍa</foreign>.</note>
                   </app>
                   <app loc="62">
                      <lem source="bib:Shastri1995_02">s<choice><sic>ū</sic><corr>u</corr></choice>nāsīro</lem>
-                     <rdg source="bib:Debala1961-1962_01">sūnāsiro</rdg>
+                     <rdg source="bib:Debala1959-1960_01">sūnāsiro</rdg>
                   </app>
                   <app loc="62">
-                     <lem source="bib:Debala1961-1962_01 bib:Shastri1995_02"><choice><unclear>puthyī</unclear><unclear>yuthyā</unclear></choice></lem>
-                     <note><bibl><ptr target="bib:Sircar1961-1962_04"/></bibl> reads <foreign>puthvī</foreign> and suggests understanding <foreign>pṛthyāḥ</foreign>.</note>
+                     <lem source="bib:Debala1959-1960_01 bib:Shastri1995_02"><choice><unclear>puthyī</unclear><unclear>yuthyā</unclear></choice></lem>
+                     <note><bibl><ptr target="bib:Sircar1959-1960_12"/></bibl> reads <foreign>puthvī</foreign> and suggests understanding <foreign>pṛthyāḥ</foreign>.</note>
                   </app>
                   <app loc="63">
-                     <lem source="bib:Debala1961-1962_01">eka-patnīva ta<choice><sic>r</sic><corr>t</corr></choice>sthitā</lem>
+                     <lem source="bib:Debala1959-1960_01">eka-patnīva ta<choice><sic>r</sic><corr>t</corr></choice>sthitā</lem>
                      <rdg source="bib:Shastri1995_02">eka-patnī<choice><sic>va</sic><corr>vra</corr></choice>ta<surplus>r</surplus>sthitā</rdg>
                   </app>
                   <app loc="67">
-                     <lem source="bib:Debala1961-1962_01">śudi-dvādaśyāṁ</lem>
+                     <lem source="bib:Debala1959-1960_01">śudi-dvādaśyāṁ</lem>
                      <rdg source="bib:Shastri1995_02">śuvi-dvādaśyāṁ</rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <!-- 
             amwb : the three plates are not of uniform size 
-            Sircar1961-1962_04 ; the eight stanzas are the same as verses 1-8 of the Balijhari (narsingpur) plates of udyotakesarin (= Soma15)
+            Sircar1959-1960_12 ; the eight stanzas are the same as verses 1-8 of the Balijhari (narsingpur) plates of udyotakesarin (= Soma15)
             -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The text incised on the first plate was first edited by Tripathy <!-- amwb : I should add the reference in Zotero but for the moment, I haven't the titel f the paper of  the Journal of of Bihar and Orissa Research Society 16 (2) 1930, p. 206-210 --> and then reedited by <bibl><ptr target="bib:Sircar1961-1962_04"/></bibl>. The text incised on the two other plates was first edited by <bibl><ptr target="bib:Debala1961-1962_01"/></bibl>. </p>
+           <p>The text incised on the first plate was first edited by Tripathy <!-- amwb : I should add the reference in Zotero but for the moment, I haven't the titel f the paper of  the Journal of of Bihar and Orissa Research Society 16 (2) 1930, p. 206-210 --> and then reedited by <bibl><ptr target="bib:Sircar1959-1960_12"/></bibl>. The text incised on the two other plates was first edited by <bibl><ptr target="bib:Debala1959-1960_01"/></bibl>. </p>
         	<listBibl type="primary">
-        	   <bibl n="D"><ptr target="bib:Debala1961-1962_01"/></bibl>
-        	   <bibl n="DCS"><ptr target="bib:Sircar1961-1962_04"/></bibl>
+        	   <bibl n="D"><ptr target="bib:Debala1959-1960_01"/></bibl>
+        	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_12"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">253-264</citedRange></bibl>
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
