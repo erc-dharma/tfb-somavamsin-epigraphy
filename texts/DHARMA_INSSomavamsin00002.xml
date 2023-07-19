@@ -88,10 +88,10 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar's list</change>
-         <change when="2022-08-17" who="part:amwb">Addition of reference numbers missing for some persNames</change>
-         <change when="2022-05-19" who="part:amwb">Implementation of reference numbers for the king names</change>
-         <change when="2022-05-03" who="part:amwb">Draft of English and French translations, introduction of changes in the text and apparatus</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
+         <change when="2022-08-17" who="part:amwb" status="draft">Addition of reference numbers missing for some persNames</change>
+         <change when="2022-05-19" who="part:amwb" status="draft">Implementation of reference numbers for the king names</change>
+         <change when="2022-05-03" who="part:amwb" status="draft">Draft of English and French translations, introduction of changes in the text and apparatus</change>
          <change when="2022-04-27" who="part:amwb" status="draft">Comparison of the text with Tripathy2000_01's edition and addition of its reading in apparatus</change>
          <change when="2022-04-26" who="part:amwb" status="draft">Check the encoded text with the photos available on the Sharedocs and issuing from the Orissa State Museum</change>
          <change when="2022-03-30" who="part:amwb" status="draft">Encoding the text of the inscription and start of the tag-implementation for persons and dates</change>

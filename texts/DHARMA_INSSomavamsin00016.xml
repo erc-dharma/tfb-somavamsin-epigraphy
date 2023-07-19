@@ -89,7 +89,7 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar's list</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
          <change when="2022-08-18" who="part:amwb" status="draft">Implementation of some persName-tags without reference numbers</change>
          <change when="2022-07-20" who="part:amwb">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->

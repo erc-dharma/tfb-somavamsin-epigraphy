@@ -88,8 +88,8 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar's list</change>
-         <change when="2022-11-07" who="part:amwb">Creation of the file</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
+         <change when="2022-11-07" who="part:amwb" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <!-- Part to be used only, if you want to declare and link some photos with your encoding -->
