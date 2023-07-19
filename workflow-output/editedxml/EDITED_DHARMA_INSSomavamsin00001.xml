@@ -89,7 +89,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
          <change when="2022-05-19" who="part:amwb" status="draft">Implementation of reference numbers for the king names</change>
          <change when="2022-03-31" who="part:amwb" status="draft">First implementation of date-tags</change>
          <change when="2022-03-17" who="part:amwb" status="draft">First implementation of person-tags</change>
@@ -314,7 +314,7 @@ amwb : Sircar 71
              </note>
              </p>
              <p n="12" rend="stanza" corresp="#Sircar1965_st0071">
-                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts mabe by others not be destroyed by men.<note>
+                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts made by others not be destroyed by men.<note>
                     This verse corresponds to the verse numbered 71 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
@@ -402,7 +402,7 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>According to <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">227</citedRange></bibl>, this set of copperplates was found in possession of Nityananda Bhoi, a resident of the village of Gopalpur for several years. We have no information on the find-spot or the year of discovery. It seems that the set was acquired  by the Odisha State Museum, Bhubaneswar in 1990.  <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>According to <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">227</citedRange></bibl>, this set of copperplates was found in possession of Nityananda Bhoi, a resident of the village of Gopalpur for several years. We have no information on the find-spot or the year of discovery. It seems that the set was acquired by the Odisha State Museum, Bhubaneswar in 1990.  <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
         	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">16</citedRange><citedRange unit="page">95-99</citedRange></bibl>

@@ -574,7 +574,7 @@ amwb : Sircar 71
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
             <p>
 <rs type="masc"><roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01003">mahāśivagupta</persName>-<roleName>rājadeva</roleName></rs>-pādānudhyāta-<rs type="masc" subtype="ruler" role="donor"><roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01002">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs>

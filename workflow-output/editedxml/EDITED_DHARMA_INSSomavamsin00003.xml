@@ -105,12 +105,12 @@
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
-         <change when="2022-05-19" who="part:amwb">Implementation of reference numbers for the king names</change>
-         <change when="2022-04-05" who="part:amwb">First implementation of date-tags</change>
-         <change when="2022-04-05" who="part:amwb">First implementation of person-tags</change>
-         <change when="2022-04-04" who="part:amwb">Start of the initial encoding of the text</change>
-         <change when="2022-03-31" who="part:amwb">Creation of the file</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
+         <change when="2022-05-19" who="part:amwb" status="draft">Implementation of reference numbers for the king names</change>
+         <change when="2022-04-05" who="part:amwb" status="draft">First implementation of date-tags</change>
+         <change when="2022-04-05" who="part:amwb" status="draft">First implementation of person-tags</change>
+         <change when="2022-04-04" who="part:amwb" status="draft">Start of the initial encoding of the text</change>
+         <change when="2022-03-31" who="part:amwb" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <!-- Part to be used only, if you want to declare and link some photos with your encoding -->
