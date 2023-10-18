@@ -158,7 +158,7 @@ n="5"/><unclear>nanditadrathā</unclear> śrī-pārasthanāthasya karmmakhayaḥ
         	<listBibl type="primary">
         	   <bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XVI</citedRange><citedRange unit="page">166</citedRange></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">36</citedRange><citedRange unit="page">235-236</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">294-295</citedRange></bibl>
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXIII</citedRange><citedRange unit="page">294-295</citedRange></bibl>
         	   <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">

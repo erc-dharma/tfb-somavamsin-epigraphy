@@ -168,7 +168,7 @@ n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasy
         	   <bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XIV</citedRange><citedRange unit="page">165-166</citedRange></bibl>
         	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>
 				<bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">38</citedRange><citedRange unit="page">242-243</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">301-302</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXV</citedRange><citedRange unit="page">301-302</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">299-300</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->

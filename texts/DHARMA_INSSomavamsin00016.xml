@@ -296,7 +296,7 @@ n="2" break="no"/>ndravimbo°</rdg>
         	<listBibl type="primary">
         	   <!-- Don't forget adding ARIE 1964-65 CP4 published in BC MAzumbar  JBORS vol ii (1) 1916 p 45-59 and plates and DR Bhandarkar Indian Antiquary vol LXI p 241 -->
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">218-224</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">276-284</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXI</citedRange><citedRange unit="page">276-284</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1556</citedRange></bibl>

@@ -304,7 +304,7 @@ n="50" break="no"/>ñcakāra<supplied reason="omitted">.</supplied></l>
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">167-175</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">226-231</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIII</citedRange><citedRange unit="page">226-231</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:ARIE1952-1953"/><citedRange unit="item">19</citedRange></bibl>
