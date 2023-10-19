@@ -406,7 +406,7 @@ amwb : Sircar 71
         	<listBibl type="primary">
 				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
         	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">16</citedRange><citedRange unit="page">95-99</citedRange></bibl>
-        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">167-171</citedRange></bibl>
+        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">167-171</citedRange></bibl>
         	    <!-- 
         	    amwb : missing Ajay Mitra Shastri Studies in Indian Epigraphy III 153-54 
         	    -->

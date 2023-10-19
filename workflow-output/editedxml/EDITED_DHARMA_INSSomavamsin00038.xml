@@ -318,7 +318,7 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">354-357</citedRange></bibl>
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="entry">Supplement III</citedRange><citedRange unit="page">354-357</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">146-147</citedRange></bibl>

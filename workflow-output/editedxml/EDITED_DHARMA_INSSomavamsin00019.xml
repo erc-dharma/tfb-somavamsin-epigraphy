@@ -451,7 +451,7 @@
         	<listBibl type="primary">
         	   <bibl n="F"><ptr target="bib:Fleet1894-1895_03"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">32</citedRange><citedRange unit="page">205-211</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">257-262</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XVIII</citedRange><citedRange unit="page">257-262</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:HiraLal1911-1912_01"/><citedRange unit="page">200</citedRange></bibl>

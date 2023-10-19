@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahakosala Historical Society’s Plates of Mahābhavagupta IV, Uddyotakesarin, Year 11</title>
+            <title>Mahakosala Historical Society Plates of Mahābhavagupta Uddyotakesarin Year 11</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -384,7 +384,7 @@ Beyond these specific features, these two copper plates are really connected eac
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">212-217</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">296-302</citedRange></bibl><!-- The bibliography is not complete for the moment Don't forget adding ARIE1953-54 CP14 p.15 ARIE1954-55 CP5 p,24 Epigraphia Indica XXII 1933-34 p.135-138  -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXIV</citedRange><citedRange unit="page">296-302</citedRange></bibl><!-- The bibliography is not complete for the moment Don't forget adding ARIE1953-54 CP14 p.15 ARIE1954-55 CP5 p,24 Epigraphia Indica XXII 1933-34 p.135-138  -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">226</citedRange></bibl><!-- Don't forget adding Tripathy2010_01 131 133  Gai1986_01 number 945-->
