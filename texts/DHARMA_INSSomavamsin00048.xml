@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Navamuni Cave Inscription of Mahābhavagupta Uddyotakesarin</title>
+            <title>Navamuni Cave Inscription of Mahābhavagupta Uddyotakesarin undated</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -157,6 +157,7 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+            <p>The record consists of two parts and is incised between the two inner chambers in the cave. During the fieldtrip in January 2023, I observed that the whole text was anointed by devotees living in the cave. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

@@ -135,23 +135,25 @@ n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasy
                      <rdg source="bib:Shastri1995_02">°Ācārya°</rdg>
                      <rdg source="bib:Rajaguru1966_01">°Ācāryya°</rdg>
                      <rdg source="bib:Panigrahi1961_01">°Āvārya°</rdg>
-                     <note>If we compare the appearance of <foreign>akṣara</foreign> <foreign>ca</foreign> used in the words <foreign>kulacandra</foreign> and <foreign>subhacandra</foreign>, it appears more likely to read °Āvārya° as suggested by <bibl><ptr target="bib:Panigrahi1961_01"/></bibl>. However, accepting this reading does not lead to a satisfactory meaning or syntactic construction. Moreover, the proximity of the word <foreign>śiṣya</foreign> <supplied reason="explanation">clearly legible</supplied> and the similarity of the two proper nouns <supplied reason="explanation"><foreign>kulacandra</foreign> and <foreign>subhacandra</foreign></supplied> invite to understand a master-pupil relationship between these two and to read <foreign>Ācārya</foreign>. One can also compare this inscription with the other one legible in the same cave <supplied reason="explanation">see <ref><ptr target="DHARMA_INSSomavamsin00027.xml"/></ref></supplied></note>
+                     <note>If we compare the appearance of <foreign>akṣara</foreign> <foreign>ca</foreign> used in the words <foreign>kulacandra</foreign> and <foreign>subhacandra</foreign>, it appears more likely to read °Āvārya° as suggested by <bibl><ptr target="bib:Panigrahi1961_01"/></bibl>. However, accepting this reading does not lead to a satisfactory meaning or syntactic construction. Moreover, the proximity of the word <foreign>śiṣya</foreign> <supplied reason="explanation">clearly legible</supplied> and the similarity of the two proper nouns <supplied reason="explanation"><foreign>kulacandra</foreign> and <foreign>subhacandra</foreign></supplied> invite to understand a master-pupil relationship between these two and to read <foreign>Ācārya</foreign>. One can also compare this inscription with the other one legible in the same cave <supplied reason="explanation">see <ref target="DHARMA_INSSomavamsin00027.xml">Lalāṭendukesari’s Cave Inscription of Mahābhavagupta Uddyotakesarin Year 5</ref></supplied></note>
                   </app>
                   
                </listApp>
          </div>
          <div type="translation" resp="part:amwb">
-            <div type="textpart" n="A"><head xml:lang="eng">English translation draft</head>
+               <p>Hail ! During the year 18 of the glorious king Uddyotakesarin !</p>
                <p>From<note>
                   This is an adverbial genitive which expresses an original value "from" "on the part of" <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.  
-               </note></p>
-               
-            </div>
-            <div type="textpart" n="B"><head xml:lang="eng">French translation draft</head>
-               <p>Hommage ! En la dix-huitème année prospère du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
+               </note>
+               Subahcandra, disciple of the venerable lord Kulacandra, master of the guild Deśī from the Graha corporation, linked to the community of the venerable Ārya (or to the respectful community Ārya).</p>
+         </div>   
+            <div lang="fra" type="translation" resp="part:amwb">
+               <p>Hommage ! En l'année prospère 18 du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
                <p>De la part<note>
                   Le génitif employé ici correspond à un génitif adverbial exprimant une valeur d'origine "provenant de", "de la part de" <supplied reason="explanation">sur ce point, voir <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.
-               </note></p>
+               </note>
+               de Subhacandra, disciple de sa majesté, le vénérable Kulacandra, maître de la confrérie Deśī issue de la corporation des Graha, rattachée à la communauté du respectable Ārya (ou de la respectable communauté Ārya). 
+ </p>
             </div>
  	<!--translation encoded as per EGD §9.2 -->
             <!-- Ācārya lecture āvārya possible voire acceptable en observant la photo. en revanche voir comment construire le sens Āvārya MW 156 having covered having concealed warding off keeping off  Traduction de Panigrahi incohérente car dans 29 il lit avasya et dans soma 48 il propose acarya ? -->
@@ -160,6 +162,7 @@ n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasy
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+            <p>The inscription is found on the inner side of the architrave;</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
