@@ -83,10 +83,10 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
+         <partial="true">
             <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
             <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
+         </>
       </encodingDesc>
       <revisionDesc>
          <change when="2022-08-29" who="part:amwb" status="draft">Creation of the file</change>
@@ -147,7 +147,7 @@ n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasy
                </note>
                Subahcandra, disciple of the venerable lord Kulacandra, master of the guild Deśī from the Graha corporation, linked to the community of the venerable Ārya (or to the respectful community Ārya).</p>
          </div>   
-            <div lang="fra" type="translation" resp="part:amwb">
+            <div type="translation" xml:lang="fra" resp="part:amwb">
                <p>Hommage ! En l'année prospère 18 du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
                <p>De la part<note>
                   Le génitif employé ici correspond à un génitif adverbial exprimant une valeur d'origine "provenant de", "de la part de" <supplied reason="explanation">sur ce point, voir <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.
@@ -159,7 +159,6 @@ n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasy
             <!-- Ācārya lecture āvārya possible voire acceptable en observant la photo. en revanche voir comment construire le sens Āvārya MW 156 having covered having concealed warding off keeping off  Traduction de Panigrahi incohérente car dans 29 il lit avasya et dans soma 48 il propose acarya ? -->
             <!-- Banerjee's translation (given by Panigrahi1981_01 p.138 and also by Rajaguru p.243) : The year 18 of the increasing and victorious reign of the illustrious U(d*)dyotakesari-Deva. (The work of) Śubhacandra, the disciple of the lord the illustrious Ācārya Kulacandra, (who) belonged to the Graha=kula of the illustrious Ārya-congregation (and belonged to) the Deśīgaṇa. (Rather nanditadrathā of the Deśīgaṇa derived from the Graha-kula, belonging to the illustrious Arya-saṅgha. FWT)-->
             <!-- Panigrahi's translation (Panigrahi1981_01 p.138) : In the year 18 of the increasing and victorious reign of Sri Uddyotakesari-deva (this cave temple) belonged to (i.e. was caused to be excavated by) Subhachandra, disciple of Sri Kulachandra Bhataraka, for the abode of the sages belonging to Aryasamgha and coming. One cave temple...  -->
-
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <p>The inscription is found on the inner side of the architrave;</p>

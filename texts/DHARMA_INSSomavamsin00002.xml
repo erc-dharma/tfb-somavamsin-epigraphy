@@ -591,7 +591,6 @@ n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
          </div>
          <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
-             <div type="textpart" n="A"><head xml:lang="eng">English translation draft</head>
                <p n="1" rend="stanza">
                   May Śiva protect you, he the creator of the river of the gods who, after depositing it in the midst of his hair, his garlands of skulls <supplied reason="explanation">literally: of killed men</supplied> and his snakes, begets numerous of virtuous trees and ascetics.<note>There are several possibilities to translate the compound: <q>many forests filled with ascetics</q> or <q>many virtuous ascetics like trees</q>. Need to check this point and choose a translation.</note>
                </p>
@@ -683,8 +682,8 @@ n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
                 <p n="49-52">
                    This charter was engraved by Saṅgrāma, son of Dāvara Ojjhā. This other village Ārjjaṭṭā belonging to Kontalapalla which was acquired in the past by the grandfather, along with Dhanakuda crossed by the Mahānādī river, as well as the village Turvvunā, this grant is also written here again on this plate in order to increase the merit. 
                 </p>
-             </div>
-             <div type="textpart" n="B"><head xml:lang="fra">Ébauche de traduction française</head>
+         </div>
+             <div type="translation" xml:lang="fra" resp="part:amwb">
                  <p n="1" rend="stanza">
                     Que Śiva vous protège, lui le créateur de la rivière des dieux, qui, après avoir déposée celle-ci au milieu de ses cheveux, de ses guirlandes de crânes <supplied reason="explanation">littéralement: d’hommes tués</supplied> et de ses serpents, engendre des multitudes d'arbres et ascètes vertueux<note>Plusieurs traductions du composé sont envisageables: <q>de nombreuses forêts remplies d’ascètes</q> ou <q>de nombreux vertueux ascètes semblables à des arbres</q>. A revoir pour choisir la traduction la plus probable</note>.
                  </p>
@@ -774,7 +773,6 @@ la terre, telle celle tenue fermement par les bras de Hari, lui le support de la
                    Cette charte a été gravée par Saṅgrāma, fils de Dāvara Ojjhā. Cet autre village Ārjjaṭṭā appartenant à Kontalapalla qui fut acquis autrefois par le grandpère, avec Dhanakuda traversé par la rivère Mahānādī, ainsi que le village Turvvunā, cette donation est écrite aussi ici à nouveau sur cette plaque afin d'accroître le mérite. 
                 </p>
              </div>
-         </div>
          <div type="commentary">
             <!-- 
             Language : sanskrit influenced by prakritis;s and the local dialect and popular though grammatically incorrect pronunciations. ixed verse and prose Champu
