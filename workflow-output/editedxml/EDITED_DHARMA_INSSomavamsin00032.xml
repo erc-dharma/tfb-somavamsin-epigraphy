@@ -206,7 +206,7 @@ amwb : Sircar 71 sat? in pāda d adds here
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">42</citedRange><citedRange unit="page">268-275</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">318</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVIII</citedRange><citedRange unit="page">318</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">281</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->

@@ -471,7 +471,7 @@ amwb : Sircar 71
         	   <bibl n="D"><ptr target="bib:Debala1959-1960_01"/></bibl>
         	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_12"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">253-264</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVII</citedRange><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">2077</citedRange></bibl>

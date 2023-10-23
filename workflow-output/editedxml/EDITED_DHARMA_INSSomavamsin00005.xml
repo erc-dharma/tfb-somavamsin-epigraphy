@@ -260,7 +260,7 @@ amwb : Sircar 71
         	<listBibl type="primary">
         	    <bibl n="F"><ptr target="bib:Fleet1894-1895_04"/></bibl>
 				 <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">18</citedRange><citedRange unit="page">106-111</citedRange></bibl>
-        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="page">172-178</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">172-178</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1559</citedRange></bibl>
