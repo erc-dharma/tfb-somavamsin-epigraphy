@@ -92,8 +92,8 @@
       <revisionDesc>
          <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
          <change when="2022-08-17" who="part:amwb" status="draft">Implementation of person-tags and reference numbers for kings</change>
-         <change when="2022-04-20" who="part:amwb" status="draft">Check the text edited with the photos of the plates in Shastri+Tripathy2011_01</change>
-         <change when="2022-04-19" who="part:amwb" status="draft">Encoding of the text edited by Shastri+Tripathy2011_01</change>
+         <change when="2022-04-20" who="part:amwb" status="draft">Check the text edited with the photos of the plates in Shastri+Tripathy2011-2012_01</change>
+         <change when="2022-04-19" who="part:amwb" status="draft">Encoding of the text edited by Shastri+Tripathy2011-2012_01</change>
          <change who="part:amwb" when="2022-04-06" status="draft">Creation of the
             file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -304,71 +304,71 @@ n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied 
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
                      <lem><g type="spiralL"/> <g type="spiralR"/></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><g type="spiralL"/> Om<supplied reason="omitted">.</supplied></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01"><g type="spiralL"/> Om<supplied reason="omitted">.</supplied></rdg>
                   </app>
                   <app loc="2">
                      <lem>-nūp<choice><sic>ū</sic><corr>u</corr></choice>ra-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-nūpura-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-nūpura-</rdg>
                   </app>
                   <app loc="3">
                      <lem>-diṅkānādig-deśā°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">diṁṇnānādigṇdeś</rdg>
-                     <note>There are numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">diṁṇnānādigṇdeś</rdg>
+                     <note>There are numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="6">
                      <lem>°ṭṭālikā-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">ṭṭalikā-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">ṭṭalikā-</rdg>
                      <note>The notation of the long <foreign>ā</foreign> is the same as the one used in <foreign>bhaṭṭāraka</foreign>, lines 8 and 10.</note>
                   </app>
                   <app loc="6">
                      <lem>-devakulārāmodyāna-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">devakulṇārām-odhāna</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">devakulṇārām-odhāna</rdg>
                   </app>
                   <app loc="9">
                      <lem>-m<choice><sic>a</sic><corr>ā</corr></choice>heśvara-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-maheśvara-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-maheśvara-</rdg>
                   </app>
                   <app loc="12">
                      <lem>harṣadat<supplied reason="omitted">t</supplied>a</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">haṣadat<supplied reason="omitted">t</supplied>a</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">haṣadat<supplied reason="omitted">t</supplied>a</rdg>
                   </app>
                   <app loc="13">
                      <lem>-ku<add place="below">ṭu</add>mvi-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-kuṭūmvi-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-kuṭūmvi-</rdg>
                   </app>
                   <app loc="14">
                      <lem>samāhartṛ-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">samāhatṛ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">samāhatṛ</rdg>
                   </app>
                   <app loc="16">
                      <lem>°mābhir ayaṁ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°mābhirkayaṁ</rdg>
-                     <note>This is one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°mābhirkayaṁ</rdg>
+                     <note>This is one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="17">
                      <lem>°dhiḥ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°dhig</rdg>
-                      <note>This is one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°dhig</rdg>
+                      <note>This is one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="20">
                      <lem>gotrāya Aṅgirasa-vārhaspatya-pravarāya m<choice><sic>o</sic><corr>ā</corr></choice>dhyandina-vājasaneya</lem>
-                     <note>The complete line is missing in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition</note>
+                     <note>The complete line is missing in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition</note>
                   </app>
                   <app loc="25">
                      <lem>-vuddhyā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-vuddhya</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-vuddhya</rdg>
                   </app>
                   <app loc="28">
                      <lem>asmadīyā dharmma-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">asmadīya dharma-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">asmadīya dharma-</rdg>
                   </app>
                   <app loc="39">
                      <lem>bhūmi-dātā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">bhūmi-dāttā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">bhūmi-dāttā</rdg>
                   </app>
                   <app loc="40">
                      <lem>Ubhau tau</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">tau</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">tau</rdg>
                   </app>
                   <app loc="42">
                      <lem>hāray<choice><sic>ate</sic><corr>ed</corr></choice></lem>
@@ -376,39 +376,39 @@ n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied 
                   </app>
                   <app loc="48">
                      <lem>pārthivendrā<supplied reason="omitted">n</supplied></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">pārthivendrā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">pārthivendrā</rdg>
                   </app>
                   <app loc="49">
                      <lem>°lolāṁ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°lolaṁ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°lolaṁ</rdg>
                   </app>
                   <app loc="51">
                      <lem>°rttayo</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°rttyo</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°rttyo</rdg>
                   </app>
                   <app loc="52">
                      <lem>-janamejaya-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">janameyjaya</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">janameyjaya</rdg>
                   </app>
                   <app loc="54">
                      <lem>mahāsāndhivigrahi</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">mahāsādhvigrahi</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">mahāsādhvigrahi</rdg>
                   </app>
                   <app loc="54">
                      <lem>-kāyastha-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-<unclear>kā</unclear>tastha</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-<unclear>kā</unclear>tastha</rdg>
                   </app>
                   <app loc="57">
                      <lem>°bhābhaḥ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°bhbhāḥ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°bhbhāḥ</rdg>
                   </app>
                   <app loc="60">
                      <lem>-vidyā-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-vidhā-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-vidhā-</rdg>
                   </app>
                   <app loc="61">
                      <lem>-prāpta-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-prāta-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-prāta-</rdg>
                   </app>
                </listApp>
          </div>
@@ -444,7 +444,7 @@ n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied 
 	<!--bibliography encoded as per section §9.4 -->
            <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
         	<listBibl type="primary">
-				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">126-137</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">126-137</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
                  <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl>

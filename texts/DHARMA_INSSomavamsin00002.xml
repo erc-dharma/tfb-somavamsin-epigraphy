@@ -126,7 +126,7 @@ n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied></ab>
                    <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam ādhāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb
 n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied> janayati yaḥ pātu sa śivo vaḥ</l><!-- 
-amwb note on the word kurumva by Shastri+Tripathy2011_01 : "it gives no sense. Can we correct it to nikaraṁ vaḥ which would give a good sens though vaḥ would be redundant
+amwb note on the word kurumva by Shastri+Tripathy2011-2012_01 : "it gives no sense. Can we correct it to nikaraṁ vaḥ which would give a good sens though vaḥ would be redundant
 -->
                    </lg>
                    <lg n="2" met="upajāti">
@@ -319,273 +319,273 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
                <listApp>
                   <app loc="1">
                      <lem source="bib:Tripathy2000_01">-māla-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-mala-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-mala-</rdg>
                   </app>
                   <app loc="1">
                      <lem source="bib:Tripathy2000_01">ādhāya</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">ādhyāya</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">ādhyāya</rdg>
                   </app>
                   <app loc="1">
                      <lem>ni<lb
 n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">nikurumva</rdg>
-                     <note><bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="note">1</citedRange><citedRange unit="page">111</citedRange></bibl> suggest correcting <foreign>nikurmva</foreign> by <foreign>nikaraṁ vaḥ</foreign> but add the <foreign>vaḥ</foreign> inserted could be redundant. I prefer to correct simply by assuming an omitted <foreign>anusvāra</foreign>.</note>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">nikurumva</rdg>
+                     <note><bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="note">1</citedRange><citedRange unit="page">111</citedRange></bibl> suggest correcting <foreign>nikurmva</foreign> by <foreign>nikaraṁ vaḥ</foreign> but add the <foreign>vaḥ</foreign> inserted could be redundant. I prefer to correct simply by assuming an omitted <foreign>anusvāra</foreign>.</note>
                   </app>
                   <app loc="2">
                      <lem source="bib:Tripathy2000_01">śivo vaḥ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">śivo yaḥ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">śivo yaḥ</rdg>
                   </app>
                   <app loc="3">
-                     <lem source="bib:Shastri+Tripathy2011_01">śauryāṅkura<supplied reason="omitted">ṁ</supplied></lem>
+                     <lem source="bib:Shastri+Tripathy2011-2012_01">śauryāṅkura<supplied reason="omitted">ṁ</supplied></lem>
                      <rdg source="bib:Tripathy2000_01">śauryāṅkur<choice><sic>a</sic><corr>o</corr></choice></rdg>
                   </app>
                   <app loc="4">
                      <lem source="bib:Tripathy2000_01">-kadamvaka-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-kadamvaja-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-kadamvaja-</rdg>
                   </app>
                   <app loc="4">
                      <lem>'stra-jālaka<supplied reason="omitted">ṁ</supplied></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">'<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></rdg>
-                  </app><!-- finally I'm not convinced by the correction suggested by Shastri+Tripathy2011_01; I found no compound aśrujālaka in my electronic texts , only the compound aśrujāla while I found one occurrence of astrajālaka -->
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">'<choice><sic>stra</sic><corr>śru</corr></choice>-jālaka<supplied reason="omitted">ṁ</supplied></rdg>
+                  </app><!-- finally I'm not convinced by the correction suggested by Shastri+Tripathy2011-2012_01; I found no compound aśrujālaka in my electronic texts , only the compound aśrujāla while I found one occurrence of astrajālaka -->
                   <app loc="4">
                      <lem>-vapur vvidhāri</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-vapur vidhāri</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-vapur vidhāri</rdg>
                   </app>
                   <app loc="5">
                      <lem>tasyānu°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">tasyāccha°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">tasyāccha°</rdg>
                      <rdg source="bib:Tripathy2000_01">tasyā<choice><sic>ch</sic><corr>ccha</corr></choice>°</rdg>
                   </app>
                   <app loc="5">
                      <lem source="bib:Tripathy2000_01">dharmma°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">dharma°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">dharma°</rdg>
                   </app>
                   <app loc="5">
                      <lem>sindūragaurī</lem>
                      <rdg source="bib:Tripathy2000_01">sinduragaurī°</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">sindhuragaurī°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">sindhuragaurī°</rdg>
                   </app>
                   <app loc="7">
                      <lem>sarvvoddhatād dh<choice><sic>e</sic><corr>ai</corr></choice>°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">sarvvoddhtād dh<choice><sic>e</sic><corr>ai</corr></choice>°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">sarvvoddhtād dh<choice><sic>e</sic><corr>ai</corr></choice>°</rdg>
                      <rdg source="bib:Tripathy2000_01">sarvvoddhatārddhai°</rdg>
-                     <note>The edition in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl> is full of printing errors.</note>
+                     <note>The edition in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl> is full of printing errors.</note>
                   </app>
                   <app loc="7">
                      <lem><choice><sic>sva</sic><corr>su</corr></choice>taḥ</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">sutaḥ</rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">sutaḥ</rdg>
                   </app>
                   <app loc="8">
                      <lem source="bib:Tripathy2000_01">prasiddhaḥ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">prasidhaḥ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">prasidhaḥ</rdg>
                   </app>
                   <app loc="10">
                      <lem>°tana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">°tanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-</rdg><!-- 
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">°tanā<choice><sic>dhdha</sic><corr>d dhī</corr></choice>ra-</rdg><!-- 
                      amwb the final a of āyatana is clearly short ; so I introduce only one correction and don't follow the editor's correction which implies from my reading the introduction of two corrections
                      -->
                   </app>
                   <app loc="10">
                      <lem source="bib:Tripathy2000_01">°dhyāmalita°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°dhyāmai<gap reason="illegible" unit="character" quantity="1"/>ta°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°dhyāmai<gap reason="illegible" unit="character" quantity="1"/>ta°</rdg>
                   </app>
                   <app loc="11">
                      <lem>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi°</lem>
                      <rdg source="bib:Tripathy2000_01">°lāvan ārthi°</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°lāvam ārthi°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°lāvam ārthi°</rdg>
                   </app>
                   <app loc="11">
                      <lem source="bib:Tripathy2000_01">-kalpa-taru-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-kala-taru-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-kala-taru-</rdg>
                   </app>
                   <app loc="11">
                      <lem>saj<supplied reason="omitted">j</supplied>anādhivāsakādvipaṇi</lem>
                      <rdg source="bib:Tripathy2000_01">sajjanādhivāsakādvipaṇi</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">sajjanādhivāsakā-vipaṇi</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">sajjanādhivāsakā-vipaṇi</rdg>
                   </app>
                   <app loc="12">
-                     <lem source="bib:Shastri+Tripathy2011_01">-cāmīkara-</lem>
+                     <lem source="bib:Shastri+Tripathy2011-2012_01">-cāmīkara-</lem>
                      <rdg source="bib:Tripathy2000_01">-kāmīkara-</rdg>
                   </app>
                   <app loc="13">
                      <lem>-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">-ḍamvari-</rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">-ḍamvari-</rdg>
                   </app>
                   <app loc="14">
                      <lem source="bib:Tripathy2000_01">-ravākarṇṇana-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-ravākarṇṇa-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-ravākarṇṇa-</rdg>
                   </app>
                   <app loc="15">
                      <lem source="bib:Tripathy2000_01">so 'yaṁ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">seyaṁ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">seyaṁ</rdg>
                   </app>
                   <app loc="19">
                      <lem source="bib:Tripathy2000_01">vetrikāvarodha-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">vetrikāvarodhy-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">vetrikāvarodhy-</rdg>
                   </app>
                   <app loc="20">
                      <lem source="bib:Tripathy2000_01"><choice><sic>va</sic><corr>bā</corr></choice>dhā°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><choice><sic>Ā</sic><corr>bā</corr></choice>dhā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01"><choice><sic>Ā</sic><corr>bā</corr></choice>dhā</rdg>
                   </app>
                   <app loc="21">
                      <lem>pratiniṣiddha°</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">niṣiddha°</rdg>
-                     <note>It is clearly written <foreign>prati</foreign>. These two <foreign>akṣara</foreign>s are missing in the two available editions <supplied reason="explanation"><bibl><ptr target="bib:Tripathy2000_01"/></bibl><bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl></supplied>.</note>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">niṣiddha°</rdg>
+                     <note>It is clearly written <foreign>prati</foreign>. These two <foreign>akṣara</foreign>s are missing in the two available editions <supplied reason="explanation"><bibl><ptr target="bib:Tripathy2000_01"/></bibl><bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl></supplied>.</note>
                   </app>
                   <app loc="21">
                      <lem>adhītyāmalata°</lem>
                      <rdg source="bib:Tripathy2000_01">adhītyāmalava°</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">acītyāmalavā°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">acītyāmalavā°</rdg>
                   </app>
                   <app loc="22">
                      <lem source="bib:Tripathy2000_01">arthair</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">artahir</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">artahir</rdg>
                   </app>
                   <app loc="22">
                      <lem source="bib:Tripathy2000_01">°yamānair</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">°yamāmair</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">°yamāmair</rdg>
                   </app>
                   <app loc="23">
                      <lem source="bib:Tripathy2000_01">dharmmārtha°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">dgarmmārtha°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">dgarmmārtha°</rdg>
                      <note>Here this is certainly a printing error.</note>
                   </app>
                   <app loc="24">
                      <lem source="bib:Tripathy2000_01">yajvā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">yajyā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">yajyā</rdg>
                   </app>
                   <app loc="24">
                      <lem>puṇyavat<choice><sic>a</sic><corr>ā</corr></choice>ṁ</lem>
                      <rdg source="bib:Tripathy2000_01">puṇyavataṁ</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">puṇyavata<choice><sic>ṁ</sic><corr>s</corr></choice></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">puṇyavata<choice><sic>ṁ</sic><corr>s</corr></choice></rdg>
                      <note>The long vowel is required by metrical rules.</note>
                   </app>
                   <app loc="24">
                      <lem source="bib:Tripathy2000_01">sva-dharmma-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">sva-dharma-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">sva-dharma-</rdg>
                   </app>
                   <app loc="25">
                      <lem source="bib:Tripathy2000_01">rājño</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">rajño</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">rajño</rdg>
                   </app>
                   <app loc="25">
                      <lem source="bib:Tripathy2000_01">-padāspadaṃ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-padās adaṃ</rdg>
-                     <note>Here this seems to be one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-padās adaṃ</rdg>
+                     <note>Here this seems to be one of the numerous printing errors in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="26">
                      <lem source="bib:Tripathy2000_01">yathā<g type="ddanda">.</g></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">yathā<supplied reason="omitted">.</supplied></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">yathā<supplied reason="omitted">.</supplied></rdg>
                   </app>
                   <app loc="26">
                      <lem source="bib:Tripathy2000_01">-gotrā°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-gotra°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-gotra°</rdg>
                   </app>
                   <app loc="29">
                      <lem source="bib:Tripathy2000_01">-śobhana-s<choice><sic>u</sic><corr>ū</corr></choice>nave</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-śocana-<choice><sic>su</sic><corr>śu</corr></choice>nave</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-śocana-<choice><sic>su</sic><corr>śu</corr></choice>nave</rdg>
                   </app>
                   <app loc="31">
                      <lem source="bib:Tripathy2000_01">sukhe°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">suche°</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">suche°</rdg>
                   </app>
                   <app loc="32">
                      <lem source="bib:Tripathy2000_01">prativastavyam</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><sic>ratovastavu</sic>am</rdg>
-                     <note>Here this seems to be another printing error in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01"><sic>ratovastavu</sic>am</rdg>
+                     <note>Here this seems to be another printing error in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="32">
                      <lem>dda<choice><sic>n</sic><corr>t</corr></choice>tir</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">ddattir</rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">ddattir</rdg>
                      <note>UIt is clearly written <foreign>ddantir</foreign>.</note>
                   </app>
                   <app loc="32">
                      <lem source="bib:Tripathy2000_01">asmadīyā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">aśmadīya</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">aśmadīya</rdg>
                   </app>
                   <app loc="32">
                      <lem source="bib:Tripathy2000_01">dharmma-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">dharma-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">dharma-</rdg>
                   </app>
                   <app loc="33">
                      <lem source="bib:Tripathy2000_01">tathā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">tjatā</rdg>
-                     <note>Here this seems to be another printing error in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">tjatā</rdg>
+                     <note>Here this seems to be another printing error in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="33">
                      <lem>dattā</lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">datā</rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">datā</rdg>
                   </app>
                   <app loc="34">
                      <lem source="bib:Tripathy2000_01">phalaṁ<g type="ddanda">.</g></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">phalaṁ<supplied reason="omitted">.</supplied></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">phalaṁ<supplied reason="omitted">.</supplied></rdg>
                   </app>
                   <app loc="34">
                      <lem>-śaṅkā<surplus>ṁ</surplus></lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">-śaṅkā</rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">-śaṅkā</rdg>
                   </app>
                   <app loc="35">
                      <lem source="bib:Tripathy2000_01"><g type="ddanda">.</g></lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><supplied reason="omitted">.</supplied></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01"><supplied reason="omitted">.</supplied></rdg>
                   </app>
                   <app loc="35">
                      <lem source="bib:Tripathy2000_01"><choice><sic>ś</sic><corr>ṣ</corr></choice>aṣṭhiṁ</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">ṣa<choice><sic>s</sic><corr>ṣ</corr></choice>ṭhiṁ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">ṣa<choice><sic>s</sic><corr>ṣ</corr></choice>ṭhiṁ</rdg>
                   </app>
                   <app loc="38">
                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice><surplus>ṁ</surplus>ñ ca</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">mah<choice><sic>i</sic><corr>ī</corr></choice>ñ ca</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">mah<choice><sic>i</sic><corr>ī</corr></choice>ñ ca</rdg>
                   </app>
                   <app loc="38">
                      <lem source="bib:Tripathy2000_01">dadyāT</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">dadyā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">dadyā</rdg>
                   </app>
                   <app loc="43">
                      <lem source="bib:Tripathy2000_01">dha<space type="feature"/>rmma-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">carmma-</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">carmma-</rdg>
                   </app>
                   <app loc="43">
                      <lem>kāle kāle</lem>
                      <rdg source="bib:Tripathy2000_01">kāl<choice><sic>a</sic><corr>e</corr></choice> kāl<choice><sic>a</sic><corr>e</corr></choice></rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">kāl<choice><sic>a</sic><corr>e</corr></choice> <supplied reason="omitted">kāle</supplied></rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">kāl<choice><sic>a</sic><corr>e</corr></choice> <supplied reason="omitted">kāle</supplied></rdg>
                   </app>
                   <app loc="43">
                      <lem source="bib:Tripathy2000_01">sarvvān etān bhāvino</lem>
-                     <note>Here the whole <foreign>pāda</foreign> is missing in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <note>Here the whole <foreign>pāda</foreign> is missing in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="44">
                      <lem source="bib:Tripathy2000_01">bhūyo bhūyo</lem>
-                     <note>Here the second <foreign>bhūyo</foreign> is missing in <bibl><ptr target="bib:Shastri+Tripathy2011_01"/></bibl>'s edition.</note>
+                     <note>Here the second <foreign>bhūyo</foreign> is missing in <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/></bibl>'s edition.</note>
                   </app>
                   <app loc="44">
                      <lem>-vindu-lolāṁ</lem>
                      <rdg source="bib:Tripathy2000_01">-vindu-l<choice><sic>ā</sic><corr>o</corr></choice>lāṁ</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01">-vindu-l<choice><sic>ā</sic><corr>o</corr></choice>laṁ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-vindu-l<choice><sic>ā</sic><corr>o</corr></choice>laṁ</rdg>
                   </app>
                   <app loc="45">
                      <lem source="bib:Tripathy2000_01">jīvitañ ca</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">jīvita ca</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">jīvita ca</rdg>
                   </app>
                   <app loc="46">
                      <lem><choice><sic>va</sic><corr>vi</corr></choice>lopyāḥ</lem>
                      <rdg source="bib:Tripathy2000_01">valopyāḥ</rdg>
-                     <rdg source="bib:Shastri+Tripathy2011_01"><choice><sic>ya</sic><corr>vi</corr></choice>lopyāḥ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01"><choice><sic>ya</sic><corr>vi</corr></choice>lopyāḥ</rdg>
                   </app>
                   <app loc="47">
                      <lem source="bib:Tripathy2000_01">aṅkenāpi</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">aṅkenapi</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">aṅkenapi</rdg>
                   </app>
                   <app loc="47">
                      <lem source="bib:Tripathy2000_01">likhi°</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">likaṅ</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">likaṅ</rdg>
                   </app>
                   <app loc="50">
                      <lem source="bib:Tripathy2000_01">ārjjaṭṭā</lem>
-                     <rdg source="bib:Shastri+Tripathy2011_01">ārjjaā</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">ārjjaā</rdg>
                   </app>
                   <app loc="50">
                      <lem>g<supplied reason="omitted">r</supplied>āma<supplied reason="omitted">ḥ</supplied></lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011_01">grāma<supplied reason="omitted">ḥ</supplied></rdg>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">grāma<supplied reason="omitted">ḥ</supplied></rdg>
                   </app>
                </listApp>
          </div>
@@ -776,7 +776,7 @@ la terre, telle celle tenue fermement par les bras de Hari, lui le support de la
          <div type="commentary">
             <!-- 
             Language : sanskrit influenced by prakritis;s and the local dialect and popular though grammatically incorrect pronunciations. ixed verse and prose Champu
-            othographical remarks: see Shastri+Tripathy2011_01 p.95-96 
+            othographical remarks: see Shastri+Tripathy2011-2012_01 p.95-96 
             viruda de Janamejaya : Śriyovāsa abode of fortune 
             Description Suvarṇapura in the Varṇaka type (see description of Mārasīman and Ārāma )
             The four lines of the second side of the third plate are written by another hand 
@@ -789,10 +789,10 @@ la terre, telle celle tenue fermement par les bras de Hari, lui le support de la
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departement of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
+           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departement of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
         	<listBibl type="primary">
         	   <bibl n="T"><ptr target="bib:Tripathy2000_01"/><citedRange unit="page">223-228</citedRange></bibl>
-				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl>
