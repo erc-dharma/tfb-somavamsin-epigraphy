@@ -5,7 +5,7 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,10 +84,6 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2023-03-15" who="part:amwb" status="draft">Creation of the file</change>
