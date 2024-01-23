@@ -185,7 +185,7 @@ n="37" break="no"/>rataś caiva</l><!-- Sircar13 atītāgāmi-pāpānāṁ / Sir
                          <l n="d"><choice><sic>ta</sic><corr>sa</corr></choice> hanyāt saptamaṁ kulam</l><!--13 Sircar dahaty ā-saptamaṁ kulam / Sircar 100 hiṁsanty ā-saptamaṁ kulam -->
                      </lg>
              <lg n="9" met="anuṣṭubh" corresp="#Sircar1965_st0064">
-                        <l n="a">Harate hārayed yas tu</l>
+                        <l n="a">harate hārayed yas tu</l>
                         <l n="b">ma<lb 
 n="38" break="no"/>nda-budhi<supplied reason="omitted">s</supplied> tam<choice><sic>ā</sic><corr>o</corr></choice>-vṛtaḥ</l><!-- I added choice -->
                         <l n="c">sa vaddho vāruṇ<choice><sic>e</sic><corr>aiḥ</corr></choice> pāś<choice><sic>e</sic><corr>aiḥ</corr></choice></l>
@@ -206,7 +206,7 @@ n="40"/><gap reason="lost" extent="unknown"/></l><!-- Sircar pitṛbhiḥ saha p
 n="41"/><gap reason="lost" extent="unknown"/></l><!-- likely Sircar 137 with variation gavāṁ koṭi-pradānena -->
                  <l n="d">hantana śudhyati</l><!-- likely Sircar 137 with variation bhūmi-hartā na śudhyati -->
              </lg>
-            <lg n="12" met=""><!-- likely Sircar1965_st0055 -->
+            <lg n="12" met="anuṣṭubh"><!-- likely Sircar1965_st0055 -->
                 <l n="a">suvarnnam ekam</l> <!-- likely Sircar1965_st0055 <l n="a">gām ekāṁ svarṇam ekaṁ vā</l> -->
                 <l n="b">
                     <pb n="3v"/>
