@@ -139,7 +139,7 @@ n="26" break="no"/>pāraṇya-sagu<choice><sic>ru</sic><corr>lma</corr></choice>
 n="27" break="no"/>lmalatā ca taka dat<supplied reason="omitted">t</supplied>ā s<choice><sic>i</sic><corr>ī</corr></choice><g type="ddanda">.</g>
                  </p>
                  <lg n="3" met="anuṣṭubh"><!-- close to best_0090-->
-                        <l n="a">mama vaṁ<choice><sic>s</sic><corr>ś</corr></choice>-parī<lb 
+                        <l n="a">mama vaṁ<choice><sic>s</sic><corr>ś</corr></choice>a-parī<lb 
 n="28" break="no"/>kṣaṇe</l><!-- mad-vaṁśe para-vaṁśe vā -->
                         <l n="b">y<choice><sic>e</sic><corr>aḥ</corr></choice> kecit nṛpabhi<supplied reason="omitted">r</supplied> vet<surplus>a</surplus></l><!-- yaḥ kaścin nṛpatir bhavet -->
                         <l n="c">tasyāhāṁ pā<lb 
@@ -153,8 +153,12 @@ n="29" break="no"/>dalagnānāṁ</l><!-- tasyāhaṁ kara-lagnaḥ syāṁ -->
 n="30" break="no"/>sya yadā bhūmiḥ</l>
             <l n="d">tasya tasya tadā pha<surplus>v</surplus>lam</l><!-- tasya tasya tadā phalam -->
                        </lg>
-             <p>tasy<choice><sic>a</sic><corr>ā</corr></choice>haṃ<lb 
-n="31"/>pādalagnānāṁ mama kṛti na l<choice><sic>ā</sic><corr>o</corr></choice>pay<choice><sic>a</sic><corr>e</corr></choice>t<surplus>a</surplus></p>
+             <lg n="5" met="anuṣṭubh"><!-- best_0090 with omission ab + vairations -->
+                  <l n="a"><supplied reason="omitted">mad-vaṁśe para-vaṁśe vā</supplied></l>
+                   <l n="b"><supplied reason="omitted">yaḥ kaścin nṛpatir bhavet</supplied></l>
+                 <l n="c">tasy<choice><sic>a</sic><corr>ā</corr></choice>haṃ<lb 
+n="31"/>pādalagnānāṁ</l> 
+                 <l n="d">mama kṛti na l<choice><sic>ā</sic><corr>o</corr></choice>pay<choice><sic>a</sic><corr>e</corr></choice>t<surplus>a</surplus></l></lg>
     
              
          </div>
