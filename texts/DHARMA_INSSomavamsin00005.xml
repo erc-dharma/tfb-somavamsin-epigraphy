@@ -109,10 +109,12 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <!-- Encoded text based on Fleet's first edition -->
-           <p>
-              <pb n="1v"/>
-              <lb 
-n="1"/><g type="spiralR"/> svasti mūrasīma-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-kaṭakāt parama-bhaṭṭāraka-mahārājādhi<lb 
+           <pb 
+
+n="1r"/>
+<p><pb 
+
+n="1v"/><g type="spiralR"/> svasti mūrasīma-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-kaṭakāt parama-bhaṭṭāraka-mahārājādhi<lb 
 n="2" break="no"/>rāja-parameśvara-śrī-śivagupta-deva-pādānudhyāta-parama-māheśvara-parama-bhaṭṭāraka-māhārā<lb 
 n="3" break="no"/>jādhirāja-parameśvara-somakulatilaka-tṛkaliṅgādhipati-śrī-mahābhavagupta-rājade<lb 
 n="4" break="no"/>vaḥ<surplus><g type="ddanda"></g></surplus> k<choice><sic>ū</sic><corr>u</corr></choice>śalī<surplus><g type="danda"></g></surplus> Oṅgātaṭa-viṣaya-prativaddha-vakaveḍḍā-grāme tat-pratinivāsi-kuṭumvi-janapadāṁ<lb 
@@ -121,7 +123,7 @@ n="6" break="no"/>varodhajana-rājavallabhādīn sarvvān rāja-pādopajīvina�
 n="7" break="no"/>tam astu bhavatāṁ<g type="danda">.</g> yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sarvva-vādhā-viva<supplied reason="omitted">r</supplied>jjitaḥ<g type="danda">.</g><lb 
 n="8"/>sarvvoparika<surplus>ra</surplus>karādāna-sahitaḥ sāmra-madhukaḥ sa-garttoṣaraḥ<g type="danda">.</g> prasiddha-catuḥ-s<choice><sic>i</sic><corr>ī</corr></choice>mā<lb
 n="9" break="no"/>cacchi<choice><sic>nv</sic><corr>nn</corr></choice>aḥ<g type="danda">.</g> pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ nānā-gotra-pravara-vinirgata-vāstavye
-              <pb n="2r"/>
+              <pb n="2r" break="no"/>
               <lb 
 n="10" break="no"/>bhyo dvijāti-varebhyaḥ eka<supplied reason="omitted">ḥ</supplied> kau<choice><sic>ccha</sic><corr>tsa</corr></choice>-gotraḥ Aṅgirasa-varṣa<!-- Fleet suggest reading aṅgiras-ambarīṣa  note 6 p.342-->-y<choice><sic>o</sic><corr>au</corr></choice>vanāśva-pravaraḥ yūvanaśvad-amvariṣa<lb 
 n="11" break="no"/>d-aṅgira<!-- Fleet suggests reading yuvanāśvavad-ambarīṣavad-aṅgirovad by comparing with the note 6 p,45 -->-anupravaraḥ sāmavede kauth<supplied reason="omitted">u</supplied>ma-śākhādhyāyī panpāsaras<choice><sic>i</sic><corr>ī</corr></choice>-vinirgata<supplied reason="omitted">ḥ</supplied> leIśṛṅgā-vā<lb 
@@ -134,7 +136,7 @@ n="17"/>kāṇva-śāhādhyā<choice><sic>Ī</sic><corr>yī</corr></choice> <sur
 n="18" break="no"/>stavyaḥ koṇḍadeva-nām<supplied reason="omitted">ā</supplied> rāmaśa<supplied reason="omitted">r</supplied>mma-s<choice><sic>ū</sic><corr>u</corr></choice>taḥ<supplied reason="omitted">.</supplied> etebhyo dvijāti-varebhyaḥ salila-dhārā<lb 
 n="19" break="no"/>p<choice><sic>ū</sic><corr>u</corr></choice>raḥsaram ācandra-tāra<supplied reason="omitted">kā</supplied>rkka-kṣiti-samakālopabh<choice><sic>e</sic><corr>o</corr></choice>gārtham prativarṣa-dātavya-r<choice><sic>u</sic><corr>ū</corr></choice>pya-kāṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>a-pala<lb 
 n="20" break="no"/>dara-dāna<supplied reason="omitted">ṁ</supplied> viniścitya mātāpitror ātmanaś ca puṇya-yaśo 'bhivṛddhaye tāmra-śāsanenā
-              <pb n="2v"/>
+              <pb n="2v" break="no"/>
               <lb 
 n="21" break="no"/>kar<choice><sic>i</sic><corr>ī</corr></choice>kṛtya pratipādita <choice><sic>Ī</sic><corr>I</corr></choice>ty avagatya <surplus>sam<choice><sic>ū</sic><corr>u</corr></choice>cita-bho<supplied reason="omitted">gār</supplied>thaṁ mātāpitror</surplus><lb
 n="22"/>vṛddhaye tāmra-śāsanenākarīkṛtya pratipādita Ity avagatya samucita-bhoga-bhāga-kara-hira<lb 
@@ -204,9 +206,9 @@ n="32"/>sr<choice><sic>āṇi</sic><corr>eṇa</corr></choice></l><!-- correctio
 </lg>
             <lg n="8" met="anuṣṭubh">
                   <l n="a">harate hā
-                     <pb n="3r"/>
+                     <pb n="3r" break="no"/>
                      <lb 
-n="33"/>ray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
+n="33" break="no"/>ray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
                   <l n="b">manda-vuddhis tamo-vṛtaḥ</l>
                   <l n="c">sa vaddho vāruṇaiḥ</l>
                   <l n="d">pāśais t<choice><sic>ī</sic><corr>i</corr></choice>ryag-yon<choice><sic>īṇ</sic><corr>iñ</corr></choice> ca gacchati<g type="ddanda">.</g></l><!-- 
@@ -261,7 +263,7 @@ n="42" break="no"/>grahi-śrī-mallādhāradatta-s<choice><sic>ū</sic><corr>u</
                <l n="a"><lb 
 n="43"/>Asti kṣoṇīśvarāṇām amala-maṇi-rucām anvay<choice><sic>at</sic><corr>e</corr></choice> kaustubhābhaḥ</l> 
                <l n="b">śaurya-tyāgāmvu-rāśi
-              <pb n="3v"/>
+              <pb n="3v" break="no"/>
               <lb 
 n="44" break="no"/>r viracita-vidhivad-dāna-śubhrīkṛtābhraḥ</l> 
                <l n="c">śrīmān Jammejayākhyas<!-- according to fleet it is a metrical license for Janamejaya --> tṛdaśapati-samaḥ<lb 

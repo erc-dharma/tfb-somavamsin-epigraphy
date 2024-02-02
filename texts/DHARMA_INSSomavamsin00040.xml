@@ -91,8 +91,15 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- for the moment, the text reproduced is the one from Pratnakirti edition -->
             <!--edition encoded as per EGD §§2−7-->
-             <pb n="1v"/>
-              <p><lb 
+             <pb 
+
+n="1r"/>
+<p>
+<pb 
+
+n="1v"/>
+<lb 
+n="1"/><lb 
 n="1"/>svasti<g type="danda">.</g> jita-śrī-puṇḍarīkākṣaḥ namaste viśvavihāri<lb
 n="2"/>namaste tu riṣikeśa mahāpuruśa-pu<supplied reason="omitted">r</supplied>vvaja <g type="danda">.</g> Aneka-guṇa-gaṇālaṁkṛta<lb 
 n="3" break="no"/>-janopa-bhogāmarādhipa-purīva jagate vikhyāta-nāmnaḥ śrī<lb 
@@ -102,7 +109,7 @@ n="6" break="no"/>vivigraha-śrī-vāmanavigraha-sutaḥ śrī-vyāghrarājasya 
 n="7" break="no"/>śalī kāsamvadā-viṣaya-pratibaddha-sakamrā-grāma-brhāhmaṇā<supplied reason="omitted">n</supplied><lb 
 n="8"/>sampūjya tat-pratinivāsi-kuṭumbinas-tad-viṣayī-janasa<lb 
 n="9" break="no"/>dā yathā kālādhyāsinaḥ samāhatṛ-sannidhātṛ-da<supplied reason="omitted">ṇḍa</supplied>
-             <pb n="2r"/>
+             <pb n="2r" break="no"/>
                   <lb 
 n="10" break="no"/>-pāśika-cāṭa-bhaṭa-piśuna-v<choice><sic>i</sic><corr>e</corr></choice>tṛkavarodha-jana-nṛpa-valla<lb 
 n="11" break="no"/>bhādīn sarvānājñāpayati viditam astu bhavatāṁ yathā<lb 
@@ -118,7 +125,7 @@ n="19" break="no"/>las<supplied reason="omitted">v</supplied>ām-suta-vṛhakasy
                   <lb 
 n="20"/>Ācandra-tārakārkka-kṣiti-samakālīya-bhogāya mātā-pitror ātmanaś ca<lb 
 n="21"/>puṇya-yaśobhivṛddhaye tāmvra-śāsanenākarīkṛtya pratipāditam<lb 
-n="22"/>avagata-samucita-bhoga-bhāgādikam-upanayadbhiḥ bhavadbhiḥ sukhena<lb 
+n="22"/>Avagata-samucita-bhoga-bhāgādikam-upanayadbhiḥ bhavadbhiḥ sukhena<lb 
 n="23"/>prativasatu bhāviviś ca bhūpati<choice><sic>bhiḥ d</sic><corr>bhi</corr></choice>tiriyam-asmadīya-dha<supplied reason="omitted">r</supplied>mma-gau<lb 
 n="24" break="no"/>ravad-asmād-anurodhāye svadatir-iyānupālanīyā ttathā coktaṁ<lb 
 n="25"/>dharmma-śāstre</p> 
@@ -150,7 +157,7 @@ n="29"/>cānumantā cca</l><!-- ācchettā in Sircar -->
 n="30"/>vaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
                     <l n="c">ya kāñcanaṁ gāvā ca tu mahī ca dadyā</l><!-- Sircar in pada d ya kāñcanaṁ gāṁ ca mahīṁ ca dadyāt -->
                     <l n="d">da
-                        <pb n="3r"/>
+                        <pb n="3r" break="no"/>
                         <lb 
 n="31" break="no"/>ttā srayas tena bhavanti lokā</l><!-- Sircar this pada is c and with trayas instead of srayas  -->
                     </lg>

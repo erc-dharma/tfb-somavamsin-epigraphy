@@ -128,7 +128,7 @@ n="7" break="no"/>na-rāja-vallabhādīN sarvvā<add place="below">N</add> rāja
 n="8" break="no"/>vatāṁ yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ sa-daśāparādhaḥ sarvva-vādhā-viva<lb 
 n="9" break="no"/>rjjitaḥ sarvvoparikara-karādāna-sahitaḥ sāmra-madhukaḥ sa-gartoṣaraḥ prasiddha-catuḥ<lb 
 n="10" break="no"/>-sīmā-paryantaḥ pratiniṣiddha-cāṭa-bhaṭa-praveśaḥ bharadvāja-gotrāya Aṅgirasa-vā
-                <pb n="2r"/>
+                <pb n="2r" break="no"/>
 <lb 
 n="11" break="no"/>rhaspatya-bharadvāja-pravarāya mādhyandina-śākhādhyāyine <placeName type="settlement" subtype="village">ṭṭākkārikā</placeName>-vinirggatā<lb
 n="12" break="no"/>ya <placeName type="settlement" subtype="village">turvvunā</placeName>-vāstavyā mahāmahattaka-bhaṭṭa-śrī-sādhāraṇa-nāmne bhaṭṭa-śobhana-sutāya rampā<lb 
@@ -146,7 +146,7 @@ n="22"/>vibhāga-dvayaṁ<supplied reason="omitted">.</supplied> parasāra-bhoga
 n="23" break="no"/>-bhāradvāja-gaunya-gargga-pravara-vahvṛca-śākhādhyāyi-bhaṭṭa-putra-vedagarbha-nāmne kusumagarbha-sutā<add place="below">ya</add>
                  <pb n="2v"/>
                  <lb 
-n="24"/>eka-bhāga<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied> tathā dhānya-maṇḍalīya-kāśyapa-gotra-kāśyapāvacchāra-naidhruva-pravara-ṛgved<choice><sic>ī</sic><corr>i</corr></choice><lb 
+n="24"/>Eka-bhāga<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied> tathā dhānya-maṇḍalīya-kāśyapa-gotra-kāśyapāvacchāra-naidhruva-pravara-ṛgved<choice><sic>ī</sic><corr>i</corr></choice><lb 
 n="25" break="no"/>bhaṭṭa-putra-kaparddi-nāmne Amṛtakara-s<choice><sic>u</sic><corr>ū</corr></choice>nave caiko <supplied reason="omitted">bhāgaḥ</supplied><supplied reason="omitted">.</supplied> Abhapasara-rāḍhā-maṇḍaka-vini<supplied reason="omitted">r</supplied>gata-tarvve<lb 
 n="26" break="no"/>ṅga-vāstavya-parāśara-gotra-Aṅgirasa-pravara-cchandoga-vedādhyāyi-bhaṭṭaputra-Ānandar<choice><sic>u</sic><corr>ū</corr></choice>pa-nāmne<lb 
 n="27"/>Amṛtar<choice><sic>u</sic><corr>ū</corr></choice>pa-sutāya caiko bhāga<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied> tad evaṁ bhagavate nārāyaṇa-bhaṭṭārakāya Etebhyo 'pi dvijāti-varebhya<lb 
@@ -162,7 +162,8 @@ n="32"/>bhūmis</l>
     <l n="d">tasya tasya tadā phalaṁ</l><!-- 
     amwb: Sircar 23
     -->
-</lg><lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
+</lg>
+                 <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
     <l n="a">mā bhūd a-phala-śaṅkā va<supplied reason="omitted">ḥ</supplied></l>
     <l n="b">para-datteti pārthivā<supplied reason="omitted">ḥ</supplied></l>
     <l n="c">sva-dānāt phalam āna<lb 
@@ -170,7 +171,8 @@ n="33" break="no"/>ntyaṁ</l>
     <l n="d">para-dattānupālane</l><!-- 
     amwb : Sircar 85
     -->
-</lg><lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0123">
+</lg>
+                 <lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0123">
     <l n="a">ṣaṣṭhiṁ varṣa-sahasrāṇi</l>
     <l n="b">svargge modati bhūmidaḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
@@ -178,14 +180,16 @@ n="33" break="no"/>ntyaṁ</l>
 n="34" break="no"/>ny eva narake vaseT</l><!-- 
     amwb : Sircar 123
     -->
-</lg><lg n="4" met="indravajrā" corresp="#Sircar1965_st0005">
+</lg>
+                 <lg n="4" met="indravajrā" corresp="#Sircar1965_st0005">
     <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇa<unclear>ṁ</unclear></l>
     <l n="b">bhūr vvaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
     <l n="c">yaḥ kāñcanaṁ gāñ ca<lb 
 n="35"/>mahīñ ca dadyā<supplied reason="omitted">d</supplied></l>
     <l n="d">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice></l><!-- 
     amwb : Sircar 5 with inversion of the pādas c and d 
-    --></lg><lg n="5" met="anuṣṭubh" corresp="#Sircar1965_st0020">
+    --></lg>
+                 <lg n="5" met="anuṣṭubh" corresp="#Sircar1965_st0020">
      <l n="a">Āsphoṭayanti pitaraḥ</l>
      <l n="b">pravalg<surplus>ay</surplus>anti pitāmahāḥ</l>
      <l n="c">bhūmi<lb 
@@ -193,7 +197,8 @@ n="36" break="no"/>-dātā kul<choice><sic>a</sic><corr>e</corr></choice> jāta�
      <l n="d">sa nas trātā bhaviṣyati</l><!-- 
      amwb : Sircar 20
      -->
-</lg><lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0029">
+</lg>
+                 <lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0029">
     <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
     <l n="c">Ubhau tau

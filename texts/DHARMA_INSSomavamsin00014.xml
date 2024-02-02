@@ -91,8 +91,13 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded from Shastri's adition p.362-->
-             <pb n="1v"/>
-             <p>
+             <pb 
+
+n="1r"/>
+<p>
+<pb 
+
+n="1v"/>
 <lb 
 n="1"/>svasti oṁ svasti <choice><sic>s</sic><corr>ś</corr></choice>rī-yayāti-nagaraāt parama-mā<lb 
 n="2" break="no"/>he<choice><sic>s</sic><corr>ś</corr></choice>vara-ma<supplied reason="omitted">hā</supplied>bhaṭ<supplied reason="omitted">ṭ</supplied>āraka so<supplied reason="omitted">ma</supplied>vaṃ<choice><sic>s</sic><corr>ś</corr></choice>a-k<choice><sic>ū</sic><corr>u</corr></choice>la-kamal<choice><sic>e</sic><corr>a</corr></choice><lb 
@@ -184,7 +189,7 @@ n="31"/>pādalagnānāṁ</l>
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">Supplementary Inscriptions</citedRange><citedRange unit="item">V</citedRange><citedRange unit="page">362-365</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">278</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

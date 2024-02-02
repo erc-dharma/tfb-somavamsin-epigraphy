@@ -106,8 +106,13 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <!-- amwb : first encoding with Shastri edition which is based on estampages but in the future I will check and reedit with photos from Orissa State museum  -->
-             <pb n="1v"/>
-            <lb 
+            <pb 
+
+n="1r"/>
+<pb 
+
+n="1v"/>
+<lb 
 n="1"/><ab><g type="spiralL"/></ab><!-- Need to check the symbol on the plate -->
        <lg n="1" met="śārdūlavikrīḍita">
               <l n="a">jyotsnā-śāli-samṛddhi-bhūḥ kumudinī-kāsaika<!-- hāsaika soma31+15 -->-sampādanā</l>
@@ -160,7 +165,7 @@ n="16" break="no"/><choice><sic>ḥ</sic><corr>ṁ</corr></choice> kṣiti-bhū�
             <l n="c">yad-dor-ddaṇḍa-bhujaṅga<lb 
 n="17" break="no"/>mena vilasan-nistri<choice><sic>nsya</sic><corr>ṁśa</corr></choice>-jihvā-bhṛtā</l> 
             <l n="d">pītās te paripanthi-pārthiva-camū
-               <pb n="2r"/>
+               <pb n="2r" break="no"/>
                <lb 
 n="18" break="no"/>-kaṇṭhāntare mārutāḥ</l>
 </lg> 
@@ -210,7 +215,7 @@ n="31" break="no"/>rama-bhaṭṭāraka</roleName><surplus><g type="ddanda">.</g
 n="32" break="no"/>ti</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01002">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<surplus><g type="danda">.</g></surplus> saṅgāṇamaṇḍalīyakontaḍḍākhaṇḍī<lb 
 n="33" break="no"/>ya Āgaravāḍamulāgrāmaḥ Atastadiṣa<supplied reason="omitted">yī</supplied>yav<supplied reason="omitted">r</supplied>āhmaṇān āpūjya samāhartṛ-sannidhātṛ<lb 
 n="34" break="no"/>niyuktādhikārika-dāṇḍapāśika-piśuna-v<choice><sic>e</sic><corr>ai</corr></choice>trikāvarodha-jana-rājñī-rāṇa
-               <pb n="2v"/>
+               <pb n="2v" break="no"/>
                <lb 
 n="35" break="no"/>ka-rājaputra-rājavallabha-bhogi-jana-pramukha-samastajanapadāN samājñā<lb 
 n="36" break="no"/>payati<supplied reason="omitted">.</supplied> viditam astu bhavatā<supplied reason="omitted">ṁ</supplied> yathāsmābhir aya<supplied reason="omitted">ṁ</supplied> grāmaḥ sajalasthalaḥ saga<lb 
@@ -240,7 +245,7 @@ n="50" break="no"/>garādibhiḥ<supplied reason="omitted">.</supplied></l>
 </lg>
             <lg n="13" met="anuṣṭubh" corresp="#Sircar1965_st0085">
                   <l n="a">mā bhū
-                     <pb n="3r"/>
+                     <pb n="3r" break="no"/>
                      <lb 
 n="51" break="no"/>d a-phala-śaṅkā vaḥ</l>
                   <l n="b">para-dat<supplied reason="omitted">t</supplied>eti pārthivāḥ<g type="danda">.</g></l>
@@ -340,7 +345,7 @@ amwb : Sircar 71
             <p>
                yat-kīrtti<supplied reason="omitted">r</supplied> bhūvanatrayasya kuhare śasvattanī<lb 
 n="67" break="no"/><unclear>pūrṇṇaya</unclear>mmantreṇa <supplied reason="omitted">su</supplied>cirapraṇāmarahitāḥ kṣ<choice><sic>au</sic><corr>o</corr></choice>ṇībhujo bhog<choice><sic>ī</sic><corr>i</corr></choice>na<supplied reason="omitted">ḥ</supplied> yad<supplied reason="omitted">d</supplied>ordaṇdabhavapratāpa
-               <pb n="3v"/>
+               <pb n="3v" break="no"/>
                <lb 
 n="68" break="no"/>śi<choice><sic>kṣī</sic><corr>khi</corr></choice>no nistriṅśa<surplus><g type="danda">.</g></surplus> dhūmacchaṭādūrasthāpi cakāra vairiyuvatī ritreṣu kā<lb 
 n="69" break="no"/>śyāhaṁ<g type="ddanda">.</g> Utkalekale<choice><sic>ṣ</sic><corr>s</corr></choice>ale deśe sa mahāsandhivigrahī<g type="danda">.</g> Ā<sic>ś</sic><corr>s</corr>īd guṇaga<lb 

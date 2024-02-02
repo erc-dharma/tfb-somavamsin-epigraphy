@@ -107,9 +107,15 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <pb n="1v"/><!-- here I repoduce the edition of Dr. Satyanarayana Rajaguru but it seems there is a lot of printed errors and so on... Moreover there is no mention of the place of preservation and I have no idea where I can find the copper plate to check his readings and produce a better edition -->
-            <lb 
-n="1"/><ab>Oṃ</ab>
+            <pb 
+
+n="1r"/>
+<pb 
+
+n="1v"/>
+<lb 
+n="1"/><!-- here I repoduce the edition of Dr. Satyanarayana Rajaguru but it seems there is a lot of printed errors and so on... Moreover there is no mention of the place of preservation and I have no idea where I can find the copper plate to check his readings and produce a better edition -->
+            <ab>Oṃ</ab>
             <p><roleName>parameśvara</roleName>-<roleName>parama-māheśvara</roleName>-<roleName><unclear>paramabhaṭṭāraka</unclear></roleName>-<roleName><unclear>mahā</unclear><lb 
 n="2" break="no"/>rājādhirāja</roleName>-somakula-tilaka-<roleName>tr<unclear>i</unclear>kaliṅgādhi<lb 
 n="3" break="no"/>pati</roleName>-<persName type="king" subtype="coronation">ma<surplus>ma</surplus>hāś<sic>ī</sic>vagupta</persName>-<roleName>rājadeva</roleName>-<roleName>śrī</roleName>-<persName type="king">yayāti</persName><lb 
@@ -123,7 +129,7 @@ n="10" break="no"/>ka-śrī-khotikkena yaśaḥ puṇya-vinirga<lb
 n="11" break="no"/>ye madhya-deśīya-kantijoṅga-vinirgga<lb 
 n="12" break="no"/>ta-gautamasa-gotrāya triyarṣaya-pravara<lb 
 n="13" break="no"/>ya-rigvedādhyāIna bhaṭṭa-putra Udyotasa <unclear>sā</unclear>
-                <pb n="2r"/><lb 
+                <pb n="2r" break="no"/><lb 
 n="14" break="no"/>ramaṇa-putrāya pautrāya ba<unclear>pa</unclear> rama-vaiṣṇava-bhaṭṭa-putra<lb 
 n="15" break="no"/>-śrī-saraṅgaḥ <unclear>adamni</unclear> śarmmāṇi rovigada-maṇḍala<lb 
 n="16" break="no"/>-vasantapura-grāmo 'yam sa<choice><sic>g</sic><corr>k</corr></choice>uta-sajala<lb 
@@ -131,9 +137,9 @@ n="17" break="no"/>-sthala-sapadramya sa-kalamaba-madhu<lb
 n="18" break="no"/>kaś ca<surplus>r</surplus>ttuḥ sīmāḥ paryanta ātmana<lb 
 n="19" break="no"/>puṇya-vivṛddhaye caitramāsi trayodaśya-vistā<lb 
 n="20"/>vātyam tamraśasanam pradadye ye kenacit ka       
-            <pb n="3r"/>
+            <pb n="3r" break="no"/>
 <lb 
-n="21"/>ladhyāsino bhavāni mama data paripālanīyam ka<unclear>thi</unclear>tam<lb 
+n="21" break="no"/>ladhyāsino bhavāni mama data paripālanīyam ka<unclear>thi</unclear>tam<lb 
 n="22"/>
                <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0123">
    <l n="a">svadat<supplied reason="omitted">t</supplied>am<!-- add a correction with a long a?  --> paradattam bā</l>

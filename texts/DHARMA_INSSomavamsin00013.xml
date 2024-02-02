@@ -109,10 +109,14 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <pb n="1v"/>
-            <lb 
-n="1"/><lg n="1" met="vasantatilakā">
-   <l n="a">Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikhā-piśaṅgī</l> 
+            <pb 
+
+n="1r"/>
+<pb 
+
+n="1v"/><lg n="1" met="vasantatilakā">
+   <l n="a"><lb 
+n="1"/>Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikhā-piśaṅgī</l> 
    <l n="b">lālāṭa-cakṣuṣi gale viṣabhañjanābham<g type="danda">.</g></l> 
    <l n="c">sattvaṁ rajas tama I<lb 
 n="2" break="no"/>ti triguṇasya tasya</l> 

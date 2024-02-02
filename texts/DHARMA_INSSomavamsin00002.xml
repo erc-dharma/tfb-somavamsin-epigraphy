@@ -116,12 +116,19 @@
                 <ab><gap reason="illegible" quantity="1" unit="line"/></ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-             <pb n="1v"/>
-                <ab><handShift new="#Somavamsin00002_hand1"/><!-- 
+             <pb 
+
+n="1r"/>
+                <ab><handShift new="#Somavamsin00002_hand1"/>
+<pb 
+
+n="1v"/>
+<lb 
+n="1"/>
+                <!-- 
                 amwb see Orissa state museum photo 253.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F253.jpg&mode=grid
                 -->
-    <lb
-n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied></ab>
+<g type="spiralL"/> svasti<supplied reason="omitted">.</supplied></ab>
                    <lg n="1" met="āryā">
                    <l n="ab">kṛtvāntaḥ sura-saritam phaṇi-patita-nṛ-māla-vālam ādhāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb
@@ -173,7 +180,7 @@ n="9" break="no"/>śrayo 'sau</l>
                 <p>kṛta-yugā<lb
 n="10" break="no"/>cāra-prasava-bhūmi-lakṣmī-kula-bhavanānanda-paramparāyatana-dh<choice><sic>i</sic><corr>ī</corr></choice>ra-śatānala-dh<choice><sic>u</sic><corr>ū</corr></choice>ma-dhyāmalita<lb
 n="11" break="no"/>l<choice><sic>ā</sic><corr>o</corr></choice>canārthi-jana-nikara-kalpa-taru-saj<supplied reason="omitted">j</supplied>anādhivāsakād vipaṇi-vikīrṇṇa-śaṅkhaśukti-muktā
-            <pb n="2r"/>
+            <pb n="2r" break="no"/>
      <lb
 n="12" break="no"/>phala-maṇi-pravāla-cāmīkara-nicayān majjana-samayāvatīrṇṇa-vara-vāra-vilāsinī-kuca<lb
 n="13"/>kalaśa-lagna-kaśmīra-ja-piñjarāmvu-pravāha-telā-sa-nāthāt pañca-ḍamvar<choice><sic>i</sic><corr>a</corr></choice>-saṅgīta-nimitta-kara<lb
@@ -194,7 +201,7 @@ n="23" break="no"/>tvā dharmmārtha-kāmaiḥ tṛbhir api niyataṁ bhāvita�
                     <l n="d">bh<choice><sic>a</sic><corr>ā</corr></choice>radvājasya g<surplus>r</surplus>otre dvija-kula<!-- 
                     amwb : end of the photo 249.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F249.jpg&mode=grid
                     -->
-            <pb n="2v"/>
+            <pb n="2v" break="no"/>
 <lb
 n="24" break="no"/>-tilakaḥ śobhano 'bhūt sa yajvā</l></lg>
                    <lg n="9" met="śārdūlavikrīḍita">
@@ -236,8 +243,8 @@ n="35"/>t phalam ānantyaṁ</l>
                   <l n="b">svargge modati bhūmidaḥ</l><!-- 
                   amwb see photo 250.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZNhqQuOq7&path=OrissaStateMuseum%2FEpigraphy-2%2F250.jpg&mode=grid
                   -->
-     <lb
-n="37"/><l n="c"><pb n="3r"/>Ākṣeptā cānumantā ca</l>
+                  <l n="c">
+   <pb n="3r"/><lb n="37"/>Ākṣeptā cānumantā ca</l>
                    <l n="d">tāny eva narake vaseT</l><!-- 
                     amwb : Sircar 123
                    -->

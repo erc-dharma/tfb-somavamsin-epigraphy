@@ -109,9 +109,12 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <!-- Encoded text based on  -->
-            <p>
-               <pb n="1v"/>
-            <lb 
+            <pb 
+
+n="1r"/>
+<p><pb 
+
+n="1v"/><lb 
 n="1"/><g type="spiralR"/> svasti<g type="danda">.</g> mūras<sic>i</sic><corr>ī</corr>ma-samāvāsita<!-- amwb <supplied reason="omitted">ḥ</supplied> in Soma5 --> śrīmato vijaya-kaṭakāT parama-bha<lb 
 n="2" break="no"/>ṭṭāraka-mahārājādhirāja-parameśvara-śrī-śivagupta-deva-pādānudhyāta-parama-mā<lb 
 n="3" break="no"/>heśvara-parama-bhaṭṭāraka-māhārājādhirāja-somakulatilaka-tṛkaliṅgādhipa<lb 
@@ -125,7 +128,7 @@ n="10" break="no"/>hitaḥ sāmra-madhukaḥ sa-ga<supplied reason="omitted">r</
 n="11" break="no"/>-s<choice><sic>i</sic><corr>ī</corr></choice>māparyantaḥ  kauśika-gotrābhyāṁ Audala-deva-rā<choice><sic>j</sic><corr>t</corr></choice>a-viśvābhiprava<lb 
 n="12" break="no"/>rābhyāṁ kāṇvaśākhādhyāyibhyāṁ kommāyira-vinirggatābhyāṁ loḍa<lb 
 n="13" break="no"/>śṛṅgāvāstavyābhyāṁ bhaṭṭa-putra-śrī
-               <pb n="2r"/>
+               <pb n="2r" break="no"/>
                <lb 
 n="14" break="no"/>-kośava-śrī-Apyābhā<supplied reason="omitted">ṁ</supplied> bhaṭṭa-dāddīs<choice><sic>ū</sic><corr>u</corr></choice>tābhyā<supplied reason="omitted">ṁ</supplied> saliladhārāp<choice><sic>ū</sic><corr>u</corr></choice>raḥ<lb 
 n="15" break="no"/>saram ācandra-tārakārkka-kṣiti-samakālopabhogārtha<choice><sic>ḥ</sic><corr>ṁ</corr></choice> śrī-deva-mātā<lb 
@@ -164,7 +167,7 @@ n="24" break="no"/>daḥ</l>
 </lg>
             <lg n="4" met="indravajrā">
                   <l n="a">Agner apatyaṁ pratha
-                     <pb n="2v"/>
+                     <pb n="2v" break="no"/>
                      <lb 
 n="25" break="no"/>ma<supplied reason="omitted">ṁ</supplied> suva<supplied reason="omitted">r</supplied>ṇṇa<supplied reason="omitted">ṁ</supplied></l>
                   <l n="b">bhūr vvaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
@@ -234,7 +237,7 @@ n="34"/>bhūmer apy arddham aṅgulaṁ<supplied reason="omitted">.</supplied></
 n="35" break="no"/>dityo varuṇo viṣṇuḥ</l>
                   <l n="b">vrahmā somo hutāśanaḥ</l>
                   <l n="c">śūlapāṇis ca bhaga
-                     <pb n="3r"/>
+                     <pb n="3r" break="no"/>
                      <lb 
 n="36" break="no"/>vān</l>
                   <l n="d">abhinandanti bhūmidaṁ<g type="danda">.</g></l><!-- 

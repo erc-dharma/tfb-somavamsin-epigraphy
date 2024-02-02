@@ -109,10 +109,14 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <pb n="1v"/>
-<lb 
-n="1"/><lg n="1" met="śārdūlavikrīḍita">
-   <l n="a">jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31+38 -->ddhi-bhu<!-- ū soma31+38-->ḥ kumudinī-hāsaika<!-- kāsaika soma38 -->-sampā<lb 
+             <pb 
+
+n="1r"/>
+<p><pb 
+
+n="1v"/><lg n="1" met="śārdūlavikrīḍita">
+   <l n="a"><lb 
+n="1"/>jyotsnā-<choice><sic>s</sic><corr>ś</corr></choice>āli-samu<!-- ṛ  soma31+38 -->ddhi-bhu<!-- ū soma31+38-->ḥ kumudinī-hāsaika<!-- kāsaika soma38 -->-sampā<lb 
 n="2" break="no"/>danā</l>
    <l n="b">dhūrtto <choice><sic>dhṛja</sic><corr>dhūrja</corr></choice>ṭi<!-- dhūrjjati soma31 -->-mauli-saudha-va<supplied reason="omitted">sa</supplied>tiḥ pīyū<choice><sic>s</sic><corr>ṣ</corr></choice>a-dhārā-gṛhaṁ<g type="danda">.</g></l>
    <l n="c">tārānta<supplied reason="omitted">ḥ</supplied>-pu<lb 
@@ -211,7 +215,7 @@ n="31" break="no"/>pta</persName>-<roleName>rājadeva</roleName></rs>-pādānudh
 n="32" break="no"/>rājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01002">mahā<lb 
 n="33" break="no"/>bhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="danda">.</g> Oḍra-deśīya Airāvaṭṭa-maṇḍala-<abbr>saṁ</abbr>-sa<lb 
 n="34" break="no"/>rāva-khaṇḍīya-kontalaṇḍā-grāma<supplied reason="omitted">ḥ</supplied> Etasmi<choice><sic>na</sic><corr>n na</corr></choice>tasta<supplied reason="omitted">T</supplied> kh<choice><sic>e</sic><corr>a</corr></choice>ṇḍīya-vrāhma
-            <pb n="2v"/>
+            <pb n="2v" break="no"/>
      <lb 
 n="35" break="no"/>ṇānā-pūjya samāhartṛ-sannidhātṛ-niyuktādhikāri-dāṇḍapāśika-piśu<lb 
 n="36" break="no"/>na-vetrikāvarodha-jana-rājñī-rāṇaka-rājaputra<surplus><g type="danda">.</g></surplus> rājavallabha<surplus><g type="danda">.</g></surplus> bhogi-jana-pra<lb 
@@ -354,9 +358,9 @@ n="69"/>yat-kīrttir bhuvana-trayasya kuhare <choice><sic>s</sic><corr>ś</corr>
    <l n="b">mantreṇa cira-praṇāma<lb 
 n="70" break="no"/>-rahita-kṣoṇībhujo bhog<choice><sic>ī</sic><corr>i</corr></choice>na<supplied reason="omitted">ḥ</supplied><supplied reason="omitted">.</supplied></l> 
    <l n="c">yad-dor-daṇḍa-bhavapratāpaśi<choice><sic>kṣī</sic><corr>khi</corr></choice>no n<choice><sic>ī</sic><corr>i</corr></choice>striṁ<choice><sic>s</sic><corr>ś</corr></choice>a
-            <pb n="3v"/>
+            <pb n="3v" break="no"/>
 <lb 
-n="71"/><seg met="+--="><gap reason="lost" unit="character" quantity="4"/></seg></l><!-- dhūmacchaṭā in soma47 -->
+n="71" break="no"/><seg met="+--="><gap reason="lost" unit="character" quantity="4"/></seg></l><!-- dhūmacchaṭā in soma47 -->
 <l n="d"><seg met="+++--+-+---+++-++-="><gap reason="lost" unit="character" quantity="19"/></seg></l><!-- dūra-sthāyi cakāra vairiyuvatīnetreṣu vāṣpodgamaM soma47 -->
 </lg>
                <lg n="25" met="anuṣṭubh">
@@ -500,11 +504,11 @@ n="78" break="no"/>m idaṁ<g type="ddanda">.</g>
                   </app>
                   <app loc="34">
                      <lem source="bib:Shastri1995_02">vrāhma
-            <pb n="2v"/>
+            <pb n="2v" break="no"/>
      <lb 
 n="35" break="no"/>ṇānā°</lem>
                      <rdg source="bib:Rajaguru1966_01">vrāhma
-            <pb n="2v"/>
+            <pb n="2v" break="no"/>
      <lb 
 n="35" break="no"/>ṇānā<supplied reason="omitted">ṁ</supplied></rdg>
                   </app>

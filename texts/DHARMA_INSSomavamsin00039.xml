@@ -114,7 +114,11 @@
              </ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-             <pb n="1r"/>
+             <pb 
+
+n="1r"/>
+<pb 
+n="1v"/>
                 <ab><lb 
 n="1"/><g type="spiralL"/></ab><!-- For the moment I don't know if it is spiralL or spiralR, need to check the plate when available -->
                 <p>
@@ -130,7 +134,7 @@ n="9" break="no"/>-bhārgava-gotrāya <surplus>cyavana-Apnuvān</surplus> <uncle
 n="10"/>vātaḥ</supplied> <choice><sic>da</sic><corr>A</corr></choice>pnuvāna-vātaḥ cyavana-vātaḥ pachabhu-grāma-vāsitaḥ kośāmvi-vinirgathaḥ śrī-kāśa<gap reason="illegible" unit="character" quantity="2"/><lb 
 n="11"/>nagara-vāstavya-bhaṭa-nanukāya maheśvara-deva-sutāya Indradeva-naptukāya taiṭṛ<supplied reason="omitted">yīna</supplied>-śākhā<lb 
 n="12" break="no"/>ya māta-pi<choice><sic>tṛ</sic><corr>tro</corr></choice>
-                   <pb n="2r"/><lb 
+                   <pb n="2r" break="no"/><lb 
 n="13" break="no"/><supplied reason="lost">rātmanaś ca puṇyābhi</supplied>vṛddhaye<gap reason="illegible" unit="character" extent="unknown"/>bhaṭṭārakāya <supplied reason="lost">kha<lb 
 n="14" break="no"/>ṇḍāsphuṭita</supplied> saṁskāraṇāya ca gīta-nṛtya-vādita vali-caru-sattra-pravarttanāya vāsarullāka<lb 
 n="15" break="no"/>gramārddha-dattaḥ<g type="danda">.</g> śrī-kasariṇā ni<supplied reason="omitted">vāsa</supplied>vāsarullā-grāma<supplied reason="omitted">ḥ</supplied> nānnukasya dattaḥ salila-dhārā<lb 

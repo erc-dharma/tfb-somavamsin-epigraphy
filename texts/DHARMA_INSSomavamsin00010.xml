@@ -95,8 +95,13 @@
              
              
              -->
-             <pb n="1v"/>
+             <pb 
+
+n="1r"/>
 <p>
+<pb 
+
+n="1v"/>
 <lb 
 n="1"/>siddham svasty amala-maṇi-kuṭṭima-sadanacalacanekavāra vilāsinīja<lb 
 n="2" break="no"/>nacaraṇanūpurakhatrastrapārāvatapu<choice><sic>nyā</sic><corr>ñja</corr></choice>svanavadhiritadaśadignānādigdeśā<lb 
@@ -278,7 +283,7 @@ n="53"/>Ullā-suta-haradāsena likhitam iti<surplus>ḥ</surplus><g type="danda"
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">VII</citedRange><citedRange unit="page">200-205</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">245</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

@@ -97,9 +97,14 @@
              </ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-             <pb n="1r"/>
+             <pb 
+
+n="1r"/>
 <p>
-    <lb
+<pb 
+
+n="1v"/>
+<lb 
 n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
 n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
@@ -128,7 +133,7 @@ n="19"/>tathā coktaṁ dharmma-śāstre<supplied reason="omitted">.</supplied><
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ</l>
     <l n="c">yasya ya               
-             <pb n="2v"/>
+             <pb n="2v" break="no"/>
  <lb
 n="20" break="no"/>sya yadā bhūmis</l>
     <l n="d">tasya tasya tadā phalaṁ</l>
