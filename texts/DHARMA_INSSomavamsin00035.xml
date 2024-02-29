@@ -122,21 +122,60 @@ n="18"/>raṇeya<g type="ddanda">.</g> tasyāg<supplied reason="omitted">r</supp
 n="19"/>tāsavijaṁ sasyamedini<g type="ddanda">.</g> yāvatsuyakathālloke tāvatsagemāda<lb 
 n="20" break="no"/>yata<g type="ddanda">.</g> vedavākamayā jāhvā vadanti<g type="ddanda">.</g> śādevatāḥ<g type="ddanda">.</g> bhūmihatā tathā<lb 
 n="21" break="no"/>nye ca<g type="danda">.</g> Aho mohana mā hara yathāyaṁ patitaḥ śakra<g type="danda">.</g> tena vendati<lb 
-n="22"/>sapati<g type="danda">.</g> Evaṁ bhūmikṛta dāna<g type="danda">.</g> saśe saśe prarohiti<g type="ddanda">.</g></p>
-    <lg met="anuṣṭubh">
-                <l n="a">Ādityo varuṇo viṣṇur</l>
-                <l n="b">brahmā somo hutāśanaḥ</l>
-                <l n="c">śūlapāṇiś ca bhagavān</l>
-                <l n="d">pratinandanti bhūmidam</l>
-                </lg><lb 
-n="23"/><lb 
-n="24"/><lb 
-n="25"/><lb 
-n="26"/><lb 
-n="27"/><lb 
-n="28"/><lb 
-n="29"/><lb 
-n="30"/>
+n="22"/>sapati<g type="danda">.</g> Evaṁ bhūmikṛta dāna<g type="danda">.</g> saśe saśe prarohiti<g type="ddanda">.</g><!-- here need a correction because there are stanzas given in note by Shastri. He suggests:
+<lg met="anuṣṭubh">Best_0106
+                        <l n="a">phāla-kṛṣṭāṁ mahīṁ dadyāt</l>
+                        <l n="b">sa-bīja-śasya-medinim</l>
+                        <l n="c">yāvat-sūrya-kṛtālokas</l>
+                        <l n="d">tāvat svarge mahīyate</l>
+                    </lg>
+                    <lg met="anuṣṭubh">Best_0147
+                       <l n="a">veda-vāk–smṛtayo jihvā</l>
+                       <l n="b">vadanti ṛṣi-devatāḥ |</l>
+                       <l n="c">bhūmi-hartā tathānye ca</l>
+                       <l n="d">aho mohena mā hara</l>
+                   </lg>
+                    <lg met="anuṣṭubh"> 
+                       <l n="a">yathāpsu patitaḥ śakra</l>
+                       <l n="b">taila-bindur visarpati</l>
+                       <l n="c">evaṁ bhūmi-kṛtaṁ dānaṁ</l>
+                       <l n="d">śasye śasye prarohati</l>
+                   </lg>
+--></p>
+    <lg met="anuṣṭubh" n=""><!-- best_0004 -->
+                <l n="a">Ādity<choice><sic>ā</sic><corr>o</corr></choice><lb 
+n="23"/>varuṇo viṣṇu<supplied reason="omitted">r</supplied><g type="danda">.</g></l>
+                <l n="b">vrahmā som<choice><sic>a</sic><corr>o</corr></choice> hutāśanaḥ</l>
+                <l n="c">ś<choice><sic>a</sic><corr>ū</corr></choice>lapāṇiś tu bhagavān</l>
+                <l n="d">A<g type="danda">.</g><lb 
+n="24" break="no"/>bhinandanti bhūmidaṁ</l>
+                </lg>
+             <lg met="anuṣṭubh" n=""><!-- best_0020 -->
+            <l n="a"><choice><sic>A</sic><corr>Ā</corr></choice>s<supplied reason="omitted">ph</supplied>oṭayaṁti pitaraḥ<g type="ddanda">.</g></l>
+            <l n="b">p<supplied reason="omitted">r</supplied>aval<choice><sic>s</sic><corr>g</corr></choice>anti pitāmahāḥ<g type="danda">.</g></l>
+            <l n="c"><lb 
+n="25"/>bhūmidātā kule jāt<choice><sic>ā</sic><corr>aḥ</corr></choice></l>
+            <l n="d">sa te dātā bhaviṣyati<g type="danda">.</g></l><!-- SIRCAR : sa nas trātā bhaviṣyati -->
+                           </lg> 
+             <lg met="anuṣṭubh" n=""><!-- best_0023ab mixed with best_0085ab -->      
+            <l n="a">vahubhi<supplied reason="omitted">r</supplied> vasudhā datt<choice><sic>a</sic><corr>ā</corr></choice><lb 
+n="26"/><g type="danda">.</g></l>
+            <l n="b">rāj<choice><sic>āna</sic><corr>abhiḥ</corr></choice> sagarādibhiḥ<g type="ddanda">.</g></l>
+            <l n="c">mā rodhaḥ phalatatkaya</l><!-- mā bhūd a-phala-śaṅkā vaḥ -->
+            <l n="d">para-datteṣu pāṇita<lb 
+n="27"/><g type="danda">.</g></l><!-- para-datteti pārthivāḥ -->
+                       </lg>
+              <lg met="anuṣṭubh" n="">    <!-- best_0085cd -->      
+            <l n="c">yasya yasya <supplied reason="omitted">ya</supplied>dā bh<choice><sic>a</sic><corr>ū</corr></choice>mi<supplied reason="omitted">s</supplied><g type="danda">.</g></l>
+            <l n="d">tasya <supplied reason="omitted">tasya</supplied> tadā <choice><sic>p</sic><corr>pha</corr></choice>laṁ<g type="danda">.</g></l>
+            <l n="c">tasm<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">t</supplied> tvayā na ha<suppliedreason="omitted">r</supplied>tavyaṁ<g type="danda">.</g></l><!-- sva-dānāt phalam ānantyam -->
+            <l n="d"><choice><sic>s</sic><corr>ś</corr></choice>ā<gap unit="" quantity="1"/><g type="danda">.</g><lb 
+n="28" break="no"/>śvatīṅgyim āpnuyāt<g type="ddanda">.</g></l>
+                        </lg>   
+             <lg met="anuṣṭubh" n="">
+                        <l n="a">sva-dattā<supplied reason="omitted">ṁ</supplied> para-dattāṁ vā</l>
+                        <l n="b">yo har<choice><sic>a</sic><corr>e</corr></choice>t<choice><sic>i</sic><corr>a</corr></choice> vasundhar<choice><sic>a</sic><corr>ām</corr></choice>></l>
+                    </lg>
 </p>
          </div>
          <div type="apparatus">

@@ -220,13 +220,13 @@ n="26"/>'bhimanyau mataḥ<g type="ddanda">.</g></l>
                   <l n="a">yo vidvān <persName>abhimanyum</persName> apy anucita<unclear>ṁ</unclear> prāptādhipatyam bhuvo</l> 
                   <l n="b">va<choice><sic>ṅ</sic><corr>ṁ</corr></choice>śasyānadhikāriṇa<supplied reason="omitted">ṁ</supplied><lb 
 n="27"/>raṇa-bhuvi vyāpādayad d<supplied reason="omitted">v</supplied>eṣiṇa<supplied reason="omitted">ṁ</supplied><g type="danda">.</g></l> 
-                  <l n="c">tal lakṣmī<supplied reason="omitted">ṁ</supplied> dvijasattamair anumatām āsādya se<unclear>nā</unclear><lb 
+                  <l n="c">tal-lakṣmī<supplied reason="omitted">ṁ</supplied> dvijasattamair anumatām āsādya se<unclear>nā</unclear><lb 
 n="28" break="no"/><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice></l> 
-                  <l n="d">trairājyañ ca turaṅgakeṇa jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
+                  <l n="d">trairājyañ ca turaṅgake<choice><sic>ṇ</sic><corr>n</corr></choice>a jagṛhe yenātha rājyāntaraṁ<g type="ddanda">.</g></l>
                </lg> 
-               <p><rs type="masc" subtype="ruler" role="donor"><roleName>parama-māheśvara</roleName>-mā<lb 
+               <p><roleName>parama-māheśvara</roleName>-mā<lb 
 n="29" break="no"/>tāpitṛ-pādānudhyāta-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula<lb 
-n="30" break="no"/>-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king" ref="PSN01004">indraratha</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="ddanda">.</g> ko<choice><sic>ngo</sic><corr>ṅga</corr></choice>da-maṇḍalīya-<unclear>tho</unclear>ra<lb 
+n="30" break="no"/>-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king" ref="PSN01004">indraratha</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> ko<choice><sic>ngo</sic><corr>ṅga</corr></choice>da-maṇḍalīya-<unclear>tho</unclear>ra<lb 
 n="31" break="no"/>ṇa-viṣaya-sagh<choice><sic>a</sic><corr>ṛ</corr></choice>ta-khallīkhaṇḍīya-laghukumbhi-grāme<g type="danda">.</g> Atas tad viṣayīya-vrāhmaṇān āpūjya samā<lb 
 n="32" break="no"/>ha<supplied reason="omitted">r</supplied>tṛ-sannidhātṛ-niyuktādhikārika-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājñī-rāṇaka-rāja<lb 
 n="33" break="no"/>-putra-rāja-vallabha-bhogijana-pramukha-samasta-janapadān samājñāpayati<g type="danda">.</g> viditam astu bhava<lb 
@@ -559,7 +559,8 @@ n="25"/>Āgatya</rdg>
                      <rdg source="bib:Behera1988_01"><choice><sic>dyapattrai</sic><corr>dhipair taṁ</corr></choice> rājyañ</rdg>
                   </app>
                   <app loc="28">
-                     <lem source="bib:Shastri1995_02">turaṅgakeṇa</lem>
+                     <lem>turaṅgake<choice><sic>ṇ</sic><corr>n</corr></choice>a</lem><!-- correction suggested by Daniel Balogh -->
+                     <rdg source="bib:Shastri1995_02">turaṅgakeṇa</rdg>
                      <rdg source="bib:Behera1988_01">turungakena</rdg>
                   </app>
                   <app loc="28">
