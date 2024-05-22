@@ -104,9 +104,9 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <lb 
- n="1"/><milestone type="pagelike" unit="zone" n="B"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb
- n="2"/><milestone type="pagelike" unit="zone" n="B"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"></space> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb
- n="3"/><milestone type="pagelike" unit="zone" n="A"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><milestone type="pagelike" unit="zone" n="B"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
+ n="1"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb
+ n="2"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"></space> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb
+ n="3" style="text-align: left"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

@@ -83,10 +83,6 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2023-05-19" who="part:amwb" status="draft">Addition of the final stanzas with their correspondance to Sircar's list</change>
@@ -119,7 +115,7 @@ n="1"/><!-- here I repoduce the edition of Dr. Satyanarayana Rajaguru but it see
             <p><roleName>parameśvara</roleName>-<roleName>parama-māheśvara</roleName>-<roleName><unclear>paramabhaṭṭāraka</unclear></roleName>-<roleName><unclear>mahā</unclear><lb 
 n="2" break="no"/>rājādhirāja</roleName>-somakula-tilaka-<roleName>tr<unclear>i</unclear>kaliṅgādhi<lb 
 n="3" break="no"/>pati</roleName>-<persName type="king" subtype="coronation">ma<surplus>ma</surplus>hāś<sic>ī</sic>vagupta</persName>-<roleName>rājadeva</roleName>-<roleName>śrī</roleName>-<persName type="king">yayāti</persName><lb 
-n="4"/>pāda-pravarddhamāna-vijayaraājye sanvacchare tṛ<lb 
+n="4"/>pāda-pravarddhamāna-vijayaraājye sanvacchare tr̥<lb 
 n="5" break="no"/>tīye ank<choice><sic>a</sic><corr>e</corr></choice> samvat <num value="3">3</num> parama-mahe<lb 
 n="6" break="no"/>śvara-samadhigata-pañca-mahāśabda-yāmala<lb 
 n="7" break="no"/>-śankhadhvani-vijaya-ghoṣa-tūrya-rava-trāsita<lb 
@@ -135,26 +131,28 @@ n="15" break="no"/>-śrī-saraṅgaḥ <unclear>adamni</unclear> śarmmāṇi ro
 n="16" break="no"/>-vasantapura-grāmo 'yam sa<choice><sic>g</sic><corr>k</corr></choice>uta-sajala<lb 
 n="17" break="no"/>-sthala-sapadramya sa-kalamaba-madhu<lb 
 n="18" break="no"/>kaś ca<surplus>r</surplus>ttuḥ sīmāḥ paryanta ātmana<lb 
-n="19" break="no"/>puṇya-vivṛddhaye caitramāsi trayodaśya-vistā<lb 
+n="19" break="no"/>puṇya-vivr̥ddhaye caitramāsi trayodaśya-vistā<lb 
 n="20"/>vātyam tamraśasanam pradadye ye kenacit ka       
             <pb n="3r" break="no"/>
 <lb 
 n="21" break="no"/>ladhyāsino bhavāni mama data paripālanīyam ka<unclear>thi</unclear>tam<lb 
 n="22"/>
-               <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0123">
+               <lg n="1" met="anuṣṭubh"><!-- best_0123 -->
    <l n="a">svadat<supplied reason="omitted">t</supplied>am<!-- add a correction with a long a?  --> paradattam bā</l>
    <l n="b">yo harant<choice><sic>a</sic><corr>i</corr></choice> vasundharām</l> 
    <l n="c">sa vi<lb 
-n="23" break="no"/>ṣṭhāyām kṛmir bhutvā</l> 
-   <l n="d">pitṛbhiḥ saha <unclear>pa</unclear>cyati</l></lg><!-- Sircar 123 --> 
-               <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0064">
+n="23" break="no"/>ṣṭhāyām kr̥mir bhutvā</l> 
+   <l n="d">pitr̥bhiḥ saha <unclear>pa</unclear>cyati</l>
+               </lg><!-- Sircar 123 --> 
+               <lg n="2" met="anuṣṭubh"><!-- best_0064 -->
                   <l n="a">harati ha<lb 
 n="24" break="no"/>rāti yas tu</l> 
-                  <l n="b">manda buddhi tamo vṛtaḥ</l> 
+                  <l n="b">manda buddhi tamo vr̥taḥ</l> 
                   <l n="c">sava<lb 
 n="25" break="no"/>ddho barunai pāśaiḥ</l> 
                   <l n="d">tiryak-yiniś<!-- yonis? -->ca<lb 
-n="26"/>jayate</l></lg> likhitam parama māheśvara kāyasthadi<lb 
+n="26"/>jayate</l>
+               </lg> likhitam parama māheśvara kāyasthadi<lb 
 n="27"/>tya suta somanātham iti 
                 </p>
          </div>
@@ -163,11 +161,11 @@ n="27"/>tya suta somanātham iti
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Rajaguru2011_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

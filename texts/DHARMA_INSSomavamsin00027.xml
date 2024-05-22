@@ -5,7 +5,7 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,10 +84,6 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
         <change when="2022-08-29" who="part:amwb" status="draft">Creation of the file</change>
@@ -109,7 +105,7 @@
             <!--edition encoded as per EGD §§2−7-->
             <!-- amwb shastri and rajaguru combination of the two editions -->
            <lb 
-n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrī</roleName>-<persName type="king" ref="PSN01002">Udyotakeśarī</persName> vijayarājya-samvaT <num value="5">5</num><lb 
+n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrī</roleName>-<persName type="king" key="PSN01002">Udyotakeśarī</persName> vijayarājya-samvaT <num value="5">5</num><lb 
 n="2"/>śrī-<placeName type="naturalPlace" subtype="mountain">kumāra-parvvata</placeName>-sthāne j<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">r</supplied>nna-vāpī-jirnna Isaṇa<lb 
 n="3"/>Udyotita tasmin yāne catur-vinsati tīrtha<supplied reason="omitted">ṁ</supplied> kara<lb 
 n="4" break="no"/>sthāpita pratiṣṭha-kāle hari Aupā jasanandika<lb 
@@ -144,7 +140,7 @@ n="5"/><unclear>nanditadrathā</unclear> śrī-pārasthanāthasya karmmakhayaḥ
          <div type="translation" source="bib:Banerji1915-1916_01">
  	<!--translation encoded as per EGD §9.2 -->
             <p>In the year 5 of the victorious reign of illustrious Uddyotakesarî, on the illustrious Kumāra mountain, decayed tanks and decayed temples were caused to shine <supplied reason="omitted">and</supplied> at that place the images of the twenty-four Tîrthaṅkaras were set up. At the time fo the dedication ... Jasanandi ... in the place <supplied reason="lost" cert="low">Temple</supplied> of the illustrious Pārasvanātha...</p>
-            <!-- BANERJEE (given by Panigrahi1981_01 p.138 and given by Rajaguru) In the fitth year of the victorious reign of illustrious Uddyotakeśarī, on the illustrious Kumāra mountain, decayed tanks, and decayed temples were caused to shine, (and) at the place the images of 24 Tīrthaṅkaras were set up. At the time of the dedication… Jasanandi…. in the place (? temple) of the illustrious Pārasyanātha (Pārsvanātha) -->
+            <!-- BANERJEE (given by Panigrahi1981_01 p.138 and given by Rajaguru) In the fifth year of the victorious reign of illustrious Uddyotakeśarī, on the illustrious Kumāra mountain, decayed tanks, and decayed temples were caused to shine, (and) at the place the images of 24 Tīrthaṅkaras were set up. At the time of the dedication… Jasanandi…. in the place (? temple) of the illustrious Pārasyanātha (Pārsvanātha) -->
             <!-- Panigrahi's translation (Panigrahi1981_01 p.138) : In the year 549 in the victorious reign of Sri Uddyotakesarin the decayed well and decayed tanks were shown (i.e. cleaned) for bathing and drinking, and (the images of) 24 tirthankaras were established (i.e., carved on the walls of the cave ) on the auspicious Kumara parvata. If any heretic causes even damage (to them), such a cheat (will) excite the anger of Sri-Parsvanatha by his act.  -->
          </div>
          <div type="commentary">

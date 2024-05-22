@@ -89,8 +89,8 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" resp="bib:Shastri1995_02"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7--><!-- Currently the text encoded comes from resp="bib:Shastri1995_02" -->
              <pb n="1r"/>
 <p>
 <lb 
@@ -108,15 +108,15 @@ n="9" break="no"/>ra<supplied reason="omitted">ḥ</supplied> kharatarakaravāla
 n="10" break="no"/>ścima-kaliṅgādhipati-mahākum<choice><sic>a</sic><corr>ā</corr></choice>rādhirāja-parameśvara yuvarāja-śrī<lb 
 n="11" break="no"/>-dharmmaratha-deva-varmma ku<choice><sic>s</sic><corr>ś</corr></choice>lī<g type="ddanda">.</g> santama-maṇḍalīya vāvanna-khaṇḍe<g type="ddanda">.</g> ḍa<lb 
 n="12" break="no"/>lahāra-vitrajoṅga-sahita-tuṇḍima-khaṇḍa-kṣetre<surplus><g type="ddanda">.</g></surplus> Atas tad-viṣayī<lb 
-n="13" break="no"/>yavrāH maṇānāp<choice><sic>u</sic><corr>ū</corr></choice>jya samāharttṛ-sannidhātṛ<surplus><g type="ddanda">.</g></surplus> niyuktādhikāri<lb 
+n="13" break="no"/>yavrāH maṇānāp<choice><sic>u</sic><corr>ū</corr></choice>jya samāharttr̥-sannidhātr̥<surplus><g type="ddanda">.</g></surplus> niyuktādhikāri<lb 
 n="14" break="no"/>dāṇḍa-pā<choice><sic>s</sic><corr>ś</corr></choice>ka<surplus><g type="ddanda">.</g></surplus> piśuna<surplus><g type="ddanda">.</g></surplus> vetrikāvarodha-jana<surplus><g type="ddanda">.</g></surplus> rājṇī<surplus><g type="ddanda">.</g></surplus> rāṇaka<lb 
 n="15" break="no"/>rājaputra<surplus><g type="ddanda">.</g></surplus> rāja-vallabha<surplus><g type="ddanda">.</g></surplus> bhogijana-pramukha-samasta janapadā<lb 
-n="16" break="no"/>N samājñāpayati<g type="ddanda">.</g> viditam astu bhavatāM<g type="ddanda">.</g> koṣṭhādākṛ
+n="16" break="no"/>N samājñāpayati<g type="ddanda">.</g> viditam astu bhavatāM<g type="ddanda">.</g> koṣṭhādākr̥
     <pb n="2v"/>
     <lb 
 n="17" break="no"/>ṣya khaṇḍakṣetramidamasmābhiḥ sajalasthala<supplied reason="omitted">ṁ</supplied> sagarttoṣara<supplied reason="omitted">ṁ</supplied> saviṭapā<lb 
 n="18" break="no"/>raṇya<supplied reason="omitted">ṁ</supplied> samatsyakacchapa<supplied reason="omitted">ṁ</supplied> sanidhi sopanidhi catuḥ<choice><sic>ś</sic><corr>s</corr></choice>īmāvaccinna<supplied reason="omitted">ṁ</supplied> s<choice><sic>a</sic><corr>ā</corr></choice>mra-madhu<lb 
-n="19"/>ka-prabhṛtinānāvṛkṣādisametaṁ<surplus><g type="ddanda">.</g></surplus> hastidaṇḍa<surplus><g type="ddanda">.</g></surplus> varavalīvardda<surplus><g type="ddanda">.</g></surplus> ciṭṭola<surplus><g type="ddanda">.</g></surplus><lb 
+n="19"/>ka-prabhr̥tinānāvr̥kṣādisametaṁ<surplus><g type="ddanda">.</g></surplus> hastidaṇḍa<surplus><g type="ddanda">.</g></surplus> varavalīvardda<surplus><g type="ddanda">.</g></surplus> ciṭṭola<surplus><g type="ddanda">.</g></surplus><lb 
 n="20"/>Andhāruvā<surplus><g type="ddanda">.</g></surplus> pratyandhāruvā<surplus><g type="ddanda">.</g></surplus> padātijīvya<surplus><g type="ddanda">.</g></surplus> Adattā<surplus><g type="ddanda">.</g></surplus> vasāvakā<surplus><g type="ddanda">.</g></surplus> vi <lb 
 n="21" break="no"/>ṣayavālī<surplus><g type="ddanda">.</g></surplus> rintakāvaḍi<surplus><g type="ddanda">.</g></surplus> Antarāvaḍḍi<surplus><g type="ddanda">.</g></surplus> Ahidaṇḍa<surplus><g type="ddanda">.</g></surplus> haladaṇḍa<surplus><g type="ddanda">.</g></surplus> vandhada<lb 
 n="22" break="no"/>ṇḍa<surplus><g type="ddanda">.</g></surplus> vandāpanā<surplus><g type="ddanda">.</g></surplus> vijaya-vandāpanādi-bhaviṣyat-kara-sametaṁ sa-khaṇḍapā<lb 
@@ -127,8 +127,8 @@ n="25" break="no"/>rāya<surplus><g type="ddanda">.</g></surplus> vainateyaśarm
     <lb 
 n="26" break="no"/>vedādhyāyipaṇḍīta-śrī-janapati-śarmmaṇe vrāhmaṇāya<surplus><g type="ddanda">.</g></surplus> sali<lb 
 n="27" break="no"/>la-dhārāpuraḥsaramācandrārkkakṣiti-samakālopabhogā<supplied reason="omitted">r</supplied>tthyaṁ mātā<lb 
-n="28" break="no"/>pitror ātmanaś ca puṇya-yaśobhivṛddhaye<surplus><g type="ddanda">.</g></surplus> viṣuvatsa<supplied reason="omitted">ṁ</supplied>krānti-sama<lb 
-n="29" break="no"/>ye<surplus><g type="ddanda">.</g></surplus> tāmraśāsanenākarīkṛtya sampradattamityavaga<supplied reason="omitted">t</supplied>ya samuci<lb 
+n="28" break="no"/>pitror ātmanaś ca puṇya-yaśobhivr̥ddhaye<surplus><g type="ddanda">.</g></surplus> viṣuvatsa<supplied reason="omitted">ṁ</supplied>krānti-sama<lb 
+n="29" break="no"/>ye<surplus><g type="ddanda">.</g></surplus> tāmraśāsanenākarīkr̥tya sampradattamityavaga<supplied reason="omitted">t</supplied>ya samuci<lb 
 n="30" break="no"/>ta-kara-bhoga-bhāgam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<g type="ddanda">.</g> bhā<lb 
 n="31" break="no"/>vibhiś ca bhūpatibhir ddattir iyam asmadīyā dharmma-gauravād asmad-anurodhāc ca<lb 
 n="32"/>sva-d<choice><sic>i</sic><corr>a</corr></choice>ttirivānupālanīyā<g type="ddanda">.</g> tathā coktaṃ dharmmaśāstre<g type="ddanda">.</g>
@@ -145,9 +145,9 @@ n="33"/>rājabhiḥ sagarādibhiḥ</l>
                         <l n="a"><lb 
 n="34"/>sva-dattāṁ para-dattām vā</l>
                         <l n="b">yo hared vasundharāM<g type="ddanda">.</g></l>
-                        <l n="c">sa vi<choice><sic>pā</sic><corr>ṣṭhā</corr></choice>yāṁ kṛmir bhūtvā</l>
+                        <l n="c">sa vi<choice><sic>pā</sic><corr>ṣṭhā</corr></choice>yāṁ kr̥mir bhūtvā</l>
                         <l n="d"><lb 
-n="35"/>pitṛbhiḥ saha pacy<choice><sic>e</sic><corr>a</corr></choice>te<surplus>ḥ</surplus><g type="ddanda">.</g></l>
+n="35"/>pitr̥bhiḥ saha pacy<choice><sic>e</sic><corr>a</corr></choice>te<surplus>ḥ</surplus><g type="ddanda">.</g></l>
                     </lg>
              <lg met="anuṣṭubh" n="3"><!-- Sircar1965_st0085 -->
                         <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
@@ -165,14 +165,14 @@ n="37" break="no"/>kañ ca</l>
 n="38"/>mplavaṁ</l>
                             </lg>
              <lg n="5" met="anuṣṭubh"><!-- Not in Sircar's list !!  -->
-                 <l n="">nirvvaśo nirddhano rogī</l>
-                 <l n="">kṣīṇāyuḥ śatrubhir jjitaḥ<g type="ddanda">.</g></l>
-                 <l n="">bhaved ya<lb 
+                 <l n="a">nirvvaśo nirddhano rogī</l>
+                 <l n="b">kṣīṇāyuḥ śatrubhir jjitaḥ<g type="ddanda">.</g></l>
+                 <l n="c">bhaved ya<lb 
 n="39" break="no"/>ḥ kurute vādhāṃ</l>
-                 <l n="">viprāṇān tāmra-śāsane<g type="ddanda">.</g></l>
+                 <l n="d">viprāṇān tāmra-śāsane<g type="ddanda">.</g></l>
              </lg>
              <lg met="anuṣṭubh" n="6"><!-- Sircar1965_st0029 -->
-                <l n="a">bhūmiṁ yaḥ<g type="ddanda">.</g> <supplied reason="omitted">pratigṛhṇāti</supplied></l>
+                <l n="a">bhūmiṁ yaḥ<g type="ddanda">.</g> <supplied reason="omitted">pratigr̥hṇāti</supplied></l>
                 <l n="b"><supplied reason="omitted">yaś ca bhūmiṁ prayacchati</supplied></l>
                 <l n="c"><supplied reason="omitted">Ubhau tau puṇya-karmāṇau</supplied></l>
                 <l n="d"><supplied reason="omitted">niyataṁ svarga-gāminau</supplied></l>
@@ -197,7 +197,7 @@ n="42" break="no"/>m idam alīlikhaditi<g type="ddanda">.</g> vijñān<choice><s
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

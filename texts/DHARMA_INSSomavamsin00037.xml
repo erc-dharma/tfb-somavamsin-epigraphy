@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:amwb" when="2024-05-22">Encoding of the text based on Shastri's edition</change>
             <change who="part:amwb" when="2024-02-05">Creation of the file</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
@@ -99,22 +100,22 @@ n="1r"/>
 
 n="1v"/>
 <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb
-n="4"/><lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/>
+n="1"/>siddham svasti sphuradgajaturaṅgasam<choice><sic>a</sic><corr>u</corr></choice>dga<choice><sic>r</sic><corr>t</corr></choice>ai<surplus>ghā</surplus><supplied reason="omitted">r</supplied>ddhanikadhanyajanaiḥ suse<lb 
+n="2" break="no"/>vy<choice><sic>a</sic><corr>ā</corr></choice>t<surplus>a</surplus><supplied reason="omitted">.</supplied> svarggadevendrayasubhogasukhābhiramyāt<surplus>a</surplus>sthānāditaḥ prakaṭacitta<choice><sic>yo</sic><corr>vā</corr></choice><gap reason="illegible" extent="unknown"></gap><lb 
+n="3"/>ṭikābhidhānāt<surplus>a</surplus><g type="ddanda">.</g> nānāmanojño matimān<surplus>a</surplus> sudhakṣo yo vandhuvarggampratikalpa<lb
+n="4" break="no"/>vṛkṣaḥ durvvāravīravaravairi<surplus>r</surplus>śirovidār<choice><sic>ā</sic><corr>a</corr></choice>ḥ <choice><sic>sukhā</sic><corr>śūrā</corr></choice>ra yāruṇatara<supplied reason="omitted">ḥ</supplied> <choice><sic>su</sic><corr>sa</corr></choice>raṇāṅgaṇa<lb 
+n="5" break="no"/>styhaḥ śrīmaṅgalāspada<choice><sic>dām</sic><corr>daṃ</corr></choice>vipadāmabh<choice><sic>u</sic><corr>ū</corr></choice>bhiḥ śrīmatkhaḍgaśivamāṇḍa<gap reason="illegible" extent="unknown"></gap><lb 
+n="6"/>li<choice><sic>ka</sic><corr>kau</corr></choice> va<choice><sic>bhu</sic><corr>bhū</corr></choice>va<surplus>ḥ</surplus> taysaiva <choice><sic>su</sic><corr>sū</corr></choice><choice><sic>nū</sic><corr>nu</corr></choice><supplied reason="omitted">r</supplied>ma<choice><sic>lī</sic><corr>li</corr></choice><choice><sic>ni</sic><corr>nī</corr></choice>kṛtāri<supplied reason="omitted">ḥ</supplied> <choice><sic>sphu</sic><corr>sphū</corr></choice>rjatkarālakaravālalalatka<lb 
+n="7" break="no"/>rāgraḥ Āruḍhatuṅgasuturuṅgavalasedaṅge lakṣmīmvahan<surplus>a</surplus><surplus><g type="ddanda">.</g></surplus> s<supplied reason="omitted">v</supplied>akulajāṁ kulanā<lb 
+n="8"/>yabhūtaḥ dānābhimanan<choice><sic>ā</sic><corr>a</corr></choice>yavikramasatpratāpaḥ satyātisat<supplied reason="omitted">t</supplied>vadhṛtisaṁyatibh<choice><sic>u</sic><corr>ū</corr></choice>tivāsa<lb 
+n="9" break="no"/>khyātassatā<supplied reason="omitted">ṁ</supplied> guṇaguṇai<supplied reason="omitted">r</supplied>ggaṇi<choice><sic>kauma</sic><corr>tova</corr></choice>dānyo śrīmadbālatuṅga Iti māṇḍalika<supplied reason="omitted">ḥ</supplied><choice><sic>kī</sic><corr>li</corr></choice>lā<lb 
+n="10"/>sīt<surplus>a</surplus><g type="danda">.</g> Asya sutaḥ pravarabhadragajendrakalpavṛkṣaḥ prod<supplied reason="omitted">d</supplied>arpyqśatrudalanotivinī<gap reason="illegible" extent="unknown"></gap><lb
+n="11" break="no"/>tamūrti<supplied reason="omitted">ḥ</supplied> Ālamvapīvarakaroti sucāruśūrasaddānasantatisadāvilasajjaya<lb 
+n="12"/>śrīḥ
     <pb n="2r" break="no"/><lb 
-n="13"/><lb
-n="14"/><lb 
-n="15"/><lb 
+n="13"/>cakreṇa cakrī gadayāca bhīmaḥ sallāṅga<choice><sic>leḥ</sic><corr>lai</corr></choice><supplied reason="omitted">r</supplied>lāṅgaliko <choice><sic>ma</sic><corr>va</corr></choice>dāny<choice><sic>o</sic><corr>aḥ</corr></choice> cāpena pārtha<supplied reason="omitted">ḥ</supplied><lb
+n="14"/>titha<supplied reason="omitted">ḥ</supplied> pṛthivyā<choice><sic>ḥ</sic><corr>ṁ</corr></choice> śastreṇa śastr<choice><sic>ā</sic><corr>aḥ</corr></choice> turagairatulyaḥ śrīmaj-janmejaya-devanṛpesatataṃ<lb 
+n="15"/>prasanne sāmantacakraśirasā paricumbitāṅghr<choice><sic>eḥ</sic><corr>aiḥ</corr></choice> yasya pratāpaśikhin<choice><sic>aḥ</sic><corr>ā</corr></choice> prasabhaṁ<lb 
 n="16"/><lb 
 n="17"/><lb 
 n="18"/><lb 
@@ -154,11 +155,11 @@ n="45"/>
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Shastri1995_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

@@ -104,7 +104,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <!-- amwb For the moment it is Shastri's edition -->
              <lb 
-n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" ref="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijaya-rājye samvaT <num value="18">18</num><lb 
+n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" key="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijaya-rājye samvaT <num value="18">18</num><lb 
 n="2"/>śrī<space unit="character" quantity="1"/>-Ārya-saṁgha-prativaddha-graha-kula-vinirggata-deśī-gaṇa-Ācārya-śrī-kulacandra<lb 
 n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasya śiṣya-subhacandrasya<surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g><g type="floretComplex">.</g><g type="ddandaStrokeLeft">.</g><num value="1">1</num></p>
          </div>

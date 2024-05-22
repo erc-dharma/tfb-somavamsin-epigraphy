@@ -84,10 +84,6 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
@@ -124,20 +120,20 @@ n="1r"/>
 n="1v"/><g type="spiralL"/><g type="spiralR"/> svasty-amala-maṇi-kuṭṭima-sadana-calad-aneka-varavāra-vilā<lb 
 n="2" break="no"/>sinī-jana-caraṇa-nūp<choice><sic>ū</sic><corr>u</corr></choice>ra-rava-trasta-pārāvata-kula-pakṣa-svana-vadhiri<lb 
 n="3" break="no"/>ta-daśa-diṅkānādig-deśāntarāgata-vandi-jana-vistārita-kīrttirṇvvividha<lb 
-n="4" break="no"/>-vidyālaṅkṛta-vidvaj-jana-janita-vidagdha-kāvy<choice><sic>a</sic><corr>ā</corr></choice>lāpa-stuta-dhanapati-vi<lb 
+n="4" break="no"/>-vidyālaṅkr̥ta-vidvaj-jana-janita-vidagdha-kāvy<choice><sic>a</sic><corr>ā</corr></choice>lāpa-stuta-dhanapati-vi<lb 
 n="5" break="no"/>bhava-sparddhita-vipaṇi-jana-parasparāmarṣa-racita-vicitra-prāsādā<lb 
 n="6" break="no"/>ṭṭālikā-devakulārāmodyāna-vāpī-kūpa-ṭaḍāgopaśo<lb 
 n="7" break="no"/>bhā-jita-sura-pura-mahimnaḥ śrīmato murasīma-nāmadheya<lb 
 n="8" break="no"/>-pattana-vara-rājadhānyāḥ<g type="danda">.</g> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>para<lb 
-n="9" break="no"/>meśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pā<supplied reason="omitted">da</supplied>nudhyāta-<roleName>parama-m<choice><sic>a</sic><corr>ā</corr></choice>heśvara</roleName>-<roleName>parama-bha<lb 
-n="10" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-soma-kula-tilaka-<roleName>tṛkaliṅgādhipa<lb 
-n="11" break="no"/>ti</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="danda">.</g> kṣiti-ma<lb
+n="9" break="no"/>meśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pā<supplied reason="omitted">da</supplied>nudhyāta-<roleName>parama-m<choice><sic>a</sic><corr>ā</corr></choice>heśvara</roleName>-<roleName>parama-bha<lb 
+n="10" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-soma-kula-tilaka-<roleName>tr̥kaliṅgādhipa<lb 
+n="11" break="no"/>ti</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<g type="danda">.</g> kṣiti-ma<lb
 n="12" break="no"/>ṇdapādhāra-viṣaya-prativaddha-vādaveṅga-nām<supplied reason="omitted">n</supplied>i grāme harṣadat<supplied reason="omitted">t</supplied>a
                    
                 <pb n="2r" break="no"/>
 <lb 
 n="13" break="no"/>pāṭaka-sahite vrāhmaṇān samp<choice><sic>u</sic><corr>ū</corr></choice>jya tat-pratinivāsi-ku<add place="below">ṭu</add>mvi-janapa<lb 
-n="14" break="no"/>dāṁstad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sannidhātṛ-cāṭa-bhaṭa-pi<lb 
+n="14" break="no"/>dāṁstad-viṣayīya-yathā-kālādhyāsinaḥ samāhartr̥-sannidhātr̥-cāṭa-bhaṭa-pi<lb 
 n="15" break="no"/>śuna-vitrikāvarodha-jana-rāja-vallabhādīn sarvvān rāja-pādopajīvi<lb 
 n="16" break="no"/>naḥ samājñāpayati viditam astu bhaviṭāṁ<surplus><g type="danda">.</g></surplus> yathāsmābhir ayaṁ grāmaḥ sa-ni<lb 
 n="17" break="no"/>dhiḥ sopanidhiḥ sa-daśāparādhaḥ sarvva-vādhā-vivarjjitaḥ sarvvoparikara<lb 
@@ -147,17 +143,17 @@ n="20" break="no"/>-gotrāya Aṅgirasa-vārhaspatya-pravarāya m<choice><sic>o<
 n="21" break="no"/>-śākhādhyāyine turvvanā-grāma-vinirggatāya tatraiva vāstavyāya-mahanta<lb
 n="22" break="no"/>ka-bhaṭṭa-śrī-sādhāraṇa-nāmne śobhana-bhaṭṭa-s<choice><sic>u</sic><corr>ū</corr></choice>nave<surplus><g type="danda">.</g></surplus> salila-dhārā-puraḥ<lb
 n="23" break="no"/>-saramācandra-tīrak-ārkka-kṣiti-sama-kālopabhogārthaṁ mātā-pitror ā<lb
-n="24" break="no"/>tmanaś ca puṇya-yaśobhivṛddhaye<surplus><g type="danda">.</g></surplus> rāja-parama-guru-śrī-vidyāsāga<lb 
-n="25" break="no"/>ra-bhaṭṭārakābhimatena samyaG-dṛṣṭa-vuddhyā tāmra-śāsane
+n="24" break="no"/>tmanaś ca puṇya-yaśobhivr̥ddhaye<surplus><g type="danda">.</g></surplus> rāja-parama-guru-śrī-vidyāsāga<lb 
+n="25" break="no"/>ra-bhaṭṭārakābhimatena samyaG-dr̥ṣṭa-vuddhyā tāmra-śāsane
                 <pb n="2v" break="no"/>
 <lb 
-n="26" break="no"/>nākarī-kṛtya pratipādita Ity avagatya samucita-bhoga-bhāga-kara<lb 
+n="26" break="no"/>nākarī-kr̥tya pratipādita Ity avagatya samucita-bhoga-bhāga-kara<lb 
 n="27" break="no"/>-hiraṇyādikam upanayadbhir bhavadbhiḥ sucena prativastavyam iti bhā<lb 
 n="28" break="no"/>vibhiś ca bh<choice><sic>u</sic><corr>ū</corr></choice>patibhir ddattir iyam asmadīyā dharmma-gauravād asmad anuro<lb 
 n="29" break="no"/>dhāc ca sva-dattir ivānupālanīyā<g type="danda">.</g> mahārājayya putra-pautreṇa paripā<lb 
 n="30" break="no"/>litavyā<supplied reason="omitted">.</supplied> Asya ca bhaṭṭāsya putra-pautreṇopabhoktavyā<g type="danda">.</g> ya Evam anyathā ka<lb
-n="31" break="no"/>roti tasya vuddhi-nāśādi vinipātā bhavanti<g type="danda">.</g> tathā coktaṁ<g type="ddanda">.</g> <rs type="authorship" ref="best:auth003">carmmaśā<lb
-n="32" break="no"/>stre</rs><g type="danda">.</g></p> 
+n="31" break="no"/>roti tasya vuddhi-nāśādi vinipātā bhavanti<g type="danda">.</g> tathā coktaṁ<g type="ddanda">.</g> carmmaśā<lb
+n="32" break="no"/>stre<g type="danda">.</g></p> 
                 <lg n="1" met="anuṣṭubh">
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhir</l>
@@ -207,7 +203,7 @@ n="39"/>pravalg<surplus>ay</surplus>anti pitāmahā<supplied reason="omitted">�
 </lg>
                 <lg n="6" met="anuṣṭubh">
     <l n="a"><lb 
-n="40"/>bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+n="40"/>bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
     <l n="c">Ubhau tau puṇya-karmmāṇau</l>
     <l n="d">niya<lb
@@ -226,7 +222,7 @@ n="42" break="no"/>-pradānena</l>
 </lg>
 <lg n="8" met="anuṣṭubh">
     <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
-    <l n="b">manda-vuddhis tamo-vṛ<lb
+    <l n="b">manda-vuddhis tamo-vr̥<lb
 n="43" break="no"/>taḥ</l>
     <l n="c">sa vaddho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
     <l n="d">pāśais tiryag-yoniñ ca gacchati<g type="ddanda">.</g></l><!-- 
@@ -246,8 +242,8 @@ n="44"/>bhūmer apy arddham aṅgulaṁ</l>
     <l n="a">sva-dattāṁ pa<lb 
 n="45" break="no"/>ra-dattām vā</l>
     <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> vasundharāṁ<g type="ddanda">.</g></l>
-   <l n="c">sa viṣṭhāyā<unclear>ṁ</unclear> kṛmir bhūtvā</l>
-    <l n="d">pacyate pitṛ<lb 
+   <l n="c">sa viṣṭhāyā<unclear>ṁ</unclear> kr̥mir bhūtvā</l>
+    <l n="d">pacyate pitr̥<lb 
 n="46" break="no"/>bhiḥ saha<surplus>ḥ</surplus><g type="ddanda">.</g></l><!-- 
     amwb : Sircar 132 change in d inversion verb and complement
     -->
@@ -262,7 +258,7 @@ n="47" break="no"/>pāṇis tu bhagavāN</l>
      -->
 </lg>
                 <lg n="12" met="śālinī">
-    <l n="a">sāmānyo 'yaṁ dharmma-setur nṛpāṇāṁ</l>
+    <l n="a">sāmānyo 'yaṁ dharmma-setur nr̥pāṇāṁ</l>
     <l n="b">kā<lb 
 n="48" break="no"/>le kāle pālanīyo bhavadbhiḥ</l>
     <l n="c">sarvvān etāN bhāvinaḥ pārthivendrāN></l>
@@ -275,7 +271,7 @@ n="49" break="no"/>yo yācate rāmacandraḥ<g type="ddanda">.</g></l><!--
     <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
     <l n="b">śriyam anucintya<lb 
 n="50"/>manuṣya-jīvitaṁ ca</l>
-    <l n="c">sa-kalam idam udāhṛtañ ca vuddhvā</l>
+    <l n="c">sa-kalam idam udāhr̥tañ ca vuddhvā</l>
     <l n="d">na hi puruṣaiḥ para-kī<lb
 n="51" break="no"/>rttayo vilopyā<supplied reason="omitted">ḥ</supplied></l><!-- 
 amwb : Sircar 71
@@ -289,15 +285,15 @@ n="53"/>dvit<choice><sic>i</sic><corr>ī</corr></choice>ya-pakṣe tithau śapty
 n="54" break="no"/>m idaṁ tāmra-śāsanaṁ mahāsāndhivigrahi-śrī-maladata-prativaddha-kāyastha-śrī<lb 
 n="55" break="no"/>-koIghoṣeṇa<g type="danda">.</g> vallabhaghoṣa-suteneti<supplied reason="omitted">.</supplied> likhitam idaṃ vaṇik<surplus>a</surplus> <num value="175">175</num> siUllā-su<lb 
 n="56" break="no"/>ta-ha<supplied reason="omitted">ra</supplied>dāśena<g type="ddanda">.</g> Asti kṣoṇīśvarāṇām amala-malirucām anvayāT kaustu<lb 
-n="57" break="no"/>bhābhaḥ śaurya-tyāg-āmvu-rāśir vviracita-vidhivad dāna-śubhrīkṛtābhraḥ<g type="danda">.</g> śrīmā<lb 
-n="58" break="no"/>ñ janmejayākṣas tṛdaśa-pati-samaḥ kṛ<choice><sic>cchna</sic><corr>tsna</corr></choice>-gāṁ bhoktu-kāmaḥ prakhyā<lb 
+n="57" break="no"/>bhābhaḥ śaurya-tyāg-āmvu-rāśir vviracita-vidhivad dāna-śubhrīkr̥tābhraḥ<g type="danda">.</g> śrīmā<lb 
+n="58" break="no"/>ñ janmejayākṣas tr̥daśa-pati-samaḥ kr̥<choice><sic>cchna</sic><corr>tsna</corr></choice>-gāṁ bhoktu-kāmaḥ prakhyā<lb 
 n="59" break="no"/>ta-dvesī-vaṅśa-prati-dalana-paṭur bhūpati<supplied reason="omitted">ḥ</supplied> soma-vaṅse<g type="ddanda">.</g> jñeyāśehārtha<lb 
-n="60" break="no"/>śāstra-smṛti-vimala-dhiyā veda-vedāṅga-vidyā-śīkṣā-kalpetihāsa-pra<lb
+n="60" break="no"/>śāstra-smr̥ti-vimala-dhiyā veda-vedāṅga-vidyā-śīkṣā-kalpetihāsa-pra<lb
 n="61" break="no"/>katṭā-sura-guru-prāpta-bhūyiṣṭha-dhāmnā<g type="danda">.</g> nāmnā sādhāraṇena dvija-vara-vidhi<lb
-n="62" break="no"/>nā mantriṇā yasya rājyaṁ nirvyūḍhāṁ soyamucchaiḥ tṛjagati vidhito deva-ja<lb
+n="62" break="no"/>nā mantriṇā yasya rājyaṁ nirvyūḍhāṁ soyamucchaiḥ tr̥jagati vidhito deva-ja<lb
 n="63" break="no"/>namejaya-śrīḥ<g type="ddanda">.</g> <!-- Shastri_tripathy mention a different hand here Need to check on the plate and implement tag if necessary --> evam aparam ātma-śreyorthaṁ mātā-pitroś ca Etad vi<lb 
 n="64" break="no"/>ṣaya-prativaddha-konnatirā-grāma<supplied reason="omitted">ḥ</supplied> tathā kontakapallī-viṣayīya-konnapallī-nāma grā<lb 
-n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied reason="omitted">.</supplied>              
+n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kr̥tya pradattam iti<supplied reason="omitted">.</supplied>              
                 </p>
                 
              </div>
@@ -340,8 +336,8 @@ n="65" break="no"/>ma-dvayam asmā Eva śāsanī-kṛtya pradattam iti<supplied 
                      <rdg source="bib:Shastri+Tripathy2011-2012_01">-kuṭūmvi-</rdg>
                   </app>
                   <app loc="14">
-                     <lem>samāhartṛ-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011-2012_01">samāhatṛ</rdg>
+                     <lem>samāhartr̥-</lem>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">samāhatr̥</rdg>
                   </app>
                   <app loc="16">
                      <lem>°mābhir ayaṁ</lem>

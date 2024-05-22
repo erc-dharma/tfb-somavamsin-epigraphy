@@ -101,16 +101,16 @@ n="1v"/>
 <lb 
 n="1"/>siddham Om svastyamalamaṇikuṭṭimasadanacaladanekavakhāravilāsinīja<lb 
 n="2" break="no"/>nacaraṇanūpura ra ravatrastapārāvattasvanavadhiritadaśadiśo nānādigdeśā<lb 
-n="3" break="no"/>ntarādāgatavandivṛndavistāritakīrttevvividhavidyālaṁkṛtavidvajjanajanitavida<lb
+n="3" break="no"/>ntarādāgatavandivr̥ndavistāritakīrttevvividhavidyālaṁkr̥tavidvajjanajanitavida<lb
 n="4" break="no"/>gdhakāvyālāpastutadhanapativibhavasparddhitavipaṇijanaparasya saṁharṣaracita<lb 
 n="5" break="no"/>vicitraprāsādāṭṭālikāvihārārāmadevakulodyānavāpīkūpataḍāgopa<lb 
 n="6" break="no"/>-nirjjitasurasadanamahimna śrīmato mūrasīmapattanavarāT<g type="ddanda">.</g><lb 
 n="7"/>Asti kṣoṇīśvarāṇāmamalamaṇirucāma<choice><sic>tva</sic><corr>nva</corr></choice>yāT kaustubhābhaḥ<lb 
-n="8"/>śauryāgāmburāśirvviracitāvadhivaddānaśubhrīkṛtābhraḥ<g type="ddanda">.</g> śrīm<choice><sic>a</sic><corr>ā</corr></choice>njanmejayā<lb 
-n="9" break="no"/>ravyastṛdaśapatisamaḥ kṛ<choice><sic>cchana</sic><corr>tsna</corr></choice>gāṁ bhoktukāmaḥ prakhyātadve<choice><sic>ś</sic><corr>ṣ</corr></choice>ī-vaṅśa-pravidalana<lb 
+n="8"/>śauryāgāmburāśirvviracitāvadhivaddānaśubhrīkr̥tābhraḥ<g type="ddanda">.</g> śrīm<choice><sic>a</sic><corr>ā</corr></choice>njanmejayā<lb 
+n="9" break="no"/>ravyastr̥daśapatisamaḥ kr̥<choice><sic>cchana</sic><corr>tsna</corr></choice>gāṁ bhoktukāmaḥ prakhyātadve<choice><sic>ś</sic><corr>ṣ</corr></choice>ī-vaṅśa-pravidalana<lb 
 n="10" break="no"/>paṭ<choice><sic>ū</sic><corr>u</corr></choice>r bhūpatiḥ somavaṅśe<g type="ddanda">.</g> so 'yaṁ<g type="danda">.</g> parama-bhaṭṭāraka-mahārāja-parameśvara<lb 
 n="11" break="no"/>śrī-śivaguptadeva-pādānudhyāta-parama-maheśvara-paramabhaṭṭāraka-mahā<lb 
-n="12" break="no"/>rājādhirāja-somakula-tilaka-tṛkaliṅgādhipatiparameśvara-śrī-mahā
+n="12" break="no"/>rājādhirāja-somakula-tilaka-tr̥kaliṅgādhipatiparameśvara-śrī-mahā
     <pb n="2r" break="no"/><lb 
 n="13"/>bhavaguptarājadevaḥ kuśalī<g type="ddanda">.</g> potāviṣataprativaddhajamb<choice><sic>a</sic><corr>ū</corr></choice>grāme vrāhma<lb
 n="14"/><lb 
@@ -157,11 +157,11 @@ n="48"/>
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Shastri1995_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

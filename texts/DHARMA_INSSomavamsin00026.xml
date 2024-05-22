@@ -89,8 +89,8 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" resp="bib:Kielhorn1896-1897_05"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="san-Latn" ><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7--><!-- The text reproduced here is from resp="bib:Kielhorn1896-1897_05"-->
              <pb 
 
 n="1r"/>
@@ -103,7 +103,7 @@ n="1"/>Oṁ svasti<supplied reason="omitted">.</supplied> śrī-yayāti-nagare p
 n="2" break="no"/>raka-mahārājādhirāja-pa<supplied reason="omitted">ra</supplied>meśvara-soma-kula-tilaka-trika<lb
 n="3" break="no"/>liṅgādhipati-śrī-mahāśivagupta-rājadeva-pādānudhyāta-parama-mā<lb
 n="4" break="no"/>heś<supplied reason="omitted">v</supplied>ara-paramabhaṭṭāraka-m<choice><sic>ā</sic><corr>a</corr></choice>hārājādhirāja-parameśvara-soma-ku<lb
-n="5" break="no"/>la-tilaka-<choice><sic>tṛi</sic><corr>tri</corr></choice>kaliṅgādhipati-śrī-mahābhavagupta-rājadeva-mahī<lb
+n="5" break="no"/>la-tilaka-<choice><sic>tr̥i</sic><corr>tri</corr></choice>kaliṅgādhipati-śrī-mahābhavagupta-rājadeva-mahī<lb
 n="6" break="no"/>-pravarddhamāna-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>a-vijayarājye trayodaśa-samvatsare <surplus>Ā</surplus>trāṅke sa<lb
 n="7" break="no"/>mvata <num value="13">13</num> <unclear>vvā</unclear>maṇḍāpāṭ<surplus>ṭ</surplus>ī-samāvāsakāta parama-māheśvara-maṭhara<lb
 n="8" break="no"/>-vaṁ<choice><sic>ṣ</sic><corr>ś</corr></choice>odbhava-kula-tilaka-k<unclear>ā</unclear>leśvar<choice><sic>i</sic><corr>ī</corr></choice>-vara-lavdha-prasāda-pañca-daśa-pallikā<lb
@@ -121,7 +121,7 @@ n="17"/>sasaliladhārā-puraścareṇam a-candra-tārkārka-khiti-samakālopa<lb
 n="18" break="no"/>bhogārttham mātāpitror ātma<supplied reason="omitted">na</supplied>ś ca pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-yaśopivarddhaE tāmra-śā
     <pb n="2v" break="no"/>
     <lb
-n="19" break="no"/>sanenākar<choice><sic>i</sic><corr>ī</corr></choice>kṛtya pratipāditosmābhi<supplied reason="omitted">ḥ</supplied> śāsana-gauragaura<lb
+n="19" break="no"/>sanenākar<choice><sic>i</sic><corr>ī</corr></choice>kr̥tya pratipāditosmābhi<supplied reason="omitted">ḥ</supplied> śāsana-gauragaura<lb
 n="20" break="no"/>vā dharmma-gauvaṇā ca bhavadbhī pratipālanipā tathā coktaṁ dharma<lb
 n="21" break="no"/>-śāstre</p> 
              <lg met="anuṣṭubh" n="1"> <!-- Sircar1965_st0023 -->     
@@ -146,7 +146,7 @@ n="24" break="no"/>–sahasrāṇi</l>
                    <l n="d"><supplied reason="omitted">tāny eva narake vaset</supplied></l>
              </lg> 
              <lg met="anuṣṭubh" n="4"><!--  Sircar1965_st0029 -->
-                <l n="a">bhūmī yaḥ pratigṛhṇanti</l>
+                <l n="a">bhūmī yaḥ pratigr̥hṇanti</l>
                 <l n="b">yasya bhūmi<lb
 n="25"/>prayacchati</l>
                 <l n="c">Ubhau tau punya-karmāṇau</l>
@@ -178,7 +178,7 @@ n="30" break="no"/>dhyati<g type="ddanda">.</g></l>
              </lg>
              <lg met="anuṣṭubh" n="8"><!--  Sircar1965_st0064 -->
                         <l n="a">harate hāravate yas tu</l>
-                        <l n="b">manda-vuddhis tamā-vṛta</l>
+                        <l n="b">manda-vuddhis tamā-vr̥ta</l>
                         <l n="c">sa vaddhaḥ vāru<lb
 n="31" break="no"/>ṇai pāśai</l>
                         <l n="d">tiryag-yoni ca gacchati<g type="ddanda">.</g></l>
@@ -187,15 +187,15 @@ n="31" break="no"/>ṇai pāśai</l>
                         <l n="a">sva-datt<sic>a</sic> para-dattām vā</l>
                         <l n="b">yo<lb
 n="32"/>hared vasundharā</l>
-                        <l n="c">sa viṣṭhāyāṁ kṛmir bh<choice><sic>u</sic><corr>ū</corr></choice>tvā</l>
-                        <l n="d">pitṛbhi<supplied reason="omitted">ḥ</supplied> saha pa<lb
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir bh<choice><sic>u</sic><corr>ū</corr></choice>tvā</l>
+                        <l n="d">pitr̥bhi<supplied reason="omitted">ḥ</supplied> saha pa<lb
 n="33" break="no"/>cyate<g type="ddanda">.</g></l>
                     </lg>
              <lg met="puṣpitāgrā" n="10"><!--  Sircar1965_st0071 -->
                     <l n="a">Iti<surplus>ḥ</surplus> kamala-dalāmvu-vindu-lolā</l>
                     <l n="b">śrīm anucintya manuṣya-ji<lb
 n="34" break="no"/>vitaṁ ca</l>
-                    <l n="c">sakalam idam udāhṛtaṁ ca vuddhāḥ</l>
+                    <l n="c">sakalam idam udāhr̥taṁ ca vuddhāḥ</l>
                     <l n="d">na hi puruṣaṁ para-kirtima vilo<lb
 n="35" break="no"/>pyate<g type="ddanda">.</g></l>
                 </lg>
@@ -230,8 +230,8 @@ n="36"/>taṁ</p>
                        <rdg source="bib:Kielhorn1896-1897_05">bhutvā</rdg>
                    </app>
                    <app loc="32">
-                       <lem>pitṛbhi<supplied reason="omitted">ḥ</supplied></lem>
-                       <rdg source="bib:Kielhorn1896-1897_05">pitṛbhi</rdg>
+                       <lem>pitr̥bhi<supplied reason="omitted">ḥ</supplied></lem>
+                       <rdg source="bib:Kielhorn1896-1897_05">pitr̥bhi</rdg>
                    </app>
                    <app loc="33">
                        <lem>Iti<surplus>ḥ</surplus></lem>
@@ -239,7 +239,7 @@ n="36"/>taṁ</p>
                    </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

@@ -83,10 +83,6 @@
             <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
@@ -110,19 +106,19 @@
             <!--edition encoded as per EGD §§2−7-->
               <pb n="1r"/>
             <p><lb 
-n="1"/><roleName>śrī</roleName>-<persName type="king" ref="PSN01003">caṇḍ<choice><sic>i</sic><corr>ī</corr></choice>hara</persName>-<roleName>devasya</roleName> suta<supplied reason="omitted">ḥ</supplied> <roleName>śrī</roleName>-<persName type="king" ref="PSN01002">Uddyotakesari</persName><lb 
+n="1"/><roleName>śrī</roleName>-<persName type="king" key="PSN01003">caṇḍ<choice><sic>i</sic><corr>ī</corr></choice>hara</persName>-<roleName>devasya</roleName> suta<supplied reason="omitted">ḥ</supplied> <roleName>śrī</roleName>-<persName type="king" key="PSN01002">Uddyotakesari</persName><lb 
 n="2" break="no"/>-<roleName>devaḥ</roleName> kuśalī yamalāṇkhaṇḍa-prativaddha-gomuṇḍa<lb
 n="3" break="no"/>llāgrām<choice><sic>e</sic><corr>aḥ</corr></choice> sām<surplus>v</surplus>ra-madhutālasa-sagartoṣara<supplied reason="omitted">ḥ</supplied> sajalastha<lb 
 n="4" break="no"/>la<supplied reason="omitted">ḥ</supplied>sakh<choice><sic>a</sic><corr>e</corr></choice>ṭaviṭapa<supplied reason="omitted">ḥ</supplied>sapadrāraṇya<supplied reason="omitted">ḥ</supplied> sama<choice><sic>cchā</sic><corr>tsya</corr></choice>kacchapa<supplied reason="omitted">ḥ</supplied> catu<supplied reason="omitted">ḥ</supplied><lb 
 n="5" break="no"/>-s<choice><sic>i</sic><corr>ī</corr></choice>mā-bhūmicchidrāny api <choice><sic>nā</sic><corr>Ā</corr></choice>candratārakārka-kṣiti-sama<lb 
-n="6" break="no"/>-kālopabhogārtha<supplied reason="omitted">ṁ</supplied> mātrāpi pitror ātmanaś ca pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-yaśo 'bhivṛ<lb 
+n="6" break="no"/>-kālopabhogārtha<supplied reason="omitted">ṁ</supplied> mātrāpi pitror ātmanaś ca pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-yaśo 'bhivr̥<lb 
 n="7" break="no"/>ddhaye somagra<choice><sic>hena</sic><corr>haṇe</corr></choice> <supplied reason="omitted">ma</supplied>dhyade
                 <pb n="1v" break="no"/>
                <lb 
 n="8" break="no"/>śevi<unclear>nirga</unclear>tāya jāt<choice><sic>o</sic><corr>u</corr></choice> ka<supplied reason="omitted">r</supplied><choice><sic>ṇa</sic><corr>ṇya</corr></choice><supplied reason="omitted">sa</supplied>-gotrāya vasiṣṭha-prava <lb 
 n="9" break="no"/>rāya parepravarāya yaj<choice><sic>a</sic><corr>u</corr></choice>rveda-śākhādhyāyine pa<lb 
 n="10" break="no"/>ṇḍita-bhaṭṭa-putra-dharmmapālā<supplied reason="omitted">ya</supplied> śrīsarv<supplied reason="omitted">y</supplied>a<choice><sic>ś</sic><corr>s</corr></choice>c<choice><sic>ī</sic><corr>i</corr></choice>sutāya<lb 
-n="11"/>gomuṇḍallāgrām<choice><sic>o</sic><corr>as</corr></choice> tām<surplus>v</surplus>raśāsanīkṛtya pratipā<lb 
+n="11"/>gomuṇḍallāgrām<choice><sic>o</sic><corr>as</corr></choice> tām<surplus>v</surplus>raśāsanīkr̥tya pratipā<lb 
 n="12" break="no"/>ditam ity avagatya ca samucita-bhoga-kara<lb 
 n="13" break="no"/>nikara-hiraṇyādi s<surplus>v</surplus>anidhi<supplied reason="omitted">ḥ</supplied>tyāsmi<supplied reason="omitted">sa</supplied>da<lb 
 n="14" break="no"/>śāparādha<supplied reason="omitted">ḥ</supplied> sarvavā<sic>dhāvahi</sic><corr>dhārvajitaḥ</corr> sarvoparikara-karā</p>
@@ -132,11 +128,11 @@ n="14" break="no"/>śāparādha<supplied reason="omitted">ḥ</supplied> sarvav�
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Shastri1995_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
