@@ -93,7 +93,7 @@
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
              <ab>
-                 <lb n="1"/><roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-deva-<supplied reason="lost">-rājasya</supplied>
+                 <lb n="1"/><roleName>śrī</roleName>-<persName type="king" key="PSN01001">janamejaya</persName>-deva-<supplied reason="lost">-rājasya</supplied>
              </ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
@@ -108,10 +108,10 @@ n="1v"/>
 n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
 n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
-n="4" break="no"/>ma-kula-tilaka-<roleName>tṛkaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
+n="4" break="no"/>ma-kula-tilaka-<roleName>tr̥kaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" ref="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
 n="5"/><placeName type="region" subtype="district">lupattarā</placeName>-khaṇḍīya-<placeName type="settlement" subtype="village">vakratentalī</placeName>-grāme brāhmaṇān sampūjya tat-pra<lb
-n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartṛ-sa<lb
-n="7" break="no"/>nnidhā<surplus>r</surplus>tṛ-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
+n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartr̥-sa<lb
+n="7" break="no"/>nnidhā<surplus>r</surplus>tr̥-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
 n="8" break="no"/>ṭa-bhaṭa-jāt<choice><orig>i</orig><reg>ī</reg></choice>yān samājñāpayati<supplied reason="omitted">.</supplied> vidita<supplied reason="omitted">m a</supplied>stu bhavatāṁ yathāsmābhir ayaṁ grā<lb
 n="9" break="no"/>maḥ sanidhiḥ sopanidhiḥ sarvva-bādhā-vivarjjitaḥ sa-gartoṣaraḥ sāmra<pb 
     n="2r" break="no"/>
@@ -123,8 +123,8 @@ amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rā�
 --><lb
 n="13" break="no"/>stavyāya <rs type="masc" role="donee"><roleName>bhaṭṭaputra</roleName>-<persName>jātarūpa</persName>-</rs>nāmne <rs type="masc"><roleName>bhaṭṭaputra</roleName>-<persName>śrīvaccha</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb
 n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb
-n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivṛddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb
-n="16" break="no"/>nākarīkṛtya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb
+n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivr̥ddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb
+n="16" break="no"/>nākarīkr̥tya pratipādita ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb
 n="17" break="no"/>dikam upanayadbhir bhavadbhiḥ sukhena prativastavyam iti<supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dda<lb
 n="18" break="no"/>ttir iyam asmadīyā dharmma-gauravād asmad anurodhāc ca svadattir ivānupālanīyā<supplied reason="omitted">.</supplied></p>
 <p><lb
@@ -175,7 +175,7 @@ n="25" break="no"/>lg<surplus>ay</surplus>anti pitāmahāḥ</l>
      -->
 </lg><lb
 n="26"/><lg n="6" met="anuṣṭubh"><!-- best_0029 -->
-    <l n="a">bhūmiṁ yaḥ pratigṛh<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+    <l n="a">bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
     <l n="c">Ubhau tau puṇya-karmāṇau</l>
     <l n="d">niya<lb
@@ -194,7 +194,7 @@ n="28" break="no"/>nena</l>
 </lg>
 <lg n="8" met="anuṣṭubh"><!-- best_0064 -->
     <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
-    <l n="b">manda-vuddhis tamo-vṛtaḥ</l>
+    <l n="b">manda-vuddhis tamo-vr̥taḥ</l>
     <l n="c">sa vaddho<lb
 n="29"/>vāruṇaiḥ</l>
     <l n="d">pāśais tiryag-yoniṁ ca gacchati</l>
@@ -205,8 +205,8 @@ n="29"/>vāruṇaiḥ</l>
              <pb n="3r" break="no"/>
 <lb
 n="30" break="no"/>ndharāṁ</l>
-    <l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l>
-    <l n="d">pacyate pitṛbhiḥ saha</l><!-- 
+    <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+    <l n="d">pacyate pitr̥bhiḥ saha</l><!-- 
     amwb : Sircar 132 change in d inversion verb and complement
     -->
 </lg>
@@ -221,7 +221,7 @@ n="31" break="no"/>hmā somo hutāśanaḥ</l>
 </lg>
 <lg n="11" met="śālinī"><!-- best_0117 -->
     <l n="a">s<choice><sic>e</sic><corr>ā</corr></choice>mānyo<lb
-n="32"/>'yaṁ dharmma-setur nṛpāṇāṁ</l>
+n="32"/>'yaṁ dharmma-setur nr̥pāṇāṁ</l>
     <l n="b">kāl<choice><sic>a</sic><corr>e</corr></choice> kāle pālanīyo bhavadbhiḥ</l>
     <l n="c">sarvvān etān bhāvino bhūpatī<lb
 n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
@@ -233,17 +233,17 @@ n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
     <l n="a">Iti kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
     <l n="b">śriyam a<lb
 n="34" break="no"/>nucintya manuṣya-jīvitañ ca</l>
-    <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hṛtañ ca budhvā</l>
+    <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hr̥tañ ca budhvā</l>
     <l n="d">na hi pu<lb
 n="35" break="no"/>ruṣaiḥ para-kīrttayo vilopyāḥ</l><!-- 
 amwb : Sircar 71
 -->
 </lg>
     <p><date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
-n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijayarājye samvatsare tṛtīye <rs type="month" key="sravana">śrā<lb
+n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" ref="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijayarājye samvatsare tr̥tīye <rs type="month" key="sravana">śrā<lb
 n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" subtype="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb
 n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <rs type="masc"><persName type="human">vallaghoṣa</persName></rs><lb
-n="39" break="no"/>-sutena</rs> <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kṛtaṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc" role="engraver"><rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena</rs><supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
+n="39" break="no"/>-sutena</rs> <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kr̥taṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc" role="engraver"><rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena</rs><supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
 </p> 
              </div>
          </div>
@@ -276,13 +276,13 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
                        <note>I introduce this correction in order to respect the metric rules. See the reading of the verse 64 suggested by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</note>
                    </app>
                    <app loc="39">
-                       <lem>U<supplied reason="omitted">t</supplied>kṛtaṁ</lem>
-                       <note>It seems that the verb <foreign>utkṛ</foreign> is used instead of the verb <foreign>utkṝ</foreign> but with the same meaning. So I suggest understanding the usual <foreign>utkīrṇa</foreign>.</note>
+                       <lem>U<supplied reason="omitted">t</supplied>kr̥taṁ</lem>
+                       <note>It seems that the verb <foreign>utkr̥</foreign> is used instead of the verb <foreign>utkṝ</foreign> but with the same meaning. So I suggest understanding the usual <foreign>utkīrṇa</foreign>.</note>
                    </app>
                </listApp>
          </div>
          <div type="translation" resp="part:amwb">
- 	<p n="1-8">Hail ! From his glorious and victorious camp situated at Suvarṇapura, the divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Mahābhavagupta, lord of Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, the forehead ornament of the Soma dynasty <supplied reason="explanation">or lunar race</supplied>, the great lord <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, a devout worshipper of Maheśvara, having meditated upon the feet of the lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, worshipped the Brāhmaṇas in the village Vakratentalī situated in the part of Lupattarā and informed the householders dwelling there <supplied reason="subaudible">and</supplied> seated in due time upon this division beginning with the <foreign>samāhartṛ</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhātṛ</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the informer <supplied reason="explanation"><foreign>Vetrikapiśuna</foreign></supplied> , the inmates of the royal harem, the favorites of the king  <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied> and others belonging to valorous soldiers as follows: 
+ 	<p n="1-8">Hail ! From his glorious and victorious camp situated at Suvarṇapura, the divine king, the prosperous <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Mahābhavagupta, lord of Trikaliṅga <supplied reason="explanation"><foreign>tr̥kaliṅgādhipati</foreign></supplied>, the forehead ornament of the Soma dynasty <supplied reason="explanation">or lunar race</supplied>, the great lord <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, a devout worshipper of Maheśvara, having meditated upon the feet of the lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, worshipped the Brāhmaṇas in the village Vakratentalī situated in the part of Lupattarā and informed the householders dwelling there <supplied reason="subaudible">and</supplied> seated in due time upon this division beginning with the <foreign>samāhartr̥</foreign> <supplied reason="explanation">tax collector</supplied>, the <foreign>saṁnidhātr̥</foreign> <supplied reason="explanation">the receiver of stolen goods</supplied>, the <foreign>dāṇḍapāśika</foreign> <supplied reason="explanation">the policemen</supplied>, the informer <supplied reason="explanation"><foreign>Vetrikapiśuna</foreign></supplied> , the inmates of the royal harem, the favorites of the king  <supplied reason="explanation"><foreign>rājavallabha</foreign></supplied> and others belonging to valorous soldiers as follows: 
 </p>
              <p n="8-11">Be it known by you that this village by us has been given <supplied reason="explanation"><foreign>pratipādita</foreign>, line 16</supplied> with its treasures <supplied reason="explanation"><foreign>nidhi</foreign></supplied> and its deposits <supplied reason="explanation"><foreign>upanidhi</foreign></supplied>, without any restrictions, with its pits and barren lands, with mango and <foreign>madhuka</foreign> trees, with all the supplementary receipts, preserved from the entrance of soldiers <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied>, with its four boundary-marks, </p>
              <p n="11-16">to the Jātarūpa the learned son <supplied reason="explanation"><foreign>bhaṭṭaputra</foreign></supplied>, offspring of the Lord Vaccha, a learned son <supplied reason="explanation"><foreign>bhaṭṭaputra-śrīvaccha</foreign></supplied>, belonging to the Kauṇḍinya gotra, the best <supplied reason="explanation"><foreign>pravara</foreign></supplied> among  the descendants of Mitravaruṇa and Vasiṣṭha sages, issued from the Chandogya school, residing in Meraṇḍā after having immigrating from Vallikandra situated in Rāḍhā, after pouring water, in order to increase the merit and the fame of our two parents as well as our own ones, <supplied reason="subaudible">as permanent endowment</supplied> to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>, after having edicted this by a copperplate at the occasion of the  sun’s equinoctial passage <supplied reason="explanation"><foreign>viṣuvatī-saṁkrantī</foreign></supplied>.
@@ -295,7 +295,7 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
              </note>
              </p>
              <p n="2" rend="stanza" corresp="#Sircar1965_st0085">
-                 Have no doubt about the fruit of what is given by another, o sons of Pṛthu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
+                 Have no doubt about the fruit of what is given by another, o sons of Pr̥thu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
                     This verse corresponds to the verse numbered 85 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
@@ -355,7 +355,7 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
              <p n="39">Benediction and good fortune!</p>
                  
              <div type="translation" xml:lang="fra" resp="part:amwb">
-                 <p n="1-8">Hommage ! Depuis son victorieux champ de bataille de Suvarṇapura, le divin roi, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Mahābhavagupta, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tṛkaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, son éminence <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, fervent dévot de Maheśvara, méditant au pied de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes du village nommé Vakratentalī situé dans la circonscription de Lupattarā, il instruisit les propriétaires résidant en ces lieux et installés en temps voulu dans cette circonscription en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartṛ</foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtṛ</foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans informateurs <supplied reason="explanation"><foreign>vetrika"</foreign></supplied>, les membres du harem royal, les proches du roi ainsi que les autres personnes appartenant à la classe des valeureux soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> de la sorte:
+                 <p n="1-8">Hommage ! Depuis son victorieux champ de bataille de Suvarṇapura, le divin roi, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Mahābhavagupta, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tr̥ kaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, son éminence <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, fervent dévot de Maheśvara, méditant au pied de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes du village nommé Vakratentalī situé dans la circonscription de Lupattarā, il instruisit les propriétaires résidant en ces lieux et installés en temps voulu dans cette circonscription en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartr̥ </foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtr̥ </foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans informateurs <supplied reason="explanation"><foreign>vetrika"</foreign></supplied>, les membres du harem royal, les proches du roi ainsi que les autres personnes appartenant à la classe des valeureux soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> de la sorte:
 </p>
                  <p n="8-16">Que cela soit porté à votre connaissance: ce village, avec et ses dépôts et ses trésors, sans aucune restriction, avec ses vallées et ses terres stériles, avec ses manguiers et ses arbres Mandhuka, avec ses prélèvements supplémentaires, avec l’interdiction d’intrusion militaire,  avec ses quatre bornes de délimitation, je le donne à Jātarūpa, fils lettré <supplied reason="explanation"><foreign>bhaṭṭaputra</foreign></supplied>, rejeton de l’honorable Vaccha, fils lettré <supplied reason="explanation"><foreign>bhaṭṭaputra-śrīvaccha</foreign></supplied>, appartenant au <foreign>gotra</foreign> Kauṇḍinya, le meilleur parmi les descendants des sages Mitravaruṇa et Vasiṣṭha, issu de l’école Chandogya, résidant à Meraṇḍā situé à Rāḍhā et émigré originaire de Vallikandra, et ce, en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, afin d’accroître le mérite et la gloire de mes deux parents, ainsi que les miens, après avoir versé de l’eau et après l’avoir décrété grâce à une plaque de cuivre produite à l’occasion du soleil à l’équinoxe <supplied reason="explanation"><foreign>viṣuvatī-saṁkrantī</foreign></supplied>.</p>
                  <p n="16-18">Après avoir considéré ceci, grâce à notre acquisition, les récoltes, les dus, les impôts, l’or etc… resteront appropriés facilement et les futurs rois devront protéger ce don fait par nous par considération du Dharma et par respect pour nous, et ce, comme s'il s'agissait de leur propre donation .    
@@ -367,7 +367,7 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
              </note>
              </p>
              <p n="2" rend="stanza">
-                 N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pṛthu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
+                 N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pr̥thu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
                     Ce vers correspond au vers 85 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
