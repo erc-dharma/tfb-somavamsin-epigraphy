@@ -110,7 +110,7 @@
 n="1r"/>
 <pb 
 
-n="1v"/><lg n="1" met="vasantatilakā">
+n="1v"/><ab><g type="spiralL"/></ab><lg n="1" met="vasantatilakā">
    <l n="a"><lb 
 n="1"/>Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado 'gniśikhā-piśaṅgī</l> 
    <l n="b">lālāṭa-cakṣuṣi gale viṣabhañjanābham<g type="danda">.</g></l> 
@@ -123,13 +123,13 @@ n="2" break="no"/>ti triguṇasya tasya</l>
 n="3" break="no"/>r atīva-sphurad</l> 
                   <l n="b">bhābhiḥ kāñcana-kumbhakair atiśaya-proddīpita<supplied reason="omitted">ḥ</supplied> vyomani<g type="danda">.</g></l> 
                   <l n="c">lokair utkaṭa-vismaya-vyati<lb 
-n="4" break="no"/>kar<choice><sic>aḥ</sic><corr>aiḥ</corr></choice> sphārībhaval-locanaiḥ</l> 
-                  <l n="d">sthāna-rathānagati-krameṇa katham apy ālakṣyate <unclear>'haḥ</unclear> patiḥ<g type="ddanda">.</g></l>
+n="4" break="no"/>kara-sphārībhaval-locanaiḥ</l> 
+                  <l n="d">sthāna-sthāna-gati-krameṇa katham apy ālakṣyate 'ha<supplied reason="omitted">r</supplied>-patiḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="3" met="vasantatilakā">
                   <l n="a">prāsāda-mauliṣu<lb 
-n="5"/>karāvja-paramparābhir</l> 
-                  <l n="b">ākr̥ṣyamāṇa-parilamvi-nabhaḥ pracāram<g type="danda">.</g></l> 
+n="5"/>karā<choice><orig>v</orig><reg>b</reg></choice>ja-paramparābhir</l> 
+                  <l n="b">ākr̥ṣyamāṇa-parilam<choice><orig>v</orig><reg>b</reg></choice>i-nabhaḥ pracāra<choice><sic>ḥ</sic><corr>M</corr></choice><g type="danda">.</g></l> 
                   <l n="c">yasmin niśāsu niśita-dyuti-ca<lb 
 n="6" break="no"/>ndra-vimvam</l> 
                   <l n="d">āyojyate makura-kr̥tya-vidhau vadhūbhiḥ<g type="ddanda">.</g></l>
@@ -139,23 +139,23 @@ n="6" break="no"/>ndra-vimvam</l>
 n="7" break="no"/>n asaṁkhyān api</l> 
                   <l n="b">pratyeti sudr̥śī jano na tu rājobhāraiḥ samutsarpibhiḥ<g type="danda">.</g></l> 
                   <l n="c">Anyad yasya ja<lb 
-n="8" break="no"/>lāśayeṣu yugapad dantāvalānāṅgaṇair</l> 
-                 <l n="d"> anyonya-pratipanna-ḍiṇḍima-ravair a<choice><sic>ma</sic><corr>mbhaḥ</corr></choice> samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></l>
+n="8" break="no"/>lāśa<space type="binding-hole"/>yeṣu yugapad dantāvalānāṅgaṇair</l> 
+                 <l n="d">anyonya-pratipanna-ḍiṇḍima-ravair ambhaḥ<!-- HERE --> samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></l>
                </lg>
             <lg n="5" met="śārdūlavikrīḍita">
                <l n="a"><lb 
-n="9" break="no"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
+n="9" break="no"/><space type="binding-hole"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
                <l n="b">yat saudhasya mr̥gīdr̥śo<lb 
-n="10"/><unclear>mr̥ga</unclear>dr̥śām yad varttinīnānnavaḥ<g type="danda">.</g></l> 
+n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnānnavaḥ<g type="danda">.</g></l> 
                <l n="c">ya<choice><sic>d</sic><corr>s</corr></choice>yā<supplied reason="omitted">ḥ</supplied> toraṇa-citra-karma-kanaka-graiveyakādi-sphu<lb 
 n="11" break="no"/>ṭam</l> 
-               <l n="d">vīthībhūtam athedam apyanumuhuḥ krīḍeti sampaddyate<g type="ddanda">.</g></l>
+               <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampaddyate<g type="ddanda">.</g></l>
             </lg> 
             <p>tasmāt śrī-yayāti-nagarāt<supplied reason="omitted">.</supplied></p>
              <lg n="6" met="śikhariṇī">
                 <l n="a"><lb 
 n="12"/>pinākī lokebhyaḥ kṣiti-parisare dharma-vigatim</l> 
-                <l n="b">viditv evāhūya svayam anayad ādeśa-padavīM<g type="danda">.</g></l>
+                <l n="b">viditvaivāhūya svayam anayad ādeśa-padavīM<g type="danda">.</g></l>
                 <l n="c"><lb 
 n="13"/>vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice> khacaram acirād eva bhavatā</l> 
                 <l n="d">dharitrī gantavyā śama<choice><sic>yetam</sic><corr>yitum</corr></choice> adharmo 'rjitam iti<g type="ddanda">.</g></l>
@@ -170,7 +170,7 @@ n="14" break="no"/>triyakule bhūtvā</l>
               <lg n="8" met="mātrā">
                  <l n="ab">tasya<lb 
 n="15"/>tanayeṣu madhye mahānubhāvo maheśvare bhaktaḥ<g type="danda">.</g></l> 
-                 <l n="cd">bhagavantam amvikāpatim avatār<choice><sic>e</sic><corr>i</corr></choice><supplied reason="omitted">ṇam</supplied> pūrvajo da<lb 
+                 <l n="cd">bhagavantam am<choice><orig>v</orig><reg>b</reg></choice>ikāpatim avatāre pūrvajo da<lb 
 n="16" break="no"/>dhau<g type="ddanda">.</g></l>
               </lg> 
                <lg n="9" met="mātrā">
@@ -404,10 +404,6 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="1"><!-- update the value of @loc.-->
-                     <lem>Indu<supplied reason="omitted">ḥ</supplied></lem>
-                     <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> indicates in his edition that the inscription begins with a symbol, but I am unable to confirm this from the photos available in his appendix. </note>
-                  </app>
                   <app loc="1">
                      <lem source="bib:Shastri1995_02">'gniśikhā-piśaṅgī</lem>
                      <rdg source="bib:Behera1988_01">'gniśikṣā-piśaṅgī</rdg>
@@ -421,7 +417,7 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                      <note><foreign>'stu</foreign> is omitted in <bibl><ptr target="bib:Shastri1995_02"/></bibl>'s edition.</note>
                   </app>
                   <app loc="3">
-                     <lem source="bib:Shastri1995_02">°sphuradbhābhiḥ</lem>
+                     <lem source="bib:Shastri1995_02">°sphuradbhābhiḥ</lem><!-- it is clear from the photo of the plate  -->
                      <rdg source="bib:Behera1988_01">°sphurad ābhaiḥ</rdg>
                   </app>
                   <app loc="3">
@@ -429,16 +425,22 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                      <rdg source="bib:Shastri1995_02">proddīpita</rdg>
                   </app>
                   <app loc="4">
-                     <lem source="bib:Behera1988_01">kar<choice><sic>aḥ</sic><corr>aiḥ</corr></choice> sphā°</lem>
-                     <rdg source="bib:Shastri1995_02">karasphā°</rdg>
+                     <lem source="bib:Shastri1995_02">karasphā°</lem><!-- it is clear from the photo of the plate  -->
+                     <rdg source="bib:Behera1988_01">kar<choice><sic>aḥ</sic><corr>aiḥ</corr></choice> sphā°</rdg>
                   </app>
                   <app loc="4">
-                     <lem source="bib:Shastri1995_02">sthāna-rathāna-gati-</lem><!-- amwb need to check if it matches the metrical rules -->
-                     <rdg source="bib:Behera1988_01">sthāna-sthāna-gati-</rdg>
+                     <lem source="bib:Behera1988_01">sthāna-sthāna-gati-</lem><!-- it is clear from the photo of the plate  -->
+                     <rdg source="bib:Shastri1995_02">sthāna-rathāna-gati-</rdg><!-- amwb need to check if it matches the metrical rules -->           
                   </app>
                   <app loc="4">
-                     <lem source="bib:Shastri1995_02"><unclear>'haḥ</unclear> patiḥ</lem>
+                     <lem>'ha<supplied reason="omitted">r</supplied>-patiḥ</lem>
+                     <rdg source="bib:Shastri1995_02"><unclear>'haḥ</unclear> patiḥ</rdg>
                      <rdg source="bib:Behera1988_01">'har patiḥ</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>pracāra<choice><sic>ḥ</sic><corr>M</corr></choice></lem>
+                     <rdg source="bib:Behera1988_01">pracāram</rdg>
+                     <rdg source="bib:Shastri1995_02">pracāraṁ</rdg>
                   </app>
                   <app loc="6">
                      <lem source="bib:Shastri1995_02">makura°</lem>
@@ -449,7 +451,8 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                      <rdg source="bib:Behera1988_01">°valaṅ gaṇair</rdg>
                   </app>
                   <app loc="8">
-                     <lem source="bib:Shastri1995_02">°vair a<choice><sic>ma</sic><corr>mbhaḥ</corr></choice></lem>
+                     <lem>ambhaḥ</lem>
+                     <rdg source="bib:Shastri1995_02">°vair a<choice><sic>ma</sic><corr>mbhaḥ</corr></choice></rdg>
                      <rdg source="bib:Behera1988_01">°vair a<supplied reason="omitted">ṁ</supplied>bhaḥ</rdg>
                   </app>
                   <app loc="8">
@@ -471,13 +474,18 @@ n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></rdg>
                      <rdg source="bib:Behera1988_01">vīdhībhūtam</rdg>
                   </app>
                   <app loc="12">
-                     <lem source="bib:Behera1988_01">viditv evāhūya</lem>
-                     <rdg source="bib:Shastri1995_02">viditvaivāhūya</rdg>
+                     <lem source="bib:Shastri1995_02">viditvaivāhūya</lem>
+                     <rdg source="bib:Behera1988_01">viditv evāhūya</rdg>
                   </app>
                   <app loc="13">
                      <lem source="bib:Behera1988_01">vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice></lem>
                      <rdg source="bib:Shastri1995_02">vikavasva<choice><sic>nnī</sic><corr>ntaṁ</corr></choice></rdg>
                   </app>
+                 <app loc="15">
+                    <lem>avatāre</lem>
+                    <rdg source="bib:Behera1988_01 bib:Shastri1995_02">avatār<choice><sic>e</sic><corr>i</corr></choice><supplied reason="omitted">ṇam</supplied></rdg>
+                    <note>For the meaning of the root √dhā with a locative case, see <bibl><ptr target="bib:MonierWilliams1872_01"/><citedRange unit="page">452</citedRange></bibl>. </note>
+                 </app>
                   <app loc="16">
                      <lem source="bib:Behera1988_01">°dhau</lem>
                      <rdg source="bib:Shastri1995_02">°dhyau</rdg>
@@ -693,7 +701,7 @@ n="35" break="no"/>rūva-</rdg>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. </p>
+           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
         	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">I</citedRange><citedRange unit="page">325-331</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
