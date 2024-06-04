@@ -205,7 +205,7 @@ n="42" break="no"/>m idam alīlikhaditi<g type="ddanda">.</g> vijñān<choice><s
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/1j92gg94x">here</ref>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">Supplement</citedRange><citedRange unit="entry">IV</citedRange><citedRange unit="page">358-365</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
