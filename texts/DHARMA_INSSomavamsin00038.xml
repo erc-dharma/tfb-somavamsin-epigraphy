@@ -111,26 +111,26 @@ n="1v"/>
 <lb 
 n="1"/><ab><g type="spiralL"/></ab><!-- Need to check the symbol on the plate -->
        <lg n="1" met="śārdūlavikrīḍita">
-              <l n="a">jyotsnā-śāli-samr̥ddhi-bhūḥ kumudinī-kāsaika<!-- hāsaika soma31+15 -->-sampādanā</l>
+              <l n="a">jyotsnā-śāli-samr̥ddhi-bhūḥ kumudinī-<choice><sic>k</sic><corr>h</corr></choice>āsaika<!-- hāsaika soma31+15 -->-sampādanā</l>
               <l n="b">-dhūrtto dhūrjja<lb 
-n="2" break="no"/>t<choice><sic>ī</sic><corr>i</corr></choice>-mauli-saudha-vasatiḥ pīyūṣa-dhār<choice><sic>o</sic><corr>ā</corr></choice>-gr̥h<supplied reason="omitted">aṁ</supplied></l> 
-              <l n="c">tārāntaḥ-pura-nāyako rati-pa<lb 
+n="2" break="no"/><choice><sic>t</sic><corr>ṭ</corr></choice><choice><sic>ī</sic><corr>i</corr></choice>-mauli-saudha-vasatiḥ pīyūṣa-dhār<choice><sic>o</sic><corr>ā</corr></choice>-gr̥h<supplied reason="omitted">aṁ</supplied></l> 
+              <l n="c">tārāntaḥpura-nāyako rati-pa<lb 
 n="3" break="no"/><supplied reason="omitted">teḥ</supplied> śa<supplied reason="omitted">s</supplied>tr<choice><sic>e</sic><corr>ai</corr></choice>ka-śā<choice><sic>n</sic><corr>ṇ</corr></choice>opalaḥ</l> 
               <l n="d">kṣīrodā<supplied reason="omitted">r</supplied>ṇṇava-nandano vijayate devaḥ suddhādīdhitiḥ</l>
 </lg>      
             <lg n="2" met="vasantatilakā">
-             <l n="a"><lb 
+             <l n="a" enjamb="yes"><lb 
 n="4"/>Asyānvaye mahati sāndra-tamaḥ-kalaṅka</l>
-             <l n="b">-vicchāya-dig-<unclear>va</unclear>laya-mārjjana-<choice><sic>kr̥ca</sic><corr>kūrccha</corr></choice>kasya</l><!-- kūrcchakasya in Soma31+15 -->
+             <l n="b">-vicchāya-dig-<unclear>va</unclear>laya-mārjjana-<choice><sic>kr̥ca</sic><corr>kr̥cchra</corr></choice>kasya</l><!-- kūrcchakasya in Soma31+15 -->
              <l n="c"><lb 
 n="5"/>Utpedire sakala-sad-guṇa-jjanma-kandāḥ</l> 
-             <l n="d">kundāvadāta-yaśaso jagat<choice><sic>i</sic><corr>ī</corr></choice>bhujas te</l>
+             <l n="d">kundāvadāta-yaśaso jagat<choice><sic>i</sic><corr>ī</corr></choice>-bhujas te</l>
 </lg> 
             <lg n="3" met="śārdūlavikrīḍita">
              <l n="a"><lb 
 n="6"/>rājābhūj <persName type="king" key="PSN01001">janamejayo</persName> 'tha nr̥patir jjāto <persName type="king" key="PSN01005">yayātiḥ</persName> tataḥ</l> 
              <l n="b"><roleName>śrīmān</roleName> <persName type="king" key="PSN01006">bhīmara<lb 
-n="7" break="no"/>tho</persName> 'bhavat tad-anu ca kṣmā-cakra-rakṣā-maniḥ</l> 
+n="7" break="no"/>tho</persName> 'bhavat tad-anu ca kṣmā-cakra-rakṣā-maṇiḥ</l> 
              <l n="c">Aṣṭā<choice><sic>ṣ</sic><corr>s</corr></choice>v eva dig-antareṣu vijaya<lb 
 n="8" break="no"/>-stambhāvali-cchadmanā</l> 
              <l n="d">hr̥cchalyāni diś<sic>ā</sic><!-- diśa short a in Soma31+15 -->-bhujām api samāropyanta yair vvi<lb 
@@ -146,10 +146,10 @@ n="11" break="no"/>smin dig-viyajāvatāriṇi purā vidveṣi-bhūmībhuj<choic
 n="12" break="no"/>nu ca sphītāś camū-reṇavaḥ</l>
 </lg> 
              <lg n="5" met="śārdūlavikrīḍita"> 
-            <l n="a">s<surplus>v</surplus>etūpānta-vanāntare himavataḥ paryanta-bhūsīmani</l> 
+            <l n="a">s<surplus>v</surplus>etūpānta-vanāntare himavataḥ paryanta-bhū-sīmani</l> 
             <l n="b"><lb 
-n="13"/>prāgambhodhi-taṭī-vaneṣu kaṭake pūrvvetarakṣṃābhr̥taḥ</l> 
-           <l n="c">yasyottāmyad-arāti-rā<lb 
+n="13"/>prāg-ambhodhi-taṭī-vaneṣu kaṭake pūrvvetara-kṣṃā-bhr̥taḥ</l> 
+           <l n="c">yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti-rā<lb 
 n="14" break="no"/>ja-yuvatī-ni<supplied reason="omitted">ḥ</supplied>śvāsa-bhuñjh<choice><sic>a</sic><corr>ā</corr></choice>nila</l><!--  bhuñjhanilā  is replaced by jhañjhānilā in soma31+15-->
            <l n="d">-vyāsaṅga-svanad-antarāla-mukharair ggītaṁ <supplied reason="omitted">yaśaḥ</supplied><lb 
 n="15"/> kīcakaiḥ</l>
@@ -170,8 +170,8 @@ n="18" break="no"/>-kaṇṭhāntare mārutāḥ</l>
            <l n="b"><lb 
 n="19"/>sant<supplied reason="omitted">y</supplied> etāsu<surplus><g type="danda">.</g></surplus> jagad-druho giri-darī-kumbhīṣu kumbhīna<choice><sic>śā</sic><corr>sā</corr></choice>ḥ</l> 
            <l n="c">snehād ity abhidhā<unclear>ya</unclear><lb 
-n="20"/>vr̥ddha-śavarī-varggeṇa vaddh<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>śr̥</sic><corr>śru</corr></choice>ṇā</l> 
-           <l n="d">yadairi<!-- yad-vairi in soma31+15 -->-pramadā-jano vanabhuvaḥ sañcāram a<lb 
+n="20"/>vr̥ddha-śavarī-varggeṇa <choice><orig>v</orig><reg>b</reg></choice>addh<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>śr̥</sic><corr>śru</corr></choice>ṇā</l> 
+           <l n="d">yad-<supplied reason="omitted">v</supplied>airi<!-- yad-vairi in soma31+15 -->-pramadā-jano vanabhuvaḥ sañcāram a<lb 
 n="21" break="no"/>dhyāpitaḥ<g type="ddanda">.</g></l>
 </lg> 
              <lg n="8" met="vasantatilakā">
@@ -183,7 +183,7 @@ n="22"/>ja-rociḥ<g type="danda">.</g></l><!-- Caution here the pāda is unmetr
 n="23" break="no"/>pati<supplied reason="omitted">r</supplied> <persName type="king" key="PSN01003">yayātiḥ</persName><g type="danda">.</g></l>
 </lg>
              <lg n="9" met="upajāti">
-          <l n="a">bhaṭair avaṣṭavdham idaṁ narendraiḥ</l>
+          <l n="a">bhaṭair avaṣṭa<choice><orig>v</orig><reg>b</reg></choice>dham idaṁ narendraiḥ</l>
           <l n="b">rāṣṭradva<unclear>yaṁ</unclear> ko<choice><sic>ṣ</sic><corr>s</corr></choice>alam utkalañ ca<g type="danda">.</g></l> 
           <l n="c">A<lb 
 n="24" break="no"/>kaṇṭaka<supplied reason="omitted">ṁ</supplied> sādhayataḥ samantād</l> 
@@ -207,7 +207,7 @@ n="28" break="no"/><surplus>rbhi</surplus>r abhito mahī-bhujaḥ</l>
                svasti śrī-yayātinagarāt parama-māheśvara<lb 
 n="29" break="no"/>-<choice><sic>ṣ</sic><corr>p</corr></choice>arama-bhaṭṭāraka-mahārājādhiraja<choice><sic>ṣ</sic><corr>p</corr></choice>arameśvara-soma-kula-tilaka-<roleName>trika<lb 
 n="30" break="no"/>liṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" key="PSN01011">mahāśi<supplied reason="omitted">vagu</supplied>pta</persName>-<roleName>rāja-deva</roleName>-<choice><sic>ṣ</sic><corr>p</corr></choice>ādānudhyāta-<rs type="masc" subtype="ruler" role="donor"><roleName><choice><sic>ṣ</sic><corr>p</corr></choice>arama-māheśvara</roleName>-<roleName>pa<lb 
-n="31" break="no"/>rama-bhaṭṭāraka</roleName><surplus><g type="ddanda">.</g></surplus> <roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipa<lb 
+n="31" break="no"/>rama-bhaṭṭāraka</roleName> <surplus><g type="ddanda">.</g></surplus> <roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipa<lb 
 n="32" break="no"/>ti</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01002">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<surplus><g type="danda">.</g></surplus> saṅgāṇamaṇḍalīyakontaḍḍākhaṇḍī<lb 
 n="33" break="no"/>ya Āgaravāḍamulāgrāmaḥ Atastadiṣa<supplied reason="omitted">yī</supplied>yav<supplied reason="omitted">r</supplied>āhmaṇān āpūjya samāhartr̥-sannidhātr̥<lb 
 n="34" break="no"/>niyuktādhikārika-dāṇḍapāśika-piśuna-v<choice><sic>e</sic><corr>ai</corr></choice>trikāvarodha-jana-rājñī-rāṇa
@@ -359,7 +359,27 @@ n="75" break="no"/><supplied reason="omitted">rṇṇa</supplied>m idaṁ
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="59"><!-- update the value of @loc.-->
+                  <app loc="1">
+                     <lem><choice><sic>k</sic><corr>h</corr></choice>āsaika°</lem>
+                     <rdg source="bib:Shastri1995_02">kāsaika°</rdg>
+                  </app>
+                  <app loc="4">
+                     <lem>°<choice><sic>kr̥ca</sic><corr>kr̥cchra</corr></choice>kasya</lem>
+                     <rdg source="bib:Shastri1995_02">°kr̥cakasya</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem>dhūrjja<choice><sic>t</sic><corr>ṭ</corr></choice>i°</lem>
+                     <rdg source="bib:Shastri1995_02">dhūrjjati°</rdg>                  
+                  </app>
+                  <app loc="13">
+                     <lem>yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti°</lem>
+                     <rdg source="bib:Shastri1995_02">yasyottāmyadarāti°</rdg>
+                  </app>
+                  <app loc="20">
+                     <lem>yad-<supplied reason="omitted">v</supplied>airi°</lem>
+                     <rdg source="bib:Shastri1995_02">yadai°</rdg>
+                  </app>
+                  <app loc="59">
                      <lem>hāra<choice><sic>yate</sic><corr>yed</corr></choice></lem>
                      <rdg source="bib:Shastri1995_02">hārayate</rdg>
                   </app>
@@ -377,9 +397,9 @@ n="75" break="no"/><supplied reason="omitted">rṇṇa</supplied>m idaṁ
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>https://didomena.ehess.fr/concern/data_sets/fx719v96q<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="entry">Supplement III</citedRange><citedRange unit="page">354-357</citedRange></bibl>
+	<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="entry">Supplement III</citedRange><citedRange unit="page">354-357</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">146-147</citedRange></bibl>

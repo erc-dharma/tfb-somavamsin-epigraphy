@@ -114,24 +114,24 @@ n="1v"/>
 n="1"/><ab><g type="spiralL"/></ab>
         <lg n="1" met="śārdūlavikrīḍita">
               <l n="a">jyotsnā-śāli-samr̥ddhi-bhūḥ kumudinī-hāsaika<!-- kāsaika soma38 -->-sampādanā</l>
-              <l n="b">-dhūrtto dhūrjjati-mauli-sau<lb 
+              <l n="b">-dhūrtto dhūrjja<choice><sic>t</sic><corr>ṭ</corr></choice>i-mauli-sau<lb 
 n="2" break="no"/>dha-vasatiḥ pīyūṣa-dhārā-gr̥haṁ<g type="danda">.</g></l> 
-              <l n="c">tārāntaḥ-pura-nāyako rati-pateḥ śastraika-<choice><sic>s</sic><corr>ś</corr></choice>āṇopalaḥ</l> 
+              <l n="c">tārāntaḥpura-nāyako rati-pateḥ śastraika-<choice><sic>s</sic><corr>ś</corr></choice>āṇopalaḥ</l> 
               <l n="d">kṣī<lb 
 n="3" break="no"/>rodārṇṇava-nandano vi<surplus>r</surplus>jayate devaḥ suddhādīdhitiḥ<g type="ddanda">.</g></l>
 </lg> 
       <lg n="2" met="vasantatilakā">
-             <l n="a">Asyānvaye mahati sāndra-tamaḥ-kalaṅka</l>
+             <l n="a" enjamb="yes">Asyānvaye mahati sāndra-tamaḥ-kalaṅka</l>
              <l n="b">-vi<lb 
-n="4" break="no"/>cchāya-dig-valaya-mārjjana-kūrcchakasya<g type="danda">.</g></l> 
+n="4" break="no"/>cchāya-dig-valaya-mārjjana-<choice><sic>kūrccha</sic><corr>kr̥cchra</corr></choice>kasya<g type="danda">.</g></l> 
              <l n="c">Utpedire sakala-sad-guṇa-janma-kandāḥ</l> 
              <l n="d">kundāvadāta-ya<lb 
-n="5" break="no"/>śaso ja<surplus>r</surplus>gatībhujas te<g type="ddanda">.</g></l>
+n="5" break="no"/>śaso ja<surplus>r</surplus>gatī-bhujas te<g type="ddanda">.</g></l>
 </lg> 
       <lg n="3" met="śārdūlavikrīḍita">
              <l n="a">rājābhūj <persName type="king" key="PSN01001">janamejayo</persName> 'tha nr̥patir jjāto <persName type="king" key="PSN01005">yayātis</persName> tataḥ</l> 
              <l n="b"><roleName>śrīmā<lb 
-n="6" break="no"/>n</roleName> <persName type="king" key="PSN01006">bhīmaratho</persName> 'bhavat tad-anu ca kṣmā-cakra-rakṣā-maniḥ<g type="danda">.</g></l> 
+n="6" break="no"/>n</roleName> <persName type="king" key="PSN01006">bhīmaratho</persName> 'bhavat tad-anu ca kṣmā-cakra-rakṣā-maṇiḥ<g type="danda">.</g></l> 
              <l n="c">Aṣṭāsv eva dig-antareṣu vijaya-stambhāva<lb 
 n="7" break="no"/>li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</l> 
              <l n="d">hr̥cchalyāni diśa-bhujām api samāropyanta yaiḥ visphuṭaṁ<g type="ddanda">.</g></l>
@@ -146,10 +146,10 @@ n="9" break="no"/>smin dig-viyajāvatār<choice><sic>a</sic><corr>i</corr></choi
 n="10"/>sphītāś cam<choice><sic>u</sic><corr>ū</corr></choice>-reṇavaḥ<g type="ddanda">.</g></l>
 </lg> 
      <lg n="5" met="śārdūlavikrīḍita"> 
-            <l n="a">setūpānta-vanāntare himavataḥ paryyanta-bhū<choice><sic>ś</sic><corr>s</corr></choice>īmani</l> 
-            <l n="b">prāgambhodhi-ta<lb 
-n="11" break="no"/>ṭī-vaneṣ<choice><sic>a</sic><corr>u</corr></choice> kaṭake pūrvvetarakṣṃābhr̥taḥ<g type="danda">.</g></l> 
-           <l n="c">yasyottāmyad-arāti-rāja-yuvatī-niśvāsa-jhañjhā<lb 
+            <l n="a">setūpānta-vanāntare himavataḥ paryyanta-bhū-<choice><sic>ś</sic><corr>s</corr></choice>īmani</l> 
+            <l n="b">prāg-ambhodhi-ta<lb 
+n="11" break="no"/>ṭī-vaneṣ<choice><sic>a</sic><corr>u</corr></choice> kaṭake pūrvvetara-kṣṃā-bhr̥taḥ<g type="danda">.</g></l> 
+           <l n="c">yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti-rāja-yuvatī-niśvāsa-jhañjhā<lb 
 n="12" break="no"/>nilā</l><!-- soma38 Shastri suggests ni<supplied reason="omitted">ḥ</supplied>śvāsa + bhuñjhanila in soma38 + jhañjhānila short a in Soma15 -->
            <l n="d">-vyāsaṅga-svanad-antarāla-mukharair ggītaṁ yaśaḥ kīcakaiḥ<g type="ddanda">.</g></l>
 </lg> 
@@ -166,7 +166,7 @@ n="15" break="no"/>ḥ<g type="ddanda">.</g></l>
            <l n="a">Atrāste kari-v<choice><sic>a</sic><corr>r̥</corr></choice>ndam unmadam iha prauḍho 'sti pañcānanaḥ</l> 
            <l n="b">santy etāsu<surplus><g type="danda">.</g></surplus> jagad-druho giri-darī-ku<lb 
 n="16" break="no"/>mbhīṣu kumbhīna<choice><sic>ś</sic><corr>s</corr></choice>āḥ<g type="danda">.</g></l> 
-           <l n="c">snehād ity abhidhāya vr̥ddha-śavarī-varggeṇa vaddhāśruṇā</l> 
+           <l n="c">snehād ity abhidhāya vr̥ddha-śavarī-varggeṇa <choice><orig>v</orig><reg>b</reg></choice>addhāśruṇā</l> 
            <l n="d">yad-vairi-pramadā-jano vana<lb 
 n="17" break="no"/>bhuvaḥ sañcāram adhyāpitaḥ<g type="ddanda">.</g></l>
 </lg> 
@@ -181,7 +181,7 @@ n="18"/><supplied reason="subaudible">ja-ro</supplied>ciḥ<g type="danda">.</g>
 <lb 
 n="19"/>
       <lg n="9" met="upajāti">
-          <l n="a">bhaṭair avaṣṭavdham idaṁ narendrai<supplied reason="omitted">ḥ</supplied></l>
+          <l n="a">bhaṭair avaṣṭa<choice><orig>v</orig><reg>b</reg></choice>dham idaṁ narendrai<supplied reason="omitted">ḥ</supplied></l>
           <l n="b">rāṣṭradvayaṁ ko<choice><sic>ṣ</sic><corr>s</corr></choice>alam utkalañ ca<g type="danda">.</g></l> 
           <l n="c">A-kaṇṭakaṁ sādhayataḥ samantād</l> 
           <l n="d">bh<choice><sic>ū</sic><corr>u</corr></choice>ja-dva<lb 
@@ -208,8 +208,8 @@ n="23" break="no"/>masyan-narendra-maulīndranīla-maṇi-madhupaiḥ<g type="da
            <l n="a"><lb 
 n="24"/>kr̥pāṇa-dhārā-dhara-dhauta-v<choice><sic>au</sic><corr>ai</corr></choice>ri</l>
            <l n="b">-bhūpāla-kāntā-m<choice><sic>a</sic><corr>r̥</corr></choice>ganābhi-paṅkaḥ<g type="danda">.</g></l> 
-           <l n="c">vasundharā-bhāra-mahā-dhur<choice><sic>i</sic><corr>ī</corr></choice>ṇa</l>
-           <l n="d">doḥ-kāṇḍa<lb 
+           <l n="c" enjamb="yes">vasundharā-bhāra-mahā-dhur<choice><sic>i</sic><corr>ī</corr></choice>ṇa</l>
+           <l n="d">-doḥ-kāṇḍa<lb 
 n="25" break="no"/>-nirbha<supplied reason="omitted">r</supplied>tsita-nāgarājaḥ<g type="ddanda">.</g></l>
 </lg> 
       <lg n="14" met="vaṁśastha">
@@ -228,10 +228,10 @@ n="27" break="no"/>jo bhujanivāritārayaḥ<g type="danda">.</g></l>
 n="28" break="no"/>ḥ<g type="ddanda">.</g></l>
 </lg> 
      <lg n="16" met="vasantatilakā">
-         <l n="a">tasyānujo nija-bhujārjjita-śaurya-sūrya</l>
+         <l n="a" enjamb="yes">tasyānujo nija-bhujārjjita-śaurya-sūrya</l>
          <l n="b">-prauḍha-prabhā-śamita-śatru-yaśaḥ-śaśāṅka<lb 
 n="29" break="no"/>ḥ<g type="danda">.</g></l> 
-         <l n="c"><roleName>śrī</roleName>-<persName type="king" key="PSN01011">karṇṇa</persName>-deva-nr̥patiḥ kṣitipāla-mauli</l>
+         <l n="c" enjamb="yes"><roleName>śrī</roleName>-<persName type="king" key="PSN01011">karṇṇa</persName>-deva-nr̥patiḥ kṣitipāla-mauli</l>
          <l n="d">-saṁlīna-ratna-chaya-cumvita-pāda-pīṭhaḥ<g type="ddanda">.</g></l>
 </lg> 
       <lg n="17" met="āryā"> 
@@ -405,9 +405,17 @@ n="68" break="no"/>śaṅkhukena tāmra-śāsanam idam utkīrṇṇam iti<suppli
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
+                  <app loc="1">
+                     <lem>dhūrjja<choice><sic>t</sic><corr>ṭ</corr></choice>i°</lem>
+                     <rdg source="bib:Sircar1959-1960_12 bib:Shastri1995_02">dhūrjjati°</rdg>                  
+                  </app>
                   <app loc="3">
                      <lem source="bib:Sircar1959-1960_12">nr̥patir jjāto</lem>
                      <rdg source="bib:Shastri1995_02">napatir jj<choice><sic>a</sic><corr>ā</corr></choice>to</rdg>
+                  </app>
+                  <app loc="4">
+                     <lem>°<choice><sic>kūrccha</sic><corr>kr̥cchra</corr></choice>kasya</lem>
+                     <rdg source="bib:Sircar1959-1960_12 bib:Shastri1995_02">kūrcchakasya</rdg>
                   </app>
                   <app loc="7">
                      <lem source="bib:Sircar1959-1960_12">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</lem>
@@ -420,6 +428,10 @@ n="68" break="no"/>śaṅkhukena tāmra-śāsanam idam utkīrṇṇam iti<suppli
                   <app loc="11">
                      <lem source="bib:Debala1959-1960_01">pūrvvetarakṣṃā°</lem>
                      <rdg source="bib:Shastri1995_02">p<choice><sic>u</sic><corr>ū</corr></choice>rvvetarakṣṃā°</rdg>
+                  </app>
+                  <app loc="11">
+                     <lem>yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti°</lem>
+                     <rdg source="bib:Shastri1995_02">yasyottāmyadarāti°</rdg>
                   </app>
                   <app loc="19">
                      <lem>narendrai<supplied reason="omitted">ḥ</supplied></lem>
@@ -509,9 +521,9 @@ n="59"/>ta-</rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation" source="bib:bib:Rajaguru1966_01">
-            <p>As the beginning of the text (from verse 1 to 11) is similar to <ref target="DHARMA_INSSomavamsin00015.xml">Bālijhari (also known as Narasinghpur) Plates of Mahābhavagupta Uddyotakeśarin, Year 4</ref>, I reproduced and adapted to the line numbering the translation of Pandit Binayaka Misra (JBORS, vol. XVII, part.1 (1930-31), pp.1-24) offered in <bibl><ptr target="bib:Rajaguru1966_01"/></bibl>. The whole is followed by Rajaguru's translation of the extended text (see <bibl><ptr target="bib:bib:Rajaguru1966_01"/><citedRange unit="page">260-262</citedRange></bibl>).</p>
-            <p n="1-3" rend="stanza">The joyful luminous and nectar-rayed lord (Moon) -- who is skilful in causing lilies to laugh -- who rests on the mansion of the head of Dhūrjjaṭi -- who is the store of enctar streams -- who is the ord of the stars in the inner appartments -- who serves as point of arrow of the good archer love-god and who is the son of milk-ocean --</p>
+         <div type="translation" source="bib:Rajaguru1966_01">
+            <p>As the beginning of the text (from verse 1 to 11) is similar to <ref target="DHARMA_INSSomavamsin00015.xml">Bālijhari (also known as Narasinghpur) Plates of Mahābhavagupta Uddyotakeśarin, Year 4</ref>, I reproduced and adapted to the line numbering the translation of Pandit Binayaka Misra (JBORS, vol. XVII, part.1 (1930-31), pp.1-24) offered in <bibl><ptr target="bib:Rajaguru1966_01"/></bibl>. The whole is followed by Rajaguru's translation of the extended text (see <bibl><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">260-262</citedRange></bibl>).</p>
+            <p n="1-3" rend="stanza">The joyful luminous and nectar-rayed lord (Moon) -- who is skilful in causing lilies to laugh -- who rests on the mansion of the head of Dhūrjjaṭi -- who is the store of nectar streams -- who is the lord of the stars in the inner appartments -- who serves as point of arrow of the good archer love-god and who is the son of milk-ocean --</p>
            <p n="3-5" rend="stanza">In this illustrious dynasty of the Moon, whose lustre dispels the spot of intense darkness covering the horizon, were born the enjoyers of the earth, who, like bulb sent forth all the good qualities, and whose fame was as white as <foreign>kunda</foreign> flower.</p> 
             <p n="5-7" rend="stanza">Janamejaya became king and then his son king Yayāti was floowed by Bhīmaratha, the ornament and the protectors of the earth. He (Bhīmaratha), through his frontier guards, built the pillars of victory on all sides beyond his kingdom, which served as glittering weapons piercing the heart of the possessors of the regions.</p>
             <p n="7-10" rend="stanza">Dharmaratha, the son of the glory of the Lunar Race, the achiever of the desired object and the only friend of the sword, became the head-jewel of all the kings, when the hostile kings retreated to the extremity of the far-off country, being chased by his soldiers marching on <foreign>digvijaya</foreign>, in the course of which the dusts swelled. 
@@ -520,7 +532,7 @@ n="59"/>ta-</rdg>
              THere was a king, other than mentioned before, at Kaṭaka in the countries, lying on the coast of eastern sea, extending from the Himālayas up to the forest adjoining the Setuvandha. His fame was chanted by the hollow bamboos, standing adjacent to (the palace of hostile kings), when they sounded, being struck with the high wind, exhaled in sigh by the trembling women of the enemies. 
            </p>
             <p n="12-15" rend="stanza">His brother Naghusha, the over lord of the country and the celebrated ornement of the earth, was as mighty as the lord of the animate beings.</p>
-            <p n="15-17" rend="stanza">His (Naghusha's) rod-like hand, being adorned with the tongue of (double edged) sword, resembled the snake when it took the air separated from the throat of enemy's soldiers (wo are slain).</p>
+            <p n="15-17" rend="stanza">His (Naghusha's) rod-like hand, being adorned with the tongue of (double edged) sword, resembled the snake when it took the air separated from the throat of enemy's soldiers (who are slain).</p>
             <p n="17-18" rend="stanza">The old Śavara women, having suppressed the tears in order to teach how to wander in the forest, took pity on the female of his (Naghusha's) enemy and told them that there ar many ruttish elephants and there is also a strong lion having irrestible access all over the world and again there are huge snakes in the holes in the caves of the hills. </p>
             <p n="19-20" rend="stanza">His (Naghusha's) younger brother Yayāti, the conqueror of the world, the representative of Madhusūdana and the ocean of learning, was elected as king of two countries - Kośala and Utkala - by the warrior chiefs. He (Yayāti- effectively repulsed the enemies. His lotus-like feet were radiant with the wreath of the rays of head-jewels of all the prostrate enemies and his hands acccomplished well his purpose on all sides.</p>
             <p n="20-22" rend="stanza">Then, his son king Śrīmān Udyotakeśarī enjoys the rewards of good acts (of his father), brightens the world and possesses immense good qualities. He is never destitute of the leadership and his fame resembles the <foreign>Malli</foreign> flowers dorpped down from the hairs of the kings, who bow down in reverence from a long distance when offering the presents. </p>
@@ -529,7 +541,7 @@ n="59"/>ta-</rdg>
             <p n="25-26" rend="stanza">After him (Janamejaya), his son Purañjaya was born like the mind-born (Madana) who (according to the meaning of his name), conquered the cities of his enemies. The subordinate kings bow down at this feet and (thus) his prowess is as great as that of Indra's (the lord of heavens).</p>
             <p n="26-28" rend="stanza">Not only that he successfully resisted the attacks of his foes (from) Gauḍa, Ḍāhāla, Kaliṅga (and) Vaṅga but also be made their kings tremble out of fearat his own prowess and valour.</p>
             <p n="28-29" rend="stanza">His (Purañjaya's) brother, Karṇṇadeva, who acquired glory as brilliant as the sun, made less luminous the moon-like fame of his foes, while the jewels shining over the crowns of (his) subordinate kings kissed his feet which rested on the royal pedestal;</p>
-            <p n="29-31" rend="stanza">whose glory (also) creeped (high above) bieng supported by his powerful arms, turned to be an object of picture in all the three worlds.</p>
+            <p n="29-31" rend="stanza">whose glory (also) creeped (high above) being supported by his powerful arms, turned to be an object of picture in all the three worlds.</p>
             <p n="31-33">Om ! Hail ! From the city of Yayāyinagara, the illustrious king Mahāsivagupta (alias Karṇṇadeva), who is the lord of tr̥kaliṅga, who is the best (king) of the Soma-kula, who is a <foreign>paramamāheśvara</foreign> (a devoted worshipper of Śiva) and who is a <foreign>paramabhaṭṭāraka</foreign>, <foreign>mahārājādhirāja</foreign> and <foreign>parameśvara</foreign> is well.</p>
             <p n="33-36">In the province of Uttara-Toshalī (there is a village called) Koṇā-grāma (consisting of eighteen parts?) ; having honoured the brāhmaṇas of that <foreign>khaṇḍa</foreign> (district), we declare this charity (order) before the officers (such as) <foreign>samāhatr̥</foreign>, the <foreign>niyukta</foreign>, the <foreign>adhikārika</foreign>, the <foreign>dāṇḍāpāśika</foreign>, the <foreign>piśuna</foreign>, the <foreign>vetrikā</foreign>, the <foreign>avarodhanajana</foreign>, the <foreign>rājñī</foreign>, the <foreign>rāṇaka</foreign>, the <foreign>rājaputra</foreign>, the <foreign>rājavallabha</foreign>, the <foreign>Bhogijana</foreign>s etc. and before all the inhabitants (of the district),</p>
             <p n="36-41">that this village, together with the lands, the water, the tanks, the marsh, the various linds of trees including the mangos and <foreign>madhuka</foreign> in the boundaries, (also) with the <foreign>upanidhi</foreign>s, the <foreign>hasti-daṇḍa</foreign> (elelphant-sticks?), the oxes, the <foreign>chittola</foreign> (?), the <foreign>andhāruā</foreign> (?), the <foreign>pratiandhāruā</foreign>(?), the <foreign>adattā</foreign>(?), the padātijīvya (right to maintain the foot-soldiers?), the <foreign>antarābaḍḍi</foreign>(?), the <foreign>rintakābaḍḍi</foreign>, the <foreign>vasāvakī</foreign>(?), the <foreign>vishayāli</foreign>(?), the <foreign>ahidaṇḍa</foreign>(?), the <foreign>hala-daṇḍa</foreign> (plough-stick?), the <foreign>vandha-daṇḍa</foreign>(?), the <foreign>vandāpanā</foreign>(receiving of sacred honour), <foreign>vijaya-vandāpanā</foreign> (reveiving of sacred and victorious honour), etc including many <foreign>mārggaṇi</foreign>s(?), (and also with the rights of) collecting assessments in future, (excercising power on) the <foreign>khaṇḍa-pāla</foreign>s, with prohibition of all sorts of oppressions - </p>
@@ -559,7 +571,7 @@ n="59"/>ta-</rdg>
         	   <bibl n="D"><ptr target="bib:Debala1959-1960_01"/></bibl>
         	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_12"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">253-264</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVII</citedRange><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVII</citedRange><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">2077</citedRange></bibl>
