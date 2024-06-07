@@ -5,11 +5,11 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Navamuni Cave Inscription of Mahābhavagupta Uddyotakesarin undated</title>
+            <title>Navamuni cave inscription undated maybe of the time of Uddyotakeśarin</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -99,10 +99,6 @@
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2023-03-15" who="part:amwb" status="draft">Creation of the file</change>
@@ -122,7 +118,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <lb n="1"/><milestone type="pagelike" unit="zone" n="B"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb n="2"/><milestone type="pagelike" unit="zone" n="B"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb n="3"/><milestone type="pagelike" unit="zone" n="A"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><milestone type="pagelike" unit="zone" n="B"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
+            <lb n="1"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb n="2"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb n="3" style="text-align: left"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

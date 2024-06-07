@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gandhibedha Sūrya Image Inscription of Mahāśivagupta V Karṇa</title>
+            <title>Gandhibedha Sūrya image inscription of the time of Karṇa</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -98,10 +98,6 @@
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2022-08-29" who="part:amwb" status="draft">Creation of the file</change>
@@ -123,7 +119,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <!-- amwb For the moment it is Shastri's edition -->
             <p>
-               <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/>dhirāja-parameśvara-soma-kula-tilaka-tṛ<gap reason="lost" unit="character" extent="unknown"/><lb n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-<persName type="king" ref="PSN01011">karṇṇa</persName>-rājadevasya pravarddhamāna-vi<gap reason="lost" unit="character" extent="unknown"/>
+               <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/>dhirāja-parameśvara-soma-kula-tilaka-tri<gap reason="lost" unit="character" extent="unknown"/><lb n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-<persName type="king" key="PSN01011">karṇṇa</persName>-rājadevasya pravarddhamāna-vi<gap reason="lost" unit="character" extent="unknown"/>
             </p>
          </div>
          <div type="apparatus">
@@ -131,17 +127,17 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Shastri1995_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">335</citedRange></bibl> suggests the following reconstruction:
-               <q><supplied reason="lost">siddham parama-bhaṭṭāraka-mahārājā</supplied>dhirāja-parameśvara-soma-kula-tilaka-tṛ<supplied reason="lost">kaliṅgādhipati-parama-māheśvara</supplied>-śrī-karṇṇa-rāja-devasya pravarddhamāna-vi<supplied reason="lost">jaya-rājye samvatsare</supplied></q>
+               <q><supplied reason="lost">siddham parama-bhaṭṭāraka-mahārājā</supplied>dhirāja-parameśvara-soma-kula-tilaka-tri<supplied reason="lost">kaliṅgādhipati-parama-māheśvara</supplied>-śrī-karṇṇa-rāja-devasya pravarddhamāna-vi<supplied reason="lost">jaya-rājye samvatsare</supplied></q>
              
              </p>
 

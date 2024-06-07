@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Navamuni Cave Inscription of Mahābhavagupta Uddyotakeśarin, Year 18</title>
+            <title>Navamuni cave Inscription of the time of Uddyotakeśarin year 18</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -98,10 +98,6 @@
                <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change when="2022-08-29" who="part:amwb" status="draft">Creation of the file</change>
@@ -122,7 +118,7 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <!-- amwb For the moment it is Shastri's edition -->
-             <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" ref="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijaya-rājye samvaT <num value="18">18</num><lb n="2"/>śrī<space unit="character" quantity="1"/>-Ārya-saṁgha-prativaddha-graha-kula-vinirggata-deśī-gaṇa-Ācārya-śrī-kulacandra<lb n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasya śiṣya-subhacandrasya<surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g><g type="floretComplex">.</g><g type="ddandaStrokeLeft">.</g><num value="1">1</num></p>
+             <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrīmad</roleName>-<persName type="king" key="PSN01002">udyotakesari</persName>-<roleName>devasya</roleName> pravarddhamāne vijaya-rājye samvaT <num value="18">18</num><lb n="2"/>śrī<space unit="character" quantity="1"/>-Ārya-saṁgha-prativaddha-graha-kula-vinirggata-deśī-gaṇa-Ācārya-śrī-kulacandra<lb n="3" break="no"/><space unit="character" quantity="1"/>-bhaṭṭārakasya tasya śiṣya-subhacandrasya<surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g><g type="floretComplex">.</g><g type="ddandaStrokeLeft">.</g><num value="1">1</num></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -159,10 +155,10 @@
                </note>
                Subahcandra, disciple of the venerable lord Kulacandra, master of the guild Deśī from the Graha corporation, linked to the community of the venerable Ārya (or to the respectful community Ārya).</p>
          </div>   
-            <div lang="fra" type="translation" resp="part:amwb">
-               <p>Hommage! En l’année prospère 18 du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
+            <div type="translation" xml:lang="fra" resp="part:amwb">
+               <p>Hommage ! En l’année prospère 18 du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
                <p>De la part<note>
-                  Le génitif employé ici correspond à un génitif adverbial exprimant une valeur d’origine “provenant de”, “de la part de” <supplied reason="explanation">sur ce point, voir <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.
+                  Le génitif employé ici correspond à un génitif adverbial exprimant une valeur d’origine « provenant de », « de la part de » <supplied reason="explanation">sur ce point, voir <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.
                </note>
                de Subhacandra, disciple de sa majesté, le vénérable Kulacandra, maître de la confrérie Deśī issue de la corporation des Graha, rattachée à la communauté du respectable Ārya (ou de la respectable communauté Ārya). 
  </p>
@@ -171,7 +167,6 @@
             <!-- Ācārya lecture āvārya possible voire acceptable en observant la photo. en revanche voir comment construire le sens Āvārya MW 156 having covered having concealed warding off keeping off  Traduction de Panigrahi incohérente car dans 29 il lit avasya et dans soma 48 il propose acarya ? -->
             <!-- Banerjee's translation (given by Panigrahi1981_01 p.138 and also by Rajaguru p.243) : The year 18 of the increasing and victorious reign of the illustrious U(d*)dyotakesari-Deva. (The work of) Śubhacandra, the disciple of the lord the illustrious Ācārya Kulacandra, (who) belonged to the Graha=kula of the illustrious Ārya-congregation (and belonged to) the Deśīgaṇa. (Rather nanditadrathā of the Deśīgaṇa derived from the Graha-kula, belonging to the illustrious Arya-saṅgha. FWT)-->
             <!-- Panigrahi's translation (Panigrahi1981_01 p.138) : In the year 18 of the increasing and victorious reign of Sri Uddyotakesari-deva (this cave temple) belonged to (i.e. was caused to be excavated by) Subhachandra, disciple of Sri Kulachandra Bhataraka, for the abode of the sages belonging to Aryasamgha and coming. One cave temple...  -->
-
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <p>The inscription is found on the inner side of the architrave;</p>
