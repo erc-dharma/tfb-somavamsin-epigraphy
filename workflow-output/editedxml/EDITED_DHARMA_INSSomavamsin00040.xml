@@ -219,7 +219,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The plates are currently preserved at the Prof. N. K. Sahu Museum of the Sambalpur University (see <bibl><ptr target="bib:"/><citedRange unit="item">2</citedRange><citedRange unit="page"/></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/kp78gq996">here</ref>.</p>
+           <p>The plates are currently preserved at the Prof. N. K. Sahu Museum of the Sambalpur University (see <bibl><ptr target="bib:Padhan2011_01"/><citedRange unit="item">2</citedRange><citedRange unit="page"/></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/kp78gq996">here</ref>.</p>
         	<listBibl type="primary">
 				<bibl n="N"><ptr target="bib:Nayak2012_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

@@ -171,7 +171,7 @@ I read jihavā in Tripathy's edtion but maybe it is just a problem of tied lette
                   <l n="a">tasyānujo nata-samasta-sapat<supplied reason="omitted">n</supplied>e<!-- sapatna in soma15 --> mauli</l>
                   <l n="b">-ratnānsumātsalita<!-- Tripathy suggests reading ratnāṃśusaṁmilita Soma15 -ratnāṁśumalita-<supplied reason="omitted">su</supplied>pāda- and soma31  --><lb n="22"/>-pāda-saroja-rociḥ<supplied reason="omitted">.</supplied></l> 
                   <l n="c">vidyā-nidhiḥ pratinidhir madhu-sūdanasya</l> 
-                  <l n="d">jāto ’tha vi<choice><sic>s</sic><corr>ś</corr></choice>va-vi<supplied reason="omitted">ja</supplied><lb n="23" break="no"/>yī nr̥patir <persName type="king" ref="PSN01003">yayātiḥ</persName><supplied reason="omitted">.</supplied></l> 
+                  <l n="d">jāto ’tha vi<choice><sic>s</sic><corr>ś</corr></choice>va-vi<supplied reason="omitted">ja</supplied><lb n="23" break="no"/>yī nr̥patir <persName type="king" key="PSN01003">yayātiḥ</persName><supplied reason="omitted">.</supplied></l> 
                   </lg>
             <lg n="9" met="upajāti">
                <l n="a">bhaṭair avaṣ<choice><sic>r̥</sic><corr>ṭ</corr></choice>a<choice><orig>v</orig><reg>b</reg></choice>dham<!-- no correction in Tripathy's edition --> idaṁ narendrai</l> 
@@ -337,7 +337,7 @@ amwb : Sircar 71
                      <lem>yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti°</lem>
                      <rdg source="bib:Tripathy2005_01">yasyottāmyadarāti°</rdg>
                   </app>
-                  <app>
+                  <app loc="23">
                      <lem>avaṣ<choice><sic>r̥</sic><corr>ṭ</corr></choice>a<choice><orig>v</orig><reg>b</reg></choice>dham</lem>
                      <rdg source="bib:Tripathy2005_01">avaṣr̥avdham</rdg>
                   </app>                  

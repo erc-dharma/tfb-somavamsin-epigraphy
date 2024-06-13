@@ -215,7 +215,7 @@
          <l n="a" enjamb="yes">tasyānujo nija-bhujārjjita-śaurya-sūrya</l>
          <l n="b">-prauḍha-prabhā-śamita-śatru-yaśaḥ-śaśāṅka<lb n="29" break="no"/>ḥ<g type="danda">.</g></l> 
          <l n="c" enjamb="yes"><roleName>śrī</roleName>-<persName type="king" key="PSN01011">karṇṇa</persName>-deva-nr̥patiḥ kṣitipāla-mauli</l>
-         <l n="d">-saṁlīna-ratna-chaya-cumvita-pāda-pīṭhaḥ<g type="ddanda">.</g></l>
+         <l n="d">-saṁlīna-ratna-chaya-cum<choice><orig>v</orig><reg>b</reg></choice>ita-pāda-pīṭhaḥ<g type="ddanda">.</g></l>
 </lg> 
       <lg n="17" met="āryā"> 
           <l n="ab">tribhuva<lb n="30" break="no"/>na-kuṭīra-paṭale sarpati nijakīya-kīrtti-vall<choice><sic>i</sic><corr>ī</corr></choice>yaṁ<g type="danda">.</g></l> 
@@ -493,6 +493,25 @@ amwb : Sircar 71
             
             <p n="64">The writers of this charter are the Akshapaṭali Vīra-Chittalladeva and Khalānandāsa. THe document is written in the sixth victorious reigning year of the P.M.P. Karṇṇarājadeve and in the twelvth tithi of the bright fornight of the month Āśvina. The same is given in figures also.</p>
  	<!--translation encoded as per EGD §9.2 -->
+         </div>
+          <div type="translation" xml:lang="fra" resp="part:amwb">
+               <p rend="stanza" n="1">Le dieu qui répand une lumière semblable à l’ambroisie (Soma) et qui est né du barattage de l’océan de lait, clair de lune synomyme de prospérité, ce coquin capable à lui seul de faire rire les lotus, lui dont le palais n’est autre que la chevelure de Dhūrjaṭi (Śiva), lui qui est à la tête d’un harem d’étoiles, qui sert de pierre à aiguiser pour les traits de l’époux de Rati (Kāma) a gagné son séjour dans l’océan de lait. </p>
+               <p rend="stanza" n="2">Dans son auguste lignée, lui qui, par son expiation, a effacé de l’horizon du ciel sa tâche et qui transperce l’osbcurité toute entière, naquirent ces seigneurs de la terre, bulbes dont poussent toutes les qualités de la vertu, eux à la gloire aussi pure que la fleur blanche du jasmin.</p>
+               <p rend="stanza" n="3">D’abord le roi des rois Janamejaya, puis son fils Yayāti, après lui vint au monde l’illustre Bhīmaratha, le parangon de la protection de la souveraineté sur terre, puisqu’à l’intérieur des huit directions, il offrit une ouverture aux flèches pour qu’elles transpercent les coeurs même des gardiens des directions en cachant des colonnes (armées) fixes pour la victoire.</p>
+            <p rend="stanza" n="4">De lui naquit Dharmaratha, le fruit désiré pour la fortune de la lignée lunaire, parmi tous les protecteurs de la terre, il fut un joyau de tête, dont l’unique amie était une épée : son apparition lors de ses conquêtes fit autrefois déguerpir les rois ennemis de la frontière et après lui, s’élevait  l’épaisse poussière (soulevée) par son armée. </p>   
+            <p rend="stanza" n="5">À Kaṭaka, à la limite de la forêt bordant le Setu, de la frontière extrême de la terre jusqu’à l’Himālaya jusque dans les forêts qui longent la côte est, vivait un roi autre que le précédent mentionné, roi dont on dit que la gloire était chantée par les bambous résonnant dans les aires faisant entendre les bruissements du vent et de la pluie, semblables aux soupirs des femmes des rois réjouis de pouvoir honoré ses pieds. </p>
+            <p rend="stanza" n="6">Le frère de ce souverain de la terre, seigneur parmi les seigneurs de la terre, à la splendeur semblable à celle de Bhuteśa (Śiva) fut connu comme joyau de la terre sous le nom de Naghuṣa, de son bras tel un serpent sur un sceptre qui tenait son épée étincelante telle une langue fourchue, il ôta les souffles de la gorge des soldats de l’armée ennemie. </p>
+               <p rend="stanza" n="7">« En ces lieux, celui qui a cinq visages s’est installé avec une multitude d’éléphants en rut, ici-bas il est devenu adulte ; les grands serpents ennemis du monde sont (désormais cachés) dans les cavités de ces montagnes et dans ces cruches », voilà ce qu’expliqua un groupe de vieilles femmes Śavara par affection retenant leurs larmes aux femmes des ennemis qui s’en allaient se réfugier dans la forêt.</p>
+               <p rend="stanza" n="8">Son fils, le roi Yayāti, naquit tel un trésor de connaissance, image même du meutrieur de Madhu (Viṣṇu), conquérant universel, aux pieds duquel reposait l’éclat étincelant des joyaux de tête de tous ses rivaux réunis.</p>
+               <p rend="stanza" n="9">Une fois les deux régions du Kosala et d’Utkala conquises par les troupes de ses meilleurs hommes, par ce succès obtenu de ses deux bras, il eut totalement les mains libres.</p>
+               <p rend="stanza" n="10">De lui naquit un fils, un fruit de perfection, éclairant le monde de ses actes fructueux, l’illustre Uddyotakeśarin, sommité unique de qualités :</p>
+               <p rend="stanza" n="11">les grands rois s’approchant en rangs, telle une lignée de gloire, l’honorèrent de tous côtés et ressemblaient à des guirlandes vacillantes de jasmin lorsqu’ils s’inclinaient à distance par dévotion.</p>
+               <p rend="stanza" n="12">De lui naquit un fils, le roi Janamejaya, dont les pieds ornés par les joyaux bleus des couronnes des meilleurs des hommes s’agenouillant semblaient des lotus entourés d’abeilles (voulant butiner).</p>
+             <p rend="stanza" n="13">La pluie de ses coups d’épée lava le fard musqué des épouses bien-aimées des rois ennemis ; ce roi des serpents menaça son brqs semblable à une flèche le grand porteur du fardeau de la terre (Viṣṇu). </p>
+             <p rend="stanza" n="14">De lui advint un fils, le meilleur des hommes, le roi Purañjaya (le bien nommé) vainqueur (<foreign>jaya</foreign>) des cités (<foreign>pura</foreign>), lui dont les lotus de pieds resplendissaient de la gloire de ceux lui rendant hommage, lui au courage égal à celui du chef des armées célestes (Indra) lorsqu’elles se mettent en marche.</p>
+             <p rend="stanza" n="15">Même les rois ennemis écartés par ce souverain, eux qui sont originaires de Gauḍa, de Ḍāhala, du Kaliṅga et du Vaṅga, tremblant de la crainte des flèches de ce roi, s’en remirent toujours à lui.</p>
+             <p rend="stanza" n="16">Son frère cadet effaca la gloire des ennemis par la vaillance acquise de ses propres bras comme la lune est effacée par la splendeur du soleil levant : l’ombre des joyaux sertis sur les couronnes des rois vient embrasser le piédestal de l’illustre roi Karṇadeva.</p>
+             <p rend="stanza" n="17">Alors que la liane de sa propre gloire serpentait sur les toits de chaume des trois mondes, il reçut le statut d’une haute position par des rangées de bras joints.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
