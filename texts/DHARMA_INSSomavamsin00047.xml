@@ -179,7 +179,7 @@ n="21" break="no"/><choice><sic>ca</sic><corr>ñcā</corr></choice>ram adhy<choi
 n="22"/>-pāda-saroja-rociḥ<supplied reason="omitted">.</supplied></l> 
                   <l n="c">vidyā-nidhiḥ pratinidhir madhu-sūdanasya</l> 
                   <l n="d">jāto 'tha vi<choice><sic>s</sic><corr>ś</corr></choice>va-vi<supplied reason="omitted">ja</supplied><lb 
-n="23" break="no"/>yī nr̥patir <persName type="king" ref="PSN01003">yayātiḥ</persName><supplied reason="omitted">.</supplied></l> 
+n="23" break="no"/>yī nr̥patir <persName type="king" key="PSN01003">yayātiḥ</persName><supplied reason="omitted">.</supplied></l> 
                   </lg>
             <lg n="9" met="upajāti">
                <l n="a">bhaṭair avaṣ<choice><sic>r̥</sic><corr>ṭ</corr></choice>a<choice><orig>v</orig><reg>b</reg></choice>dham<!-- no correction in Tripathy's edition --> idaṁ narendrai</l> 
@@ -397,7 +397,7 @@ n="2" break="no"/>-maul<choice><sic>ī</sic><corr>i</corr></choice>°</lem>
                      <lem>yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti°</lem>
                      <rdg source="bib:Tripathy2005_01">yasyottāmyadarāti°</rdg>
                   </app>
-                  <app>
+                  <app loc="23">
                      <lem>avaṣ<choice><sic>r̥</sic><corr>ṭ</corr></choice>a<choice><orig>v</orig><reg>b</reg></choice>dham</lem>
                      <rdg source="bib:Tripathy2005_01">avaṣr̥avdham</rdg>
                   </app>                  
