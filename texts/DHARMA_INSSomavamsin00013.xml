@@ -129,10 +129,10 @@ n="4" break="no"/>kara-sphārībhaval-locanaiḥ</l>
                <lg n="3" met="vasantatilakā">
                   <l n="a">prāsāda-mauliṣu<lb 
 n="5"/>karā<choice><orig>v</orig><reg>b</reg></choice>ja-paramparābhir</l> 
-                  <l n="b">ākr̥ṣyamāṇa-parilam<choice><orig>v</orig><reg>b</reg></choice>i-nabhaḥ pracāra<choice><sic>ḥ</sic><corr>M</corr></choice><g type="danda">.</g></l> 
+                  <l n="b">ākr̥ṣyamāṇa-parilam<choice><orig>v</orig><reg>b</reg></choice>i-nabhaḥ-pracāra<choice><sic>ḥ</sic><corr>M</corr></choice><g type="danda">.</g></l> 
                   <l n="c">yasmin niśāsu niśita-dyuti-ca<lb 
-n="6" break="no"/>ndra-vimvam</l> 
-                  <l n="d">āyojyate makura-kr̥tya-vidhau vadhūbhiḥ<g type="ddanda">.</g></l>
+n="6" break="no"/>ndra-<choice><orig>v</orig><reg>b</reg></choice>im<choice><orig>v</orig><reg>b</reg></choice>am</l> 
+                  <l n="d">āyojyate mukura-kr̥tya-vidhau vadhūbhiḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="4" met="śārdūlavikrīḍita">
                   <l n="a">yasminn aspr̥śataḥ kṣitiṁ khurapuṭai<supplied reason="omitted">r</supplied> vāhā<lb 
@@ -140,16 +140,17 @@ n="7" break="no"/>n asaṁkhyān api</l>
                   <l n="b">pratyeti sudr̥śī jano na tu rājobhāraiḥ samutsarpibhiḥ<g type="danda">.</g></l> 
                   <l n="c">Anyad yasya ja<lb 
 n="8" break="no"/>lāśa<space type="binding-hole"/>yeṣu yugapad dantāvalānāṅgaṇair</l> 
-                 <l n="d">anyonya-pratipanna-ḍiṇḍima-ravair ambhaḥ<!-- HERE --> samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></l>
+                 <l n="d">anyonya-pratipanna-ḍiṇḍima-ravair ambhaḥ sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya
+            <lb 
+n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></l>
                </lg>
             <lg n="5" met="śārdūlavikrīḍita">
-               <l n="a"><lb 
-n="9" break="no"/><space type="binding-hole"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
+               <l n="a"><space type="binding-hole"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
                <l n="b">yat saudhasya mr̥gīdr̥śo<lb 
 n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnānnavaḥ<g type="danda">.</g></l> 
                <l n="c">ya<choice><sic>d</sic><corr>s</corr></choice>yā<supplied reason="omitted">ḥ</supplied> toraṇa-citra-karma-kanaka-graiveyakādi-sphu<lb 
 n="11" break="no"/>ṭam</l> 
-               <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampaddyate<g type="ddanda">.</g></l>
+               <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampa<surplus>d</surplus>dyate<g type="ddanda">.</g></l>
             </lg> 
             <p>tasmāt śrī-yayāti-nagarāt<supplied reason="omitted">.</supplied></p>
              <lg n="6" met="śikhariṇī">
@@ -157,8 +158,8 @@ n="11" break="no"/>ṭam</l>
 n="12"/>pinākī lokebhyaḥ kṣiti-parisare dharma-vigatim</l> 
                 <l n="b">viditvaivāhūya svayam anayad ādeśa-padavīM<g type="danda">.</g></l>
                 <l n="c"><lb 
-n="13"/>vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice> khacaram acirād eva bhavatā</l> 
-                <l n="d">dharitrī gantavyā śama<choice><sic>yetam</sic><corr>yitum</corr></choice> adharmo 'rjitam iti<g type="ddanda">.</g></l>
+n="13"/>vivasvantā māna-khacaram acirād eva bhavatā</l><!-- visvasvatā mānakhacaram acirād eva bhavatā  --> 
+                <l n="d">dharitrī gantavyā śamayitum adharmo 'rjitam iti<g type="ddanda">.</g></l>
              </lg> 
              <lg n="7" met="anuṣṭubh">
                 <l n="a">Akṣa<lb 
@@ -174,24 +175,24 @@ n="15"/>tanayeṣu madhye mahānubhāvo maheśvare bhaktaḥ<g type="danda">.</g
 n="16" break="no"/>dhau<g type="ddanda">.</g></l>
               </lg> 
                <lg n="9" met="mātrā">
-                  <l n="ab">bhagavatī ca sānukampe nija-kula-bhūṣāñ ca pavitari candre<g type="danda">.</g></l> 
+                  <l n="ab">bhagavati ca sānukampe nija-kula-bhūṣāñ ca pavitari candre<g type="danda">.</g></l> 
                   <l n="cd">pitur āśayasya ca valād ā<lb 
 n="17" break="no"/><unclear>la</unclear>mbhitenendra-rājya-vara-lābhaḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="10" met="mālinī">
                   <l n="a">śirasi kr̥ta-śivājñ<choice><sic>ā</sic><corr>o</corr></choice> martya-loke vivasvān</l> 
                   <l n="b">ajani ca kula-putro bhīma<lb 
-n="18" break="no"/>nām ottama-śrīḥ<g type="danda">.</g></l> 
-                  <l n="c">ayam alabhata <persName type="queen">durgā<supplied reason="omitted">ṁ</supplied></persName> pūrva-patnīñ ca patnīm</l> 
+n="18" break="no"/>nāmottama-śrīḥ<g type="danda">.</g></l> 
+                  <l n="c">Ayam alabhata <persName type="queen">durgā<supplied reason="omitted">ṁ</supplied></persName> pūrva-patnīñ ca patnīm</l> 
                   <l n="d">ajanayad atha tasyāṁ pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice> ca putrān<g type="ddanda">.</g></l>
                </lg>
                         <pb n="2r"/>
             <lg n="11" met="śārdūlavikrīḍita">
-               <l n="a"><lb 
+               <l n="a" enjamb="yes"><lb 
 n="19"/>śrimān <persName type="king" key="PSN01004">indraratho</persName> 'jani prathamataḥ saundarya-śaurya-kṣamā</l>
-               <l n="b">dharma-tyāga-dayā-viveka-vinaya-prāga<lb 
-n="20" break="no"/>lbha-satyāśrayaḥ<g type="danda">.</g></l> 
-               <l n="c">prāsūtām atha vikramādi-su-guṇa-grāmaika-līlāspad<choice><sic>e</sic><corr>au</corr></choice></l> 
+               <l n="b">-dharma-tyāga-dayā-viveka-vinaya-prāga<lb 
+n="20" break="no"/>lbhya-satyāśrayaḥ<g type="danda">.</g></l> 
+               <l n="c">pr<choice><sic>ā</sic><corr>a</corr></choice>bhūtām atha vikramādi-su-guṇa-grāmaika-līlāspad<choice><sic>e</sic><corr>au</corr></choice></l> 
                <l n="d">pūrvam <persName>vaṅkaratho</persName> 'tha<lb 
 n="21"/><persName>śaṅkararathas</persName> tasyānurūpānujau<g type="ddanda">.</g></l>
             </lg> 
@@ -199,9 +200,9 @@ n="21"/><persName>śaṅkararathas</persName> tasyānurūpānujau<g type="ddanda
                <l n="a">yo 'sāv <persName type="king" key="PSN01004">indraratha<supplied reason="omitted">ḥ</supplied></persName> rathāṅga-mahimā somānvaya-kṣmāpatiḥ</l> 
               <l n="b"> śri<lb 
 n="22" break="no"/>mad-<persName type="king" key="PSN01007">dharmarathasya</persName> vallabhatayā lebhe kaliṅga-śriyam<g type="danda">.</g></l> 
-               <l n="c">sañjagrāha ca vigrahe bhuja-valāt tām vajra<lb 
+               <l n="c">sañjagrāha ca vigrahe bhuja-<choice><orig>v</orig><reg>b</reg></choice>alāt tām vajra<lb 
 n="23" break="no"/>-hastād aho<supplied reason="omitted">.</supplied></l> 
-               <l n="d">vikrāntir mahatī padāti-vahutālpatve tu nyasthādaraḥ<g type="ddanda">.</g></l>
+               <l n="d">vikrāntir mahatī-padāti-<choice><orig>v</orig><reg>b</reg></choice>ahutālpatve tu nyastādaraḥ<g type="ddanda">.</g></l>
             </lg> 
                <lg n="13" met="śārdūlavikrīḍita">
                   <l n="a">svarga<choice><sic>n</sic><corr>ṁ</corr></choice> dharma-dharā-patau<lb 
@@ -443,8 +444,8 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                      <rdg source="bib:Shastri1995_02">pracāraṁ</rdg>
                   </app>
                   <app loc="6">
-                     <lem source="bib:Shastri1995_02">makura°</lem>
-                     <rdg source="bib:Behera1988_01">mukura°</rdg>
+                     <lem source="bib:Behera1988_01">mukura°</lem>
+                     <rdg source="bib:Shastri1995_02">makura°</rdg>
                   </app>
                   <app loc="8">
                      <lem source="bib:Shastri1995_02">°valānāṅgaṇair</lem>
@@ -456,10 +457,10 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
                      <rdg source="bib:Behera1988_01">°vair a<supplied reason="omitted">ṁ</supplied>bhaḥ</rdg>
                   </app>
                   <app loc="8">
-                     <lem source="bib:Shastri1995_02">samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></lem>
-                     <rdg source="bib:Behera1988_01">sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya
+                     <lem source="bib:Behera1988_01">sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya
             <lb 
-n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></rdg>
+n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></lem>
+                     <rdg source="bib:Shastri1995_02">samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></rdg>
                   </app>
                   <app loc="10">
                      <lem source="bib:Shastri1995_02">yad vartti°</lem>
@@ -478,10 +479,15 @@ n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></rdg>
                      <rdg source="bib:Behera1988_01">viditv evāhūya</rdg>
                   </app>
                   <app loc="13">
-                     <lem source="bib:Behera1988_01">vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice></lem>
-                     <rdg source="bib:Shastri1995_02">vikavasva<choice><sic>nnī</sic><corr>ntaṁ</corr></choice></rdg>
+                     <lem></lem>
+                     <rdg source="bib:Behera1988_01">vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice></rdg>
+                     <rdg source="bib:Shastri1995_02">vikavasva<choice><sic>nnī</sic><corr>ntaṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice></rdg>
                   </app>
-                 <app loc="15">
+                  <app loc="13">
+                     <lem>śamayitum</lem>
+                     <rdg source="bib:Behera1988_01 bib:Shastri1995_02">śama<choice><sic>yet</sic><corr>yitum</corr></choice></rdg>
+                  </app>
+                  <app loc="15">
                     <lem>avatāre</lem>
                     <rdg source="bib:Behera1988_01 bib:Shastri1995_02">avatār<choice><sic>e</sic><corr>i</corr></choice><supplied reason="omitted">ṇam</supplied></rdg>
                     <note>For the meaning of the root √dhā with a locative case, see <bibl><ptr target="bib:MonierWilliams1872_01"/><citedRange unit="page">452</citedRange></bibl>. </note>
@@ -499,8 +505,13 @@ n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></rdg>
                      <rdg source="bib:Shastri1995_02">valād a°</rdg>
                   </app>
                   <app loc="20">
-                     <lem source="bib:Behera1988_01">°lbha-satyā°</lem>
-                     <rdg source="bib:Shastri1995_02">°lbhya-satyā°</rdg>
+                     <lem source="bib:Shastri1995_02">°lbhya-satyā°</lem>
+                     <rdg source="bib:Behera1988_01">°lbha-satyā°</rdg>
+                  </app>
+                  <app loc="20">
+                     <lem>pr<choice><sic>ā</sic><corr>a</corr></choice>bhūtām</lem>
+                     <rdg source="bib:Behera1988_01">prābhūtām</rdg>
+                     <rdg source="bib:Shastri1995_02">prāsūtām</rdg>
                   </app>
                   <app loc="20">
                      <lem source="bib:Behera1988_01">°līlāspad<choice><sic>e</sic><corr>au</corr></choice></lem>
@@ -676,6 +687,16 @@ n="35" break="no"/>rūva-</rdg>
          </div>
          <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
+            <p rend="stanza" n="6">Pinākin (Śiva) tandis que les gens lui rapportaient la déviance du <foreign>dharma</foreign> sur terre et qu'ils mandaient sa personne, se rendit sur les lieux indiqués : "Que l'honorable Visvavant aille sur terre sans délai en traversant le ciel pour l'apaiser et que l'<foreign>adharma</foreign> soit vaincu!</p>
+            <p rend="stanza" n="7">En présence de Śiva, il y consentit par ces mots "Je prendrai naissance dans une famille non guerrière et avec mon clan, j'accomplirai un grand miracle".</p>
+            <p rend="stanza" n="8">Parmi les fils de celui-ci, le magnanime d'entre eux, dévot de Maheśvara, l'aîné se concentra sur le bienheureux époux d'Ambikā pour sa descente sur terre.</p>
+            <p rend="stanza" n="9">Une fois le bienheureux devenu compatissant et une fois la lune devenue l'ornement de sa famille, à partir de la force de son père et de son intelligence, grâce à son dévouement, il obtint la faveur d'une royauté (semblable à celle) d'Indra. </p>
+            <p rend="stanza" n="10">Sur ordre de Śiva (donné d'un signe) de tête, Vivasvat naquit dans le monde des mortels en tant que fils de cette lignée, lui à la suprême fortune, sous le nom de Bhīma. Celui-ci obtint Durgā comme épouse, la première parmi les épouses et d'elle naquirent des fils, premiers parmi les fils. </p>
+            <p rend="stanza" n="11">Le premier à naître fut Indraratha, refuge de beauté, de valeur, de patience, de droiture, de libéralité, de compassion, de justesse, d'humilité, de détermination et d'honnêteté. Après lui, naquirent ensuite en tout point semblable à lui ces deux qui firent l'unique joie des villages par leurs excellentes qualités telles que le courage, d'abord Vaṅgaratha puis Śaṅkararatha.</p>
+            <p rend="stanza" n="12">Cet Indraratha, roi issu de lé lignée lunaire, lui qui possède la force du disque (de Viṣṇu), grâce à l'affection de Dharmaratha, obtint la fortune du Kaliṅga. Il s'en saisit dans la bataille grâce à la force de son bras tenant à la main sa lance, hélàs, sa prouesse fut de déposer sa révérence lors du manque de moyens face à la puissance d'une multitude de soldats armés.  </p>
+            <p rend="stanza" n="13">Lorsque le seigneur de la terre Dharma (Dharmaratha?) s'en alla au ciel, il entendit la rumeur selon laquelle le roi sa majesté Vatsarāja maltraitait ministres et sujets. Totalement habité de la fougue due à la fierté de son propre territoire, il partit du Kaliṅga et lui dont le comportement et le coeur ne sont que générosité, après s'être entretenu avec lui, il porta son attention sur Abhimanyu.    </p>
+            <p rend="stanza" n="14">Apprenant que même Abhimanyu avait obtenu la souveraineté sur la terre de façon incorrecte sans l'accord de la lignée, il tua cet ennemi sur le champ de bataille. Après avoir réuni l'approbation des meilleurs des deux fois nés, grâce au cheval qui avait circulé à l'intérieur du royaume, il se saisit du triple royaume par ses chefs armés.  </p>
+
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -701,7 +722,7 @@ n="35" break="no"/>rūva-</rdg>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
+           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
         	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">I</citedRange><citedRange unit="page">325-331</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
