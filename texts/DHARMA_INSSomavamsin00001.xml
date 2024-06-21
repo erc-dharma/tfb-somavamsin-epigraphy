@@ -108,7 +108,7 @@ n="1v"/>
 n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
 n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
-n="4" break="no"/>ma-kula-tilaka-<roleName>tr̥kaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
+n="4" break="no"/>ma-kula-tilaka-<roleName>t<choice><orig>r̥</orig><reg>ri</reg></choice>kaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
 n="5"/><placeName type="region" subtype="district">lupattarā</placeName>-khaṇḍīya-<placeName type="settlement" subtype="village">vakratentalī</placeName>-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartr̥-sa<lb
 n="7" break="no"/>nnidhā<surplus>r</surplus>tr̥-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
@@ -194,8 +194,8 @@ n="28" break="no"/>nena</l>
 </lg>
 <lg n="8" met="anuṣṭubh"><!-- best_0064 -->
     <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
-    <l n="b">manda-vuddhis tamo-vr̥taḥ</l>
-    <l n="c">sa vaddho<lb
+    <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamo-vr̥taḥ</l>
+    <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho<lb
 n="29"/>vāruṇaiḥ</l>
     <l n="d">pāśais tiryag-yoniṁ ca gacchati</l>
 </lg> 
@@ -230,7 +230,7 @@ n="33" break="no"/>ndrā<supplied reason="lost">N</supplied></l>
     -->
 </lg>
 <lg n="12" met="puṣpitāgrā"><!-- best_0071 -->
-    <l n="a">Iti kamala-dalāmvu-vindu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
+    <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lol<choice><sic>a</sic><corr>ā</corr></choice>ṁ</l>
     <l n="b">śriyam a<lb
 n="34" break="no"/>nucintya manuṣya-jīvitañ ca</l>
     <l n="c">sa-kalam idam u<supplied reason="omitted">dā</supplied>hr̥tañ ca budhvā</l>
@@ -242,8 +242,8 @@ amwb : Sircar 71
     <p><date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
 n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" key="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijayarājye samvatsare tr̥tīye <rs type="month" key="sravana">śrā<lb
 n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" subtype="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb
-n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <rs type="masc"><persName type="human">vallaghoṣa</persName></rs><lb
-n="39" break="no"/>-sutena</rs> <rs type="masc" role="engraver"><persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName></rs> U<supplied reason="omitted">t</supplied>kr̥taṁ śāsa<supplied reason="omitted">na</supplied>m iti <rs type="masc" role="engraver"><rs type="masc"><persName>rayaṇa-Ojjhā</persName></rs>-sutena</rs><supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
+n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <persName type="human">vallaghoṣa</persName><lb
+n="39" break="no"/>-sutena <persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName> U<supplied reason="omitted">t</supplied>kr̥taṁ śāsa<supplied reason="omitted">na</supplied>m iti <persName>rayaṇa-Ojjhā</persName>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
 </p> 
              </div>
          </div>
@@ -290,9 +290,9 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
              <p n="16-18">After having considered this <supplied reason="explanation"><foreign>iti</foreign></supplied>, thanks to our acquisition, the enjoyments, the parts, the taxes, the gold etc… should easily remain appropriate and the future kings must protect this gift of Us out of the respect of Dharma and out of Our consideration as it was their own gift.</p>
              <p n="19-36">Thus it is said in the <title>Dharmaśāstra</title>:</p>
              <p n="1" rend="stanza"><!-- corresp="#Sircar1965_st0023" -->
-                 Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                 Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<!-- <note>
                     This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="2" rend="stanza" ><!-- corresp="#Sircar1965_st0085" -->
                  Have no doubt about the fruit of what is given by another, o sons of Pr̥thu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
@@ -300,62 +300,71 @@ n="8" break="no"/>ṭa-bhaṭa</lem>
              </note>
              </p>
              <p n="3" rend="stanza" ><!-- corresp="#Sircar1965_st0123" -->
-                 The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                 The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.
+                 <!--<note>
                     This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="4" rend="stanza" ><!-- corresp="#Sircar1965_st0005" -->
-                 Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.<note>
+                 Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 5 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note><!-- 
-             In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
+             </note>
+             In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 for this verse
              -->
              </p>
              <p n="5" rend="stanza" ><!-- corresp="#Sircar1965_st0020" -->
-                 The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q><note>
+                 The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q>
+                 <!-- <note>
                     This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="6" rend="stanza"><!-- corresp="#Sircar1965_st0029" -->
-                 The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.<note>
+                 The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 29 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note>-->
              </p>
              <p n="7" rend="stanza"><!-- corresp="#Sircar1965_st0137" -->
-                 The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.<note>
+                 The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.<!-- <note>
                     This verse corresponds to the verse numbered 137 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="8" rend="stanza"><!-- corresp="#Sircar1965_st0064" -->
-                 The foolish man who seizes ou makes <supplied reason="subaudible">a land</supplied> seized, will be covered by obscurity and bound by Varuṇa’s noose and be born again in an animal womb.<note>
+                 The foolish man who seizes ou makes <supplied reason="subaudible">a land</supplied> seized, will be covered by obscurity and bound by Varuṇa’s noose and be born again in an animal womb.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 64 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="9" rend="stanza" ><!-- corresp="#Sircar1965_st0132" -->
-                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="10" rend="stanza" ><!-- corresp="#Sircar1965_st0004" -->
-                 Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.<note>
+                 Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 4 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="11" rend="stanza" ><!-- corresp="#Sircar1965_st0117" -->
-                 Rāmacandra begs repeatedly to all these future kings: this bridge of Dharma which is common to all the kings, you always must protect it.<note>
+                 Rāmacandra begs repeatedly to all these future kings: this bridge of Dharma which is common to all the kings, you always must protect it.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 117 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="12" rend="stanza" ><!-- corresp="#Sircar1965_st0071" -->
-                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts made by others not be destroyed by men.<note>
+                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts made by others not be destroyed by men.
+                 <!-- <note>
                     This verse corresponds to the verse numbered 71 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="35-39">On the fifth day of the bright fortnight of the month Śrāvaṇa of the third year of the victorious reign of the Lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Janamejayadeva, i.e. Saṁvat 3 month Śrāvaṇa day 5, this charter was written by the clerk <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Koighoṣa attached to the great office of peace and war <supplied reason="explanation"><foreign>mahāsāndhivigraha</foreign></supplied> and son of Vallaghoṣa and incised by Saṅgrāma, son of Rayaṇa Ojjhā.</p>
              <p n="39">Benediction and good fortune!</p>
                  
              <div type="translation" xml:lang="fra" resp="part:amwb">
-                 <p n="1-8">Hommage ! Depuis son victorieux champ de bataille de Suvarṇapura, le divin roi, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Mahābhavagupta, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tr̥ kaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, son éminence <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, fervent dévot de Maheśvara, méditant au pied de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes du village nommé Vakratentalī situé dans la circonscription de Lupattarā, il instruisit les propriétaires résidant en ces lieux et installés en temps voulu dans cette circonscription en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartr̥ </foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtr̥ </foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans informateurs <supplied reason="explanation"><foreign>vetrika"</foreign></supplied>, les membres du harem royal, les proches du roi ainsi que les autres personnes appartenant à la classe des valeureux soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> de la sorte:
+                 <p n="1-8">Hommage ! Depuis son victorieux champ de bataille de Suvarṇapura, le divin roi, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Mahābhavagupta, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tr̥kaliṅgādhipati</foreign></supplied>, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, son éminence <supplied reason="explanation"><foreign>parameśvara</foreign></supplied>, fervent dévot de Maheśvara, méditant au pied de Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka et Mahārājādhirāja Śivaguptadeva, après avoir honoré les brahmanes du village nommé Vakratentalī situé dans la circonscription de Lupattarā, il instruisit les propriétaires résidant en ces lieux et installés en temps voulu dans cette circonscription en commençant par les collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartr̥ </foreign></supplied>, les percepteurs <supplied reason="explanation"><foreign>saṁnidhārtr̥ </foreign></supplied>, les policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, les chambellans informateurs <supplied reason="explanation"><foreign>vetrika"</foreign></supplied>, les membres du harem royal, les proches du roi ainsi que les autres personnes appartenant à la classe des valeureux soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> de la sorte:
 </p>
                  <p n="8-16">Que cela soit porté à votre connaissance: ce village, avec et ses dépôts et ses trésors, sans aucune restriction, avec ses vallées et ses terres stériles, avec ses manguiers et ses arbres Mandhuka, avec ses prélèvements supplémentaires, avec l’interdiction d’intrusion militaire,  avec ses quatre bornes de délimitation, je le donne à Jātarūpa, fils lettré <supplied reason="explanation"><foreign>bhaṭṭaputra</foreign></supplied>, rejeton de l’honorable Vaccha, fils lettré <supplied reason="explanation"><foreign>bhaṭṭaputra-śrīvaccha</foreign></supplied>, appartenant au <foreign>gotra</foreign> Kauṇḍinya, le meilleur parmi les descendants des sages Mitravaruṇa et Vasiṣṭha, issu de l’école Chandogya, résidant à Meraṇḍā situé à Rāḍhā et émigré originaire de Vallikandra, et ce, en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, afin d’accroître le mérite et la gloire de mes deux parents, ainsi que les miens, après avoir versé de l’eau et après l’avoir décrété grâce à une plaque de cuivre produite à l’occasion du soleil à l’équinoxe <supplied reason="explanation"><foreign>viṣuvatī-saṁkrantī</foreign></supplied>.</p>
                  <p n="16-18">Après avoir considéré ceci, grâce à notre acquisition, les récoltes, les dus, les impôts, l’or etc… resteront appropriés facilement et les futurs rois devront protéger ce don fait par nous par considération du Dharma et par respect pour nous, et ce, comme s'il s'agissait de leur propre donation .    

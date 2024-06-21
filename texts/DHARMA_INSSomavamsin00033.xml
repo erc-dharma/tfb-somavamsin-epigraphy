@@ -142,7 +142,7 @@ n="14" break="no"/>śāparādha<supplied reason="omitted">ḥ</supplied> sarvav�
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Photos available here : https://didomena.ehess.fr/concern/data_sets/q811kt614<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">332-334</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

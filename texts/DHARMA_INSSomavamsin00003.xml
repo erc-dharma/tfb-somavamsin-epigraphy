@@ -114,10 +114,10 @@
                 <pb n="1v"/>
               <p>
 <lb 
-n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita-śrīmato vijaya-kaṭakāT<supplied reason="omitted">.</supplied> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>parama-bha<lb
-n="2" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyāta-<roleName>para<lb 
-n="3" break="no"/>ma-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<choice><sic>ś</sic><corr>s</corr></choice>oma-kula-tilaka-<roleName>tr̥kali<lb 
-n="4" break="no"/>ṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī <placeName type="region" subtype="district">lupattarā</placeName>-khāṇḍīya-<placeName type="settlement" subtype="village">jollamurā</placeName><lb 
+n="1"/><g type="spiralL"/> svasti<supplied reason="omitted">.</supplied> suvarṇṇapura-samāvāsita-śrīmato vijaya-kaṭakāT<supplied reason="omitted">.</supplied> <roleName>parama-bha<lb
+n="2" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName>-pādānudhyāta-<roleName>para<lb 
+n="3" break="no"/>ma-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<choice><sic>ś</sic><corr>s</corr></choice>oma-kula-tilaka-<roleName>t<choice><orig>r̥</orig><reg>ri</reg></choice>kali<lb 
+n="4" break="no"/>ṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī <placeName type="region" subtype="district">lupattarā</placeName>-khāṇḍīya-<placeName type="settlement" subtype="village">jollamurā</placeName><lb 
 n="5" break="no"/><space type="binding-hole"/><!-- amwb here it corresponds to the 4.3.5.A/3 example given in the EGD  -->-grāme vrāhmaṇanā<unclear>n</unclear> samp<choice><sic>u</sic><corr>ū</corr></choice>jya tat-prativāsinaḥ kuṭumvi-janapadāṁs tad-viṣaya-ya<lb 
 n="6" break="no"/><space type="binding-hole"/><!-- amwb here it corresponds to the 4.3.5.A/3 example given in the EGD  -->thā-kālādhyāvasinaḥ samāhartr̥-sannidhātr̥-cāṭa-bhaṭa-piśuna-vetrikāvarodha-ja<lb 
 n="7" break="no"/>na-rāja-vallabhādīN sarvvā<add place="below">N</add> rāja-pādopajīvana<choice><sic>ṁ</sic><corr>ḥ</corr></choice> sam<choice><sic>a</sic><corr>ā</corr></choice>jñāpayati viditam astu bha<lb 
@@ -216,8 +216,8 @@ n="38" break="no"/><unclear>vāṁ</unclear> koṭi-pradānena</l>
 </lg>
 <lg n="8" met="anuṣṭubh">
     <l n="a">harate hāray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
-    <l n="b">manda-vuddhis tamo-vr̥taḥ</l>
-    <l n="c">sa vaddho vā<lb 
+    <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamo-vr̥taḥ</l>
+    <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho vā<lb 
 n="39" break="no"/>ruṇaiḥ</l>
     <l n="d">pāśais tiryag-yoniñ ca gacchati</l><!-- 
     amwb : Sircar 64
@@ -253,18 +253,18 @@ n="42" break="no"/><space type="binding-hole"/><!-- amwb here it corresponds to 
 </lg>
 <lg n="12" met="puṣpitāgrā">
     <l n="a">Iti<lb 
-n="43"/><space type="binding-hole"/><!-- amwb here it corresponds to the 4.3.5.A/3 example given in the EGD  -->kamala-dalāmvu-vindu-lolāṁ</l>
+n="43"/><space type="binding-hole"/><!-- amwb here it corresponds to the 4.3.5.A/3 example given in the EGD  -->kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lolāṁ</l>
     <l n="b">śriyam anucintya manuṣya-jīvitañ ca</l>
     <l n="c">sa-kalam idam u<lb 
-n="44" break="no"/>dāhr̥tañ ca vuddhvā</l>
+n="44" break="no"/>dāhr̥tañ ca <choice><orig>v</orig><reg>b</reg></choice>uddhvā</l>
     <l n="d">na hi puruṣaiḥ para-kīrttayo vilopyā<supplied reason="omitted">ḥ</supplied></l><!-- 
 amwb : Sircar 71
 -->
 </lg>Iti <date calendar="cal:regnal" when-custom="0010" datingMethod="cal:regnal"><rs type="masc" subtype="ruler"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhi<lb 
 n="45" break="no"/>rāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" key="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijaya-rājye saṁ<surplus>m</surplus>va<choice><sic>cch</sic><corr>ts</corr></choice>are daśame <rs type="month" key="caitra">caitra</rs>-māsa-<rs type="fortnight" subtype="dark">dvitīya-pa<lb 
 n="46" break="no"/>kṣa</rs>-<rs type="tithi" n="5">pañcamyā<unclear>ṁ</unclear> tithau</rs> caṅkenāpi samvaT <num value="10">10</num> <rs type="month" key="caitra">caitra</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhitam idaṁ tāmra-śāsanaṁ mahā-sandhi-vigrahi<lb 
-n="47" break="no"/>-prativaddha-<rs type="masc" role="composer"><roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName></rs> <rs type="masc"><persName type="human">vallabhaghoṣa</persName></rs>-suteneti<surplus>ḥ</surplus><g type="circleIndistinct">.</g><!-- amwb it looks like an akṣara --> <rs type="masc" role="engraver"><persName>saṅgrāmena<surplus>ṇ</surplus></persName></rs> Utkirnitaṁ tāmra-śā<lb 
-n="48" break="no"/>sanam idaṁ <rs type="masc"><persName type="human">rayaṇā-Ojhā</persName></rs>-sutena<supplied reason="omitted">.</supplied> śrī-suvarṇṇapurāsthāna-prativa<choice><sic>dha</sic><corr>ddham</corr></choice><supplied reason="omitted">.</supplied> <g type="spiralL"/> namo bhagavat<choice><sic>a</sic><corr>e</corr></choice><lb 
+n="47" break="no"/>-prativaddha-<roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <persName type="human">vallabhaghoṣa</persName>-suteneti<surplus>ḥ</surplus><g type="circleIndistinct">.</g><!-- amwb it looks like an akṣara --> <persName>saṅgrāmena<surplus>ṇ</surplus></persName> Utkirnitaṁ tāmra-śā<lb 
+n="48" break="no"/>sanam idaṁ <persName type="human">rayaṇā-Ojhā</persName>-sutena<supplied reason="omitted">.</supplied> śrī-suvarṇṇapurāsthāna-prativa<choice><sic>dha</sic><corr>ddham</corr></choice><supplied reason="omitted">.</supplied> <g type="spiralL"/> namo bhagavat<choice><sic>a</sic><corr>e</corr></choice><lb 
 n="49"/><add place="right"><persName type="deity">vāsudev<choice><sic>a</sic><corr>ā</corr></choice>ya</persName></add>
               </p>
              </div>
@@ -461,66 +461,77 @@ n="49"/><add place="right"><persName type="deity">vāsudev<choice><sic>a</sic><c
                </p>
                <p n="31-44">Thus it is said in the <title>Dharmaśāstra</title>:</p>
                             <p n="1" rend="stanza">
-                 Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                 Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.
+                               <!-- <note>
                     This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="2" rend="stanza">
-                 Have no doubt about the fruit of what is given by another, o sons of Pr̥thu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
+                 Have no doubt about the fruit of what is given by another, o sons of Pr̥thu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.
+                <!-- <note>
                     This verse corresponds to the verse numbered 85 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="3" rend="stanza">
-                 The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                 The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.
+                <!-- <note>
                     This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="4" rend="stanza">
-                 Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.<note>
+                 Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
+                <!-- <note>
                     This verse corresponds to the verse numbered 5 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note><!-- 
+             </note>
              In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
              -->
              </p>
              <p n="5" rend="stanza">
-                 The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q><note>
+                 The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q>
+                <!-- <note>
                     This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="6" rend="stanza">
-                 The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.<note>
+                 The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.
+                <!-- <note>
                     This verse corresponds to the verse numbered 29 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="7" rend="stanza">
-                 The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.<note>
+                 The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.<!-- <note>
                     This verse corresponds to the verse numbered 137 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="8" rend="stanza">
-                 The foolish man who seizes ou makes <supplied reason="subaudible">a land</supplied> seized, will be covered by obscurity and bound by Varuṇa’s noose and be born again in an animal womb.<note>
+                 The foolish man who seizes ou makes <supplied reason="subaudible">a land</supplied> seized, will be covered by obscurity and bound by Varuṇa’s noose and be born again in an animal womb.
+                <!-- <note>
                     This verse corresponds to the verse numbered 64 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="9" rend="stanza">
-                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.
+                <!-- <note>
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="10" rend="stanza">
-                 The one who steals a single cow, one piece of gold or a half <foreign>aṅgula</foreign> of land will stay in hells up to the dissolution of the created things.<note>
+                 The one who steals a single cow, one piece of gold or a half <foreign>aṅgula</foreign> of land will stay in hells up to the dissolution of the created things.
+                <!-- <note>
                     This verse corresponds to the verse numbered 55 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="11" rend="stanza">
-                 Rāmacandra repeatedly implores all these future kings: this bridge of Dharma which is common to all the kings, you always must protect it.<note>
+                 Rāmacandra repeatedly implores all these future kings: this bridge of Dharma which is common to all the kings, you always must protect it.
+                <!-- <note>
                     This verse corresponds to the verse numbered 117 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="12" rend="stanza">
-                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts performed by others not be destroyed by men.<note>
+                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts performed by others not be destroyed by men.
+                <!-- <note>
                     This verse corresponds to the verse numbered 71 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
                <p n="44-49">On the fifth day of the dark fortnight of the month Caitra of the tenth year of the victorious reign of the Lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Janamejayadeva, i.e. Saṁvat 10 month Caitra day 5, this charter was written by the clerk <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Koighoṣa attached to the great office of peace and war <supplied reason="explanation"><foreign>mahāsāndhivigraha</foreign></supplied> and son of Vallaghoṣa and incised by Saṅgrāma, son of Rayaṇa Ojjhā. This is issued from the capital Suvarṇapurā. Homage to the Lord Vasudeva ! </p>
          </div>
@@ -539,61 +550,71 @@ n="49"/><add place="right"><persName type="deity">vāsudev<choice><sic>a</sic><c
                <p n="31-44">Ainsi est-il dit dans le <title>Dharmaśāstra</title>:  
                </p>
                <p n="1" rend="stanza">
-                 Des terres ont été données par des centaines de rois à commencer par Sagara. C'est à celui qu'appartient ces terres à un moment donné, que revient le bénéfice.<note>
+                 Des terres ont été données par des centaines de rois à commencer par Sagara. C'est à celui qu'appartient ces terres à un moment donné, que revient le bénéfice.
+                  <!-- <note>
                     Ce vers correspond au vers 23 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="2" rend="stanza">
-                 N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pr̥thu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
+                 N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pr̥thu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre. <!--<note>
                     Ce vers correspond au vers 85 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note>-->
              </p>
              <p n="3" rend="stanza">
-                 Celui qui donne des terres se réjouit durant soixante mille ans aux cieux, mais celui qui consteste <supplied reason="subaudible">un don</supplied> ou celui qui approuve <supplied reason="subaudible">cette contestation</supplied> séjournera aussi longtemps en enfer.<note>
+                 Celui qui donne des terres se réjouit durant soixante mille ans aux cieux, mais celui qui consteste <supplied reason="subaudible">un don</supplied> ou celui qui approuve <supplied reason="subaudible">cette contestation</supplied> séjournera aussi longtemps en enfer.
+                <!--<note>
                     Ce vers correspond au vers 123 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note>-->
              </p>
                <p n="4" rend="stanza">
-                 L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.<note>
+                 L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.
+                  <!--<note>
                     Ce vers correspond au vers 5 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note><!-- 
+             </note>
              In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
              -->
              </p>
              <p n="5" rend="stanza">
-                 Les pères applaudissent, les ancêtres trépignent de joie <supplied reason="subaudible">quand ils peuvent dire :</supplied> <q>Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!</q><note>
+                 Les pères applaudissent, les ancêtres trépignent de joie <supplied reason="subaudible">quand ils peuvent dire :</supplied> <q>Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!</q>
+                <!-- <note>
                     Ce vers correspond au vers 20 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="6" rend="stanza">
-                 Celui qui reçoit un don de terre et celui qui l'offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.<note>
+                 Celui qui reçoit un don de terre et celui qui l'offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.
+                <!-- <note>
                    Ce vers correspond au vers 29 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="7" rend="stanza">
-                 Celui qui a volé une terre, l'excellent don d'une vache, une centaine de mets et breuvages sacrificiels, un millier de réservoirs ne peuvent le purifier.<note>
+                 Celui qui a volé une terre, l'excellent don d'une vache, une centaine de mets et breuvages sacrificiels, un millier de réservoirs ne peuvent le purifier.
+                <!-- <note>
                     Ce vers correspond au vers 137 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
                <p n="8" rend="stanza">
-                 L'insensé qui se saisirait ou ferait saisir <supplied reason="subaudible">une terre</supplied>, couvert d'obscurité et lié par les lacets de Varuṇa renaîtra dans une matrice animal.<note>
+                 L'insensé qui se saisirait ou ferait saisir <supplied reason="subaudible">une terre</supplied>, couvert d'obscurité et lié par les lacets de Varuṇa renaîtra dans une matrice animal.
+                  <!-- <note>
                     Ce vers correspond au vers 64 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
                 <p n="9" rend="stanza">
-                 Celui qui vole une terre donnée par lui-même ou par un autre, devient un ver dans des excréments et cuit avec ses ancêtres.<note>
+                 Celui qui vole une terre donnée par lui-même ou par un autre, devient un ver dans des excréments et cuit avec ses ancêtres.
+                   <!-- <note>
                     Ce vers correspond au vers 132 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note>-->
              </p>
                <p n="10" rend="stanza">
-                  Celui qui se saisirait d'une seule vache, d'une seule pièce d'or ou de la moitié d'un aṅgula de terre, séjournera aux enfers jusqu'à la dissolution du monde.<note>
+                  Celui qui se saisirait d'une seule vache, d'une seule pièce d'or ou de la moitié d'un aṅgula de terre, séjournera aux enfers jusqu'à la dissolution du monde.
+                  <!-- <note>
                     Ce vers correspond au vers 55 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-                  </note>
+                  </note> -->
                </p>
                <p n="11" rend="stanza">
-                 À de nombreuses reprises, Rāmacandra a exhorté les rois futurs <supplied reason="subaudible">en ces termes</supplied> : ce pont du Dharma commun à tous les rois, vous devez toujours le protéger.<note>
+                 À de nombreuses reprises, Rāmacandra a exhorté les rois futurs <supplied reason="subaudible">en ces termes</supplied> : ce pont du Dharma commun à tous les rois, vous devez toujours le protéger.
+                  <!-- <note>
                     Ce vers correspond au vers 117 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
-             </note>
+             </note> -->
              </p>
              <p n="12" rend="stanza">
                  Ayant considéré que fortune et vie humaine sont aussi éphémères qu'une goutte d'eau sur un pétale de lotus et que le monde entier n'est qu'une représentation, ne laissons pas des hommes détruire les actes glorieux accomplis par d'autres.<note>
@@ -622,7 +643,7 @@ Hommage au seigneur Vasudeva!</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
+           <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda. Photos available here : https://didomena.ehess.fr/concern/data_sets/vh53x473t</p>
         	<listBibl type="primary">
 				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">114-126</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
