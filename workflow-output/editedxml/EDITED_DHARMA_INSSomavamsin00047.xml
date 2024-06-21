@@ -363,7 +363,7 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/h989rc14m">here</ref>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 	<bibl n="T"><ptr target="bib:Tripathy2005_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

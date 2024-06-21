@@ -181,7 +181,7 @@
                     </lg>
               <lg n="12" met="anuṣṭubh"><!-- best_0004 -->
                         <l n="a">Ādityo varuṇo viṣṇur</l>
-                        <l n="b">vrahmā somo hutāśanaḥ</l>
+                        <l n="b"><choice><orig>v</orig><reg>b</reg></choice>rahmā somo hutāśanaḥ</l>
                         <l n="c">śūlapāṇiś tu bhagavān</l>
                         <l n="d">abhina<lb n="37" break="no"/>ndanti bhūmidaṁ<g type="danda">.</g></l>
                 </lg>
@@ -192,7 +192,7 @@
                     <l n="d">bhūyo bhūyo yācate rāmabhadraḥ</l>
                 </lg>
              <lg n="14" met="puṣpitāgrā"><!-- best_0071 -->
-                    <l n="a">Iti kamala-dalāmvu-vi<lb n="39"/>ndu-lolāṁ</l>
+                    <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>i<lb n="39"/>ndu-lolāṁ</l>
                     <l n="b">śriyam anucintya manuṣya-j<choice><sic>i</sic><corr>ī</corr></choice>vitaṁ ca</l>
                     <l n="c">sakalam idam udāhr̥taṁ ca v<choice><sic>e</sic><corr>u</corr></choice><supplied reason="omitted">d</supplied>dhvā</l>
                     <l n="d">na hi pu<lb n="40" break="no"/>ruṣaiḥ para-kīrtayo vilopyāḥ</l>

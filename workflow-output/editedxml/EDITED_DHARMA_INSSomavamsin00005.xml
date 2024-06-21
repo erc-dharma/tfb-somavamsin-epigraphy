@@ -127,7 +127,7 @@
               <pb n="2v" break="no"/>
               <lb n="21" break="no"/>kar<choice><sic>i</sic><corr>ī</corr></choice>kr̥tya pratipādita <choice><sic>Ī</sic><corr>I</corr></choice>ty avagatya <surplus>sam<choice><sic>ū</sic><corr>u</corr></choice>cita-bho<supplied reason="omitted">gār</supplied>thaṁ mātāpitror</surplus><lb n="22"/>vr̥ddhaye tāmra-śāsanenākarīkr̥tya pratipādita Ity avagatya samucita-bhoga-bhāga-kara-hira<lb n="23" break="no"/>ṇyādikam upanayadbhir bhavadbhiḥ s<choice><sic>ū</sic><corr>u</corr></choice>khena prativastavyam iti<supplied reason="omitted">.</supplied> bhāviśbhiś ca bhūpatibhir ddattir iyam asma<lb n="24" break="no"/>dīyā dharmma-gauravād asmad-a<choice><sic>t</sic><corr>n</corr></choice>urodhāc ca sva-dattir ivā<choice><sic>t</sic><corr>n</corr></choice>upālanīyā<supplied reason="omitted">.</supplied> tathā coktaṁ dharmmaśāstre<supplied reason="omitted">.</supplied> </p>
             <lg n="1" met="anuṣṭubh">
-                   <l n="a">vahubhi<lb n="25" break="no"/>r vvas<choice><sic>ū</sic><corr>u</corr></choice>dhā dattā</l>
+                   <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhi<lb n="25" break="no"/>r vvas<choice><sic>ū</sic><corr>u</corr></choice>dhā dattā</l>
                    <l n="b">rājabhiḥ sagarādibhi<supplied reason="omitted">ḥ</supplied></l>
                    <l n="c">yasya yasya yadā bhūmis</l>
                    <l n="d">tasya tasya tadā phalaṁ<g type="ddanda">.</g></l><!-- 
@@ -184,8 +184,8 @@ amwb : Sircar 29
                   <l n="a">harate hā
                      <pb n="3r" break="no"/>
                      <lb n="33" break="no"/>ray<choice><sic>ate</sic><corr>ed</corr></choice> yas tu</l>
-                  <l n="b">manda-vuddhis tamo-vr̥taḥ</l>
-                  <l n="c">sa vaddho vāruṇaiḥ</l>
+                  <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamo-vr̥taḥ</l>
+                  <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho vāruṇaiḥ</l>
                   <l n="d">pāśais t<choice><sic>ī</sic><corr>i</corr></choice>ryag-yon<choice><sic>īṇ</sic><corr>iñ</corr></choice> ca gacchati<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 64
     -->
@@ -215,9 +215,9 @@ amwb : Sircar 29
     -->
 </lg>
             <lg n="13" met="puṣpitāgrā">
-                  <l n="a">Iti kamala-dalāmvu-vindu<lb n="38" break="no"/>-lolā<supplied reason="omitted">ṁ</supplied></l>
+                  <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu<lb n="38" break="no"/>-lolā<supplied reason="omitted">ṁ</supplied></l>
                   <l n="b">śriyam a<choice><sic>m</sic><corr>n</corr></choice>ucintya manuṣya-jīvita<choice><sic>ṇ</sic><corr>ñ</corr></choice> ca</l>
-                  <l n="c">sa-kalam ida<surplus>r</surplus>m udāhr̥ta<choice><sic>ṇ</sic><corr>ñ</corr></choice> ca vudhvā</l>
+                  <l n="c">sa-kalam ida<surplus>r</surplus>m udāhr̥ta<choice><sic>ṇ</sic><corr>ñ</corr></choice> ca <choice><orig>v</orig><reg>b</reg></choice>udhvā</l>
                   <l n="d"><lb n="39"/>na hi p<choice><sic>ū</sic><corr>u</corr></choice>ruṣaiḥ para-k<choice><sic>i</sic><corr>ī</corr></choice>rttayo vilopyā</l><!-- 
 amwb : Sircar 71
 -->

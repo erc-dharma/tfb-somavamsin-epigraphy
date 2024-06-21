@@ -751,7 +751,7 @@ la terre, telle celle tenue fermement par les bras de Hari, lui le support de la
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departement of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda.</p>
+           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departement of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda. Photos available <ref target="https://didomena.ehess.fr/concern/data_sets/1g05fm96g">here</ref>.</p>
         	<listBibl type="primary">
         	   <bibl n="T"><ptr target="bib:Tripathy2000_01"/><citedRange unit="page">223-228</citedRange></bibl>
 				<bibl n="ST"><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
