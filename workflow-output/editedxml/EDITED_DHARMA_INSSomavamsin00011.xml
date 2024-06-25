@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chaudwār plates #1 of Mahābhavagupta Dharmakandarpa year 31</title>
+            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+            <!-- Add your name in the respStmt matching your involvement -->
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <!-- Work done in the file, e.g. editor ...-->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <!-- This may be the same as the creator of the file -->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Aubervilliers</pubPlace>
+            <idno type="filename">DHARMA_INSSomavamsin00011</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Amandine 
+                            Wattelier-Bricout.</p>
+                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:amwb" when="2024-06-25">Creation of the file</change>
+         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+              <pb n="1r"/><!-- I reproduce the edition of EI3  -->
+<p>
+<pb n="1v"/>
+<lb n="1"/>Om svasti<g type="danda">.</g> śrimad-ārāma-samāvāsi<choice><sic>n</sic><corr>t</corr></choice>aḥ śrīmato vijaya-kaṭakāt<g type="danda">.</g> parama-bhaṭṭā<lb n="2" break="no"/>raka-mahājādhirāja-parameśvara-śrī-śivagupta-deva-pādānudhyāta-parama-maheśva<lb n="3" break="no"/>ra-parama-bhaṭṭāra-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-<lb n="4" break="no"/>mahārājādhirāja-śrī-mahābhavagupta-devaḥ kuśalī<g type="danda">.</g> ko<choice><orig>ś</orig><reg>s</reg></choice>ala-deśe povā-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīya<lb n="5" break="no"/>raṇḍā-grāme<g type="danda">.</g> tathā Alāṇḍalā-grāme<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇān saṁpūjya tad-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīyān yathākālā<lb n="6" break="no"/>dhyāsinaḥ samāhartṛ-sannidhātṛ-niyuktakādhikār<choice><sic>ī</sic><corr>i</corr></choice>ka-dāṇḍapāśika-cāṭa<lb n="7" break="no"/>-bhaṭ<surplus>ṭ</surplus>a-piśuna-ve<supplied reason="omitted">t</supplied>rikāvarodhajana-rānaka-<supplied reason="omitted">rājaputra</supplied>-rājavallabhādī<choice><sic>na</sic><corr>N</corr></choice> sarvvāN sa<lb n="8" break="no"/>mājñāpayati<g type="danda">.</g> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ <choice><orig>ṣ</orig><reg>s</reg></choice>anidhiḥ so<lb n="9" break="no"/>panidhis sa-daśāparādhas sarvva<choice><orig>v</orig><reg>b</reg></choice>ādhāvivarjjitas sarvvoparikakarādāna-sahitaś catuḥ<lb n="10" break="no"/>-sīmāparyantas sā<supplied reason="omitted">mra</supplied>-madhukas  sagartoṣa<supplied reason="omitted">ra</supplied>s sa-jala-sthala-sahitaḥ pratiniṣiddha-cāṭa-bhaṭ<surplus>ṭ</surplus>a-pra<lb n="11" break="no"/>veśaḥ<g type="danda">.</g> ṭ<surplus>ṭ</surplus>akārī-vinirggatāya<g type="danda">.</g> ko<choice><orig>ś</orig><reg>s</reg></choice>ale turvvunā-vāstavyāya<g type="danda">.</g> bharadvāja-gotrāya<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ā<lb n="12" break="no"/>rhaspatyāṅgirasa-pravarāya<g type="danda">.</g> vājasena-śākhadhyāyine bhaṭṭa-śrī-mahattama-sādhāraṇā<lb n="13" break="no"/>ya<g type="danda">.</g> bhaṭṭa-śrī-śobhana-sutāya<g type="danda">.</g> saliladhārā-purassaram ā-candra-tārakārkka-kṣiti-sama
+    <pb n="2r" break="no"/>
+    <lb n="14" break="no"/>kālopabhogyāya<g type="danda">.</g> mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye tām<surplus>v</surplus>ra-śāsanenākarī<lb n="15" break="no"/>kṛtya pratipāditam ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādibhir pratyāyam upanaya<lb n="16" break="no"/>dbhir bhavadhiḥ sukhena prativastavyam iti<g type="danda">.</g> bhāvibhiś ca bhūpatibhir ddattir iyam asmadīyā dharmma<lb n="17" break="no"/>-gauravād asmad-anurodhāc ca sva-dattir ivānupalanīyā<g type="ddanda">.</g> tathā coktan dharmaśāstre<g type="danda">.</g>
+</p>
+             <lg n="1" met="anuṣṭubh">
+                   <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhi<lb n="18" break="no"/>r vvasudhā dattā</l>
+                   <l n="b">rājabhis sagarādibhiḥ<g type="danda">.</g></l>
+                   <l n="c">yasya yasya yadā bhūmis</l>
+                   <l n="d">tasya tasya tadā phalaṁ<g type="ddanda">.</g></l><!-- 
+                amwb: Sircar 23
+               --></lg>
+             <lg n="2" met="anuṣṭubh">
+                  <l n="a">mā bhū<lb n="19" break="no"/>d a-phala-śaṅkā vaḥ</l>
+                  <l n="b">pa<surplus>pa</surplus>ra-datteti pārthivāḥ<g type="danda">.</g></l>
+                  <l n="c">sva-dānāt <choice><sic>m</sic><corr>ph</corr></choice>alam ānandyam</l>
+                  <l n="d">para-dānā<lb n="20" break="no"/>nupālane</l><!-- 
+                  amwb : Sircar 85
+                  -->
+            </lg>
+             <lg n="3" met="anuṣṭubh">
+                   <l n="a">ṣaṣṭhim varṣa-sahasrāṇi</l>
+                   <l n="b">svargge modati bhūmidaḥ<g type="danda">.</g></l>
+                   <l n="c">Ākṣeptā cānuma<lb n="21" break="no"/>ntā ca</l>
+                   <l n="d">dvitayan narakaṁ vrajeT<g type="ddanda">.</g></l><!-- 
+    amwb : Sircar 123
+    -->
+            </lg>
+             <lg n="4" met="indravajrā"><!-- best_0005 inversion cd -->
+                    <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ</l>
+                    <l n="b">bhūr vvaiṣṇavī<lb n="22"/>sūrya-sutāś ca gāvaḥ<g type="danda">.</g></l>
+                    <l n="c">yaḥ kā<choice><orig>ṇ</orig><reg>ñ</reg></choice>canaṁ gā<choice><orig>ṇ</orig><reg>ñ</reg></choice> ca mahī<choice><orig>ṇ</orig><reg>ñ</reg></choice> ca dadyāt</l>
+                   <l n="d">dattās trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice></l>
+                    </lg>
+             <lg n="5" met="anuṣṭubh"><!-- best_0020 -->
+                    <l n="a"><lb n="23"/>Āsphoṭayanti pitaraḥ</l>
+                    <l n="b">pravalganti pitāmahāḥ<g type="danda">.</g></l>
+                    <l n="c">bhūmidātā kule jātaḥ</l><!-- Sircar's list : bhūmido 'smat-kule jātaḥ -->
+                    <l n="d">sa nas trātā bha<lb n="24" break="no"/>viṣyati<g type="ddanda">.</g></l>
+                           </lg>
+             <lg n="6" met="anuṣṭubh"><!-- best_0029 -->
+                    <l n="a">bhūmiṁ yaḥ pratigr̥hṇāti</l>
+                    <l n="b">yaś ca bhūmiṁ prayacchati<g type="danda">.</g></l>
+                    <l n="c">Ubhau tau puṇya-karmmāṇau</l>
+                    <l n="d">ni<lb n="25" break="no"/>yataṁ svargga-gāminau<g type="ddanda">.</g></l>
+                    </lg>
+             <lg n="7" met="anuṣṭubh"><!-- best_0137 -->
+                        <l n="a">taḍāgānā<supplied reason="omitted">ṁ</supplied> sahasrāṇi</l>
+                        <l n="b">vājapeya-śatā<supplied reason="omitted">ni</supplied> ca<g type="danda">.</g></l>
+                        <l n="c">gavāṁ koṭi-pra<lb n="26" break="no"/>dānena</l>
+                        <l n="d">bhūmi-harttā na śudhyati<g type="ddanda">.</g></l>
+                    </lg>
+             <lg n="8" met="anuṣṭubh"><!-- best_0064 -->
+                        <l n="a">harate hārayed yas tu</l>
+                        <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamo-vr̥taḥ<g type="danda">.</g></l>
+                        <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho
+                            <pb n="2v"/>
+                            <lb n="27"/>vāruṇaiḥ pāśais</l>
+                        <l n="d">tiryag-yoniṁ ca gacchati<g type="ddanda">.</g></l>
+                    </lg>
+             <lg n="9" met="anuṣṭubh"><!-- best_0055 -->
+                                <l n="a">suvarṇṇam ekaṁ gām ekāṁ</l>
+                                <l n="b">bhūmer apy arddham aṅgulaṁ<g type="danda">.</g></l>
+                                <l n="c"><lb n="28"/>haran narakam āyāti</l>
+                                <l n="d">yāvad—ā-bhūta-saṁplavaṁ<g type="ddanda">.</g></l>
+                            </lg>
+             <lg n="10" met="anuṣṭubh"><!-- best_0132_00 -->
+                        <l n="a">sva-dattām para-dattām vā</l>
+                        <l n="b">yo hareta vasundha<lb n="29" break="no"/>rāṁ<g type="danda">.</g></l>
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha pacyate<g type="ddanda">.</g></l>
+                    </lg>
+             <lg n="11" met="anuṣṭubh"><!-- best_0004 -->
+                        <l n="a">Ādityo varuṇo viṣṇur</l>
+                        <l n="b"><choice><orig>vv</orig><reg>b</reg></choice>rahmā<lb n="30"/>somo hutāśanaḥ<g type="danda">.</g></l>
+                        <l n="c">śūlapāṇiś ca bhagavān</l>
+                        <l n="d">abhinandanti bhūmidaM<g type="ddanda">.</g></l>
+                </lg>
+                <lg n="12" met="śālinī"><!-- best_0117 -->
+                    <l n="a">sāmānyo<lb n="31"/> ’yaṁ dharmma-setur <choice><sic>tr̥</sic><corr>nr̥</corr></choice>pāṇāṁ</l>
+                    <l n="b">kāle kāle pālanīyo bhavadbhiḥ<g type="danda">.</g></l>
+                    <l n="c">sarvvān evaṁ bhāvinaḥ pārthi<lb n="32" break="no"/>vendrān</l>
+                    <l n="d">bhūyo bhūyo yācate rāmabhadraḥ<g type="ddanda">.</g></l>
+                </lg>
+             <lg n="13" met="puṣpitāgrā"><!-- best_0071 -->
+                    <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lo<lb n="33" break="no"/>lāṁ</l>
+                    <l n="b">śriyam anucintya manuṣya-jīvitaṁ ca<g type="danda">.</g></l>
+                    <l n="c">sakalam idam udāhr̥ta<supplied reason="omitted">ṁ</supplied> ca <choice><orig>v</orig><reg>b</reg></choice>u<choice><sic>dvā</sic><corr>ddhvā</corr></choice></l>
+                    <l n="d"><lb n="34"/>na hi puruṣaiḥ para-kīrtayo vilopyāḥ<g type="ddanda">.</g></l>
+                </lg>
+             <p>sakaka-bhūpāla-mauli-mālā-vi<lb n="35" break="no"/>lagna-māṇikya-mayūkha-vrātābhira<choice><orig>ṇ</orig><reg>ñ</reg></choice>jitāṅ<choice><sic>gi</sic><corr>ghri</corr></choice>-kamala-yugalaḥ pracaṇḍa-dorddaṇḍa-maṇḍa<lb n="36" break="no"/>lāgra-khaṇḍitārāti-matta-mātaṅga-vimukta-muktāphala-prasādhitāśeṣa-raṇa-mahī<lb n="37" break="no"/>-maṇḍala<g type="ddanda">.</g> yas sādhāraṇa-nāmni mantri-tilake vinyasya sarvvāgamaṁ dhairyodanvati tī<lb n="38" break="no"/>vra-tejasi dhuraṁ rājasya viprottame<g type="danda">.</g> mānākhyānaka-vistarāmṛta-rasāsvādād a<lb n="39" break="no"/>manda-sphurat-santoṣāt sukham anvabhūd avirataṁ pṛthvīśa-cūḍamaṇiḥ<g type="ddanda">.</g> jñ<choice><sic>ā</sic><corr>e</corr></choice>yāś<supplied reason="omitted">eṣā</supplied>rtha
+                 <pb n="3r" break="no"/><lb n="40" break="no"/>-śāstra-smṛti-vimala-dhiyā veda-vedaṅga-vidyā-śikṣā-kalpetihāsa-prakaṭa-suragu<lb n="41" break="no"/>ruḥ prāpta-bhūyiṣṭha-dhāmnā<g type="danda">.</g> nāmnā sādhāraṇena dvija-vara-vidhinā mantriṇā yasya rājyaṁ ni<lb n="42" break="no"/>rvyūdhaṁ so ’yam uccais tri-jagati vidito dharmma-kandarppa-devaḥ<g type="ddanda">.</g> parama-maheśvara-parama<lb n="43" break="no"/>-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī<lb n="44" break="no"/>-mahābhavagupta-deva0pāda-padma-pravarddhamāna-vijaya-rājye eka-triṅśatt<choice><sic>i</sic><corr>a</corr></choice>me s<choice><sic>ā</sic><corr>a</corr></choice>mvatsa<lb n="45" break="no"/>re<g type="danda">.</g> mārgga śudi tithau trayodaśyāṁ yatrāṅkenāpi samvat <num value="31">31</num> mārgga<lb n="46"/>śudi <num value="13">13</num> likhitam idaṁ triphalī-tām<surplus>v</surplus>ra-śāsana<supplied reason="omitted">ṁ</supplied> mahāsāndhivigra<lb n="47" break="no"/>hī-rāṇaka-malladatta-prati<choice><orig>v</orig><reg>b</reg></choice>addha-kāyastha-śrī-māhūkena priyaṅkarā<lb n="48" break="no"/>ditya-suteneti<g type="ddanda">.</g> praṇītaṁ ko<choice><orig>ś</orig><reg>s</reg></choice>alendreṇa prati<choice><orig>v</orig><reg>b</reg></choice>odhya-maṃhattama<g type="danda">.</g> Ādatta puṇḍarīkā<lb n="49" break="no"/>kṣaḥ śāsanaṁ tāmra-nirmmitam<g type="ddanda">.</g> Utkirnita mādhavena vāsu<choice><sic>ṣū</sic><corr>su</corr></choice>teneti<g type="ddanda">.</g>
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+		<bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">B</citedRange><citedRange unit="page">347-351</citedRange></bibl>
+        	    	<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">VIII</citedRange><citedRange unit="page">206-212</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">247</citedRange></bibl>
+              <!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
