@@ -92,38 +92,38 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/>
-              <p>
+              <p><!-- The text encoded is the one edited by Chhabra1935-1936_02 -->
                   <lb 
 n="1"/>Om svasty amala-maṇi-kuṭṭima-sadana<choice><sic>c</sic><corr>v</corr></choice>alayanaikavaravāravilāsijīja<lb 
 n="2" break="no"/>nacaraṇanṛpuraracatrast<surplus>r</surplus>apārā<choice><sic>p</sic><corr>v</corr></choice>atakula-pakṣa-svana<choice><orig>v</orig><reg>b</reg></choice>dhigitidaśagnānā<lb 
-n="3" break="no"/>de<choice><orig>s</orig><reg>ś</reg></choice>āntarādāgatavandijanavistāritak<choice><sic>i</sic><corr>ī</corr></choice>rttirvvividhavidyālaṁkṛtavidvajjanaja<lb 
-n="4" break="no"/>nitakāvyālāpastutadhanapativibhavastyārddhitaracitavicitraprāsādāṭṭā<lb 
-n="5" break="no"/>likhādevakuledyānavanavāpīkūpataḍāgopa<choice><orig>s</orig><reg>ś</reg></choice>obhājitatasurapurama<lb 
-n="6" break="no"/>himnaḥ<g type="danda">.</g> pracaṇḍadordaṇḍamaṇḍalāgratuṇḍakhaṇḍitārātimatta<lb 
-n="7" break="no"/>mātaṅgavimukta;uktāphalaprasādhitā<choice><orig>s</orig><reg>ś</reg></choice>eṣamahīmaṇḍala<lb 
-n="8" break="no"/>sakalabhūpālamaulimālāvilagnamāṇikyamay<choice><sic>u</sic><corr>ū</corr></choice>khavrātābhir añji<lb 
-n="9" break="no"/>takramakamalayugalāT śrīmadārāmāT paramabhaṭṭārakamahārājā<lb 
-n="10" break="no"/>dhirājaparmeśvaraparamamāheśvaraśrī<choice><orig>s</orig><reg>ś</reg></choice>ivaguptadevapādānudhyā<lb 
-n="11" break="no"/>taparamamāheśvaraparamabhaṭṭārakamahārājādhirājaparameśvara
+n="3" break="no"/>de<choice><orig>s</orig><reg>ś</reg></choice>āntarādāgatavandijanavistāritak<choice><sic>i</sic><corr>ī</corr></choice>rttirvvividha-vidyālaṁkṛta-vidvajjanaja<lb 
+n="4" break="no"/>nitakāvyālāpastutadhanapativibhavastyārddhitaracita-vicitra-prāsādāṭṭā<lb 
+n="5" break="no"/>likhādevakuledyāna-vana-vāpī-kūpa-taḍāgopa<choice><orig>s</orig><reg>ś</reg></choice>obhājitatasurapurama<lb 
+n="6" break="no"/>himnaḥ<g type="danda">.</g> pracaṇḍadordaṇḍa-maṇḍalāgratuṇḍa-khaṇḍitārātimatta<lb 
+n="7" break="no"/>mātaṅga-vimukta-muktāphala-prasādhitā<choice><orig>s</orig><reg>ś</reg></choice>eṣa-mahī-maṇḍala<lb 
+n="8" break="no"/>sakala-bhūpāla-mauli-mālāvilagnamāṇikyamay<choice><sic>u</sic><corr>ū</corr></choice>kha-vrātābhir añji<lb 
+n="9" break="no"/>ta-krama-kamala-yugalāT śrīmadārāmāT parama-bhaṭṭāraka-mahārājā<lb 
+n="10" break="no"/>dhirāja-parameśvara-parama-māheśvara-śrī<choice><orig>s</orig><reg>ś</reg></choice>ivagupta-deva-pādānudhyā<lb 
+n="11" break="no"/>ta-paramamāheśvara-paramabhaṭṭāraka-mahārājādhirāja-parameśvara
                   <pb n="2r" break="no"/>
                   <lb 
 n="12" break="no"/>somakulatilakatrikaliṅgādhipatiśrīmahābhavaguptarājadevaḥ ku<choice><orig>s</orig><reg>ś</reg></choice>a<lb 
 n="13" break="no"/>lī kosalāyāṁ luputurālhaṇḍāprati<choice><orig>v</orig><reg>b</reg></choice>addhagottaIkelāgrāāme<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇāN saṁp<choice><sic>u</sic><corr>ū</corr></choice>jya tadviṣa<lb 
-n="14" break="no"/>yīyayathākālādhyāsinaḥ samāhartṛsannidhātṛdāṇdapā<choice><orig>s</orig><reg>ś</reg></choice>ikap<choice><orig>s</orig><reg>ś</reg></choice>unavetṛkā<lb
-n="15" break="no"/>varodhajanarājavallabhādīN sarvvāN samājñāpayati<g type="danda">.</g> viditam astu bhavatāṁ<g type="danda">.</g> ya<lb 
+n="14" break="no"/>yīya-yathākālādhyāsinaḥ samāhartṛ-sannidhātṛ-dāṇdapā<choice><orig>s</orig><reg>ś</reg></choice>ika-pi<choice><orig>s</orig><reg>ś</reg></choice>una-vetṛkā<lb
+n="15" break="no"/>varodhajana-rājavallabhādīN sarvvāN samājñāpayati<g type="danda">.</g> viditam astu bhavatāṁ<g type="danda">.</g> ya<lb 
 n="16" break="no"/>thāsmābhir ayaṁ grāmaḥ sanidhiḥ sopanidhiḥ sarvva<choice><orig>v</orig><reg>b</reg></choice>ādhāvivarjjitaḥ sarvvoparika<lb 
-n="17" break="no"/>rakarādānasametaḥ sām<surplus>v</surplus>ramadhukaḥ sagarttoṣaraścatu<supplied reason="omitted">ḥ</supplied>sīmāpa<lb 
-n="18" break="no"/>ryantaḥ sajalasthalasahitaḥ<g type="danda">.</g> khadirapadravinirggatāya suvarṇṇa<lb 
-n="19" break="no"/>puravāstavyāya śrīkamalavanavaṇiksthaānāya saliladhārāpuraḥsaramāca<lb 
-n="20" break="no"/>ndratārakārkakṣitisamakālopabhogārthaṁ mātṛpitrorātmanaś ca puṇyaya<choice><orig>s</orig><reg>ś</reg></choice>o<lb 
-n="21"/>'bhivṛddhaye tām<surplus>v</surplus>ra<choice><orig>s</orig><reg>ś</reg></choice>āsanenākarīkṛtya pratipādita Ityavagatya samucita<lb 
-n="22" break="no"/>bhogqbhāgakarahiraṇyādibhir bhavadhiḥ sukhena prativastavyaṁ<g type="danda">.</g> Anenāpi prā<lb 
-n="23" break="no"/>pta<surplus>ṁ</surplus><choice><orig>s</orig><reg>ś</reg></choice>āsanena suvaṛṇṇapurīyaśrīkamalavanavanaksthānena  <choice><orig>v</orig><reg>b</reg></choice>licarunaivedya
+n="17" break="no"/>rakarādāna-sametaḥ sām<surplus>v</surplus>ramadhukaḥ sagarttoṣaraścatu<supplied reason="omitted">ḥ</supplied>sīmāpa<lb 
+n="18" break="no"/>ryantaḥ sa-jala-sthala-sahitaḥ<g type="danda">.</g> khadirapadra-vinirggatāya suvarṇṇa<lb 
+n="19" break="no"/>pura-vāstavyāya śrī-kamalavana-vaṇik-sthānāya saliladhārā-puraḥsaramāca<lb 
+n="20" break="no"/>ndra-tārakārka-kṣiti-samakālopabhogārthaṁ māt<choice><sic>ṛ</sic><corr>ā</corr></choice>-pitror ātmanaś ca puṇya-ya<choice><orig>s</orig><reg>ś</reg></choice>o<lb 
+n="21"/>'bhivṛddhaye tām<surplus>v</surplus>ra<choice><orig>s</orig><reg>ś</reg></choice>āsanenākarīkṛtya pratipādita Ity avagatya samucita<lb 
+n="22" break="no"/>bhoga-bhāga-kara-hiraṇyādibhir bhavadhiḥ sukhena prativastavyaṁ<g type="danda">.</g> Anenāpi prā<lb 
+n="23" break="no"/>pta<surplus>ṁ</surplus><choice><orig>s</orig><reg>ś</reg></choice>āsanena suvaṛṇṇapurīya-śrī-kamala-vanavanak<!-- vaṇik? -->sthānena  <choice><orig>v</orig><reg>b</reg></choice>li-caru-naivedya
                   <pb n="2v" break="no"/>
                   <lb 
-n="24" break="no"/>khaṇḍasphuṭita-pratikaraṇārya śrīke<choice><orig>s</orig><reg>ś</reg></choice>ava-śrī-Āditya-bhaṭṭarakābhyāṁ<g type="danda">.</g> devakul<choice><sic>o</sic><corr>ā</corr></choice><lb 
+n="24" break="no"/>khaṇḍa-sphuṭita-pratikaraṇārya śrī-ke<choice><orig>s</orig><reg>ś</reg></choice>ava-śrī-Āditya-bhaṭṭarakābhyāṁ<g type="danda">.</g> devakul<choice><sic>o</sic><corr>ā</corr></choice><lb 
 n="25" break="no"/>bhyāṁ <choice><orig>s</orig><reg>ś</reg></choice>āsanīkṛtya pradatta<supplied reason="omitted">ḥ</supplied><g type="danda">.</g> bhāvibhiś ca bhūpatibhir dattir iya<surplus>ṁ</surplus>m asmadīyā dharmagau<lb 
-n="26" break="no"/>ravādasmadanuro<supplied reason="omitted">d</supplied>hācca svadattiri<choice><sic>y</sic><corr>v</corr></choice>ā<g type="danda">.</g> tathā coktaṁ dharma<choice><orig>s</orig><reg>ś</reg></choice>ātre<g type="danda">.</g>
+n="26" break="no"/>ravād asmad-anuro<supplied reason="omitted">d</supplied>hāc ca sva-dattir i<choice><sic>y</sic><corr>v</corr></choice>ānupalanīyā<g type="danda">.</g> tathā coktaṁ dharma<choice><orig>s</orig><reg>ś</reg></choice>āstre<g type="danda">.</g>
               </p>
              <lg n="1" met="anuṣṭubh">
                    <l n="a"><lb 
@@ -226,18 +226,18 @@ n="41" break="no"/>dāhr̥taṁ ca v<choice><sic>e</sic><corr>u</corr></choice><
                     <l n="d">na hi puruṣaiḥ para-k<choice><sic>i</sic><corr>ī</corr></choice>vrtayo vilopyāḥ<g type="danda">.</g></l>
                 </lg>
              <p>
-                 paramabhaṭṭārakamahārājādhi<lb 
-n="42" break="no"/>rājaparameśvarasomakulatilakatrikaliṅgādhipatiśrī<supplied reason="omitted">ma</supplied>jjana<lb 
-n="43" break="no"/>mejayadevasya vijayarājye smvatsare saptadasame Āṣāḍha<lb 
-n="44" break="no"/>māsasitapakṣapañcabhyāṁ<g type="danda">.</g> yatrāṅkataḥ<g type="danda">.</g> samvaT <num value="17">17</num> Āṣāḍhaśudi <num value="5">5</num><g type="danda">.</g> jñeyā<lb 
-n="45"/> 'śeṣārtha<choice><orig>s</orig><reg>ś</reg></choice>āstrasmṛtivima<supplied reason="omitted">la</supplied>dhiyā devadevāṅgavidyā<g type="danda">.</g> <choice><sic>sī</sic><corr>śi</corr></choice><lb 
-n="46"/><lb 
-n="47"/><lb 
-n="48"/><lb 
-n="49"/>
+                 paramabhaṭṭāraka-mahārājādhi<lb 
+n="42" break="no"/>rāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī<supplied reason="omitted">ma</supplied>j-<persName>jana<lb 
+n="43" break="no"/>mejaya</persName>-devasya vijayarājye samvatsare saptadasame Āṣāḍha<lb 
+n="44" break="no"/>māsasitapakṣapañcabhyāṁ<g type="danda">.</g> yatrāṅkataḥ<g type="danda">.</g> samvaT <num value="17">17</num> Āṣāḍha-śudi <num value="5">5</num><g type="danda">.</g> jñeyā<lb 
+n="45"/> 'śeṣārtha<choice><orig>s</orig><reg>ś</reg></choice>āstra-smṛti-vima<supplied reason="omitted">la</supplied>dhiyā deva-devāṅga-vidyā<g type="danda">.</g> <choice><sic>sī</sic><corr>śi</corr></choice>kṣākalpetihāsapra<lb 
+n="46" break="no"/>kaṭa-sura-guru-prāpta-bhūyiṣṭha-dhāmnā<g type="danda">.</g> nāmnā sādhāraṇena dvijavaratanunā ma<lb 
+n="47" break="no"/>ntriṇā yasya rājyaṁ nirv<supplied reason="omitted">y</supplied>ūḍhaṁ soyasuccais<choice><orig>tṛ</orig><reg>tri</reg></choice>jagatī deva-<persName>janamejaya</persName><lb 
+n="48"/>śrīḥ <gap extent="unknown" reason="illegible"/>sa<gap extent="unknown" reason="illegible"/>suta<g type="danda">.</g><lb 
+n="49"/><gap extent="unknown" reason="illegible"/>vṛ<gap extent="unknown" reason="illegible"/>suta<gap extent="unknown" reason="illegible"/>tki<gap extent="unknown" reason="illegible"/>harada<gap extent="unknown" reason="illegible"/>
                   <pb n="2v"/><lb 
-n="50"/><lb 
-n="51"/></p>
+n="50"/>l<choice><sic>ī</sic><corr>i</corr></choice>kh<choice><sic>ī</sic><corr>i</corr></choice>tam <choice><sic>ī</sic><corr>i</corr></choice>daṁ tām<surplus>v</surplus>ra-sāsanaṁ mahāsandh<choice><sic>ī</sic><corr>i</corr></choice>v<choice><sic>ī</sic><corr>i</corr></choice>grah<choice><sic>ī</sic><corr>i</corr></choice> rāṇakaśrīmalladattaḥ<g type="ddanda">.</g> mahākṣapaṭa<lb 
+n="51"/>l<choice><sic>ī</sic><corr>i</corr></choice>nā kailāsasutena śrī-Alavena<g type="ddanda">.</g> Utkīrṇṇañ ca sīvṛllāsutena haradāsenet<choice><sic>ī</sic><corr>i</corr></choice><g type="ddanda">.</g> <g type="circle">.</g> <g type="ddanda">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -248,8 +248,21 @@ n="51"/></p>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" source="bib:Chhabra1935-1936_02">
  	<!--translation encoded as per EGD §9.2 -->
+             <p n="1-13">Om ! Hail ! From the prosperous Arāma, which has (all) the ten quarters deafened by the fluttering noise of the flocks of pigeons frightened by the jingle of the anklets (worn) on the feet of the numerous excellent courtesans (moving) within the enclosures of mansions having floors (studded) with bright jewels, which has its fame spread by minstrels hailing from different countries, which (ries (in opulence) with) the wealth of Kubera (lit. lord of riches) exalted in poetic narrations produced by scholars endowed with various learning, (and) which has eclipsed the grandeur of Amarāvatī (lit. city of gods) by the splendour of its array of magnificent palaces, lofty buildings, temples, gardens, step-wells, wells and tanks ; the illustrious <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign> <foreign>parameśvara</foreign> Mahābhavaguptarājadeva, the overlord of Trikaliṅga, an ornament of the Soma-kula, (and) a devout worshipper of Maheśvara, who has meditated on the feet of the illustrious <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign> <foreign>parameśvara</foreign> Śivaguptadeva, a devout worshipper of Maheśvara, who (i.e., Mahā-Bhavagupta) has the entire circle of the (battle)-field decorated by the pearls loosened from the (temples of the) enemies’ rutting elephants rent asunder with the point of the scimitar (wielded) by his cudgel-like impetuous arm (and) who has the pair of his lotus-like feet tinted by the collection of rays (emanating) from the precious stones attached to the wreaths over the coronets of all the princes, being in good health,
+</p>
+             <p n="13-15">having paid homage to the Brāhmaṇas in the Gottaïkelā village included in the Luputurā-khaṇḍa in Kosalā, issues a command to all (his officials) of that district, (persons) who mav at any time be holding office, (namely) <foreign>Samāhartṛ</foreign>, <foreign>Sannidhātṛ</foreign>, <foreign>Dāṇḍapāśika</foreign>, <foreign>piśuna</foreign>, <foreign>Vaitrika</foreign>, <foreign>Avarodhajana</foreign>, <foreign>Rājavallabha</foreign>, and so forth</p>
+             <p n="15-21">Be it known to you that by (this) copper-charter We have, for the accretion of merit and fame to (Our) parents as well as to Ourself, donated this (Gottaïkelā) village, with libations of water, having made (it) tax-free, exempt from all hindrance, extending up to (its) four boundaries, along with (its) hidden treasures and deposits, mango and <foreign>Bassia latifolia</foreign> trees, pits and barren plots, water and land, with (the privilege of) collecting toll and revenue,
+to the illustrious Kamalavana Merchants’ Association, immigrant from Khadirapadra (and) resident in Suvarṇapura, to be enjoyed as long as the sun, the moon, the stars and the earth {endure).</p>
+             <p n="21-22">Being aware of this, you should dwell in happiness, offering (to its) customary share of income, rent, (tribute of) gold, and so forth.
+</p>
+             <p n="22-25">Being in possession of the charter, this illustrious Kamalavana Merchants’ Association has, in its turn, bestowed (the same village), having registered it as a deed, on the two temples, (one) of the lord Keśava (and the other) of the lord Āditya, for charity, oblation and offerings as well as for repairing wear and tear (in the temples).</p>
+             <p n="25-26">And, future kings should, through respect for the dharma and out of regard for Us, protect this Our grant as their own grant. For, it is declared in the <title>Dharmaśāstra</title> :</p>
+             <p n="27-41"></p>
+             <p n="41-44">(This charter has been issued) during the victorious reign of the illustrious <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign> <foreign>parameśvara</foreign> Janamejayadeva, the overlord of Trikaliṅga, an ornament of the Soma-kula. in the seventeenth year on the fifth day of the bright fortnight of the month of Aṣādha, where in figures (it is) Anno 17 Aṣādha <foreign>śudi</foreign> 5.</p>
+             <p n="44-48">Highly renowned in (all) the three worlds is this very illustrious Janamejayadeva, the administration of whose kingdom has been carried on by his minister Sādhāraṇa by name, an eminent <foreign>dvija</foreign> (lit. twice-born) by birth, whose intellect is clear owing to (his knowledge of) all the lores of polity and law worth knowing, who is manifestly a very Bṛhaspati (lit. preceptor of gods) in (expounding) the Vedas and the Vedāṅga-vidyās (such as) <foreign>śikṣā</foreign>, <foreign>kalpa</foreign>, <foreign>itihāsa</foreign> (and so forth), (and) who is (on account of all that) possessed of supreme glory.</p>
+             <p n="50-51">This <foreign>tāmraśāsana</foreign> has been composed by Kailāsa's son, the illustrious Alava, the <foreign>mahākṣapaṭalin</foreign> (attached to) the illustrious <foreign>mahāsāndhivigrahin</foreign> Rāṇaka Malladatta and engraved by Haradāsa, son of Sīvṛllā.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -258,7 +271,8 @@ n="51"/></p>
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	    <bibl n="C"><ptr target="bib:Chhabra1935-1936_02"/></bibl>
+        	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">VI</citedRange><citedRange unit="page">194-199</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
