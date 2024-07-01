@@ -113,7 +113,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/><p><lb n="1"/>Oṁ<!-- symbol? check Here I reproduce Rajaguru's edition for the moment but I have to compare it with others editions soon Shastri : symbol Au<supplied reason="omitted">M</supplied> --> svasti<g type="danda">.</g> śrī-vin<choice><sic>i</sic><corr>ī</corr></choice>ta-p<choice><sic>ū</sic><corr>u</corr></choice>rāt kaṭakāt <roleName>para<unclear>ma</unclear>-māhe<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-<roleName>parama-bha<lb n="2" break="no"/>ṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagu<!--  <choice><sic>ū</sic><corr>u</corr></choice> in Shastri-->pta</persName>-<roleName>rāja-deva</roleName>-pā<unclear>dā</unclear>n<choice><sic>ū</sic><corr>u</corr></choice>dhyāyī<!-- <surplus><g type="danda">.</g></surplus> in Shastri --><lb n="3"/><roleName>parama-māhe<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parame<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-so<lb n="4" break="no"/>ma-k<choice><sic>ū</sic><corr>u</corr></choice>la-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahā<choice><sic>s</sic><corr>ś</corr></choice>ivag<choice><sic>ū</sic><corr>u</corr></choice>pta</persName>-<roleName>rāja-devaḥ</roleName> k<choice><sic>ū</sic><corr>u</corr></choice><choice><sic>s</sic><corr>ś</corr></choice>a<lb n="5" break="no"/>lī<surplus>ḥ</surplus><supplied reason="omitted">.</supplied> ko<choice><sic>s</sic><corr>ś</corr></choice>ala-deśe<surplus><g type="danda">.</g></surplus> sanulāviṣayoya<!-- sanūlāviṣayīya Shastri -->-talakaj jagrāmasambandhī<!-- °bandho coorected in baddho in Shastri --><lb n="6"/>turadāśā<!-- ttaradiśā corrected in ttaradīśya in Shastri -->narīya<!-- varīya in Shastri --> nadī sameta-bhūmiś catu<choice><sic>s</sic><corr>ś</corr></choice>īmayākṣi<choice><sic>pre</sic><corr>pta</corr></choice><lb n="7" break="no"/>vataḥ<gap unit="character" extent="unknown" reason="illegible"/>brāhmaṇān sampūjya <choice><sic>ca</sic><corr>ta</corr></choice>dviṣayīya<!-- verification Shastri's edition stop here --><lb n="8"/>niṣiddha cāṭabhaṭapraveśakasya<supplied reason="omitted">.</supplied> gotrayakaśyapāvatsānaidhru<unclear>va</unclear>prava<lb n="9" break="no"/>rāya<supplied reason="omitted">.</supplied> vā<choice><sic>da</sic><corr>ja</corr></choice>śena madhyandina ś<choice><sic>a</sic><corr>ā</corr></choice>khādhyay<choice><sic>ī</sic><corr>i</corr></choice>ne<supplied reason="omitted">.</supplied> mādhvīlavini<unclear>rga</unclear>tāya<lb n="10"/>kosalajalajaḍḍavāstavyāya<supplied reason="omitted">.</supplied> śrīkāmadevanāmne<supplied reason="omitted">.</supplied> harṣanaptre na<lb n="11" break="no"/>rasiṁhasutāya<supplied reason="omitted">saliladhārā</supplied>p<choice><sic>ū</sic><corr>u</corr></choice>raḥsaramācandratārārkkakṣitisamakālopabho<lb n="12" break="no"/>gārthaṁ mātāpitror ātmanaś ca puṇyayaśo ’bhivgaddhaye tāmraśāsanenā<lb n="13" break="no"/>karīkr̥tya pratipād<choice><sic>ī</sic><corr>i</corr></choice>ta Ity avagatya yathā dīyamāna karahiraṇya
                 <pb n="2r"/><lb n="14" break="no"/>bhogabhāgādikaṁ dadadbh<choice><sic>ī</sic><corr>i</corr></choice>ḥ bhavadbhiḥ sukhena prativastavyam iti<g type="danda">.</g> bhāvibhiś ca bhū<lb n="15" break="no"/>patibhir da<choice><sic>nt</sic><corr>tt</corr></choice>ir iyam asmadīyā dharmm<choice><sic>ā</sic><corr>a</corr></choice>gauravādasmadanurodhāc ca svada<choice><sic>nt</sic><corr>tt</corr></choice>ir i<lb n="16" break="no"/>vānupālanīyā<g type="danda">.</g> tathā coktaṁ dharmmaśāstre<supplied reason="omitted">.</supplied></p>
-            <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0023">
+            <lg n="1" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0023" -->
                   <l n="a">vahubhir vvasudhā dattā</l> 
                   <l n="b">rājabhiḥ saga<lb n="17" break="no"/>rādibhiḥ<g type="danda">.</g></l>
                   <l n="c">yasya yasya yadā bhūmis</l>
@@ -121,7 +121,7 @@
     amwb: Sircar 23 
     -->
 </lg>
-            <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
+            <lg n="2" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0085" -->
                   <l n="a">mā bhūd a-phala-<choice><sic>s</sic><corr>ś</corr></choice>a<lb n="18" break="no"/>ṅkā vaḥ</l>
                   <l n="b">para-datteti pārthivā<choice><sic>ṁ</sic><corr>ḥ</corr></choice><g type="danda">.</g></l>
                   <l n="c">sva-d<choice><sic>attā</sic><corr>ānāt</corr></choice> phalam ānantyaṁ</l>
@@ -129,7 +129,7 @@
     amwb : Sircar 85
     -->
 </lg>
-            <lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0020">
+            <lg n="3" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0020" -->
                    <l n="a">Āsphoṭayanti pitaro</l>
                    <l n="b">valgayanti pitāmahāḥ<supplied reason="omitted">.</supplied></l><!-- mention the reading pitaro valgayanti instead of pitaraḥ pravalganti -->
                    <l n="c">bhūmi-dātā kule<lb n="20"/>jātaḥ</l>
@@ -137,13 +137,13 @@
                     amwb : Sircar 20
                     -->
 </lg>
-            <lg n="4" met="anuṣṭubh" corresp="#Sircar1965_st0123">
+            <lg n="4" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0123" -->
                   <l n="a">ṣa<choice><sic>ṣṭhi</sic><corr>ṣṭi</corr></choice><supplied reason="omitted">ṁ</supplied> varṣasahasrāṇi</l>
                   <l n="b">svargge mo<lb n="21" break="no"/>dati bhūmidaḥ<supplied reason="omitted">.</supplied></l>
                   <l n="c">Ākṣeptā cānumantā ca</l>
                   <l n="d">dvau tau narakāvāsinau<supplied reason="omitted">.</supplied></l><!-- 
    amwb : Sircar 123  caution tāny eva  narake vaseT replace by dvau tau + -->
-</lg><lb n="22"/><lg n="5" met="indravajrā" corresp="#Sircar1965_st0005">
+</lg><lb n="22"/><lg n="5" met="indravajrā"><!-- corresp="#Sircar1965_st0005" -->
                    <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ</l>
                    <l n="b">bhūr vvaiṣṇavī sūrya-sutā<choice><sic>s</sic><corr>ś</corr></choice> ca gāvaḥ<supplied reason="omitted">.</supplied></l>
                    <l n="c">yaḥ kāñca<lb n="23" break="no"/>naṅ gāṁ ca mahīñ ca dadyād</l>
@@ -151,7 +151,7 @@
     amwb : Sircar 5 with inversion of the pādas c and d  
     -->
 </lg>
-            <lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0029">
+            <lg n="6" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0029" -->
                    <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigr̥<lb n="24" break="no"/>hṇāti</l>
                    <l n="b">yaś ca bhūmi<supplied reason="omitted">ṁ</supplied> prayacchati<g type="danda">.</g></l>
                    <l n="c">Ubhau tau puṇya-karmmāṇau</l>
@@ -159,7 +159,7 @@
 amwb : Sircar 29 
 -->
 </lg>
-            <lg n="7" met="anuṣṭubh" corresp="#Sircar1965_st0137">
+            <lg n="7" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0137" -->
                   <l n="a">taḍāgānā<supplied reason="omitted">ṁ</supplied> sahasreṇa</l>
                   <l n="b">vāja-peya-<choice><sic>s</sic><corr>ś</corr></choice>atena ca<g type="danda">.</g></l>
                   <l n="c">gavāṁ koṭi-pradā<lb n="26" break="no"/>nena</l>
@@ -167,14 +167,14 @@ amwb : Sircar 29
     amwb : Sircar 137 
     -->
 </lg>
-            <lg n="8" met="anuṣṭubh" corresp="#Sircar1965_st0064">
+            <lg n="8" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0064" -->
                <l n="a">harat<choice><sic>i</sic><corr>e</corr></choice> hārayed yas tu</l><!-- I introduce the correction not present in rajaguru for harati and delete his correction for haarayed-->
                <l n="b">manda-vuddhis tamo-vr̥taḥ<supplied reason="omitted">.</supplied></l>
                <l n="c"><lb n="27"/>sa vaddho vāruṇaiḥ</l>
                <l n="d">pā<choice><sic>s</sic><corr>ś</corr></choice>ais tiryag-yoniṁ sa gacchati<g type="ddanda">.</g></l><!-- 
     amwb : Sircar 64  
     -->
-</lg><pb n="2v"/><lb n="28"/><lg n="9" met="anuṣṭubh" corresp="#Sircar1965_st0055">
+</lg><pb n="2v"/><lb n="28"/><lg n="9" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0055" -->
                <l n="a">s<choice><sic>ū</sic><corr>u</corr></choice>varṇṇam ekā<supplied reason="omitted">ṁ</supplied> gām ekāṁ <supplied reason="omitted">vā</supplied></l><!-- I introduce the correction short u long u qnd delete the addition of ca by rajaguru-->
                <l n="b">bhūmer apy arddham aṅgulaṁ<g type="danda">.</g></l>
                <l n="c">haran narakam āyāti</l><!-- āpnoti in SOma31 and āyāti in SIrcar -->
@@ -182,7 +182,7 @@ amwb : Sircar 29
    amwb Sircar 55 
    -->
 </lg>
-            <lg n="10" met="anuṣṭubh" corresp="#Sircar1965_st0132">
+            <lg n="10" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0132" -->
                <l n="a">sva-dattām para-dattām vā</l>
                <l n="b">yo hareta vasundharāṁ<g type="danda">.</g></l>
                <l n="c">sa viṣṭhāyāṁ kr̥mi<supplied reason="omitted">r</supplied> bhūtvā</l>
@@ -190,7 +190,7 @@ amwb : Sircar 29
     amwb : Sircar 132 
     -->
 </lg>
-            <lg n="11" met="anuṣṭubh" corresp="#Sircar1965_st0004">
+            <lg n="11" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0004"  -->
                <l n="a">Ādityo varuṇo viṣṇu<supplied reason="omitted">ḥ</supplied></l>
                <l n="b">vrahmā somo hutā<choice><sic>s</sic><corr>ś</corr></choice>anaḥ<supplied reason="omitted">.</supplied></l>
                <l n="c"><lb n="31"/><choice><sic>s</sic><corr>ś</corr></choice>ulpāṇis tu bhagavān</l><!-- tu instead of ca -->
@@ -198,7 +198,7 @@ amwb : Sircar 29
      amwb : Sircar 4 I add the correction for bhūmida<choice><sic>ḥ</sic><corr>M</corr></choice>
      -->
 </lg>
-            <lg n="12" met="śālinī" corresp="#Sircar1965_st0117">
+            <lg n="12" met="śālinī"><!-- corresp="#Sircar1965_st0117"  -->
                <l n="a">sāmānyo ’ya<choice><sic>n</sic><corr>ṁ</corr></choice> dharmma-se<lb n="32" break="no"/>tur nr̥pāṇā<supplied reason="omitted">ṁ</supplied></l>
                <l n="b">kāle kāle pālanīyo bhavadbhiḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa<supplied reason="omitted">r</supplied>v<choice><sic>a</sic><corr>ā</corr></choice>n etān<surplus>a</surplus> bh<choice><sic>a</sic><corr>ā</corr></choice>vina<supplied reason="omitted">ḥ</supplied> pā<lb n="33" break="no"/>rthive<choice><sic>ndā</sic><corr>drāN</corr></choice></l><!-- amwb here as in Soma3-4 but in Soma1-2 bhūpatīndrāN -->
@@ -207,7 +207,7 @@ amwb : Sircar 29
     in soma1-2-3-4 rāmacandraḥ
     -->
 </lg>
-            <lg n="13" met="puṣpitāgrā" corresp="#Sircar1965_st0071">
+            <lg n="13" met="puṣpitāgrā"><!-- corresp="#Sircar1965_st0071" -->
                <l n="a">Iti kamala-dalāmbu<lb n="34" break="no"/>-vindu-lolā<supplied reason="omitted">ṁ</supplied></l><!-- I add the ṁ -->
                <l n="b">śriyam anucintya manuṣya-jīvitañ ca<g type="danda">.</g></l>
                <l n="c">sa-kalam idam u<lb n="35" break="no"/>dāhr̥tañ ca vuddhvā</l>
@@ -218,30 +218,30 @@ amwb : Sircar 71
    <roleName>parama-māhe<lb n="36" break="no"/>śvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parame<choice><sic>s</sic><corr>ś</corr></choice>vara</roleName>-soma-kula-ti<lb n="37" break="no"/>laka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king">yayāti</persName>-<roleName>deva-rājasya</roleName> vijayarājye sāmva<lb n="38" break="no"/>tsarāṣṭame m<choice><sic>a</sic><corr>ā</corr></choice>rggaśiramāse śuklapakṣe trayodasyāmaṅke samvaT <num value="8">8</num><lb n="39"/>mārgga <abbr>śudi</abbr> <num value="13">13</num> likhitam idaṁ tāmraśāsanaṁ mahāsandhivigrahi rāṇa<lb n="40" break="no"/>kadhāradatta<choice><sic>smā</sic><corr>syā</corr></choice>vagatena Uthītāsanī śrī Ucchava<choice><sic>ṇ</sic><corr>n</corr></choice>āgasa
    <pb n="3r"/><lb n="41" break="no"/>rmpaṇāllavasutena<supplied reason="omitted">.</supplied> Utkīrṇṇa<supplied reason="omitted">ṁ</supplied> vijñānī mādhavena vāsusuteneti<g type="danda">.</g>
 </p> 
-            <lg n="14" met="rathoddhatā">
-               <l n="a">sambe<lb n="42" break="no"/>do jalajaparṇṇajala<supplied reason="omitted">ṁ</supplied>bhā</l> 
-               <l n="b">jīvitaṁ maraṇasantatasasthaṁ<supplied reason="omitted">.</supplied></l>
-               <l n="c">bhogamuktīratināṁ<lb n="43"/>pravilokyāḥ</l> 
-               <l n="d">kīrttayo nr̥patibhirnavilopyā</l>
-            </lg> 
+            <lg n="14" met="rathoddhatā"><!-- Certainly to add to the list of BEST it occurs also in SV24 -->
+               <l n="a">sambe<!-- bhe? --><lb n="42" break="no"/>do jalaja-parṇṇaja-la<supplied reason="omitted">ṁ</supplied>bhā</l> 
+               <l n="b">jīvitaṁ maraṇa-santata-sasthaṁ<supplied reason="omitted">.</supplied></l>
+               <l n="c">bhoga-muktīratināṁ<lb n="43"/>pravilokyāḥ</l> 
+               <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
+            </lg> <!-- meaning close to best_0141 best_046 -->
             <p>Iti<surplus>ḥ</surplus><g type="danda">.</g></p>
             <lg n="15" met="upajāti">
-               <l n="a">so bhūnr̥paḥ so<lb n="44" break="no"/>makulāvjabhānuḥ</l> 
-               <l n="b"><persName type="king" key="PSN01000">svabhāvatuṅgo</persName> nijapauruṣeṇa<g type="danda">.</g></l> 
-               <l n="c">yaḥ ko<choice><sic>s</sic><corr>ś</corr></choice>alā<lb n="45" break="no"/>pālanakaumudindu</l> 
+               <l n="a">so bhū-nr̥paḥ so<lb n="44" break="no"/>ma-kulā<choice><orig>v</orig><reg>b</reg></choice>ja-bhānuḥ</l> 
+               <l n="b"><persName type="king" key="PSN01000">svabhāvatuṅgo</persName> nija-p<choice><sic>au</sic><corr>u</corr></choice>ruṣeṇa<g type="danda">.</g></l> 
+               <l n="c">yaḥ ko<choice><sic>s</sic><corr>ś</corr></choice>alā<lb n="45" break="no"/>-pālana-kaumudindu</l> 
                <l n="d">vijitya <choice><sic>cau</sic><corr>cai</corr></choice>dyānbitatāna lakṣmīṁ<g type="ddanda">.</g></l>
             </lg> 
             <lg n="16" met="upajāti">
                <l n="a">rāmāha<lb n="46" break="no"/>rāścedipa paddha <gap reason="undefined"/> ṭāN sa</l> 
                <l n="b">bhaṭ<supplied reason="omitted">ṭ</supplied>apeḍi prabhr̥tiN <gap reason="undefined"/></l>
-               <l n="c">muṇḍaṁ niha<lb n="47" break="no"/>ṇyāhita śarvvarāmañ</l> 
-               <l n="d">sa lakṣmaṇorāma Ivāptase<lb n="48" break="no"/>tuḥ<g type="danda">.</g></l>
+               <l n="c">muṇḍaṁ niha<lb n="47" break="no"/>ṇyāhita śarvva-rāmañ</l> 
+               <l n="d">sa lakṣmaṇo rāma Ivāptase<lb n="48" break="no"/>tuḥ<g type="danda">.</g></l>
             </lg>
                <lg n="17" met="upajāti">
-                  <l n="a">tasmāt<surplus>a</surplus> suto viṣṇurivājaneṣu</l> 
-                  <l n="b">sa durgarājaṁ <choice><sic>mbī</sic><corr>vi</corr></choice>ghaṭapralā<lb n="49" break="no"/>paṁ</l> 
+                  <l n="a">tasmāt<surplus>a</surplus> suto viṣṇur ivājaneṣu</l> 
+                  <l n="b">sa durga-rājaṁ <choice><sic>mbī</sic><corr>vi</corr></choice>ghaṭa-pralā<lb n="49" break="no"/>paṁ</l> 
                   <l n="c">tr̥ṇāya <choice><sic>ca I</sic><corr>cai</corr></choice>dhya<supplied reason="omitted">ṁ</supplied> vata manyamāno</l> 
-                  <l n="d">dagdhāṁ ḍahālā vijanī<lb n="50" break="no"/>ñcakāra<supplied reason="omitted">.</supplied></l>
+                  <l n="d">dagdhāṁ ḍahālā vijanī<lb n="50" break="no"/>ñ cakāra<supplied reason="omitted">.</supplied></l>
                </lg>
          </div>
          <div type="apparatus">
