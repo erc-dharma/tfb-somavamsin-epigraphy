@@ -137,19 +137,19 @@
 </lg> 
       <lg n="3" met="śārdūlavikrīḍita">
              <l n="a">rājābhūj <persName type="king" key="PSN01001">janamejayo</persName> ’tha nr̥patir jjāto <persName type="king" key="PSN01005">yayātis</persName> tataḥ</l> 
-             <l n="b"><roleName>śrīmā<lb n="6" break="no"/>n</roleName> <persName type="king" key="PSN01006">bhīmaratho</persName> ’bhavat tad-anu ca kṣmā-cakra-rakṣā-maṇiḥ<g type="danda">.</g></l> 
+             <l n="b"><roleName>śrīmā<lb n="6" break="no"/>N</roleName> <persName type="king" key="PSN01006">bhīmaratho</persName> ’bhavat tad-anu ca kṣmā-cakra-rakṣā-maṇiḥ<g type="danda">.</g></l> 
              <l n="c">Aṣṭāsv eva dig-antareṣu vijaya-stambhāva<lb n="7" break="no"/>li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</l> 
-             <l n="d">hr̥cchalyāni diśa-bhujām api samāropyanta yaiḥ visphuṭaṁ<g type="ddanda">.</g></l>
+             <l n="d">hr̥cchalyāni diśa-bhujām api samāropyanta yaiḥ visphuṭaM<g type="ddanda">.</g></l><!-- Check M from the photo of the plate -->
 </lg> 
       <lg n="4" met="śārdūlavikrīḍita">
              <l n="a">tasmād <persName type="king" key="PSN01007">dharmmaratho</persName> mano<lb n="8" break="no"/>ratha-phalaṁ śītāṁśu-vaṁśa-śr<choice><sic>ī</sic><corr>i</corr></choice>yo</l> 
-             <l n="b">nitriṁśaika-sakhā śikhā-maṇir abhūn niḥśeṣa-bhūmī-bhujāṁ<g type="danda">.</g></l> 
-             <l n="c">ya<lb n="9" break="no"/>smin dig-viyajāvatār<choice><sic>a</sic><corr>i</corr></choice>ṇi p<choice><sic>ū</sic><corr>u</corr></choice>rā vidveṣi-bh<choice><sic>u</sic><corr>ū</corr></choice>mībhujaḥ</l> 
+             <l n="b">nistriṁśaika-sakhā śikhā-maṇir abhūn niḥśeṣa-bhūmī-bhujāṁ<g type="danda">.</g></l> 
+             <l n="c">ya<lb n="9" break="no"/>smin dig-vijayāvatār<choice><sic>a</sic><corr>i</corr></choice>ṇi p<choice><sic>ū</sic><corr>u</corr></choice>rā vidveṣi-bh<choice><sic>u</sic><corr>ū</corr></choice>mībhujaḥ</l> 
             <l n="d">prātiṣṭhanta dig-antaraṁ tadanu ca<lb n="10"/>sphītāś cam<choice><sic>u</sic><corr>ū</corr></choice>-reṇavaḥ<g type="ddanda">.</g></l>
 </lg> 
      <lg n="5" met="śārdūlavikrīḍita"> 
-            <l n="a">setūpānta-vanāntare himavataḥ paryyanta-bhū-<choice><sic>ś</sic><corr>s</corr></choice>īmani</l> 
-            <l n="b">prāg-ambhodhi-ta<lb n="11" break="no"/>ṭī-vaneṣ<choice><sic>a</sic><corr>u</corr></choice> kaṭake pūrvvetara-kṣṃā-bhr̥taḥ<g type="danda">.</g></l> 
+            <l n="a">setūpānta-vanāntare himavataḥ paryanta-bhū-<choice><sic>ś</sic><corr>s</corr></choice>īmani</l> 
+            <l n="b">prāg-ambhodhi-ta<lb n="11" break="no"/>ṭī-vaneṣ<choice><sic>a</sic><corr>u</corr></choice> kaṭake pūrvvetara-kṣṃā-bhr̥taḥ</l> 
            <l n="c">yasyo<choice><sic>ttāmyada</sic><corr>ktaṁ pada</corr></choice>-rāti-rāja-yuvatī-niśvāsa-jhañjhā<lb n="12" break="no"/>nilā</l><!-- soma38 Shastri suggests ni<supplied reason="omitted">ḥ</supplied>śvāsa + bhuñjhanila in soma38 + jhañjhānila short a in Soma15 -->
            <l n="d">-vyāsaṅga-svanad-antarāla-mukharair ggītaṁ yaśaḥ kīcakaiḥ<g type="ddanda">.</g></l>
 </lg> 
@@ -365,6 +365,10 @@ amwb : Sircar 71
                      <lem source="bib:Sircar1959-1960_12">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dmanā</lem>
                      <rdg source="bib:Shastri1995_02">°li-<choice><sic>hu</sic><corr>ccha</corr></choice>dbhanā</rdg>
                   </app>
+                  <app loc="8">
+                     <lem>nistriṁśaika</lem><!-- cheked from the photo of the plate -->
+                     <rdg source="bib:Sircar1959-1960_12 bib:Shastri1995_02">°nitriṁśaika°</rdg>
+                  </app>
                   <app loc="10">
                      <lem source="bib:Debala1959-1960_01">paryyanta°</lem>
                      <rdg source="bib:Shastri1995_02">paryanta°</rdg>
@@ -471,7 +475,7 @@ amwb : Sircar 71
             <p n="7-10" rend="stanza">Dharmaratha, the son of the glory of the Lunar Race, the achiever of the desired object and the only friend of the sword, became the head-jewel of all the kings, when the hostile kings retreated to the extremity of the far-off country, being chased by his soldiers marching on <foreign>digvijaya</foreign>, in the course of which the dusts swelled. 
             </p>
            <p n="10-12" rend="stanza">
-             THere was a king, other than mentioned before, at Kaṭaka in the countries, lying on the coast of eastern sea, extending from the Himālayas up to the forest adjoining the Setuvandha. His fame was chanted by the hollow bamboos, standing adjacent to (the palace of hostile kings), when they sounded, being struck with the high wind, exhaled in sigh by the trembling women of the enemies. 
+             There was a king, other than mentioned before, at Kaṭaka in the countries, lying on the coast of eastern sea, extending from the Himālayas up to the forest adjoining the Setuvandha. His fame was chanted by the hollow bamboos, standing adjacent to (the palace of hostile kings), when they sounded, being struck with the high wind, exhaled in sigh by the trembling women of the enemies. 
            </p>
             <p n="12-15" rend="stanza">His brother Naghusha, the over lord of the country and the celebrated ornement of the earth, was as mighty as the lord of the animate beings.</p>
             <p n="15-17" rend="stanza">His (Naghusha’s) rod-like hand, being adorned with the tongue of (double edged) sword, resembled the snake when it took the air separated from the throat of enemy’s soldiers (who are slain).</p>
@@ -499,7 +503,7 @@ amwb : Sircar 71
                <p rend="stanza" n="2">Dans son auguste lignée, lui qui, par son expiation, a effacé de l’horizon du ciel sa tâche et qui transperce l’osbcurité toute entière, naquirent ces seigneurs de la terre, bulbes dont poussent toutes les qualités de la vertu, eux à la gloire aussi pure que la fleur blanche du jasmin.</p>
                <p rend="stanza" n="3">D’abord le roi des rois Janamejaya, puis son fils Yayāti, après lui vint au monde l’illustre Bhīmaratha, le parangon de la protection de la souveraineté sur terre, puisqu’à l’intérieur des huit directions, il offrit une ouverture aux flèches pour qu’elles transpercent les coeurs même des gardiens des directions en cachant des colonnes (armées) fixes pour la victoire.</p>
             <p rend="stanza" n="4">De lui naquit Dharmaratha, le fruit désiré pour la fortune de la lignée lunaire, parmi tous les protecteurs de la terre, il fut un joyau de tête, dont l’unique amie était une épée : son apparition lors de ses conquêtes fit autrefois déguerpir les rois ennemis de la frontière et après lui, s’élevait  l’épaisse poussière (soulevée) par son armée. </p>   
-            <p rend="stanza" n="5">À Kaṭaka, à la limite de la forêt bordant le Setu, de la frontière extrême de la terre jusqu’à l’Himālaya jusque dans les forêts qui longent la côte est, vivait un roi autre que le précédent mentionné, roi dont on dit que la gloire était chantée par les bambous résonnant dans les aires faisant entendre les bruissements du vent et de la pluie, semblables aux soupirs des femmes des rois réjouis de pouvoir honoré ses pieds. </p>
+            <p rend="stanza" n="5">À la limite de la forêt bordant le Setu, de l’Himālaya jusqu’aux confins de la terre, dans les forêts qui longent la côte est, à Kaṭaka, on dit que la gloire d’un roi de l’ouest était chantée par les bambous résonnant dans les airs faisant entendre les bruissements du vent et de la pluie, semblables aux soupirs des femmes des rois par la grâce de (toucher) ses pieds. </p>
             <p rend="stanza" n="6">Le frère de ce souverain de la terre, seigneur parmi les seigneurs de la terre, à la splendeur semblable à celle de Bhuteśa (Śiva) fut connu comme joyau de la terre sous le nom de Naghuṣa, de son bras tel un serpent sur un sceptre qui tenait son épée étincelante telle une langue fourchue, il ôta les souffles de la gorge des soldats de l’armée ennemie. </p>
                <p rend="stanza" n="7">« En ces lieux, celui qui a cinq visages s’est installé avec une multitude d’éléphants en rut, ici-bas il est devenu adulte ; les grands serpents ennemis du monde sont (désormais cachés) dans les cavités de ces montagnes et dans ces cruches », voilà ce qu’expliqua un groupe de vieilles femmes Śavara par affection retenant leurs larmes aux femmes des ennemis qui s’en allaient se réfugier dans la forêt.</p>
                <p rend="stanza" n="8">Son fils, le roi Yayāti, naquit tel un trésor de connaissance, image même du meutrieur de Madhu (Viṣṇu), conquérant universel, aux pieds duquel reposait l’éclat étincelant des joyaux de tête de tous ses rivaux réunis.</p>
