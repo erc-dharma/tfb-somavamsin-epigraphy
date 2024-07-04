@@ -315,7 +315,7 @@ n="20"/><milestone unit="fragment" n="a"/><roleName>parama-māheśvara</roleName
                   <app loc="12">
                      <lem>kīrtt<sic>i</sic>na</lem>
                      <rdg source="bib:Rajaguru1966_01 bib:Shastri1995_02">kīrttina</rdg>
-                     <note>Due to metrical reason, I don't introduce correction within the text but I suggest undestanding <foreign>kīrttanaṁ</foreign>.</note>
+                     <note>Due to metrical reason, I don't introduce correction within the text but I suggest understanding <foreign>kīrttanaṁ</foreign>.</note>
                   </app>
                   <app loc="12">
                      <lem source="bib:Shastri1995_02">mūrddhasu</lem>
@@ -383,7 +383,7 @@ n="20"/><milestone unit="fragment" n="a"/><roleName>parama-māheśvara</roleName
             <div type="textpart" n="A"><head xml:lang="eng">English translation draft</head>
 <p n="1">Oṁ</p>
                <p n="1" rend="stanza">
-                  In the middle of the milk-ocean, from its churning <supplied reason="explanation">churned</supplied> <supplied reason="lost">by these Lords</supplied><gap reason="lost" unit="character" quantity="3"/> Brahmā, Upendra, Maheśvara, Indra and Bali <supplied reason="lost">who used a snake as rope</supplied><gap reason="lost" unit="character" quantity="5"/> and the Mandara mount as churning stick, is born this King Moon in his completeness and accompagnied by the Fortune illuminating <supplied reason="explanation"><foreign>uddotayan</foreign></supplied> all the three worlds by his moonlights which are floods of nectar. 
+                  In the middle of the milk-ocean, from its churning <supplied reason="explanation">churned</supplied> <supplied reason="lost">by these Lords</supplied><gap reason="lost" unit="character" quantity="3"/> Brahmā, Upendra, Maheśvara, Indra and Bali <supplied reason="lost">who used a snake as rope</supplied><gap reason="lost" unit="character" quantity="5"/> and the Mandara mount as churning stick, is born <supplied reason="lost">this King Moon in his completeness</supplied> and accompagnied by the Fortune illuminating <supplied reason="explanation"><foreign>uddotayan</foreign></supplied> all the three worlds by his moonlights which are floods of nectar. 
                </p>
 <p n="2-3"/>
                <p n="2" rend="stanza">
@@ -460,7 +460,7 @@ n="20"/><milestone unit="fragment" n="a"/><roleName>parama-māheśvara</roleName
             <div type="textpart" n="B"><head xml:lang="eng">French translation draft</head>
                <p n="1-2"/>
                <p n="1" rend="stanza">
-                  C'est au milieu de l'océan de lait et lors de son barattage <supplied reason="subaudible">entrepris</supplied> <supplied reason="lost">par les seigneurs</supplied> <gap reason="lost" unit="character" quantity="3"/> Brahmā, Upendra, Maheśvara, Indra et Bali, <supplied reason="lost">eux qui se sont servis d'un serpent comme corde</supplied> <gap reason="lost" unit="character" quantity="5"/> et du mont Mandara comme bâton de baratte qu'est né, dans son état de complétude <supplied reason="subaudible">et</supplied> en compagnie de la Fortune, ce roi-lune illuminant <supplied reason="explanation"><foreign>uddotayan</foreign></supplied> de ses clairs de lune qui sont des flots d'ambroisie l'ensemble des trois mondes. 
+                  C'est au milieu de l'océan de lait et lors de son barattage <supplied reason="subaudible">entrepris</supplied> <supplied reason="lost">par les seigneurs</supplied> <gap reason="lost" unit="character" quantity="3"/> Brahmā, Upendra, Maheśvara, Indra et Bali, <supplied reason="lost">eux qui se sont servis d'un serpent comme corde</supplied> <gap reason="lost" unit="character" quantity="5"/> et du mont Mandara comme bâton de baratte qu'est né, <supplied reason="lost">dans son état de complétude</supplied> <supplied reason="subaudible">et</supplied> en compagnie de la Fortune, <supplied reason="lost">ce roi-lune</supplied> illuminant <supplied reason="explanation"><foreign>uddotayan</foreign></supplied> de ses clairs de lune qui sont des flots d'ambroisie l'ensemble des trois mondes. 
                </p>
 <p n="2-3"/>
                <p n="2" rend="stanza">
@@ -482,7 +482,7 @@ n="20"/><milestone unit="fragment" n="a"/><roleName>parama-māheśvara</roleName
 <p n="6-7"/>
                <p n="6" rend="stanza">
                   Lorsque cet excellent roi <supplied reason="explanation"><foreign>rājamalla</foreign></supplied><note>
-                     <bibl><ptr target="bib:Shastri1995_01"/><citedRange unit="page">187</citedRange></bibl> semble considérer <foreign>rājamalla</foreign> comme une désignation alternative de Dharmaratha ou comme ayant la valeur d'un <foreign>viruda</foreign>. I admet néanmoins en note 1134 que cela pourrait aussi être un adjectif sans réelle valeur historique <supplied reason="explanation"><q>an adjective without much historical significance</q>; remarque répétée également en <bibl><ptr target="bib:Shastri1995_01"/><citedRange unit="page">210</citedRange><citedRange unit="note">1273</citedRange></bibl></supplied>.
+                     <bibl><ptr target="bib:Shastri1995_01"/><citedRange unit="page">187</citedRange></bibl> semble considérer <foreign>rājamalla</foreign> comme une désignation alternative de Dharmaratha ou comme ayant la valeur d'un <foreign>viruda</foreign>. Il admet néanmoins en note 1134 que cela pourrait aussi être un adjectif sans réelle valeur historique <supplied reason="explanation"><q>an adjective without much historical significance</q>; remarque répétée également en <bibl><ptr target="bib:Shastri1995_01"/><citedRange unit="page">210</citedRange><citedRange unit="note">1273</citedRange></bibl></supplied>.
                   </note> s'en alla au ciel sans descendance et que son royaume tout entier était assailli par divers soldats, un temps bref se déroula de cette manière tandis que le puissant héros que voici séjournait dans une autre région. 
                </p>
 <p n="7-8"/>
