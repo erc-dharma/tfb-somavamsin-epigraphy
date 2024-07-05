@@ -260,9 +260,12 @@ n="49" break="no"/>kṣaḥ śāsanaṁ tāmra-nirmmitam<g type="ddanda">.</g> U
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 		<bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">B</citedRange><citedRange unit="page">347-351</citedRange></bibl>
+        	           <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">24</citedRange><citedRange unit="page">138-144</citedRange></bibl>
         	    	<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">VIII</citedRange><citedRange unit="page">206-212</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1562</citedRange></bibl>
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">138-140</citedRange></bibl>
                <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">247</citedRange></bibl>
               <!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>

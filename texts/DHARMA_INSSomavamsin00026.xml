@@ -250,10 +250,14 @@ n="36"/>taṁ</p>
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
               <bibl n="K"><ptr target="bib:Kielhorn1896-1897_05"/></bibl>
+        	     <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">37</citedRange><citedRange unit="page">237-241</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIX</citedRange><citedRange unit="page">263-267</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1561</citedRange></bibl>
+               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">946</citedRange></bibl>
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">86-87</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">30</citedRange><citedRange unit="page">264</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

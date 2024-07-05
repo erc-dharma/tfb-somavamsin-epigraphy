@@ -592,11 +592,11 @@ n="59"/>ta-</rdg>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The text incised on the first plate was first edited by Tripathy <!-- amwb : I should add the reference in Zotero but for the moment, I haven't the titel f the paper of  the Journal of of Bihar and Orissa Research Society 16 (2) 1930, p. 206-210 --> and then reedited by <bibl><ptr target="bib:Sircar1959-1960_12"/></bibl>. The text incised on the two other plates was first edited by <bibl><ptr target="bib:Debala1959-1960_01"/></bibl>. </p>
+           <p>The text incised on the first plate was first edited by Tripathy <!-- amwb : I should add the reference in Zotero but for the moment, I haven't the titel f the paper of  the Journal of of Bihar and Orissa Research Society 16 (2) 1930, p. 206-210 --> and then reedited by <bibl><ptr target="bib:Sircar1959-1960_12"/></bibl>. The text incised on the two other plates was first edited by <bibl><ptr target="bib:Debala1959-1960_01"/></bibl>. The first plate is preserved in the Odisha State Museum (photos available <ref target="https://didomena.ehess.fr/concern/data_sets/6h441309g">here</ref>). While <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">254</citedRange></bibl> and <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">280</citedRange></bibl> give no information about the place of preservation of the second and the third plates, during a field trip in Ratnagiri in February 2024, Annette Schmiedchen and Amandine Wattelier-Bricout found that the two others are preserved in a showcase of the gallery 4 in the museum of Ratnagiri (photos available <ref target="ttps://didomena.ehess.fr/concern/data_sets/1r66j9182">here</ref>).  </p>
         	<listBibl type="primary">
         	   <bibl n="D"><ptr target="bib:Debala1959-1960_01"/></bibl>
         	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_12"/></bibl>
-        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">253-264</citedRange></bibl>
+        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">40</citedRange><citedRange unit="page">253-264</citedRange></bibl>
 	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVII</citedRange><citedRange unit="page">309-317</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">

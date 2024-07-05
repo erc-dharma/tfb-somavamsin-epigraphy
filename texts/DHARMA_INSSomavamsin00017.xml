@@ -250,12 +250,15 @@ n="55" break="no"/>nāgābhimatena<g type="ddanda">.</g> śrī-pannākena utkīr
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The plates are preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/rf55zh84t">here</ref><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">26</citedRange><citedRange unit="page">159-166</citedRange></bibl>
 		<bibl n="Sri"><ptr target="bib:Srinivasan1969-1970_01"/></bibl>
         	    <bibl n="Sha"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XII</citedRange><citedRange unit="page">219-225</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+                <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">951</citedRange></bibl>
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">142-143</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">254</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

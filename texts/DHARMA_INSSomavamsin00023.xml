@@ -308,10 +308,13 @@ n="66"/>vijñān<choice><sic>ī</sic><corr>i</corr></choice>-mādhavenet<choice>
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="item">E</citedRange><citedRange unit="page">351-355</citedRange></bibl>
+	    <bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="item">E</citedRange><citedRange unit="page">351-355</citedRange></bibl>
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">28</citedRange><citedRange unit="page">177-183</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIV</citedRange><citedRange unit="page">233-239</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1566</citedRange></bibl>
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">143-144</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">257</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
