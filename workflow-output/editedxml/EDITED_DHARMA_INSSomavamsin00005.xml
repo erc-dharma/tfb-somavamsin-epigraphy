@@ -253,8 +253,8 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p>First noticed in 1877 in the <title>Journal of the Bengal Asiatic Society</title>, volume XLVI, Part I, p.173 ff., by Babu Pratapachandra Ghosha.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-        	    <bibl n="F"><ptr target="bib:Fleet1894-1895_04"/></bibl>
-				 <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">18</citedRange><citedRange unit="page">106-111</citedRange></bibl>
+        	    <bibl n="F"><ptr target="bib:Fleet1894-1895_04"/><citedRange unit="item">A</citedRange><citedRange>340-344</citedRange></bibl>
+	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">18</citedRange><citedRange unit="page">106-111</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">172-178</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">

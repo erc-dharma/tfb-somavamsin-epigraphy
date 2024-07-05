@@ -659,7 +659,7 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
         	<listBibl type="primary">
-				<bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
+	  <bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
         	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">I</citedRange><citedRange unit="page">325-331</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">

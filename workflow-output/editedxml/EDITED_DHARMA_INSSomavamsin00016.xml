@@ -123,7 +123,7 @@
                <pb n="2r"/><lb n="13" break="no"/>rathyādi-rāja-caritaḥ karṇṇāṭalāṭagurjjareśvara-dāhajvaro bhūviṭakalatrakārñcakalāp<choice><sic>a</sic><corr>ā</corr></choice><lb n="14" break="no"/>bharaṇalampaṭaḥ<supplied reason="omitted">.</supplied> kaliṅga-koṅgodotkala-kośala-svayambara-prasiddhaḥ gauḍa-rāḍhāmbara<lb n="15" break="no"/>prakarṣaṇodghātamārutaḥ śītāṅśuvaṅśa-vimalāmbara-pūrṇṇa-candra-sva-bhujopārjita-<roleName>tri<lb n="16" break="no"/>kaliṅgādhipatiḥ</roleName> <roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭārakaḥ</roleName> <roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahābhavagupta</persName>-pādanudhyā<lb n="17" break="no"/>ta-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-praṇamita-rājanyopasevita-pādā-ravinda-yugalaḥ <roleName>śrī</roleName>-<persName type="king" subtype="coronation">mahā<lb n="18" break="no"/>śivagupta</persName>-<roleName>śrī</roleName>-<persName type="king">yayāti</persName>-<roleName>devaḥ</roleName> kuśalī<supplied reason="omitted">.</supplied> kośala-prativaddho bhrāṁḍa-viṣayīya vr̥hadbhū<lb n="19" break="no"/>sāyīgrāma śambarabāḍi-maṇḍala santovarḍākhaṇḍīya māṁrajamurā<lb n="20" break="no"/>grāmayo brāhmaṇāN saṁpūjya tatpratinivāsikuṭumbina<supplied reason="omitted">ḥ</supplied> tadviṣayīya Avapradānayathā<lb n="21" break="no"/>kālādhyāsinaḥ samāhartr̥san<supplied reason="omitted">n</supplied>idhātr̥prabhr̥tīnanyāṁ ca rājapādopajīvino daṇḍapāśika<lb n="22" break="no"/>cāṭabhaṭapiśunavetrikāva<supplied reason="omitted">rodhe</supplied>janarāvallabhāṁ saṁbhāvya samājñāpayati viditam astu bhava<lb n="23" break="no"/>tā<supplied reason="omitted">ṁ</supplied> yathāsmin<surplus>a</surplus> grāmānau sanidhiḥ sopanidhiḥ sa-garttoṣaraḥ sām<surplus>v</surplus>ra-madhukosagūḍa-viṣaya sa-paṅkā<lb n="24" break="no"/>la sa-jalastha<supplied reason="omitted">la</supplied>bharaṇa sa-daśāparā<supplied reason="omitted"><sic>gha</sic><corr>dha</corr></supplied> sarv<choice><sic>āṁ</sic><corr>o</corr></choice>parikarādāna-sametaḥ sarvva-vādhāvivajiṁ
                <pb n="2v"/><lb n="25" break="no"/>taḥ pratiniṣiddha-cāṭa-bhaṭa-praveśa madhya-deśiya hasti-grāma-vinirgatāya parā<choice><sic>s</sic><corr>ś</corr></choice>ara go<lb n="26" break="no"/>trāya Ātreya pravarāya nārāyaṇanaptre śāntikarasutāya ya<choice><sic>y</sic><corr>j</corr></choice>ur-veda-kāṇva-śākhādhyāyi<lb n="27" break="no"/>ne bhaṭṭa-putra s<supplied reason="omitted">v</supplied>arodayī śrī-yaśa-karāya puṇya-tithyā<supplied reason="omitted">mā</supplied>vā<choice><sic>sthyā</sic><corr>śyā</corr></choice>ṁ Audaka-pūrvvakaṁ Ācandratārakārkka<lb n="28" break="no"/><choice><sic>sthi-</sic><corr>kṣi</corr></choice>ti-samakālopabhogārthaṁ mātā-pitror ātmanaś ca puṇya-yaśo ’bhivr̥ddhaye tām<surplus>v</surplus>raśāsa<lb n="29" break="no"/>nenākarīkr̥tya prati-pādita Ity avagatya  samucita-bhoga-bhāga-kara-hiraṇy<choice><sic>a</sic><corr>ā</corr></choice>dikam up<choice><sic>ā</sic><corr>a</corr></choice><lb n="30" break="no"/>nayadbhiḥ <supplied reason="omitted">bhavadbhiḥ</supplied> sukhena prati-vastavyaṁ<supplied reason="omitted">.</supplied> bhāvibhiś ca bhūpatibhir dattir ayam asmadī<lb n="31" break="no"/>ya sva-dānam iva paripālanīyā<g type="danda">.</g> tathā coktaṁ dharmmaśāstre<supplied reason="omitted">.</supplied>
             </p>
-            <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0023">
+            <lg n="1" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0023" -->
                   <l n="a">vahubhir vvasudhā dattā</l> 
                   <l n="b">rājabhiḥ
      <lb n="32"/>sagarādibhiḥ<g type="danda">.</g></l>
@@ -132,7 +132,7 @@
     amwb: Sircar 23 
     -->
 </lg>
-            <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0085">
+            <lg n="2" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0085" -->
                   <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
                   <l n="b"><lb n="33"/>para-datteti pārthivāḥ<g type="danda">.</g></l>
                   <l n="c">s<supplied reason="omitted">v</supplied>a-dānā<choice><sic>n</sic><corr>t</corr></choice> phalam ānantyaṁ</l>
@@ -140,14 +140,14 @@
     amwb : Sircar 85
     -->
 </lg>
-            <lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0123">
-                  <l n="a">ṣa<choice><sic>ṣṭhī</sic><corr>ṣṭi</corr></choice>m varṣa<surplus>ṁ</surplus>saha<lb n="34" break="no"/>srāṇi</l>
+            <lg n="3" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0123"  -->                  
+               <l n="a">ṣa<choice><sic>ṣṭhī</sic><corr>ṣṭi</corr></choice>m varṣa<surplus>ṁ</surplus>saha<lb n="34" break="no"/>srāṇi</l>
                   <l n="b">svargge modati bhūmidaḥ<g type="danda">.</g></l>
                   <l n="c">Ākṣeptā cānumantā ca</l>
                   <l n="d">tāny eva narake vaseT<g type="danda">.</g></l><!-- 
    amwb : Sircar 123  -->
 </lg>
-            <lg n="4" met="anuṣṭubh" corresp="#Sircar1965_st0029">
+            <lg n="4" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0029" -->
                    <l n="a">bhūmiṁ ya<supplied reason="omitted">ḥ</supplied> prati<lb n="35" break="no"/>gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>ā<choice><sic>n</sic><corr>t</corr></choice>i</l>
                    <l n="b">yaś <choice><sic>y</sic><corr>c</corr></choice>a bhūmiṁ prayacchati<g type="danda">.</g></l>
                    <l n="c">tāv ubhau puṇya-karmmāṇau</l><!-- inversion ubhau tau Caution I have deleted Rajaguru's correction -->
@@ -155,7 +155,7 @@
 amwb : Sircar 29 
 -->
 </lg>
-            <lg n="5" met="anuṣṭubh" corresp="#Sircar1965_st0020">
+            <lg n="5" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0020" -->
                    <l n="a">Āsphoṭaya
                       <pb n="3r"/><lb n="36" break="no"/><supplied reason="omitted">nti pita</supplied>raḥ</l>
                    <l n="b">pravalga<surplus>ya</surplus>nti pitāmahāḥ<supplied reason="omitted">.</supplied></l>
@@ -164,7 +164,7 @@ amwb : Sircar 29
                     amwb : Sircar 20
                     -->
 </lg>
-            <lg n="6" met="anuṣṭubh" corresp="#Sircar1965_st0055">
+            <lg n="6" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0055" -->
                <l n="a">suvarṇṇa<unclear>m ekaṁ</unclear><lb n="37"/>gām ekāṁ</l>
                <l n="b">bhūmer apy arddham aṅgulaṁ<g type="danda">.</g></l>
                <l n="c">haran narakam āp<supplied reason="omitted">n</supplied>oti</l><!-- I correct with āpnoti Rajaguru corrects ā<choice><sic>po</sic><corr>yā</corr></choice>ti -->
@@ -172,7 +172,7 @@ amwb : Sircar 29
    amwb Sircar 55 
    -->
 </lg>
-            <lg n="7" met="anuṣṭubh" corresp="#Sircar1965_st0132">
+            <lg n="7" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0132" -->
                <l n="a">sva-dattāṁ para-dattā<unclear>m vā</unclear></l>
                <l n="b"><lb n="38"/>yo hareta vasundharāṁ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
@@ -180,7 +180,7 @@ amwb : Sircar 29
     amwb : Sircar 132 
     -->
 </lg>
-            <lg n="8" met="anuṣṭubh" corresp="#Sircar1965_st0064">
+            <lg n="8" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0064" -->
                <l n="a">harate hāray<choice><sic>eta</sic><corr>ed</corr></choice> yas tu</l><!-- I introduce the correction not present in rajaguru -->
                <l n="b"><unclear>manda-vu</unclear><lb n="39" break="no"/>ddhis tamo-vr̥taḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa vaddho vāruṇaiḥ</l>
@@ -189,7 +189,7 @@ amwb : Sircar 29
     -yoniṁ ca gacchati is the reading in Sircar Bhumi stanzas  
     -->
 </lg>
-            <lg n="9" met="śālinī" corresp="#Sircar1965_st0117">
+            <lg n="9" met="śālinī"><!-- corresp="#Sircar1965_st0117" -->
                <l n="a">sāmānyo ’yaṁ dharmma-setu<unclear>r nr̥</unclear><lb n="40" break="no"/>pāṇāṁ</l>
                <l n="b">kāle kāle pālanīyo bhavadbhiḥ<g type="danda">.</g></l>
                <l n="c">sarvvān etān bhāvin<choice><sic>o</sic><corr>aḥ</corr></choice> pārthivendrāN</l><!-- amwb I add the correction (sandhi); here as in Soma3-4 and 13 but in Soma1-2 bhūpatīndrāN -->
@@ -198,13 +198,13 @@ amwb : Sircar 29
     rāmabhadraḥ in soma13 but in soma1-2-3-4 rāmacandraḥ 
     -->
 </lg>
-            <lg n="10" met="anuṣṭubh" corresp="#Sircar1965_st0090">
+            <lg n="10" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0090" -->
                <l n="a">Asmadvaśānvaye kāle</l><!-- Sircar 90 asmin vaṁśe kṣayakṣīṇe -->
                <l n="b">yaḥ kaścinnr̥patir bhaveT<supplied reason="omitted">.</supplied></l><!-- Sircar 90 yo 'nyo rājā bhaviṣyati -->
                <l n="c">tasyāhaṁ tasmād āyāda</l><!-- Sircar 90 tasyāhaṁ pādalagno 'smi -->
                <l n="d">yomasmin yayā<lb n="42"/>ti prāyata<supplied reason="omitted">.</supplied></l><!-- Sircar 90 mayā dattaṁ na lopayet -->
             </lg>
-            <lg n="11" met="puṣpitāgrā" corresp="#Sircar1965_st0071">
+            <lg n="11" met="puṣpitāgrā"><!-- corresp="#Sircar1965_st0071" -->
                <l n="a">Iti kamala-dalāmbu-vindu-lolāṁ</l>
                <l n="b">śriyam anucintya manuṣya-jīvitañ ca<supplied reason="omitted">.</supplied></l>
                <l n="c"><lb n="43"/>sa-kalam idam udāhr̥taṁ ca vuddhvā</l>
@@ -256,8 +256,8 @@ amwb : Sircar 71
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --><!-- First edition Mazumdar JBORS vol 2 1916 pp 45-55  --></p>
         	<listBibl type="primary">
         	   <!-- Don't forget adding ARIE 1964-65 CP4 published in BC MAzumbar  JBORS vol ii (1) 1916 p 45-59 and plates and DR Bhandarkar Indian Antiquary vol LXI p 241 -->
-        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">218-224</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXI</citedRange><citedRange unit="page">276-284</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">34</citedRange><citedRange unit="page">218-224</citedRange></bibl>
+	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXI</citedRange><citedRange unit="page">276-284</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1556</citedRange></bibl>

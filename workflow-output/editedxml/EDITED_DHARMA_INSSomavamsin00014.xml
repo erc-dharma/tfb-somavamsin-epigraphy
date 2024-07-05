@@ -161,11 +161,12 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The plates are preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/v979vc67d">here</ref>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">Supplementary Inscriptions</citedRange><citedRange unit="item">V</citedRange><citedRange unit="page">362-365</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">Supplementary Inscriptions</citedRange><citedRange unit="item">V</citedRange><citedRange unit="page">362-365</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">465-466</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">278</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

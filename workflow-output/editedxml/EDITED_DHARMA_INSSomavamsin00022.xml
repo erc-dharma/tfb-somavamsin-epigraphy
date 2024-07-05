@@ -264,16 +264,16 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The set is preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/qz20t303f">here</ref>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">167-175</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIII</citedRange><citedRange unit="page">226-231</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIII</citedRange><citedRange unit="page">226-231</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:ARIE1952-1953"/><citedRange unit="item">19</citedRange></bibl>
               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">952</citedRange></bibl>
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">126-128</citedRange></bibl>
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">255</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">24</citedRange><citedRange unit="page">255</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl><!-- don't forget adding  ?OSM CP45 p.43 $Arie1952-53 CP19 in ARIE_1945-1952.pdf p333dupdf published in JAS Letters Vol XIX 1953 p.117ff and plate $ verification dans ARIE 1966-67 CP 2 published in GM Laskar JPASB vol I 1905 p6-7 14-16 See DC Sircar JASB Letters vol XIX 1953 p117-24 and plates$ Bhandarkar’s list n1565$  GM Laskar JASB vol 1 new series 1905 p 6-7 and 14-16$Banerji History of Orissa vol 1 p213 $ HC Ray Dynastic History of Northern India vol 1 p 402=403 $ SN Rajaguru Orissa Historical Research Journal vol VIII 1959 p101=109 and plate $ KC Panigrahi Chronology of the Bhauma Karas and the Somavaṃśīs of Orissa 1961 p49-52   -->
         </div>
       </body>
