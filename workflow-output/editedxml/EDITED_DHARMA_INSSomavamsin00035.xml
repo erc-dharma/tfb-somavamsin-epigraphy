@@ -177,9 +177,14 @@ Orissa. -->
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">IV</citedRange><citedRange unit="page">337-340</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	    <bibl n="M"><ptr target="bib:Mazumdar1913-1914_01"/></bibl>
+        	    <bibl n="Si"><ptr target="bib:Sircar1949-1950_10"/></bibl>
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">43</citedRange><citedRange unit="page">276-280</citedRange></bibl> 
+	       <bibl n="Sh"><ptr target="bib:Shastri1995_02"/><citedRange unit="appendix">IV</citedRange><citedRange unit="page">337-340</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:ARIE1950-1951"/><citedRange unit="item">7</citedRange></bibl>
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">469-470</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">283</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

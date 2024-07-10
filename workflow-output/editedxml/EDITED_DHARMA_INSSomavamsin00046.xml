@@ -161,7 +161,7 @@
 				<bibl n="R"><ptr target="bib:Rajaguru2011_01"/><citedRange unit="appendix">I</citedRange><citedRange unit="page">99-105</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">270</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">34</citedRange><citedRange unit="page">270</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
