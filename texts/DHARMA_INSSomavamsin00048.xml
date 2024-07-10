@@ -165,6 +165,7 @@
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="note">5</citedRange><citedRange unit="page">302</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">300</citedRange></bibl>
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

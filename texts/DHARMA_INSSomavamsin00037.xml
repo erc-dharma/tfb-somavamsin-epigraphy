@@ -167,12 +167,13 @@ n="45"/>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Photos available here : https://didomena.ehess.fr/concern/data_sets/cv43p575g <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The set is preserved in the Odisha State Museum. Photos available <ref target="https://didomena.ehess.fr/concern/data_sets/cv43p575g">here</ref>. <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">Supplement II</citedRange><citedRange unit="page">348-353</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">252</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">460-461</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">20</citedRange><citedRange unit="page">252</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

@@ -397,13 +397,13 @@ n="75" break="no"/><supplied reason="omitted">rṇṇa</supplied>m idaṁ
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/fx719v96q">here</ref>. <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The set is preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/fx719v96q">here</ref>. <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 	<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="entry">Supplement III</citedRange><citedRange unit="page">354-357</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">146-147</citedRange></bibl>
-               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">274</citedRange></bibl>
+               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">37</citedRange><citedRange unit="page">274</citedRange></bibl>
            </listBibl>
         </div>
       </body>
