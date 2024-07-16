@@ -106,7 +106,7 @@
              <pb n="1r"/>
 <p>
 <pb n="1v"/>
-<lb n="1"/>svasti<g type="danda">.</g> jita-śrī-puṇḍarīkākṣaḥ namaste viśvavihāri<lb n="2"/>namaste tu riṣikeśa mahāpuruśa-pu<supplied reason="omitted">r</supplied>vvaja <g type="danda">.</g> Aneka-guṇa-gaṇālaṁkr̥ta<lb n="3" break="no"/>-janopa-bhogāmarādhipa-purīva jagate vikhyāta-nāmnaḥ śrī<lb n="4" break="no"/>-manivadapāṭikāt-parama-sauraḥ rāṣṭrakula-ttilaka-samadhiga<lb n="5" break="no"/>ta-pañca-mahāśabda-mahāsāmantādhipati-rāṇaka-śrī-pr̥thi<lb n="6" break="no"/>vivigraha-śrī-vāmanavigraha-sutaḥ śrī-vyāghrarājasya naptā ku<lb n="7" break="no"/>śalī kāsamvadā-viṣaya-pratibaddha-sakamrā-grāma-brhāhmaṇā<supplied reason="omitted">n</supplied><lb n="8"/>sampūjya tat-pratinivāsi-kuṭumbinas-tad-viṣayī-janasa<lb n="9" break="no"/>dā yathā kālādhyāsinaḥ samāhatr̥-sannidhātr̥-da<supplied reason="omitted">ṇḍa</supplied>
+<lb n="1"/><g type="spiralL">.</g> svasti<g type="d"/> jita-śrī-puṇḍarīkākṣaḥ namaste viśvavihāri<lb n="2"/>namaste tu riṣikeśa mahāpuruśa-pu<supplied reason="omitted">r</supplied>vvaja <g type="danda">.</g> Aneka-guṇa-gaṇālaṁkr̥ta<lb n="3" break="no"/>-janopa-bhogāmarādhipa-purīva jagate vikhyāta-nāmnaḥ śrī<lb n="4" break="no"/>-manivadapāṭikāt-parama-sauraḥ rāṣṭrakula-ttilaka-samadhiga<lb n="5" break="no"/>ta-pañca-mahāśabda-mahāsāmantādhipati-rāṇaka-śrī-pr̥thi<lb n="6" break="no"/>vivigraha-śrī-vāmanavigraha-sutaḥ śrī-vyāghrarājasya naptā ku<lb n="7" break="no"/>śalī kāsamvadā-viṣaya-pratibaddha-sakamrā-grāma-brhāhmaṇā<supplied reason="omitted">n</supplied><lb n="8"/>sampūjya tat-pratinivāsi-kuṭumbinas-tad-viṣayī-janasa<lb n="9" break="no"/>dā yathā kālādhyāsinaḥ samāhatr̥-sannidhātr̥-da<supplied reason="omitted">ṇḍa</supplied>
              <pb n="2r" break="no"/>
                   <lb n="10" break="no"/>-pāśika-cāṭa-bhaṭa-piśuna-v<choice><sic>i</sic><corr>e</corr></choice>tr̥kavarodha-jana-nr̥pa-valla<lb n="11" break="no"/>bhādīn sarvānājñāpayati viditam astu bhavatāṁ yathā<lb n="12" break="no"/>smāmbhi<choice><sic>va</sic><corr>ra</corr></choice>ya<supplied reason="omitted">ṁ</supplied>-grāmaḥ sanidhi-sopanidhi-sadaśāparādha-sa<lb n="13" break="no"/>rvva-vādhā-varjjita-sarvva-parikarākarādāna-samea-prati<lb n="14" break="no"/>niṣ<choice><sic>a</sic><corr>i</corr></choice>ddha-cāṭa-bhaṭa-praveśa-catuḥsīmā-parynaaḥ sa<lb n="15" break="no"/>vr̥kṣa-mālākula-tr̥ṇa-gulmallatā-v<choice><sic>ā</sic><corr>a</corr></choice>llī-viṭapa-puṣkarā<lb n="16" break="no"/>nī nadyādi-sahita-hastipada-vinirrggataḥ kalleḍā-maṇḍa<lb n="17" break="no"/>le śāsana-sīnap<choice><sic>u</sic><corr>a</corr></choice>-grāma-vāstavyaḥ vājas<choice><sic>e</sic><corr>a</corr></choice>n<choice><sic>a</sic><corr>e</corr></choice><supplied reason="omitted">ya</supplied>-śākhā-kā<lb n="18" break="no"/>śyapa-gotra-paṇña-riṣaya-pravara-bhaṭṭa-putra kedhira-bhaṭṭa-go<lb n="19" break="no"/>las<supplied reason="omitted">v</supplied>ām-suta-vr̥hakasya naptā
              <pb n="2v"/>
@@ -205,9 +205,9 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Nayak2012_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1"><!-- update the value of @loc.-->
+                     <lem><g type="spiralL">.</g> svasti</lem>
+                     <rdg source="bib:Nayak2012_01">svasti</rdg>
                   </app>
                </listApp>
          </div>
