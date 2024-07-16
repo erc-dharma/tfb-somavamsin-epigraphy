@@ -98,7 +98,7 @@ n="1r"/>
 <pb 
 n="1v"/>
 <lb 
-n="1"/>svasti<g type="danda">.</g> jita-śrī-puṇḍarīkākṣaḥ namaste viśvavihāri<lb
+n="1"/><g type="spiralL">.</g> svasti<g type="d"></g> jita-śrī-puṇḍarīkākṣaḥ namaste viśvavihāri<lb
 n="2"/>namaste tu riṣikeśa mahāpuruśa-pu<supplied reason="omitted">r</supplied>vvaja <g type="danda">.</g> Aneka-guṇa-gaṇālaṁkr̥ta<lb 
 n="3" break="no"/>-janopa-bhogāmarādhipa-purīva jagate vikhyāta-nāmnaḥ śrī<lb 
 n="4" break="no"/>-manivadapāṭikāt-parama-sauraḥ rāṣṭrakula-ttilaka-samadhiga<lb 
@@ -246,9 +246,9 @@ n="50"/>likhitam idaṁ kāyasta-<persName>haradattena</persName> kesavenutkīr�
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Nayak2012_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1"><!-- update the value of @loc.-->
+                     <lem><g type="spiralL">.</g> svasti</lem>
+                     <rdg source="bib:Nayak2012_01">svasti</rdg>
                   </app>
                </listApp>
          </div>
