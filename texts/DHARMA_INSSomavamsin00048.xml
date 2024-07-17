@@ -154,10 +154,11 @@
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <p>The record consists of two parts and is incised between the two inner chambers in the cave. During the fieldtrip in January 2023, I observed that the whole text was anointed by devotees living in the cave. </p>
+            <p><bibl><ptr target="bib:Beglar1882_01"/><citedRange unit="page">90</citedRange></bibl> who first noticed this inscription gives the following reading: <q>Sri acārya Kula Candra, the disciple of Saha Candra Katuriji, *** rest oblitared; another Sri Sravaki Vi***</q>. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>This inscription was noticed first by <bibl><ptr target="bib:Beglar1882_01"/><citedRange unit="page">90</citedRange></bibl>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XV</citedRange><citedRange unit="page">166</citedRange></bibl>
         	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>
