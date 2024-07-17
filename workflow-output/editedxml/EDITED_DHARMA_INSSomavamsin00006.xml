@@ -256,7 +256,7 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p>The set is preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/df65vh67d">here</ref>.</p>
         	<listBibl type="primary">
-        	   <bibl n="L"><ptr target="bib:Laskar1905_01"/></bibl>
+        	   <bibl n="L"><ptr target="bib:Laskar1905_01"/><citedRange unit="item">G</citedRange><citedRange unit="page">4-6</citedRange><citedRange unit="page">12-13</citedRange></bibl>
 	<bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">19</citedRange><citedRange unit="page">112-117</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">III</citedRange><citedRange unit="page">179-183</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

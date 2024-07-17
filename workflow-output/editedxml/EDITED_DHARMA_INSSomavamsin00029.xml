@@ -170,10 +170,11 @@
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <p>The inscription is found on the inner side of the architrave;</p>
+            <p>General Cunningham’s reading reported by <bibl><ptr target="bib:Beglar1882_01"/></bibl> is the following: <q>Sri Madusyota Kesari Devasya pravarddhanne rajye samvat 18 (?) Sri Arya Sangha prati Vadoha graha kula vivisca (?) de Sri Ganascarya Sri Kalacandra bha***sya*likhya Subha Cnadrasyeh***</q></p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>This inscription was noticed by J.D.M. Beglar, who published it with Cunningham’s reading of it in the Archaelogical Survey Report, vol XIII, p. 85, note. First published by <bibl><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="page">165-166</citedRange></bibl>. Re-edited here by Amandine Wattelier-Bricout based on the photos taken with Annette Schmiedchen in January 2023.</p>
+           <p>Whereas <bibl><ptr target="bib:Prinsep1837_04"/></bibl> was the first to edit the inscriptions found in Khaṇḍagiri and Udayagiri, he did not edit this which was first noticed by <bibl><ptr target="bib:Beglar1882_01"/></bibl>, who published it with Cunningham’s reading of it in the Archaelogical Survey Report, vol XIII, p. 85, note 1. First published by <bibl><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="page">165-166</citedRange></bibl>. Re-edited here by Amandine Wattelier-Bricout based on the photos taken with Annette Schmiedchen in January 2023.</p>
         	<listBibl type="primary">
         	   <bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XIV</citedRange><citedRange unit="page">165-166</citedRange></bibl>
         	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>
