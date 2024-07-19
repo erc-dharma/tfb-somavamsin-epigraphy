@@ -402,6 +402,7 @@ amwb : Sircar 71
             <!--commentary encoded as per section §9.3 -->
              <!-- amwb : citer sur le site http://www.indoskript.org/manuscripts/details/549
              -->
+             <p><bibl><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93</citedRange></bibl> remarks that his reading of the seal legend must be looked upon as a mere conjecture. At the time being, it is impossible to check his reading since we don’t know where this set is preserved. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
