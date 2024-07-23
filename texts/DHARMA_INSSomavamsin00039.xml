@@ -311,12 +311,12 @@ n="44"/>manaḥ
                   <app loc="38-39">
                      <lem><gap reason="ellipsis"/>medini yāvadābhāḥ yāvad<gap reason="ellipsis"/></lem>
                      <note>Even if nothing could be certain, the reading of the lines 38-39 given by <bibl><ptr target="bib:Acharya2013_02"/></bibl> looks close to the verse listed by <bibl><ptr target="bib:Sircar1965_03"/></bibl> under the number 106 :
-                     <q><lg n="106" met="anuṣṭubh">
+                     <lg met="anuṣṭubh">
                         <l n="a"><foreign>phāla-kr̥ṣṭāṁ mahīṁ dadyāt</foreign></l> 
                         <l n="b"><foreign>sa-bīja-śasya-medinim</foreign></l>
                         <l n="c"><foreign>yāvat-sūrya-kr̥tālokas</foreign></l> 
                         <l n="d"><foreign>tāvat svarge mahīyate</foreign></l>  
-                     </lg></q></note>
+                     </lg></note><!--  need to check the plate to have a better reading and see if this reading is possible -->
                   </app>
                </listApp>
          </div>
