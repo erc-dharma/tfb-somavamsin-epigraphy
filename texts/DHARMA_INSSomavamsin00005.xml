@@ -282,7 +282,7 @@ n="45"/>kr̥<choice><sic>ccha</sic><corr>tsna</corr></choice>-gāṁ bhoktu-kām
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <p>Orthographical peculiarities : the use of v for b; the use of the velar nasal ṅ instead of the anusvāra; use of a long ū for a short one u.</p>
-            <p>Object: grant of a village to Brahmins by the reigning king. </p>
+            <p>Object: grant of a village to four Brahmins by the reigning king. </p>
             <p>Date : āṣāḍha śukla 8 in the sixth year of the reign of Janamejaya.</p>
             <p>Kāyastha: KoIghoṣa son of Vallabhaghoṣa, Mahāsandhivigrahin : Mallādhāradatta</p>
          </div>
@@ -290,6 +290,7 @@ n="45"/>kr̥<choice><sic>ccha</sic><corr>tsna</corr></choice>-gāṁ bhoktu-kām
 	<!--bibliography encoded as per section §9.4 -->
            <p>First noticed and edited in 1877 in the <title>Journal of the Bengal Asiatic Society</title>, volume XLVI, Part I, p.173 ff., by Babu Pratapachandra Ghosha. It was reedited then by <bibl><ptr target="bib:Fleet1894-1895_04"/><citedRange unit="item">A</citedRange><citedRange>340-344</citedRange></bibl>. <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
+        	   <bibl n="G"><ptr target="bib:Ghosha1877_01"/></bibl>
         	    <bibl n="F"><ptr target="bib:Fleet1894-1895_04"/><citedRange unit="item">A</citedRange><citedRange>340-344</citedRange></bibl>
 	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">18</citedRange><citedRange unit="page">106-111</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">172-178</citedRange></bibl>

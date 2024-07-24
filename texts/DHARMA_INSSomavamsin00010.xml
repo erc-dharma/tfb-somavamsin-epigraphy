@@ -241,16 +241,18 @@ n="45" break="no"/>mvaT <num value="17">17</num> mādhya <abbr>śudi</abbr> <num
                  <lg n="15" met="sragdharā">
                      <l n="ab"><choice><sic>Ā</sic><corr>A</corr></choice>sti kṣoṇīśvarāṇamamalamaṇirucāmanvay<choice><sic>ā</sic><corr>aḥ</corr></choice> kaustubhābhaḥ<lb 
 n="46"/>śauryatyāgāmburāśervviracita-vidhi-vaddānaśubhrīkr̥tābhraḥ</l> 
-                     <l n="cd">śrīmān-janmejayā<lb 
+                     <l n="cd">śrīmān-<persName>janmejayā</persName><lb 
 n="47" break="no"/>khyas tr̥daśa-pati-samaḥ kr̥tsnagābhoktukāmaḥ prakhyātadve<choice><sic>ś</sic><corr>ṣ</corr></choice>i-vaṅśa-pravida<supplied reason="omitted">la</supplied><lb 
 n="48" break="no"/>napaṭur bhūpatiḥ somavaṅśe<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="16" met="sragdharā">
-                     <l n="ab">jñeyāśeṣāstra-smr̥ti-vimala-dhiyā<surplus><g type="danda">.</g></surplus> veda<lb 
-n="49" break="no"/>-vedāṅga-vidyā-śikṣā-kalpetihāsaprakaṭasura-guru-prāpta-bhūyiṣṭhadhāmnāṁ nāmnā</l> 
-                     <l n="cd">śrī<lb 
-n="50" break="no"/>-sādhāraṇena dvijavar<choice><sic>u</sic><corr>a</corr></choice>tanunā mantriṇā yasya rājyaṁ nirvyūḍhaṁ so 'yam uccais trijagati vidito<lb 
-n="51"/>devajanmejayaśrīḥ<g type="ddanda">.</g></l>
+                     <l n="a">jñeyāśeṣāstra-smr̥ti-vimala-dhiyā<surplus><g type="danda">.</g></surplus> veda<lb 
+n="49" break="no"/>-vedāṅga-vidyā-</l><!-- maybe jñeyāśeṣārthaśāstra  see SV11-->
+                     <l n="b">śikṣā-kalpetihāsaprakaṭasura-guru-prāpta-bhūyiṣṭhadhāmnāṁ nāmnā</l> 
+                     <l n="c">śrī<lb 
+n="50" break="no"/>-<persName>sādhāraṇena</persName> dvijavar<choice><sic>u</sic><corr>a</corr></choice>tanunā mantriṇā yasya rājyaṁ</l> 
+                     <l n="d">nirvyūḍhaṁ so 'yam uccais trijagati vidito<lb 
+n="51"/>deva<persName>janmejaya</persName>śrīḥ<g type="ddanda">.</g></l>
                  </lg> 
                  <p>likhitam idaṁ tāṃ<surplus>v</surplus>ra-śās<choice><sic>ā</sic><corr>a</corr></choice>naṁ mahāsāndhivigrah<choice><sic>o</sic><corr>i</corr></choice>-rāṇaka-śrīma<lb 
 n="52" break="no"/>lladatta-prativaddhena śrī-vacchena śaṁkillasuteneti<g type="ddanda">.</g> likhitam idaṁ tāmra-śāsana<supplied reason="omitted">ṁ</supplied> vaṇik<surplus>a</surplus> si<lb 
