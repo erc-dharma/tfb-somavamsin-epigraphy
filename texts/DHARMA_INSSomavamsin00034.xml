@@ -123,7 +123,7 @@ n="2"/><gap reason="lost" unit="character" extent="unknown"/>śrī-<persName typ
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p><bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">335</citedRange></bibl> suggests the following reconstruction :
+             <p>Floowing <bibl><ptr target="bib:Sircar1959-1960_12"/><citedRange unit="page">273-274</citedRange></bibl>, <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">335</citedRange></bibl> suggests the following reconstruction :
                <q><supplied reason="lost">siddham parama-bhaṭṭāraka-mahārājā</supplied>dhirāja-parameśvara-soma-kula-tilaka-tri<supplied reason="lost">kaliṅgādhipati-parama-māheśvara</supplied>-śrī-karṇṇa-rāja-devasya pravarddhamāna-vi<supplied reason="lost">jaya-rājye samvatsare</supplied></q>
              
              </p>
