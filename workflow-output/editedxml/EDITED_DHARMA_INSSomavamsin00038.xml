@@ -319,7 +319,7 @@ amwb : Sircar 71
                      <rdg source="bib:Shastri1995_02">kāsaika°</rdg>
                   </app>
                   <app loc="4">
-                     <lem>°<choice><sic>kr̥ca</sic><corr>kr̥cchra</corr></choice>kasya</lem>
+                     <lem>°<choice><sic>kr̥ca</sic><corr>kr̥cchra</corr></choice>kasya</lem><!-- the word kūrcaka in its meaning "blossom" could be possible but is less satisfying  -->
                      <rdg source="bib:Shastri1995_02">°kr̥cakasya</rdg>
                   </app>
                   <app loc="1">

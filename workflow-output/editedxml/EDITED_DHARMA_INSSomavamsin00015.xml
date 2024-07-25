@@ -329,7 +329,7 @@ amwb : Sircar 71
                      <rdg source="bib:Rajaguru1966_01">mahata°</rdg>
                   </app>
                   <app loc="5">
-                     <lem><choice><sic>kūrccha</sic><corr>kr̥cchra</corr></choice>kasya</lem>
+                     <lem><choice><sic>kūrccha</sic><corr>kr̥cchra</corr></choice>kasya</lem><!-- the word kūrcaka with its meaning blossom could be possible but is less satisfying -->
                      <rdg source="bib:Shastri1995_02">kūrcchakasya</rdg>
                      <rdg source="bib:Rajaguru1966_01">k<choice><sic>r̥ccha</sic><corr>r̥t</corr></choice>kasya</rdg>
                   </app>
