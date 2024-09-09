@@ -240,6 +240,7 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p>The plates are preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/1n79hd681">here</ref>.</p>
         	<listBibl type="primary">
+        	           <bibl n="SiRa"><ptr target="bib:Sircar+Rath1944_01"/><citedRange unit="page">237-244</citedRange></bibl>
 		<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">IV</citedRange><citedRange unit="page">184-188</citedRange></bibl>
         	          <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">17</citedRange><citedRange unit="page">100-104</citedRange></bibl>
 <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
