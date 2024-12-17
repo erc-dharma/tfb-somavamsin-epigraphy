@@ -95,6 +95,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:amwb" when="2024-12-17">Addition of the translation</change>
          <change who="part:amwb" when="2024-06-25">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -106,7 +107,7 @@
               <pb n="1r"/><!-- I reproduce the edition of EI3  -->
 <p>
 <pb n="1v"/>
-<lb n="1"/>Om svasti<g type="danda">.</g> śrimad-ārāma-samāvāsi<choice><sic>n</sic><corr>t</corr></choice>aḥ śrīmato vijaya-kaṭakāt<g type="danda">.</g> parama-bhaṭṭā<lb n="2" break="no"/>raka-mahājādhirāja-parameśvara-śrī-<persName>śivagupta</persName>-deva-pādānudhyāta-parama-maheśva<lb n="3" break="no"/>ra-parama-bhaṭṭāra-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-<lb n="4" break="no"/>mahārājādhirāja-śrī-<persName>mahābhavagupta</persName>-devaḥ kuśalī<g type="danda">.</g> ko<choice><orig>ś</orig><reg>s</reg></choice>ala-deśe povā-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīya<lb n="5" break="no"/>raṇḍā-grāme<g type="danda">.</g> tathā Alāṇḍalā-grāme<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇān saṁpūjya tad-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīyān yathākālā<lb n="6" break="no"/>dhyāsinaḥ samāhartṛ-sannidhātṛ-niyuktakādhikār<choice><sic>ī</sic><corr>i</corr></choice>ka-dāṇḍapāśika-cāṭa<lb n="7" break="no"/>-bhaṭ<surplus>ṭ</surplus>a-piśuna-ve<supplied reason="omitted">t</supplied>rikāvarodhajana-rānaka-<supplied reason="omitted">rājaputra</supplied>-rājavallabhādī<choice><sic>na</sic><corr>N</corr></choice> sarvvāN sa<lb n="8" break="no"/>mājñāpayati<g type="danda">.</g> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ <choice><orig>ṣ</orig><reg>s</reg></choice>anidhiḥ so<lb n="9" break="no"/>panidhis sa-daśāparādhas sarvva<choice><orig>v</orig><reg>b</reg></choice>ādhāvivarjjitas sarvvoparikakarādāna-sahitaś catuḥ<lb n="10" break="no"/>-sīmāparyantas sā<supplied reason="omitted">mra</supplied>-madhukas  sagartoṣa<supplied reason="omitted">ra</supplied>s sa-jala-sthala-sahitaḥ pratiniṣiddha-cāṭa-bhaṭ<surplus>ṭ</surplus>a-pra<lb n="11" break="no"/>veśaḥ<g type="danda">.</g> ṭ<surplus>ṭ</surplus>akārī-vinirggatāya<g type="danda">.</g> ko<choice><orig>ś</orig><reg>s</reg></choice>ale turvvunā-vāstavyāya<g type="danda">.</g> bharadvāja-gotrāya<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ā<lb n="12" break="no"/>rhaspatyāṅgirasa-pravarāya<g type="danda">.</g> vājasena-śākhadhyāyine bhaṭṭa-śrī-mahattama-<persName>sādhāraṇā</persName><lb n="13" break="no"/>ya<g type="danda">.</g> bhaṭṭa-śrī-<persName>śobhana</persName>-sutāya<g type="danda">.</g> saliladhārā-purassaram ā-candra-tārakārkka-kṣiti-sama
+<lb n="1"/>Om svasti<g type="danda">.</g> śrimad-<placeName>ārāma</placeName>-samāvāsi<choice><sic>n</sic><corr>t</corr></choice>aḥ śrīmato vijaya-kaṭakāt<g type="danda">.</g> parama-bhaṭṭā<lb n="2" break="no"/>raka-mahārājādhirāja-parameśvara-śrī-<persName>śivagupta</persName>-deva-pādānudhyāta-parama-māheśva<lb n="3" break="no"/>ra-parama-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-<lb n="4" break="no"/>mahārājādhirāja-śrī-<persName>mahābhavagupta</persName>-devaḥ kuśalī<g type="danda">.</g> <placeName>ko<choice><orig>ś</orig><reg>s</reg></choice>ala</placeName>-deśe <placeName>povā</placeName>-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīya<lb n="5" break="no"/>-<placeName>raṇḍā</placeName>-grāme<g type="danda">.</g> tathā <placeName>Alāṇḍalā</placeName>-grāme<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇān saṁpūjya tad-vi<choice><orig>ś</orig><reg>ṣ</reg></choice>ayīyān yathākālā<lb n="6" break="no"/>dhyāsinaḥ samāhartṛ-sannidhātṛ-niyuktakādhikār<choice><sic>ī</sic><corr>i</corr></choice>ka-dāṇḍapāśika-cāṭa<lb n="7" break="no"/>-bhaṭ<surplus>ṭ</surplus>a-piśuna-ve<supplied reason="omitted">t</supplied>rikāvarodhajana-rāṇaka-<supplied reason="omitted">rājaputra</supplied>-rājavallabhādī<choice><sic>na</sic><corr>N</corr></choice> sarvvāN sa<lb n="8" break="no"/>mājñāpayati<g type="danda">.</g> viditam astu bhavatāṁ yathāsmābhir ayaṁ grāmaḥ <choice><orig>ṣ</orig><reg>s</reg></choice>anidhiḥ so<lb n="9" break="no"/>panidhis sa-daśāparādhas sarvva<choice><orig>v</orig><reg>b</reg></choice>ādhāvivarjjitas sarvvopari<surplus>ka</surplus>karādāna-sahitaś catuḥ<lb n="10" break="no"/>-sīmāparyantas sā<supplied reason="omitted">mra</supplied>-madhukas  sagartoṣa<supplied reason="omitted">ra</supplied>s sa-jala-sthala-sahitaḥ pratiniṣiddha-cāṭa-bhaṭ<surplus>ṭ</surplus>a-pra<lb n="11" break="no"/>veśaḥ<g type="danda">.</g> <placeName>ṭ<surplus>ṭ</surplus>akārī</placeName>-vinirggatāya<g type="danda">.</g> <placeName>ko<choice><orig>ś</orig><reg>s</reg></choice>ale</placeName> <placeName>turvvunā</placeName>-vāstavyāya<g type="danda">.</g> bharadvāja-gotrāya<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ā<lb n="12" break="no"/>rhaspaty-āṅgirasa-pravarāya<g type="danda">.</g> vāja<choice><sic>sena</sic><corr>saneya</corr></choice>-śākhadhyāyine bhaṭṭa-śrī-mahattama-<persName>sādhāraṇā</persName><lb n="13" break="no"/>ya<g type="danda">.</g> bhaṭṭa-śrī-<persName>śobhana</persName>-sutāya<g type="danda">.</g> saliladhārā-purassaram ā-candra-tārakārkka-kṣiti-sama
     <pb n="2r" break="no"/>
     <lb n="14" break="no"/>kālopabhogyāya<g type="danda">.</g> mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye tām<surplus>v</surplus>ra-śāsanenākarī<lb n="15" break="no"/>kṛtya pratipāditam ity avagatya samucita-bhoga-bhāga-kara-hiraṇyādibhir pratyāyam upanaya<lb n="16" break="no"/>dbhir bhavadhiḥ sukhena prativastavyam iti<g type="danda">.</g> bhāvibhiś ca bhūpatibhir ddattir iyam asmadīyā dharmma<lb n="17" break="no"/>-gauravād asmad-anurodhāc ca sva-dattir ivānupalanīyā<g type="ddanda">.</g> tathā coktan dharmaśāstre<g type="danda">.</g>
 </p>
@@ -195,26 +196,26 @@
                     <l n="c">sakalam idam udāhr̥ta<supplied reason="omitted">ṁ</supplied> ca <choice><orig>v</orig><reg>b</reg></choice>u<choice><sic>dvā</sic><corr>ddhvā</corr></choice></l>
                     <l n="d"><lb n="34"/>na hi puruṣaiḥ para-kīrtayo vilopyāḥ<g type="ddanda">.</g></l>
                 </lg>
-             <p>sakaka-bhūpāla-mauli-mālā-vi<lb n="35" break="no"/>lagna-māṇikya-mayūkha-vrātābhira<choice><orig>ṇ</orig><reg>ñ</reg></choice>jitāṅ<choice><sic>gi</sic><corr>ghri</corr></choice>-kamala-yugalaḥ pracaṇḍa-dorddaṇḍa-maṇḍa<lb n="36" break="no"/>lāgra-khaṇḍitārāti-matta-mātaṅga-vimukta-muktāphala-prasādhitāśeṣa-raṇa-mahī<lb n="37" break="no"/>-maṇḍala<g type="ddanda">.</g> </p>
-                 <lg met="śārdūlavikrīḍita">
+             <p>sakala-bhūpāla-mauli-mālā-vi<lb n="35" break="no"/>lagna-māṇikya-mayūkha-vrātābhira<choice><orig>ṇ</orig><reg>ñ</reg></choice>jitāṅ<choice><sic>gi</sic><corr>ghri</corr></choice>-kamala-yugalaḥ pracaṇḍa-dorddaṇḍa-maṇḍa<lb n="36" break="no"/>lāgra-khaṇḍitārāti-matta-mātaṅga-vimukta-muktāphala-prasādhitāśeṣa-raṇa-mahī<lb n="37" break="no"/>-maṇḍala<g type="ddanda">.</g> </p>
+                 <lg met="śārdūlavikrīḍita" n="14">
                      <l n="a">yas <persName>sādhāraṇa</persName>-nāmni mantri-tilake vinyasya sarvvāgamaṁ</l> 
                      <l n="b">dhairyodanvati tī<lb n="38" break="no"/>vra-tejasi dhuraṁ rājasya viprottame<g type="danda">.</g></l> 
                      <l n="c">mānākhyānaka-vistarāmṛta-rasāsvādād a<lb n="39" break="no"/>manda-sphurat-</l>
                      <l n="d">santoṣāt sukham anvabhūd avirataṁ pṛthvīśa-cūḍamaṇiḥ<g type="ddanda">.</g></l>
                  </lg>                
-                 <lg met="sragdharā">
+                 <lg met="sragdharā" n="15">
                      <l n="a">jñ<choice><sic>ā</sic><corr>e</corr></choice>yāś<supplied reason="omitted">eṣā</supplied>rtha
                  <pb n="3r" break="no"/><lb n="40" break="no"/>-śāstra-smṛti-vimala-dhiyā veda-vedaṅga-vidyā</l>
                      <l n="b">-śikṣā-kalpetihāsa-prakaṭa-suragu<lb n="41" break="no"/>ruḥ prāpta-bhūyiṣṭha-dhāmnā<g type="danda">.</g> </l>
                      <l n="c">nāmnā <persName>sādhāraṇena</persName> dvija-vara-vidhinā mantriṇā yasya rājyaṁ</l>
                      <l n="d">ni<lb n="42" break="no"/>rvyūdhaṁ so ’yam uccais tri-jagati vidito <persName>dharmma-kandarppa</persName>-devaḥ<g type="ddanda">.</g></l>
                  </lg> 
-                 <p>parama-maheśvara-parama<lb n="43" break="no"/>-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī<lb n="44" break="no"/>-<persName>mahābhavagupta</persName>-deva-pāda-padma-pravarddhamāna-vijaya-rājye eka-triṅśatt<choice><sic>i</sic><corr>a</corr></choice>me s<choice><sic>ā</sic><corr>a</corr></choice>mvatsa<lb n="45" break="no"/>re<g type="danda">.</g> mārgga <abbr>śudi</abbr> tithau trayodaśyāṁ yatrāṅkenāpi samvat <num value="31">31</num> mārgga<lb n="46"/>śudi <num value="13">13</num> likhitam idaṁ triphalī-tām<surplus>v</surplus>ra-śāsana<supplied reason="omitted">ṁ</supplied> mahāsāndhivigra<lb n="47" break="no"/>hī-rāṇaka-<persName>malladatta</persName>-prati<choice><orig>v</orig><reg>b</reg></choice>addha-kāyastha-śrī-<persName>māhūkena</persName> <persName>priyaṅkarā<lb n="48" break="no"/>ditya</persName>-suteneti<g type="ddanda">.</g>
+                 <p>parama-māheśvara-parama<lb n="43" break="no"/>-bhaṭṭāraka-mahārājādhirāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī<lb n="44" break="no"/>-<persName>mahābhavagupta</persName>-deva-pāda-padma-pravarddhamāna-vijaya-rājye eka-triṅśatt<choice><sic>i</sic><corr>a</corr></choice>me s<choice><sic>ā</sic><corr>a</corr></choice>mvatsa<lb n="45" break="no"/>re<g type="danda">.</g> mārgga <abbr>śudi</abbr> tithau trayodaśyāṁ yatrāṅkenāpi samvat <num value="31">31</num> mārgga<lb n="46"/>śudi <num value="13">13</num> likhitam idaṁ triphalī-tām<surplus>v</surplus>ra-śāsana<supplied reason="omitted">ṁ</supplied> mahāsāndhivigra<lb n="47" break="no"/>hī-rāṇaka-<persName>malladatta</persName>-prati<choice><orig>v</orig><reg>b</reg></choice>addha-kāyastha-śrī-<persName>māhūkena</persName> <persName>priyaṅkarā<lb n="48" break="no"/>ditya</persName>-suteneti<g type="ddanda">.</g>
                  </p> 
                  <lg met="anuṣṭubh">
                      <l n="a">praṇītaṁ ko<choice><orig>ś</orig><reg>s</reg></choice>alendreṇa</l> 
-                     <l n="b">prati<choice><orig>v</orig><reg>b</reg></choice>odhya-maṃhattama<g type="danda">.</g></l> 
-                     <l n="c">Ādatta puṇḍarīkā<lb n="49" break="no"/>kṣaḥ</l> 
+                     <l n="b">prati<choice><orig>v</orig><reg>b</reg></choice>odhya-maṃhattam<surplus>a</surplus><g type="danda">.</g></l> 
+                     <l n="c">Ādatta <persName>puṇḍarīkā<lb n="49" break="no"/>kṣaḥ</persName></l> 
                      <l n="d">śāsanaṁ tāmra-nirmmitam<g type="ddanda">.</g></l>
                  </lg> 
                  <p>Utkirnita <persName>mādhavena</persName> <persName>vāsu</persName><choice><sic>ṣū</sic><corr>su</corr></choice>teneti<g type="ddanda">.</g>
@@ -223,14 +224,66 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="9"><!-- update the value of @loc.-->
+                     <lem>sarvvopari<surplus>ka</surplus>karādāna-sahitaś </lem>
+                     <rdg source="bib:Shastri1995_02">sarvvoparikakarādāna-sahitaś </rdg>
                   </app>
                </listApp>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
+             <p n="1-7">Hail! From his glorious and victorious camp situated at Ārāma, the divine king, the prosperous (<foreign>kuśalī</foreign>) lord (<foreign>śrī</foreign>) Paramabhaṭṭāraka and Mahārājādhirāja Mahābhavagupta, lord of Trikaliṅga (<foreign>tr̥kaliṅgādhipati</foreign>), the forehead ornament of the Soma dynasty (or lunar race), the great lord (<foreign>parameśvara</foreign>), a devout worshipper of Maheśvara (<foreign>paramamāheśvara</foreign>), blessed by the lord (<foreign>śrī</foreign>) Paramabhaṭṭāraka and Mahārājādhirāja Śivaguptadeva, worshipped the Brāhmaṇas in the village Raṇḍā situated in the part of Povā, as well as in the village Alāṇḍalā, (both) in the Kosala region (<foreign>deśa</foreign>) and informed all the householders dwelling there [and] seated in due time upon this division beginning with the <foreign>samāhartr̥</foreign> (tax collector), the <foreign>saṁnidhātr̥</foreign> (the receiver of stolen goods), the  <foreign>niyuktaka</foreign> (subordinate officers), the <foreign>adhikārika</foreign> (superintendents), the <foreign>dāṇḍapāśika</foreign> (the policemen), the valorous soldiers (<foreign>cāṭa-bhaṭṭa</foreign>), the informer (<foreign>piśuna-vetrika</foreign>)m the inmates of the royal harem, the subordinates, sons and favorites of the king (<foreign>rāṇaka-rājaputra-rājavallabhā</foreign>) as follows:</p>
+            <p n="7-11">Be it known by you that this village by us has been given (<foreign>pratipādita</foreign>, line 15) with its treasures (<foreign>nidhi</foreign>) and its deposits (<foreign>upanidhi</foreign>), with the power to punish and realise fines for the ten offences (<foreign>sa-daśāparādha</foreign>), without any restrictions (<foreign>sarvabādhāvivarjita</foreign>), with the seizing of all the minor taxes (<foreign>sarvvoparikarādāna</foreign>), with its four boundary-marks (<foreign>catuḥ-sīmāparyanta</foreign>), with mango and madhuka trees (<foreign>sāmra-madhuka</foreign>), with its pits and barren lands (<foreign>sagartoṣara</foreign>), together with land and waters (<foreign>sa-jala-sthala</foreign>), preserved from the entrance of soldiers (<foreign>cāṭa-bhaṭṭa</foreign>),</p>
+              <p n="11-16">to the learned lord (bhaṭṭaśrī), the great Sādhāraṇā, after having immigrating from Ṭakārī, residing in Turvunā in Kosala, who belonged to the Bharadvāja gotra with the pravaras of Bārhaspatya and Āṅgirasa, student of the Vājasaneyi śākhā, learned son <supplied reason="explanation"><foreign>bhaṭṭaputra</foreign></supplied> of Lord Śobhana, after pouring water,  <supplied reason="subaudible">as permanent endowment</supplied> to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>, in order to increase the merit and the fame of our two parents as well as our own ones, after having edicted this by a copperplate.
+</p>
+             <p n="16-18">After having considered this <supplied reason="explanation"><foreign>iti</foreign></supplied>, thanks to our acquisition, the enjoyments, the parts, the taxes, the gold etc… should easily remain appropriate and the future kings must protect this gift of Us out of the respect of Dharma and out of Our consideration as it was their own gift.</p>
+             <p n="19-34">Thus it is said in the <title>Dharmaśāstra</title>:</p>
+             <p n="1" rend="stanza"><!-- corresp="#best_st0023" -->
+                 Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.
+             </p>
+             <p n="2" rend="stanza"><!-- #best_st0085" -->
+                 Have no doubt about the fruit of what is given by another, o sons of Pr̥thu, the fruit is eternal both for him who gives in person  and for him who protects what is given by another.<note>
+                    This verse corresponds to the verse numbered 85 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+             </note>
+             </p>
+             <p n="3" rend="stanza"><!-- #best_st0123" -->
+                 The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">this act</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.
+             </p>
+             <p n="4" rend="stanza"><!-- #best_st0005" -->
+                 Gold is Agni’s first born son, Earth Viṣṇu’s wife and cows Sun’s daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
+             </p>
+             <p n="5" rend="stanza"><!-- #best_st0020" -->
+                 The Fathers are applauding and the Grand-Fathers are hopping up and down <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q>
+             </p>
+             <p n="6" rend="stanza"><!-- #best_st0029" -->
+                 The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.              </p>
+             <p n="7" rend="stanza"><!-- #best_st0137" -->
+                 The excellent gift of a cow, the one of hundreds of sacrificial foods and beverages or of thousand tanks can not purify the one who has stolen a land.
+             </p>
+             <p n="8" rend="stanza"><!-- #best_st0064" -->
+                 The foolish man who seizes ou makes <supplied reason="subaudible">a land</supplied> seized, will be covered by obscurity and bound by Varuṇa’s noose and be born again in an animal womb.
+             </p>
+             <p n="9" rend="stanza"><!-- #best_st0055" -->
+                 The one who steals a single cow, one piece of gold or a half <foreign>aṅgula</foreign> of land will stay in hells up to the dissolution of the created things.
+             </p>
+              <p n="10" rend="stanza"><!-- #best_st0132" -->
+                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.
+                 
+             </p>
+             <p n="11" rend="stanza"><!-- #best_st0004" -->
+                 Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.
+             </p>
+             <p n="12" rend="stanza"><!-- #best_st0117" inversion ab cd  + Rāmabhadra -->
+                 “This bridge of Dharma which is common to all the kings, you always must protect it!" Rāmabhadra begs repeatedly to all these future kings: 
+             </p>
+             <p n="13" rend="stanza"><!-- #best_st0071" -->
+                 Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts made by others not be destroyed by men.              </p>
+             <p n="34-36">His pair of lotus-feet adorned by the rays (emanating from) the jewels set in the garland adorning the crowns of all the kings and the circle of the earth is decorated by the pearls falling from the maddened elephants of his enemies, who are struck by his mighty arms.</p>
+             <p n="14" rend="stanza">The crown-jewel of the kings on earth, after having assigned the entire scripture to the crest-jewel of minister named Sādhāraṇa and the office of minister to the best brahmin in the kingdom, possessing an ocean of knowledge and an intense brilliance, he experienced constantly happiness by the satisfaction constantly growing from the taste of the nectar of the extensive stories of honor;</p>
+             <p n="15" rend="stanza">He is known in the three worlds by the name of Dharmakandarpadeva, who has a kingdom that is well-governed according to the rule of the best brahmins by Sādhāraṇa whose intellect was purified by the study of all the worth-knowing Arthaśāstra and Smṛti texts, who is a the teacher of the gods clearly knowing the Vedas, the Vedaṅgas, the acquisition of knowledge, the Kalpas and the Itihāsas by He is the one who has attained the highest position, and who has attained the highest position.</p>
+             <p n="42-48">On the thirteenth day of the bright fortnight of the month Mārgaśīrṣa of the thirty-first year of the increasingly victorious reign of the Lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Paramabhaṭṭāraka and Mahārājādhirāja Mahābhavagupta, lord of Trikaliṅga (<foreign>tr̥kaliṅgādhipati</foreign>), the forehead ornament of the Soma dynasty (or lunar race), the great lord (<foreign>parameśvara</foreign>), a devout worshipper of Maheśvara (<foreign>paramamāheśvara</foreign>), i.e. Saṁvat 31 month Mārgaśīrṣa day 13, this charter co; prising three plates of copper was written by the clerk <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Māhūka, son of Priyaṅkarāditya, who is attached to the <foreign>mahāsāndhivigraha</foreign> Rāṇaka Malladatta.</p> 
+             <p n="16" rend="stanza">Having informed the <foreign>mahattama</foreign>, Puṇḍarīkākṣa accepted the royal edict promulgated by the king of Kosala and written in copper. </p>
+             <p n="49">Written by Mādhava, son of Vāsu.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -239,7 +292,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>It was edited for the first time in 1876, in the <title>Indian Antiquary</title>, vol. 5, pp.55 ff., by Babu Rangalala Banerjea (see <bibl><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="page">324</citedRange></bibl>). It was reedited then by <bibl><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">B</citedRange><citedRange unit="page">347-351</citedRange></bibl>.</p>
+           <p>It was edited for the first time in 1876, in the <title>Indian Antiquary</title>, by Babu Rangalala Banerjea (see <bibl n="B"><ptr target="bib:Beames+Banerjea1876_01"/></bibl>). It was reedited then by <bibl><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">B</citedRange><citedRange unit="page">347-351</citedRange></bibl>. The actual place of preservation is unknown</p>
         	<listBibl type="primary">
         	    <bibl n="B"><ptr target="bib:Beames+Banerjea1876_01"/></bibl>
 		<bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">B</citedRange><citedRange unit="page">347-351</citedRange></bibl>
