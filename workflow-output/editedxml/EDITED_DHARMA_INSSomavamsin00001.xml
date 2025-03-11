@@ -223,6 +223,11 @@ amwb : Sircar 71
                       <lem><supplied reason="lost">ca</supplied>tuḥ</lem>
                       <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> points that the letter <foreign>tu</foreign> looks like <foreign>tta</foreign>.</note>
                   </app>
+                   <app loc="12">
+                       <lem source="bib:Shastri1995_02">rāḍhāyaṁ</lem>
+                       <rdg source="bib:Mazumdar1911-1912_01">rāḍhāyphaṁ</rdg>
+                       <note>On this reading, see the specific note written by <bibl><ptr target="bib:Shastri1977_01"/></bibl>.</note>
+                   </app>
                    <app loc="15">
                        <lem><choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-</lem>
                        <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> suggests reading <foreign>viṣuvati</foreign>. I follow this suggestion in my translation.</note>
@@ -408,7 +413,7 @@ amwb : Sircar 71
 	<!--bibliography encoded as per section §9.4 -->
            <p>According to <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">227</citedRange></bibl>, this set of copperplates was found in possession of Nityananda Bhoi, a resident of the village of Gopalpur for several years. We have no information on the find-spot or the year of discovery. It seems that the set was acquired by the Odisha State Museum, Bhubaneswar in 1990.  <!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
+	    <bibl n="M"><ptr target="bib:Mazumdar1911-1912_01"/><citedRange unit="page">93-95</citedRange></bibl>
         	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">16</citedRange><citedRange unit="page">95-99</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">167-171</citedRange></bibl>
         	    <!-- 
@@ -418,8 +423,8 @@ amwb : Sircar 71
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1557</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">67</citedRange></bibl>
+               <bibl><ptr target="bib:Shastri1977_01"/></bibl>
                <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">941</citedRange></bibl>
-               <bibl><ptr target="bib:Desai+Shastri2008_01"/><citedRange unit="book">iii</citedRange><citedRange unit="page">153-154</citedRange></bibl>
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">456-457</citedRange></bibl>
                <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">227-229</citedRange></bibl>
            </listBibl>
