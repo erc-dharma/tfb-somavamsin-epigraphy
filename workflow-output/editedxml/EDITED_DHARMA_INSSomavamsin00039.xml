@@ -228,7 +228,7 @@ amwb : Sircar 71
      <l n="c">śulpāṇis tu bhagavāN</l>
      <l n="d">
         <pb n="3r"/>
-        <lb n="34"/><supplied reason="omitted">pratinandanti</supplied> bhūmidaṁ</l><!-- 
+        <lb n="34"/><supplied reason="omitted">Abhinandanti</supplied> bhūmidaṁ</l><!-- 
      amwb : Sircar 4
      -->
 </lg>
@@ -275,6 +275,11 @@ amwb : Sircar 71
                   <app loc="17">
                      <lem>upanayad<supplied reason="omitted">bhir</supplied> <surplus>d</surplus>bhavadbhiḥ</lem>
                      <rdg source="bib:Acharya2013_02">upanayad-dbhavadbhiḥ</rdg>
+                  </app>
+                  <app loc="34">
+                     <lem><supplied reason="omitted">Abhinandanti</supplied></lem>
+                     <rdg source="bib:Acharya2013_02"><supplied reason="omitted">pratinandanti</supplied></rdg>
+                     <note>The emendation made by <bibl><ptr target="bib:Acharya2013_02"/></bibl> is certainly based on <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="item">4</citedRange><citedRange unit="page">177</citedRange></bibl>, which is a reading found in the <title>Mahābhārata</title> (13.61.45). Given that the other grants issued by the Somavaṁśin dynasty quoting this stanza have all the reading <foreign>Abhinandanti</foreign>, I suggest this restoration of the missing text. </note>
                   </app>
                   <app loc="38-39">
                      <lem><gap reason="ellipsis"/>medini yāvadābhāḥ yāvad<gap reason="ellipsis"/></lem>

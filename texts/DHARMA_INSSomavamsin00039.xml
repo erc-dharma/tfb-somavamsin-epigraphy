@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -15,7 +15,8 @@
                <resp>EpiDoc Encoding</resp>
                <!-- Work done in the file, e.g. editor ...-->
                <persName ref="part:amwb"><!-- Update the id -->
-                  <forename>Amandine</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Wattelier-Bricout</surname>
                </persName>
             </respStmt>
@@ -23,7 +24,8 @@
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
                <persName ref="part:amwb"><!-- Update the id -->
-                  <forename>Amandine</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Wattelier-Bricout</surname>
                </persName>
             </respStmt>
@@ -41,7 +43,8 @@
                      Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                      California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Amandine
-                     Wattelier-Bricout.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                     Wattelier-Bricout.</p>
+                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -50,10 +53,12 @@
             <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                <msIdentifier>
                   <repository>DHARMAbase</repository>
-                  <idno/><!-- don't modify this -->
+                  <idno/>
+                  <!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
                   <handDesc>
@@ -70,22 +75,32 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
-            <prefixDef ident="cal" matchPattern="([\w]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
-               <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p></prefixDef>
+            <prefixDef ident="cal"
+                       matchPattern="([\w]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/templates/DHARMA_calendarDesc_v01.xml#$1">
+               <p>Internal URIs using the cal prefix to point to calendar systems in  <ref>DHARMA_calendarDesc_v01.xml</ref> file.</p>
+            </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar's list</change>
+         <change when="2023-05-19" who="part:amwb" status="draft">Addition of the correspondances of the final stanzas according to Sircar’s list</change>
          <change when="2022-08-31" who="part:amwb" status="draft">Creation of the file</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
@@ -110,40 +125,17 @@
              </ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-             <pb 
-
-n="1r"/>
-<pb 
-n="1v"/>
-                <ab><lb 
-n="1"/><g type="spiralL"/></ab><!-- For the moment I don't know if it is spiralL or spiralR, need to check the plate when available -->
+             <pb n="1r"/>
+<pb n="1v"/>
+                <ab><lb n="1"/><g type="spiralL"/></ab><!-- For the moment I don't know if it is spiralL or spiralR, need to check the plate when available -->
                 <p>
-                   nama<supplied reason="omitted">ḥ</supplied> puru<choice><sic>ś</sic><corr>ṣ</corr></choice>ottamāya<g type="ddanda">.</g> svasti vārakāt <roleName>parama-māheśvaro</roleName> mātā-pitr̥-pādānudhyāta<lb 
-n="2" break="no"/>-<roleName>mahārājādhirāja</roleName>-<surplus>t</surplus><roleName>parameśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-soma-kula-tilaka-<surplus>s</surplus><roleName>tr̥kaliṅgādhipati</roleName>-<roleName>śrī</roleName><lb 
-n="3" break="no"/><persName type="king">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> cārapadraka-viṣayīpati-vasarullāka-vrāhmaṇā<supplied reason="omitted">n saṁ</supplied><lb 
-n="4" break="no"/>p<choice><sic>u</sic><corr>ū</corr></choice>jya tat-pratinivāsi-kuṭumvinaḥ samāharttr̥-sannidhātr̥-daṇḍapāśika-cāṭa-bhaṭa-rāja-va<lb 
-n="5" break="no"/>llabha-jātīn sarvān samājñāpayati viditam astu bhavatām yathāsmābhiḥ sa-nidhiḥ<lb 
-n="6"/>sopanidhiḥ sa-daśaparādho <surplus>niṣiddha</surplus> a-cāṭa-bhaṭa-praveśaḥ sarvvoparikaradāna-sameta<supplied reason="omitted">ḥ</supplied><lb 
-n="7"/>sarvva-pīḍā-pariva<supplied reason="omitted">r</supplied>jjitaḥ ā-candara-tārakārkka-kṣiti-samakālopabhoktuṁ mithuna-saṁkrā<supplied reason="omitted">ntyaṁ</supplied><lb 
-n="8"/>guna-medhagreḥ vyakṣasyam jānadajñā-pañcārṣiya-pravaraḥ vaccha<supplied reason="omitted">t</supplied>sa<lb 
-n="9" break="no"/>-bhārgava-gotrāya <surplus>cyavana-Apnuvān</surplus> <unclear>Au</unclear>rva-jamadajñetiḥ jāmadagnīvā<supplied reason="subaudible">taḥ Aurva<lb 
-n="10"/>vātaḥ</supplied> <choice><sic>da</sic><corr>A</corr></choice>pnuvāna-vātaḥ cyavana-vātaḥ pachabhu-grāma-vāsitaḥ kośāmvi-vinirgathaḥ śrī-kāśa<gap reason="illegible" unit="character" quantity="2"/><lb 
-n="11"/>nagara-vāstavya-bhaṭa-nanukāya maheśvara-deva-sutāya Indradeva-naptukāya taiṭr̥<supplied reason="omitted">yīna</supplied>-śākhā<lb 
-n="12" break="no"/>ya māta-pi<choice><sic>tr̥</sic><corr>tro</corr></choice>
-                   <pb n="2r" break="no"/><lb 
-n="13" break="no"/><supplied reason="lost">rātmanaś ca puṇyābhi</supplied>vr̥ddhaye<gap reason="illegible" unit="character" extent="unknown"/>bhaṭṭārakāya <supplied reason="lost">kha<lb 
-n="14" break="no"/>ṇḍāsphuṭita</supplied> saṁskāraṇāya ca gīta-nr̥tya-vādita vali-caru-sattra-pravarttanāya vāsarullāka<lb 
-n="15" break="no"/>gramārddha-dattaḥ<g type="danda">.</g> śrī-kasariṇā ni<supplied reason="omitted">vāsa</supplied>vāsarullā-grāma<supplied reason="omitted">ḥ</supplied> nānnukasya dattaḥ salila-dhārā<lb 
-n="16" break="no"/>-pura<supplied reason="omitted">ḥ</supplied>sareṇa tām<surplus>v</surplus>ra-śāsanenākarīkr̥tya pratipādita<supplied reason="omitted">.</supplied> Ity avagatya samucita<lb 
-n="17" break="no"/>-bhoga-bhāga-kara-hiraṇyādikam upanayad<supplied reason="omitted">bhir</supplied> <surplus>d</surplus>bhavadbhiḥ sukhena prativastavyaṁ<supplied reason="omitted">.</supplied> bhāvibhiś ca<lb 
-n="18"/>bhūpatibhiḥ dharma-gauravād asmadnurodhāc ca sva-dattir ivānupālanīyā<g type="ddanda">.</g> tathā caiva<lb 
-n="19"/><supplied reason="omitted">paṭhyate</supplied> dharmaśāstre<supplied reason="omitted">.</supplied>
+                   nama<supplied reason="omitted">ḥ</supplied> puru<choice><sic>ś</sic><corr>ṣ</corr></choice>ottamāya<g type="ddanda">.</g> svasti vārakāt <roleName>parama-māheśvaro</roleName> mātā-pitr̥-pādānudhyāta<lb n="2" break="no"/>-<roleName>mahārājādhirāja</roleName>-<surplus>t</surplus><roleName>parameśvara</roleName>-<roleName>paramabhaṭṭāraka</roleName>-soma-kula-tilaka-<surplus>s</surplus><roleName>tr̥kaliṅgādhipati</roleName>-<roleName>śrī</roleName><lb n="3" break="no"/><persName type="king">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<g type="ddanda">.</g> cārapadraka-viṣayīpati-vasarullāka-vrāhmaṇā<supplied reason="omitted">n saṁ</supplied><lb n="4" break="no"/>p<choice><sic>u</sic><corr>ū</corr></choice>jya tat-pratinivāsi-kuṭumvinaḥ samāharttr̥-sannidhātr̥-daṇḍapāśika-cāṭa-bhaṭa-rāja-va<lb n="5" break="no"/>llabha-jātīn sarvān samājñāpayati viditam astu bhavatām yathāsmābhiḥ sa-nidhiḥ<lb n="6"/>sopanidhiḥ sa-daśaparādho <surplus>niṣiddha</surplus> a-cāṭa-bhaṭa-praveśaḥ sarvvoparikaradāna-sameta<supplied reason="omitted">ḥ</supplied><lb n="7"/>sarvva-pīḍā-pariva<supplied reason="omitted">r</supplied>jjitaḥ ā-candara-tārakārkka-kṣiti-samakālopabhoktuṁ mithuna-saṁkrā<supplied reason="omitted">ntyaṁ</supplied><lb n="8"/>guna-medhagreḥ vyakṣasyam jānadajñā-pañcārṣiya-pravaraḥ vaccha<supplied reason="omitted">t</supplied>sa<lb n="9" break="no"/>-bhārgava-gotrāya <surplus>cyavana-Apnuvān</surplus> <unclear>Au</unclear>rva-jamadajñetiḥ jāmadagnīvā<supplied reason="subaudible">taḥ Aurva<lb n="10"/>vātaḥ</supplied> <choice><sic>da</sic><corr>A</corr></choice>pnuvāna-vātaḥ cyavana-vātaḥ pachabhu-grāma-vāsitaḥ kośāmvi-vinirgathaḥ śrī-kāśa<gap reason="illegible" unit="character" quantity="2"/><lb n="11"/>nagara-vāstavya-bhaṭa-nanukāya maheśvara-deva-sutāya Indradeva-naptukāya taiṭr̥<supplied reason="omitted">yīna</supplied>-śākhā<lb n="12" break="no"/>ya māta-pi<choice><sic>tr̥</sic><corr>tro</corr></choice>
+                   <pb n="2r" break="no"/><lb n="13" break="no"/><supplied reason="lost">rātmanaś ca puṇyābhi</supplied>vr̥ddhaye<gap reason="illegible" unit="character" extent="unknown"/>bhaṭṭārakāya <supplied reason="lost">kha<lb n="14" break="no"/>ṇḍāsphuṭita</supplied> saṁskāraṇāya ca gīta-nr̥tya-vādita vali-caru-sattra-pravarttanāya vāsarullāka<lb n="15" break="no"/>gramārddha-dattaḥ<g type="danda">.</g> śrī-kasariṇā ni<supplied reason="omitted">vāsa</supplied>vāsarullā-grāma<supplied reason="omitted">ḥ</supplied> nānnukasya dattaḥ salila-dhārā<lb n="16" break="no"/>-pura<supplied reason="omitted">ḥ</supplied>sareṇa tām<surplus>v</surplus>ra-śāsanenākarīkr̥tya pratipādita<supplied reason="omitted">.</supplied> Ity avagatya samucita<lb n="17" break="no"/>-bhoga-bhāga-kara-hiraṇyādikam upanayad<supplied reason="omitted">bhir</supplied> <surplus>d</surplus>bhavadbhiḥ sukhena prativastavyaṁ<supplied reason="omitted">.</supplied> bhāvibhiś ca<lb n="18"/>bhūpatibhiḥ dharma-gauravād asmadnurodhāc ca sva-dattir ivānupālanīyā<g type="ddanda">.</g> tathā caiva<lb n="19"/><supplied reason="omitted">paṭhyate</supplied> dharmaśāstre<supplied reason="omitted">.</supplied>
                 </p>
                 <lg n="1" met="anuṣṭubh"><!-- best_0023 -->
     <l n="a">vahubhir vvasudhā dattā</l>
     <l n="b">rājabhiḥ sagarādibhiḥ</l>
-    <l n="c">yasya yasya yadā bhūmi<lb 
-n="20" break="no"/>s</l>
+    <l n="c">yasya yasya yadā bhūmi<lb n="20" break="no"/>s</l>
     <l n="d">tasya tasya tadā phalaṁ</l><!-- 
     amwb: Sircar 23
     -->
@@ -151,8 +143,7 @@ n="20" break="no"/>s</l>
                 <lg n="2" met="anuṣṭubh"><!-- best_0085 -->
     <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
     <l n="b">para-datteti pārthivāḥ<g type="danda">.</g></l>
-    <l n="c">sva-dānāt phalam ā<lb 
-n="21" break="no"/><supplied reason="omitted">antyaṁ</supplied></l>
+    <l n="c">sva-dānāt phalam ā<lb n="21" break="no"/><supplied reason="omitted">antyaṁ</supplied></l>
     <l n="d">para-dattānupālane<g type="ddanda">.</g></l><!--
     amwb : Sircar 85
     -->
@@ -160,8 +151,7 @@ n="21" break="no"/><supplied reason="omitted">antyaṁ</supplied></l>
                 <lg n="3" met="anuṣṭubh"><!-- best_0029 -->
     <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l><!-- amwb I add the supplied and the choice -->
     <l n="b">yaś ca bhūmiṁ prayacchati</l>
-    <l n="c">Ubhau tau pu<choice><orig>n</orig><reg>ṇ</reg></choice>ya<!-- amwb I add the choice --><lb 
-n="22" break="no"/>-<supplied reason="omitted">karmāṇau</supplied></l>
+    <l n="c">Ubhau tau pu<choice><orig>n</orig><reg>ṇ</reg></choice>ya<!-- amwb I add the choice --><lb n="22" break="no"/>-<supplied reason="omitted">karmāṇau</supplied></l>
     <l n="d">niyat<choice><sic>au</sic><corr>aṁ</corr></choice> svarga-gāminau</l><!-- 
 amwb : Sircar 29 
 -->
@@ -169,8 +159,7 @@ amwb : Sircar 29
                 <lg n="4" met="anuṣṭubh"><!-- best_0123 -->
     <l n="a">ṣaṣṭhi<supplied reason="omitted">ṁ</supplied> var<surplus>i</surplus><choice><sic>s</sic><corr>ṣ</corr></choice>a-sahasrāṇi</l>
     <l n="b">svarge modati bhūmidaḥ</l>
-    <l n="c">Ākṣeptā<lb 
-n="23"/><supplied reason="omitted">cānumantā</supplied> ca</l>
+    <l n="c">Ākṣeptā<lb n="23"/><supplied reason="omitted">cānumantā</supplied> ca</l>
     <l n="d">tāny eva narake vaset<g type="danda">.</g></l><!-- 
     amwb : Sircar 123
     -->
@@ -178,8 +167,7 @@ n="23"/><supplied reason="omitted">cānumantā</supplied> ca</l>
                 <lg n="5" met="anuṣṭubh"><!-- best_0132 -->
     <l n="a">sva-dattām para-dattām vā</l>
     <l n="b">yo ha<choice><sic>red</sic><corr>reta</corr></choice> <supplied reason="omitted">vasundharāṁ</supplied></l><!-- amwb I add the choice -->
-    <l n="c"><supplied reason="omitted">sa</supplied><lb
-n="24"/>viṣṭhāyāṁ kr̥mir bhūtvā</l>
+    <l n="c"><supplied reason="omitted">sa</supplied><lb n="24"/>viṣṭhāyāṁ kr̥mir bhūtvā</l>
     <l n="d">pitr̥bhiḥ saha pacyate<g type="danda">.</g></l><!-- 
     amwb : Sircar 132 
     -->
@@ -187,16 +175,14 @@ n="24"/>viṣṭhāyāṁ kr̥mir bhūtvā</l>
                 <lg n="6" met="anuṣṭubh"><!-- best_0055 -->
    <l n="a">suvarṇṇam ekaṁ gām ekāṁ</l>
                    
-                   <lb 
-n="25"/><l n="b"><pb n="2v"/><supplied reason="omitted">bhūmer a</supplied>py arddham aṅgulaṁ</l>
+                   <lb n="25"/><l n="b"><pb n="2v"/><supplied reason="omitted">bhūmer a</supplied>py arddham aṅgulaṁ</l>
    <l n="c">haran narakam āyāti</l>
    <l n="d">yāvad ā<supplied reason="omitted">b</supplied>hūta-saṁplava<choice><sic>ḥ</sic><corr>M</corr></choice></l><!-- 
    amwb Sircar 55  
    -->
                 </lg>
                    <lg n="7" met="indravajrā"><!-- best_0005 -->
-    <l n="a">Agner a<lb 
-n="26" break="no"/>patyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
+    <l n="a">Agner a<lb n="26" break="no"/>patyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
     <l n="b">bhūr vvaiṣṇavī sūrya-sutāś ca gāv<choice><sic>o</sic><corr>aḥ</corr></choice></l>
     <l n="c"><supplied reason="omitted">yaḥ kāñcanaṁ gāñ ca mahīñ ca dadyād</supplied></l><!-- this pāda is written in line 29 -->
     <l n="d">dattās trayas tena bhavanti lokā<supplied reason="omitted">ḥ</supplied></l><!-- 
@@ -204,42 +190,35 @@ n="26" break="no"/>patyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">�
     -->
                    </lg> 
                   <lg n="8" met="anuṣṭubh"><!-- best_0064 -->
-               <l n="a"><lb 
-n="27"/>harat<choice><sic>a</sic><corr>e</corr></choice> hāray<choice><sic>atar</sic><corr>ed</corr></choice> yas tu</l><!-- I introduce the tzo choices -->
+               <l n="a"><lb n="27"/>harat<choice><sic>a</sic><corr>e</corr></choice> hāray<choice><sic>atar</sic><corr>ed</corr></choice> yas tu</l><!-- I introduce the tzo choices -->
                <l n="b">manda-vuddhis tamo-vr̥taḥ<supplied reason="omitted">.</supplied></l>
                <l n="c">sa vaddho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
-               <l n="d">pāśair tt<choice><sic>ri</sic><corr>ir</corr></choice>ya<!-- amwb I introduce the choice --><lb 
-n="28"/>g-yoniñ ca gacchati<surplus>ḥ</surplus></l><!-- 
+               <l n="d">pāśair tt<choice><sic>ri</sic><corr>ir</corr></choice>ya<!-- amwb I introduce the choice --><lb n="28"/>g-yoniñ ca gacchati<surplus>ḥ</surplus></l><!-- 
     amwb : Sircar 64  
     -->
 </lg>
                    <lg n="9" met="anuṣṭubh"><!-- best_0137 -->
     <l n="a">ta<choice><sic>ṭākā</sic><corr>ḍāgā</corr></choice>nāṁ sahasreṇa</l><!-- I introduce the choice -->
     <l n="b">vāja-peya-śatena ca</l>
-    <l n="c">gavāṁ koṭi-pradāne<lb 
-n="29" break="no"/>na</l>
+    <l n="c">gavāṁ koṭi-pradāne<lb n="29" break="no"/>na</l>
     <l n="d">bhūmi-harttā na śudhyati<surplus>ḥ</surplus></l><!-- 
     amwb : Sircar 137
     -->
 </lg>
 <ab>yaḥ kāñcanaṁ gāñ ca mahīñ ca dadyād</ab><!-- This corresponds to the missing pāda line 26 -->
-                   <lg n="10" met="puṣpitāgrā" ><!-- best_0071 -->
-    <l n="a">Iti kamala-dalāmvu<lb 
-n="30" break="no"/>-vindu-lolā<supplied reason="omitted">ṁ</supplied></l>
+                   <lg n="10" met="puṣpitāgrā"><!-- best_0071 -->
+    <l n="a">Iti kamala-dalāmvu<lb n="30" break="no"/>-vindu-lolā<supplied reason="omitted">ṁ</supplied></l>
     <l n="b">śriyam anucintya manuṣya-j<choice><sic>i</sic><corr>ī</corr></choice>vitañ ca</l>
     <l n="c">sa-kalam idam udāhr̥tañ ca vudhvā</l>
-    <l n="d">na hi pu<lb
-n="31" break="no"/><supplied reason="omitted">ruṣaiḥ</supplied> para-k<choice><sic>i</sic><corr>ī</corr></choice>rtt<choice><sic>o</sic><corr>a</corr></choice>yo vilopyāḥ</l><!-- 
+    <l n="d">na hi pu<lb n="31" break="no"/><supplied reason="omitted">ruṣaiḥ</supplied> para-k<choice><sic>i</sic><corr>ī</corr></choice>rtt<choice><sic>o</sic><corr>a</corr></choice>yo vilopyāḥ</l><!-- 
 amwb : Sircar 71
 -->
 </lg>
                    <lg n="11" met="śālinī"><!-- best_0117 -->   
     <l n="a">sarvvān<surplus>y</surplus> etā<supplied reason="omitted">n</supplied> bhāvinaḥ pārthivendrāṃ</l>
-    <l n="b">bhūy<choice><sic>a</sic><corr>o</corr></choice> bhūyaḥ<!-- I introduce the choice --><lb 
-n="32"/>yācate rāmacandraḥ</l>
-    <l n="c">sāmāny<choice><sic>e</sic><corr>o</corr></choice>'yaṁ dharma-setu<supplied reason="omitted">r</supplied> nr̥pāṇāṁ</l>
-    <l n="d">kāle kāle pālanīyo<lb 
-n="33"/>bhavadbhiḥ</l><!-- 
+    <l n="b">bhūy<choice><sic>a</sic><corr>o</corr></choice> bhūyaḥ<!-- I introduce the choice --><lb n="32"/>yācate rāmacandraḥ</l>
+    <l n="c">sāmāny<choice><sic>e</sic><corr>o</corr></choice>’yaṁ dharma-setu<supplied reason="omitted">r</supplied> nr̥pāṇāṁ</l>
+    <l n="d">kāle kāle pālanīyo<lb n="33"/>bhavadbhiḥ</l><!-- 
     amwb : Sircar 117 inversion pāda ab/cd
     -->
 </lg>
@@ -249,31 +228,20 @@ n="33"/>bhavadbhiḥ</l><!--
      <l n="c">śulpāṇis tu bhagavāN</l>
      <l n="d">
         <pb n="3r"/>
-        <lb 
-n="34"/><supplied reason="omitted">pratinandanti</supplied> bhūmidaṁ</l><!-- 
+        <lb n="34"/><supplied reason="omitted">Abhinandanti</supplied> bhūmidaṁ</l><!-- 
      amwb : Sircar 4
      -->
 </lg>
                    <lg n="13" met="anuṣṭubh"><!-- best_0020 -->
      <l n="a">Āsphoṭayanti pita<choice><sic>tre</sic><corr>raḥ</corr></choice></l>
      <l n="b">pravalg<surplus>v</surplus>anti pitāmahāḥ</l>
-     <l n="c">bhūmi-do 'smat-kule jātaḥ</l><!-- verse in sircar bhūmi-dātā kule jātaḥ-->
-     <l n="d">sa nas trātā<lb 
-n="35"/>bhaviṣyati</l><!-- 
+     <l n="c">bhūmi-do ’smat-kule jātaḥ</l><!-- verse in sircar bhūmi-dātā kule jātaḥ-->
+     <l n="d">sa nas trātā<lb n="35"/>bhaviṣyati</l><!-- 
      amwb : Sircar 20
      -->
 </lg>
                    <p>
-                       sa<lb
-n="36"/><gap reason="illegible" unit="character" extent="unknown"/>kona Asmat puna ra srggapa nga<lb 
-n="37"/><gap reason="illegible" unit="character" extent="unknown"/>rabhi hanyamano<gap reason="illegible" unit="character" extent="unknown"/>hara<gap reason="illegible" unit="character" extent="unknown"/><g type="ddanda">.</g> Atreva mahāsandhivigrahika<lb 
-n="38"/><gap reason="illegible" unit="character" extent="unknown"/>dvavamabhilikhya<gap reason="illegible" unit="character" extent="unknown"/>medini yāvadābhāḥ yāvad<lb 
-n="39"/><gap reason="illegible" unit="character" extent="unknown"/>gagane yāvat<gap reason="illegible" unit="character" extent="unknown"/> candra pravala guṇa yuta<lb 
-n="40"/><gap reason="illegible" unit="character" extent="unknown"/>metatsapālaniyo svayam<gap reason="illegible" unit="character" extent="unknown"/> sāsana dharmmavr̥ddye<g type="ddanda">.</g> śrīmata<unclear>t</unclear> rudradattena devadatta<lb 
-n="41"/><supplied reason="omitted">sutena</supplied> likhyaṃtam śāsanaṁ tām<surplus>v</surplus>ra-kāraka-saṅkillyena<g type="ddanda">.</g> pravarddhamāna vijaya-rājya-sa<unclear>mvatsare</unclear><lb
-n="42"/>Aṣṭame Āṣāḍha-prathama-pakṣa-dvitiyāyāṁ<g type="danda">.</g> Aṅkenāpi samvat <num value="8">8</num> va di dina <num value="2">2</num><g type="ddanda">.</g> yadi<lb 
-n="43"/>Akṣara parībhrṣṭam mātrāhinaṁnta yadbhaveḥ kṣāntamarahasī vidvānsaḥ kasya na skhalate<lb
-n="44"/>manaḥ
+                       sa<lb n="36"/><gap reason="illegible" unit="character" extent="unknown"/>kona Asmat puna ra srggapa nga<lb n="37"/><gap reason="illegible" unit="character" extent="unknown"/>rabhi hanyamano<gap reason="illegible" unit="character" extent="unknown"/>hara<gap reason="illegible" unit="character" extent="unknown"/><g type="ddanda">.</g> Atreva mahāsandhivigrahika<lb n="38"/><gap reason="illegible" unit="character" extent="unknown"/>dvavamabhilikhya<gap reason="illegible" unit="character" extent="unknown"/>medini yāvadābhāḥ yāvad<lb n="39"/><gap reason="illegible" unit="character" extent="unknown"/>gagane yāvat<gap reason="illegible" unit="character" extent="unknown"/> candra pravala guṇa yuta<lb n="40"/><gap reason="illegible" unit="character" extent="unknown"/>metatsapālaniyo svayam<gap reason="illegible" unit="character" extent="unknown"/> sāsana dharmmavr̥ddye<g type="ddanda">.</g> śrīmata<unclear>t</unclear> rudradattena devadatta<lb n="41"/><supplied reason="omitted">sutena</supplied> likhyaṃtam śāsanaṁ tām<surplus>v</surplus>ra-kāraka-saṅkillyena<g type="ddanda">.</g> pravarddhamāna vijaya-rājya-sa<unclear>mvatsare</unclear><lb n="42"/>Aṣṭame Āṣāḍha-prathama-pakṣa-dvitiyāyāṁ<g type="danda">.</g> Aṅkenāpi samvat <num value="8">8</num> va di dina <num value="2">2</num><g type="ddanda">.</g> yadi<lb n="43"/>Akṣara parībhrṣṭam mātrāhinaṁnta yadbhaveḥ kṣāntamarahasī vidvānsaḥ kasya na skhalate<lb n="44"/>manaḥ
                 </p>
          </div>
          </div>
@@ -308,6 +276,11 @@ n="44"/>manaḥ
                      <lem>upanayad<supplied reason="omitted">bhir</supplied> <surplus>d</surplus>bhavadbhiḥ</lem>
                      <rdg source="bib:Acharya2013_02">upanayad-dbhavadbhiḥ</rdg>
                   </app>
+                  <app loc="34">
+                     <lem><supplied reason="omitted">Abhinandanti</supplied></lem>
+                     <rdg source="bib:Acharya2013_02"><supplied reason="omitted">pratinandanti</supplied></rdg>
+                     <note>The emendation made by <bibl><ptr target="bib:Acharya2013_02"/></bibl> is certainly based on <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="item">4</citedRange><citedRange unit="page">177</citedRange></bibl>, which is a reading found in the <title>Mahābhārata</title> (13.61.45). Given that the other grants issued by the Somavaṁśin dynasty quoting this stanza have all the reading <foreign>Abhinandanti</foreign>, I suggest this restoration of the missing text. </note>
+                  </app>
                   <app loc="38-39">
                      <lem><gap reason="ellipsis"/>medini yāvadābhāḥ yāvad<gap reason="ellipsis"/></lem>
                      <note>Even if nothing could be certain, the reading of the lines 38-39 given by <bibl><ptr target="bib:Acharya2013_02"/></bibl> looks close to the verse listed by <bibl><ptr target="bib:Sircar1965_03"/></bibl> under the number 106 :
@@ -336,11 +309,11 @@ n="44"/>manaḥ
                <p n="5-13">Be it known by you that this <supplied reason="explanation"><foreign>ayam</foreign> line 15</supplied> <supplied reason="subaudible">grant</supplied> by us has been given with its treasures <supplied reason="explanation"><foreign>nidhi</foreign></supplied> and its deposits <supplied reason="explanation"><foreign>upanidhi</foreign></supplied>, with the fines for the ten offences, preserved from the entrance of soldiers <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied>,  with all the supplementary receipts, without any obstacles, <supplied reason="subaudible">as permanent endowment</supplied> to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>,   on the occasion of the entrance of the sun into the constellation <foreign>Mithuna</foreign>, <seg cert="low">before the Phalguna sacrifice</seg> <supplied reason="explanation" cert="low"><foreign>phalguna-medhāgre</foreign></supplied><note>
                   The syllable sequence <foreign>gunamedhagreḥ</foreign> in line 8 does not make sense. My translation reflects the attempt to understand these syllables by assuming the compound <foreign>phalguna-medhāgre</foreign>. These understanding and reconstruction are more than uncertain since I have not found any evidence of this compound. </note>  
                   <gap reason="ellipsis" unit="character" quantity="3"/><supplied reason="explanation"><foreign>vyakṣasyam</foreign></supplied>,
-                  to Indradeva's grandson, Maheśvaradeva’s son, the noble <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> Nanuka resident of the glorious Kāśa<gap reason="illegible" unit="character" quantity="2"/> town, an immigrant from Kośambi and living in the village Pachabbhu, belonging to the Vatsasa and Bhr̥gu <foreign>gotra</foreign>s, the best <supplied reason="explanation"><foreign>pravara</foreign></supplied> among the five ignorant and learned sages, i.e. the desired Aurvajamadajñeti, the desired Jāmadagni, the desired Aurva, the desired Dapnuvāna and the desired Cyavana, issued from the Taitr̥<supplied reason="omitted">yaṇī</supplied> school, in order to increase the merit and fame of my two parents, as well as my own one,
+                  to Indradeva’s grandson, Maheśvaradeva’s son, the noble <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> Nanuka resident of the glorious Kāśa<gap reason="illegible" unit="character" quantity="2"/> town, an immigrant from Kośambi and living in the village Pachabbhu, belonging to the Vatsasa and Bhr̥gu <foreign>gotra</foreign>s, the best <supplied reason="explanation"><foreign>pravara</foreign></supplied> among the five ignorant and learned sages, i.e. the desired Aurvajamadajñeti, the desired Jāmadagni, the desired Aurva, the desired Dapnuvāna and the desired Cyavana, issued from the Taitr̥<supplied reason="omitted">yaṇī</supplied> school, in order to increase the merit and fame of my two parents, as well as my own one,
                </p>
                <p n="13-15">
                   and half the village Vāsarullāka is given to the <foreign>bhaṭṭāraka</foreign> for carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks, for the arrangment of songs and dances as well as for offerings of <foreign>bali</foreign>, <foreign>caru</foreign> and <foreign>sattra</foreign>; by the lord <supplied reason="explanation"><foreign>śrī</foreign></supplied> Kasari<note>
-                     Is it possible to understand here a misspelling for the proper name Kesari? If this is the case, it would call into question the attribution of this copperplate to a king older than Mahābhavagupta Janamejaya, and potentially to Svabhavatuṅga's predecessor Śivagupta, proposed by <bibl><ptr target="bib:Acharya2013_02"/><citedRange unit="page">29</citedRange></bibl>. Basing its argument on the presence of the incomplete expression <foreign>śrī-kāśa<gap reason="illegible" unit="character" quantity="2"/>-nagara</foreign>° in line 10-11, <bibl><ptr target="bib:Acharya2013_02"/></bibl> understands <foreign>kasariṇā</foreign> in line 15 as a place name.
+                     Is it possible to understand here a misspelling for the proper name Kesari? If this is the case, it would call into question the attribution of this copperplate to a king older than Mahābhavagupta Janamejaya, and potentially to Svabhavatuṅga’s predecessor Śivagupta, proposed by <bibl><ptr target="bib:Acharya2013_02"/><citedRange unit="page">29</citedRange></bibl>. Basing its argument on the presence of the incomplete expression <foreign>śrī-kāśa<gap reason="illegible" unit="character" quantity="2"/>-nagara</foreign>° in line 10-11, <bibl><ptr target="bib:Acharya2013_02"/></bibl> understands <foreign>kasariṇā</foreign> in line 15 as a place name.
                   </note> the village Vāsarullā is given to Nanuka<note>
                      Here the proper name is spelled Nānnuka.
                   </note>
@@ -381,7 +354,7 @@ n="44"/>manaḥ
              </note>
              </p>
                  <p n="7" rend="stanza">
-                 Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.<note>
+                 Gold is Agni’s first born son, Earth Viṣṇu’s wife and cows Sun’s daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.<note>
                     This verse corresponds to the verse numbered 5 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note><!-- 
              In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
@@ -418,9 +391,9 @@ n="44"/>manaḥ
              </note>
              </p>
                 <p n="35-40"><gap reason="illegible" unit="line" quantity="1"/> Mahāsandhivigrahika <gap reason="illegible" unit="line" quantity="3"/><note>
-                   It is also possible that there is here the verse numbered 106 in <bibl><ptr target="bib:Sircar1965_03"/></bibl>'s list, see Apparatus.
+                   It is also possible that there is here the verse numbered 106 in <bibl><ptr target="bib:Sircar1965_03"/></bibl>’s list, see Apparatus.
                 </note></p>
-               <p n="40-42">This edict was written by the lord Rudradatta, Devadatta's son, thanks the coppersmith Saṅkillya. <supplied reason="subaudible">It was done</supplied> on the second day of the first fortnight of the month Āṣādha during the eighth year of the victorious reign, i.e. on the 2nd day of the dark fornight <supplied reason="explanation"><foreign>vadi</foreign>, abbreviation for <foreign>vadya-pakṣa-dina</foreign> according to <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">357</citedRange></bibl></supplied> of the year <supplied reason="explanation"><foreign>Saṁvat</foreign></supplied> 8.</p>
+               <p n="40-42">This edict was written by the lord Rudradatta, Devadatta’s son, thanks the coppersmith Saṅkillya. <supplied reason="subaudible">It was done</supplied> on the second day of the first fortnight of the month Āṣādha during the eighth year of the victorious reign, i.e. on the 2nd day of the dark fornight <supplied reason="explanation"><foreign>vadi</foreign>, abbreviation for <foreign>vadya-pakṣa-dina</foreign> according to <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">357</citedRange></bibl></supplied> of the year <supplied reason="explanation"><foreign>Saṁvat</foreign></supplied> 8.</p>
                 <p n="42-44">If letters have been forgotten or measures are missing, may this prayer without metric measures make a public apology, O wise men, what mind has never failed?</p>
              </div>
          </div>     
@@ -430,34 +403,34 @@ n="44"/>manaḥ
                <ab>De Sa Majesté, le divin roi Mahābhavagupta</ab>
             </div>
             <div type="textpart" n="B" xml:lang="fra"><head xml:lang="fra">Plaques</head>
-               <p n="1">Hommage à l'Être suprême!</p>
-                <p n="1-3">Salutations ! Depuis Vāraka, le fervent dévot de Maheśvara, le divin roi,  le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Mahārājādhirāja, son éminence <supplied reason="explanation">parameśvara</supplied> Paramabhaṭṭāraka, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Mahābhavagupta, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tr̥kaliṅgādhipati</foreign></supplied> considéré avec faveur par Ses respectés père et mère,</p>
-               <p n="3-5">après avoir honoré les brahmanes de Vasarullāka gouverneurs du district du territoire situé à proximité du <supplied reason="subaudible">village</supplied> Cāra, il instruisit tous les propriétaires résidant en ces lieux en commençant par ceux étant de naissance collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartr̥</foreign></supplied>, percepteurs <supplied reason="explanation">saṁnidhārtr̥</supplied>, policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> ou proches du roi de la sorte:
+               <p n="1">Hommage à l’Être suprême !</p>
+                <p n="1-3">Salutations ! Depuis Vāraka, le fervent dévot de Maheśvara, le divin roi,  le prospère <supplied reason="explanation"><foreign>kuśalī</foreign></supplied> Mahārājādhirāja, son éminence <supplied reason="explanation">parameśvara</supplied> Paramabhaṭṭāraka, Sa Majesté <supplied reason="explanation"><foreign>śrī</foreign></supplied> Mahābhavagupta, le fleuron de la dynastie Soma <supplied reason="explanation">ou de la dynastie lunaire</supplied>, seigneur du Trikaliṅga <supplied reason="explanation"><foreign>tr̥kaliṅgādhipati</foreign></supplied> considéré avec faveur par Ses respectés père et mère,</p>
+               <p n="3-5">après avoir honoré les brahmanes de Vasarullāka gouverneurs du district du territoire situé à proximité du <supplied reason="subaudible">village</supplied> Cāra, il instruisit tous les propriétaires résidant en ces lieux en commençant par ceux étant de naissance collecteurs d’impôts <supplied reason="explanation"><foreign>samāhartr̥</foreign></supplied>, percepteurs <supplied reason="explanation">saṁnidhārtr̥</supplied>, policiers <supplied reason="explanation"><foreign>dāṇḍapāśika</foreign></supplied>, soldats <supplied reason="explanation"><foreign>cāṭa-bhaṭa</foreign></supplied> ou proches du roi de la sorte :
 </p>
-               <p n="5-13">Que cela soit porté à votre connaissance: ceci <supplied reason="explanation"><foreign>ayam</foreign> line 15</supplied> <supplied reason="subaudible">cette donation</supplied>, avec et ses dépôts <supplied reason="explanation"><foreign>nidhi</foreign></supplied> et ses trésors <supplied reason="explanation"><foreign>upanidhi</foreign></supplied>, avec les amendes pour les dix infractions, avec l’interdiction d’intrusion militaire, avec ses prélèvements supplémentaires, sans aucune restriction, en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, à l’occasion de l’entrée du soleil dans la constellation des gémeaux <supplied reason="explanation"><foreign>mithuna</foreign></supplied>, <seg cert="low">avant le sacrifice de Phalguna</seg> <supplied reason="explanation" cert="low"><foreign>phalguna-medhāgre</foreign></supplied><note>
-                  La séquence de syllabes <foreign>gunamedhagreḥ</foreign> de la ligne 8 ne fait pas sens. Ma traduction reflète la tentative de compréhension de ces syllabes en supposant le composé <foreign>phalguna-medhāgre</foreign> tout à fait incertaine puisque je n'ai trouvé aucune occurrence de ce composé. </note>  
-                  <gap reason="ellipsis" unit="character" quantity="3"/><supplied reason="explanation"><foreign>vyakṣasyam</foreign></supplied>, je le donne au petit-fils d'Indradeva, fils de Maheśvaradeva, le noble <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> Nanuka résidant dans la glorieuse ville de Kāśa<gap reason="illegible" unit="character" quantity="2"/>, émigré originaire de Kośambi et vivant dans le village de Pachabbhu, appartenant au gotra de Vatsasa et de Bhr̥gu, le meilleur parmi les descendants des cinq sages savants et non savants - le désiré Aurvajamadajñeti, le désiré Jāmadagni, le désiré Aurva, le désiré Dapnuvāna, le désiré Cyavana -  issu de l’école Taitr̥<supplied reason="omitted">yaṇī</supplied>, et ce,  et afin d’augmenter le mérite et la gloire de mon père et de ma mère, ainsi que le mien, 
+               <p n="5-13">Que cela soit porté à votre connaissance : ceci <supplied reason="explanation"><foreign>ayam</foreign> line 15</supplied> <supplied reason="subaudible">cette donation</supplied>, avec et ses dépôts <supplied reason="explanation"><foreign>nidhi</foreign></supplied> et ses trésors <supplied reason="explanation"><foreign>upanidhi</foreign></supplied>, avec les amendes pour les dix infractions, avec l’interdiction d’intrusion militaire, avec ses prélèvements supplémentaires, sans aucune restriction, en tant que donation dont on pourra jouir à perpétuité aussi longtemps que le lune, le soleil et les étoiles existeront, à l’occasion de l’entrée du soleil dans la constellation des gémeaux <supplied reason="explanation"><foreign>mithuna</foreign></supplied>, <seg cert="low">avant le sacrifice de Phalguna</seg> <supplied reason="explanation" cert="low"><foreign>phalguna-medhāgre</foreign></supplied><note>
+                  La séquence de syllabes <foreign>gunamedhagreḥ</foreign> de la ligne 8 ne fait pas sens. Ma traduction reflète la tentative de compréhension de ces syllabes en supposant le composé <foreign>phalguna-medhāgre</foreign> tout à fait incertaine puisque je n’ai trouvé aucune occurrence de ce composé. </note>  
+                  <gap reason="ellipsis" unit="character" quantity="3"/><supplied reason="explanation"><foreign>vyakṣasyam</foreign></supplied>, je le donne au petit-fils d’Indradeva, fils de Maheśvaradeva, le noble <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> Nanuka résidant dans la glorieuse ville de Kāśa<gap reason="illegible" unit="character" quantity="2"/>, émigré originaire de Kośambi et vivant dans le village de Pachabbhu, appartenant au gotra de Vatsasa et de Bhr̥gu, le meilleur parmi les descendants des cinq sages savants et non savants - le désiré Aurvajamadajñeti, le désiré Jāmadagni, le désiré Aurva, le désiré Dapnuvāna, le désiré Cyavana -  issu de l’école Taitr̥<supplied reason="omitted">yaṇī</supplied>, et ce,  et afin d’augmenter le mérite et la gloire de mon père et de ma mère, ainsi que le mien, 
 </p>
                <p n="13-16">et la moitié du village Vāsarullāka est donnée au <foreign>bhaṭṭāraka</foreign> pour effectuer la réparation des brèches et des fissures, pour la mise en scène des chants et des danses et pour la conduite des <supplied reason="explanation">offrandes</supplied> <foreign>bali</foreign>, <foreign>caru</foreign> et <foreign>sattra</foreign>; par le seigneur <supplied reason="explanation"><foreign>śrī</foreign></supplied> Kasari<note>
-                  Ce nom serait-il une référence mal orthographiée à Kesari? Si tel était le cas, alors l'hypothèse de <bibl><ptr target="bib:Acharya2013_02"/><citedRange unit="page">29</citedRange></bibl> selon laquelle cette plaque aurait été commandité par un roi antérieur à Mahābhavagupta Janamejaya, et potentiellement par le prédecesseur de Svabhavatuṅga Śivagupta, serait à réévaluer. <bibl><ptr target="bib:Acharya2013_02"/></bibl> considère <foreign>Kasariṇā</foreign> comme un toponyme en rapprochant ce terme de l'expression lacunaire <foreign>kāśā<gap reason="illegible" unit="character" quantity="2"/>-nagara</foreign> utilisée aux lignes 10-11. 
+                  Ce nom serait-il une référence mal orthographiée à Kesari ? Si tel était le cas, alors l’hypothèse de <bibl><ptr target="bib:Acharya2013_02"/><citedRange unit="page">29</citedRange></bibl> selon laquelle cette plaque aurait été commandité par un roi antérieur à Mahābhavagupta Janamejaya, et potentiellement par le prédecesseur de Svabhavatuṅga Śivagupta, serait à réévaluer. <bibl><ptr target="bib:Acharya2013_02"/></bibl> considère <foreign>Kasariṇā</foreign> comme un toponyme en rapprochant ce terme de l’expression lacunaire <foreign>kāśā<gap reason="illegible" unit="character" quantity="2"/>-nagara</foreign> utilisée aux lignes 10-11. 
                </note> le village Vāsarullā en tant que résidence est donné à Nanuka<note>
                   Ici le nom propre est orthographié Nānnuka.
                </note>; <supplied reason="explanation">tout</supplied> cela a été établi avec les libations rituelles et après l’avoir décrété cette décision grâce à une plaque de cuivre.</p>
                <p n="16-18">Après avoir considéré ceci, grâce à notre acquisition, les récoltes, les dus, les impôts, l’or etc… resteront appropriés facilement et les futurs rois devront protéger ce don fait par nous par considération du Dharma et par respect pour nous, et ce, comme s’il s’agissait de leur propre donation. 
 </p>
-                <p n="18-19">Ainsi est-enseigné dans le <title>Dharmaśāstra</title>:</p>
+                <p n="18-19">Ainsi est-enseigné dans le <title>Dharmaśāstra</title> :</p>
                 <p n="1" rend="stanza">
-                 Des terres ont été données par des centaines de rois à commencer par Sagara. C'est à celui qu'appartient ces terres à un moment donné, que revient le bénéfice.<note>
+                 Des terres ont été données par des centaines de rois à commencer par Sagara. C’est à celui qu’appartient ces terres à un moment donné, que revient le bénéfice.<note>
                     Ce vers correspond au vers 23 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
              <p n="2" rend="stanza">
-                 N'ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pr̥thu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
+                 N’ayez aucun doute sur le bénéfice retiré de ce qui est donné par un autre, ô fils de Pr̥thu, le bénéfice est éternel aussi bien pour celui qui donne que pour celui qui protège ce qui est donné par un autre.<note>
                     Ce vers correspond au vers 85 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
              <p n="3" rend="stanza">
-                 Celui qui reçoit un don de terre et celui qui l'offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.<note>
+                 Celui qui reçoit un don de terre et celui qui l’offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.<note>
                    Ce vers correspond au vers 29 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
@@ -472,34 +445,34 @@ n="44"/>manaḥ
              </note>
                 </p>
              <p n="6" rend="stanza">
-                  Celui qui se saisirait d'une seule vache, d'une seule pièce d'or ou de la moitié d'un aṅgula de terre, séjournera aux enfers jusqu'à la dissolution du monde.<note>
+                  Celui qui se saisirait d’une seule vache, d’une seule pièce d’or ou de la moitié d’un aṅgula de terre, séjournera aux enfers jusqu’à la dissolution du monde.<note>
                     Ce vers correspond au vers 55 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
                   </note>
                </p>   
                 <p n="7" rend="stanza">
-                 L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.<note>
+                 L’Or est le premier fils né d’Agni, la Terre est l’épouse Viṣṇu et les vaches sont les filles du Soleil ; celui qui donne de l’or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.<note>
                     Ce vers correspond au vers 5 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note><!-- 
              In IN01008, daba notes the ref Garuḍapurāṇa 2.42.4 this verse
              -->
              </p>
                <p n="8" rend="stanza">
-                 L'insensé qui se saisirait ou ferait saisir <supplied reason="subaudible">une terre</supplied>, couvert d'obscurité et lié par les lacets de Varuṇa renaîtra dans une matrice animal.<note>
+                 L’insensé qui se saisirait ou ferait saisir <supplied reason="subaudible">une terre</supplied>, couvert d’obscurité et lié par les lacets de Varuṇa renaîtra dans une matrice animal.<note>
                     Ce vers correspond au vers 64 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
                 <p n="9" rend="stanza">
-                 Celui qui a volé une terre, l'excellent don d'une vache, une centaine de mets et breuvages sacrificiels, un millier de réservoirs ne peuvent le purifier.<note>
+                 Celui qui a volé une terre, l’excellent don d’une vache, une centaine de mets et breuvages sacrificiels, un millier de réservoirs ne peuvent le purifier.<note>
                     Ce vers correspond au vers 137 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
                 <p n="10" rend="stanza">
-                 Ayant considéré que fortune et vie humaine sont aussi éphémères qu'une goutte d'eau sur un pétale de lotus et que le monde entier n'est qu'une représentation, ne laissons pas des hommes détruire les actes glorieux accomplis par d'autres.<note>
+                 Ayant considéré que fortune et vie humaine sont aussi éphémères qu’une goutte d’eau sur un pétale de lotus et que le monde entier n’est qu’une représentation, ne laissons pas des hommes détruire les actes glorieux accomplis par d’autres.<note>
                     Ce vers correspond au vers 71 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
                 <p n="11" rend="stanza">
-                 À de nombreuses reprises, Rāmacandra a exhorté les rois futurs <supplied reason="subaudible">en ces termes</supplied> : ce pont du Dharma commun à tous les rois, vous devez toujours le protéger.<note>
+                 À de nombreuses reprises, Rāmacandra a exhorté les rois futurs <supplied reason="subaudible">en ces termes</supplied> : ce pont du Dharma commun à tous les rois, vous devez toujours le protéger.<note>
                     Ce vers correspond au vers 117 des stances relatives aux dons de terre listées par Sircar <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
@@ -509,15 +482,15 @@ n="44"/>manaḥ
              </note>
              </p>
                  <p n="13" rend="stanza">
-                 Les pères applaudissent, les ancêtres trépignent de joie <supplied reason="subaudible">quand ils peuvent dire :</supplied> <q>Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!</q><note>
+                 Les pères applaudissent, les ancêtres trépignent de joie <supplied reason="subaudible">quand ils peuvent dire :</supplied> <q>Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur !</q><note>
                     Ce vers correspond au vers 20 des stances relatives aux dons de terre listées par Sircar  <supplied reason="explanation">voir <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
              </note>
              </p>
                <p n="35-40"><gap reason="illegible" unit="line" quantity="1"/> Mahāsandhivigrahika <gap reason="illegible" unit="line" quantity="3"/><note>
-                   La présence conjointe du substantif <foreign>medini</foreign> et de la conjonction <foreign>yāvat</foreign> laisse penser que peut-être était inscrit ici un vers proche du vers 106 de la liste de <bibl><ptr target="bib:Sircar1965_03"/></bibl>, voir l'apparat critique.
+                   La présence conjointe du substantif <foreign>medini</foreign> et de la conjonction <foreign>yāvat</foreign> laisse penser que peut-être était inscrit ici un vers proche du vers 106 de la liste de <bibl><ptr target="bib:Sircar1965_03"/></bibl>, voir l’apparat critique.
                 </note></p>
-               <p n="40-42">Cet édit a été écrit par le seigneur Rudradatta, fils de Devadatta, grâce au dinandier Saṅkillya. <supplied reason="subaudible">Cela fut fait</supplied> au deuxième jour de la première quinzaine du mois Āśādha durant la huitième année du règne victorieux, c'est-à-dire le 2 de la quinzaine sombre <supplied reason="explanation"><foreign>vadi</foreign>, abréviation pour <foreign>vadya-pakṣa-dina</foreign> selon <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">357</citedRange></bibl></supplied> de l'an <supplied reason="explanation"><foreign>Saṁvat</foreign></supplied>  8.</p>
-               <p n="42-44">Si des lettres ont été oubliées ou que des mesures manquent, puisse cette prière sans mesure métrique faire amende honorable, ô sages, quel esprit n’a-t-il jamais failli?</p>
+               <p n="40-42">Cet édit a été écrit par le seigneur Rudradatta, fils de Devadatta, grâce au dinandier Saṅkillya. <supplied reason="subaudible">Cela fut fait</supplied> au deuxième jour de la première quinzaine du mois Āśādha durant la huitième année du règne victorieux, c’est-à-dire le 2 de la quinzaine sombre <supplied reason="explanation"><foreign>vadi</foreign>, abréviation pour <foreign>vadya-pakṣa-dina</foreign> selon <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">357</citedRange></bibl></supplied> de l’an <supplied reason="explanation"><foreign>Saṁvat</foreign></supplied>  8.</p>
+               <p n="42-44">Si des lettres ont été oubliées ou que des mesures manquent, puisse cette prière sans mesure métrique faire amende honorable, ô sages, quel esprit n’a-t-il jamais failli ?</p>
                </div>
            </div>
          <div type="commentary">
@@ -526,7 +499,7 @@ n="44"/>manaḥ
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The set of plates was first edited by S.C. Panda, D. Chopdar and P.K. Nayak in the <title>Journal of New Aspects of History of Orissa</title>, vol. XI, 2002, pp.72-82. The plates are currently preserved at the Prof. N. K. Sahu Museum of the Sambalpur University (see <bibl><ptr target="bib:Padhan2011_01"/><citedRange unit="item">2</citedRange><citedRange unit="page"></citedRange></bibl>). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/x920g5138">here</ref>.</p>
+           <p>The set of plates was first edited by S.C. Panda, D. Chopdar and P.K. Nayak in the <title>Journal of New Aspects of History of Orissa</title>, vol. XI, 2002, pp.72-82. The plates are currently preserved at the Prof. N. K. Sahu Museum of the Sambalpur University (see <bibl><ptr target="bib:Padhan2011_01"/><citedRange unit="item">2</citedRange><citedRange unit="page"/></bibl>). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/x920g5138">here</ref>.</p>
 
         	<listBibl type="primary">
 		<bibl n="A"><ptr target="bib:Acharya2013_02"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
