@@ -105,10 +105,10 @@ n="1r"/>
 
 n="1v"/>
 <lb 
-n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato <rs type="place" subtype="armyCamp">vijaya-skandhāvārāt</rs> <rs type="masc" subtype="ruler" role="donor"><rs type="masc"><roleName>para<lb
-n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName></rs>-pādānudhyā<lb
+n="1"/>svasti<supplied reason="omitted">.</supplied> <placeName type="settlement" subtype="town">suvarṇṇapura</placeName>-samāvāsita<supplied reason="omitted">ḥ</supplied> śrīmato vijaya-skandhāvārāt <roleName>para<lb
+n="2" break="no"/>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01000">śivagupta</persName>-<roleName>deva</roleName>-pādānudhyā<lb
 n="3" break="no"/>ta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirāja</roleName>-<roleName>parameśvara</roleName>-so<lb
-n="4" break="no"/>ma-kula-tilaka-<roleName>t<choice><orig>r̥</orig><reg>ri</reg></choice>kaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName></rs> kuśalī<lb
+n="4" break="no"/>ma-kula-tilaka-<roleName>t<choice><orig>r̥</orig><reg>ri</reg></choice>kaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01001">mahābhavagupta</persName>-<roleName>rāja-devaḥ</roleName> kuśalī<lb
 n="5"/><placeName type="region" subtype="district">lupattarā</placeName>-khaṇḍīya-<placeName type="settlement" subtype="village">vakratentalī</placeName>-grāme brāhmaṇān sampūjya tat-pra<lb
 n="6" break="no"/>tinivāsi-kuṭumbinas tad-viṣayīya-yathā-kālādhyāsinaḥ samāhartr̥-sa<lb
 n="7" break="no"/>nnidhā<surplus>r</surplus>tr̥-dāṇḍapāśika-piśuna-vetrikāvarodhajana-rājavallabhādīn anyāṁś ca cā<lb
@@ -121,7 +121,7 @@ n="11" break="no"/>-bhaṭa-praveśaś <supplied reason="lost">ca</supplied>tu�
 n="12" break="no"/>ṣṭha-pravarāya cchandoga-caraṇāya <placeName type="region" subtype="district">rāḍhāyaṁ</placeName> <placeName type="settlement" subtype="village">vallikandara</placeName>-vinirgatāya <placeName type="settlement" subtype="village">meraṇḍā</placeName>-vā<!-- 
 amwb : rāḍhāyaṁ is written rāḍhāphaṁ in EI11 ajouter un a long rāḍhāyāṁ
 --><lb
-n="13" break="no"/>stavyāya <rs type="masc" role="donee"><roleName>bhaṭṭaputra</roleName>-<persName>jātarūpa</persName>-</rs>nāmne <rs type="masc"><roleName>bhaṭṭaputra</roleName>-<persName>śrīvaccha</persName></rs>-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb
+n="13" break="no"/>stavyāya <roleName>bhaṭṭaputra</roleName>-<persName>jātarūpa</persName>-nāmne <roleName>bhaṭṭaputra</roleName>-<persName>śrīvaccha</persName>-s<choice><sic>u</sic><corr>ū</corr></choice>nave saliladhārā<lb
 n="14" break="no"/>puraḥsaram ācandra-tārakārkka-kṣiti-samakālopabhogārthaṁ mātā-pitro<lb
 n="15" break="no"/>r ātmanaś ca puṇya-yaśobhivr̥ddhaye <choice><sic>viśumati</sic><corr>viṣuvati</corr></choice>-saṁkrāntyāṁ tāmra-śāsane<lb
 n="16" break="no"/>nākarīkr̥tya pratipādita Ity avagatya samucita-bhoga-bhāga-kara-hiraṇyā<lb
@@ -239,9 +239,9 @@ n="35" break="no"/>ruṣaiḥ para-kīrttayo vilopyāḥ</l><!--
 amwb : Sircar 71
 -->
 </lg>
-    <p><date calendar="cal:regnal" when-custom="0003" datingMethod="cal:regnal"><rs type="masc" subtype="ruler" role="donor"><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
-n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" key="PSN01001">janamejaya</persName>-<roleName>devasya</roleName></rs> vijayarājye samvatsare tr̥tīye <rs type="month" key="sravana">śrā<lb
-n="37" break="no"/>vaṇa</rs>-māsa-<rs type="fortnight" subtype="bright">sitapakṣa</rs>-<rs type="tithi" n="5">pañcamyāṁ</rs> yatrāṅkato saṃvat <num value="3">3</num> <rs type="month" key="sravana">śrāvaṇa</rs> <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num></date><supplied reason="omitted">.</supplied> likhi<lb
+    <p><roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājādhirā<lb
+n="36" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-<roleName>śrī</roleName>-<persName type="king" key="PSN01001">janamejaya</persName>-<roleName>devasya</roleName> vijayarājye samvatsare tr̥tīye śrā<lb
+n="37" break="no"/>vaṇa-māsa-sitapakṣa-pañcamyāṁ yatrāṅkato saṃvat <num value="3">3</num> śrāvaṇa <abbr>śudi</abbr><!-- amwb śuddha dina --> <num value="5">5</num><supplied reason="omitted">.</supplied> likhi<lb
 n="38" break="no"/>tam idaṁ śāsanaṁ mahās<supplied reason="lost">ā</supplied>ndhivigraha-pratibaddha-<roleName>kāyastha</roleName>-<persName>koIghoṣeṇa</persName> <persName type="human">vallaghoṣa</persName><lb
 n="39" break="no"/>-sutena <persName>sa<surplus>ṁ</surplus>ṅgrāmena</persName> U<supplied reason="omitted">t</supplied>kr̥taṁ śāsa<supplied reason="omitted">na</supplied>m iti <persName>rayaṇa-Ojjhā</persName>-sutena<supplied reason="omitted">.</supplied> maṅgalam mahāśrīḥ<g type="ddanda">.</g>
 </p> 
