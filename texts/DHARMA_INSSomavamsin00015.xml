@@ -107,7 +107,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb 
 
-n="1r"/><p>
+n="1r"/>
             <pb 
 
 n="1v"/><lg n="1" met="śārdūlavikrīḍita">
@@ -203,7 +203,7 @@ n="27"/><roleName>śrīmān</roleName> <persName type="king" key="PSN01002">u<su
 n="28" break="no"/>-kusuma-<supplied reason="omitted">dāma</supplied>-rājayaḥ<g type="danda">.</g></l> 
                   <l n="c">ḍhauka<supplied reason="omitted">ya</supplied>nta Iva kīrtti-santatīr</l> 
                  <l n="d"> yaṁ praṇemur a<choice><sic>hi</sic><corr>bhi</corr></choice>to mah<choice><sic>i</sic><corr>ī</corr></choice>-bhujaḥ<g type="ddanda">.</g><!-- here there are six supplementary verses in soma31  --></l>
-               </lg>
+               </lg><p>
 <lb 
 n="29"/>svasti śrī-yayāti-nagarāt<g type="danda">.</g> <roleName>parama-māheśvara</roleName>-<roleName>pa<supplied reason="omitted">ra</supplied>ma-bhaṭṭāraka</roleName>-<roleName>mahārājādhi<lb 
 n="30" break="no"/>rāja</roleName>-<roleName>parameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king" subtype="coronation" key="PSN01003">mahāśivagu<lb 
@@ -231,6 +231,7 @@ n="49"/>tasya sodara-bhrātr̥-śrī-valabhadra<surplus><g type="danda">.</g></s
 n="50" break="no"/>tya samucita-karabhoga-bhāgādikam upanayadbhir bhavadbhiḥ sukhena prativasta<lb 
 n="51" break="no"/>vya<supplied reason="omitted">M</supplied><supplied reason="omitted">.</supplied> s<supplied reason="omitted">v</supplied>ad<choice><sic>e</sic><corr>a</corr></choice>ttir iyam asmadīya-dharmma-gauravād āsmad anurodhāc ca sva-dattir ivā<lb 
 n="52" break="no"/>nupālanīyo<g type="ddanda">.</g> tathā coktaṁ dharmaśāstre<supplied reason="omitted">.</supplied>
+   </p>
                <lg n="12" met="anuṣṭubh" ><!-- best_st0023" -->
                   <l n="a">vahubhir vasudhā dattā</l> 
                   <l n="b">rājabhiḥ
@@ -373,6 +374,7 @@ n="73" break="no"/>tta</persName> Iti śrutaḥ<g type="ddanda">.</g></l>
 n="74" break="no"/>l<choice><sic>ī</sic><corr>i</corr></choice>khadida<supplied reason="omitted">ṁ</supplied> tām<surplus>v</surplus>ra</l>
                   <l n="d" enjamb="yes">-śāsana<supplied reason="omitted">ṁ</supplied> śatru<choice><sic>s</sic><corr>ś</corr></choice>āsana<choice><sic>ḥ</sic><corr>M</corr></choice><g type="ddanda">.</g></l>
                </lg>
+             <p>
                <roleName>mahārājādhirāja</roleName>-<roleName>para<lb 
 n="75" break="no"/>meśvara</roleName>-<roleName>śrīmad</roleName>-<persName type="king" key="PSN01002">uddyotakesari</persName>-<roleName>rāja-devasya</roleName> pravarddhamāna-vijaya<lb 
 n="76" break="no"/>rājye caturthe samva<supplied reason="omitted">tsa</supplied>re mārgga <abbr>vadi</abbr> daśamyāṁ<g type="danda">.</g> yatrāṅke samvat<surplus>a</surplus> <num value="4">4</num><lb 
