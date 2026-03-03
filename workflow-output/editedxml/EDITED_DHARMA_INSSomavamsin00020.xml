@@ -57,7 +57,8 @@
                   <!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <summary>Grant by the king of the village named Bhilvi included in the Abhaparākhaṇḍa attached to the Antaruda viṣaya in favour of the brahmin Rāṇaka Abhimanyu, son of Vāsu and grandson of Dāmodara, who belonged to the Kaśyapa gotra with the three pravaras. 
+                            Written  by the mahākṣapaṭalādhyakṣa  Netradeva, incised by Sorṇṇāṅaka.<!-- //// NOT MANDATORY  ////--></summary>
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
@@ -314,6 +315,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p>This set is also named Khandapara charter. It was unearthed in the village named Mahulpara during 1963. It is preserved in the Odisha State Museum. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/00000789v">here</ref>.</p>
         	<listBibl type="primary">
+        	              <bibl n="D"><ptr target="bib:De1964_01"/></bibl>
         	           <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="appendix">Supplementary</citedRange><citedRange unit="item">33-A</citedRange><citedRange unit="page">280A-F</citedRange></bibl> 
 		<bibl n="Sri"><ptr target="bib:Srinivasan1967-1968_01"/></bibl>
         	          <bibl n="Sha"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XX</citedRange><citedRange unit="page">268-275</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
