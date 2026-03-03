@@ -53,7 +53,8 @@
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                        <summary>The object of the inscription is to record the gift of the village Jambūgrāma comprised in the viṣaya of Potā to Govinda, son of Koṇḍa, belonging to the Parāśara gotra with the pravaras of Vāsiṣṭha, Śakti and Pārāśarya, student of the Mādhyandina śākhā of the Vājasaneyi school of the Yajurveda, immigrant from Hastipada and resident of Jambugrāma.
+                            The record was written by Kāyastha Koighoṣa son of the Vallabhaghoṣa, attached to the office of the mahāsandhivigrahin Malladatta, son of Dhāradatta and incised by the goldsmith Vāpūka, son of Śāvadeva. </summary> <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -100,14 +101,14 @@ n="1r"/>
 
 n="1v"/>
 <lb 
-n="1"/>siddham Om svasty amalamaṇikuṭṭimasadanacaladanekavakhāravilāsinīja<lb 
-n="2" break="no"/>nacaraṇanūpura ra ravatrastapārāvattasvanavadhiritadaśadiśo nānādigdeśā<lb 
-n="3" break="no"/>ntarādāgatavandivr̥ndavistāritakīrttevvividhavidyālaṁkr̥tavidvajjanajanitavida<lb
-n="4" break="no"/>gdhakāvyālāpastutadhanapativibhavasparddhitavipaṇijanaparasya saṁharṣaracita<lb 
-n="5" break="no"/>vicitraprāsādāṭṭālikāvihārārāmadevakulodyānavāpīkūpataḍāgopa<lb 
-n="6" break="no"/>-nirjjitasurasadanamahimna śrīmato mūrasīma-pattanavarāT<g type="ddanda">.</g><lb 
-n="7"/>Asti kṣoṇīśvarāṇāmamalamaṇirucāma<choice><sic>tva</sic><corr>nva</corr></choice>yāT kaustubhābhaḥ<lb 
-n="8"/>śauryāgāmburāśirvviracitāvadhivaddānaśubhrīkr̥tābhraḥ<g type="ddanda">.</g> śrīm<choice><sic>a</sic><corr>ā</corr></choice>n<persName>jan<supplied reason="omitted">a</supplied>mejayā</persName><lb 
+n="1"/>siddham Om svasty amala-maṇi-kuṭṭima-sadana-calad-aneka-vakhāra-vilāsinī-ja<lb 
+n="2" break="no"/>na-caraṇa-nūpura ra rava-trasta-pārāvatta-svana-vadhirita-daśa-diśo nānādig-deśā<lb 
+n="3" break="no"/>ntarād āgata-vandi-vr̥nda-vistārita-kīrtte-vvividha-vidyālaṁkr̥ta-vidvaj-jana-janita-vida<lb
+n="4" break="no"/>gdha-kāvyālāpa-stuta-dhanapati-vibhava-sparddhita-vipaṇi-jana-parasya saṁharṣaracita<lb 
+n="5" break="no"/>vicitra-prāsādāṭṭālikā-vihārārāma-devakulodyāna-vāpī-kūpa-taḍāgopa<lb 
+n="6" break="no"/>-nirjjita-sura-sadana-mahimna śrīmato mūrasīma-pattanavarāT<g type="ddanda">.</g><lb 
+n="7"/>Asti kṣoṇīśvarāṇāma-mala-maṇirucāma<choice><sic>tva</sic><corr>nva</corr></choice>yāT kaustubhābhaḥ<lb 
+n="8"/>śauryāgāmburāśir vviracitāvadhivad dāna-śubhrīkr̥tābhraḥ<g type="ddanda">.</g> śrīm<choice><sic>a</sic><corr>ā</corr></choice>n <persName>jan<supplied reason="omitted">a</supplied>mejayā</persName><lb 
 n="9" break="no"/>ravyastr̥daśapatisamaḥ kr̥<choice><sic>cchana</sic><corr>tsna</corr></choice>gāṁ bhoktukāmaḥ prakhyātadve<choice><sic>ś</sic><corr>ṣ</corr></choice>ī-vaṅśa-pravidalana<lb 
 n="10" break="no"/>paṭ<choice><sic>ū</sic><corr>u</corr></choice>r bhūpatiḥ somavaṅśe<g type="ddanda">.</g> so 'yaṁ<g type="danda">.</g> parama-bhaṭṭāraka-mahārāja-parameśvara<lb 
 n="11" break="no"/>śrī-<persName>śivagupta</persName>deva-pādānudhyāta-parama-maheśvara-paramabhaṭṭāraka-mahā<lb 

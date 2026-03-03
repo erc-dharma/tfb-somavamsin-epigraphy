@@ -54,7 +54,15 @@
                   <idno/><!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                  <summary>The object of the inscription is to record the gift by the king of the village Vakaveḍḍā attached to the viṣaya of Oṅgātaṭa to the following four Brahmins: 
+                     <list>
+                        <item>Dāmāka, son of Aivuli belonging to the Kautsa gotra and the pravaras of Āṅgiras, Āmbarīṣa and Yauvanāśva and the anupravaras of Yuvanāśva, Ambarīṣā and Aṅgiras, a student of the Kauthuma śākhā of the Sāmadeva, an immigrant fro; Pampāsrarasī and a resident of Leiśṛṅgā</item>
+                        <item>an unnamed son of Nārapagaṇḍa belonging to the Gautama gotra and the Āṅgitasa pravara and the anupravara of Bārhaspatya, a student of the Kāṇva Śākhā of the Yajurveda, an immigrant fro; Oḍayaśṛṅga and a resident of Khaṇḍakṣetra</item>
+                        <item>Vāsudeva, son of Hṛṣīkeśa, belonging to the Kṛṣṇātreya gotra with the pravara of Ārccanānasa and the anupravara of Śyāvāśva, a student of the Kāṇva śākhā of the Yajurveda, an immigrant from Koṅkaleḍḍa and a resident of Lipatuṅgā</item>
+                        <item>Koṇḍadeva son of Rāmaśarman, belonging to the Agasti gotra with the pravara of Idhmavāha and the anupravara of Cyavana, a student of the Kāṇva śākhā of the Yajurveda, an immigrant from Kaliṅga and a resident of Pampāsarasī</item>
+                        
+                     </list>
+                     The record was written by Kāyastha Koighoṣa son of the Vallabhaghoṣa, attached to the office of the mahāsandhivigrahin Mallā son of Dhāradatta. The record ends with a stanza praying Janamejaya. </summary> <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
                   <handDesc>
@@ -272,7 +280,7 @@ n="45"/>kr̥<choice><sic>ccha</sic><corr>tsna</corr></choice>-gāṁ bhoktu-kām
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="32"><!-- update the value of @loc.-->
                      <lem>°sr<choice><sic>āṇi</sic><corr>eṇa</corr></choice> vāja-peya-śat<choice><sic>āṇi</sic><corr>ena</corr></choice></lem>
-                     <rdg source="bib:Fleet1894-1895_04">°srāṇi vāja-peya-śatāṇi</rdg>
+                     <rdg source="bib:Fleet1894-1895_03">°srāṇi vāja-peya-śatāṇi</rdg>
                   </app>
                </listApp>
          </div>
