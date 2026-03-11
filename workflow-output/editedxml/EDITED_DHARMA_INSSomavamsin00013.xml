@@ -57,7 +57,7 @@
                   <!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <summary>Gift by the king Indraratha of a village called Laghukumbhi situated in the subdivision (khaṇḍa) of Saghṛtakhallā in the district (viṣaya) of Thoraṇa which belonged to Koṅgoda-maṇḍala, for defraying the expenses on the bali, caru, naivedya and dōla of the goddess Khadiravanī-bhaṭṭarikā. Written by Amṛta Candra and engraved by a smith called Vāheruka. <!-- //// NOT MANDATORY  ////--></summary>
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
@@ -123,7 +123,7 @@
             <pb n="1r"/>
 <pb n="1v"/><ab><g type="spiralL"/></ab><lg n="1" met="vasantatilakā">
    <l n="a"><lb n="1"/>Indu<supplied reason="omitted">ḥ</supplied> jaṭāsu viśado ’gniśikhā-piśaṅgī</l> 
-   <l n="b">lālāṭa-cakṣuṣi gale viṣabhañjanābham<g type="danda">.</g></l> 
+   <l n="b">lālāṭa-cakṣuṣi gale viṣam añjana<unclear>ṁ</unclear> hatya<supplied reason="omitted">ḥ</supplied></l> 
    <l n="c">sattvaṁ rajas tama I<lb n="2" break="no"/>ti triguṇasya tasya</l> 
   <l n="d">sthāna-kramaṅ gatavate ’stu namaḥ śivāya<g type="ddanda">.</g></l>
 </lg> 
@@ -135,22 +135,21 @@
                </lg> 
                <lg n="3" met="vasantatilakā">
                   <l n="a">prāsāda-mauliṣu<lb n="5"/>karā<choice><orig>v</orig><reg>b</reg></choice>ja-paramparābhir</l> 
-                  <l n="b">ākr̥ṣyamāṇa-parilam<choice><orig>v</orig><reg>b</reg></choice>i-nabhaḥ-pracāra<choice><sic>ḥ</sic><corr>M</corr></choice><g type="danda">.</g></l> 
+                  <l n="b">ākr̥ṣyamāṇa-parilam<choice><orig>v</orig><reg>b</reg></choice>i-nabhaḥ-pracāraM<g type="danda">.</g></l> 
                   <l n="c">yasmin niśāsu niśita-dyuti-ca<lb n="6" break="no"/>ndra-<choice><orig>v</orig><reg>b</reg></choice>im<choice><orig>v</orig><reg>b</reg></choice>am</l> 
-                  <l n="d">āyojyate mukura-kr̥tya-vidhau vadhūbhiḥ<g type="ddanda">.</g></l>
+                  <l n="d">āyojyate makura-kr̥tya-vidhau vadhūbhiḥ<g type="ddanda">.</g></l>
                </lg> 
                <lg n="4" met="śārdūlavikrīḍita">
                   <l n="a">yasminn aspr̥śataḥ kṣitiṁ khurapuṭai<supplied reason="omitted">r</supplied> vāhā<lb n="7" break="no"/>n asaṁkhyān api</l> 
                   <l n="b">pratyeti sudr̥śī jano na tu rājobhāraiḥ samutsarpibhiḥ<g type="danda">.</g></l> 
                   <l n="c">Anyad yasya ja<lb n="8" break="no"/>lāśa<space type="binding-hole"/>yeṣu yugapad dantāvalānāṅgaṇair</l> 
-                 <l n="d">anyonya-pratipanna-ḍiṇḍima-ravair ambhaḥ sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya
-            <lb n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></l>
+                 <l n="d">anyonya-pratipanna-ḍiṇḍima-ravair amvaḥ sugapādya<lb n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></l>
                </lg>
             <lg n="5" met="śārdūlavikrīḍita">
                <l n="a"><space type="binding-hole"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
-               <l n="b">yat saudhasya mr̥gīdr̥śo<lb n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnānnavaḥ<g type="danda">.</g></l> 
+               <l n="b">yat saudhasya mr̥gīdr̥śo<lb n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnā<choice><sic>n</sic><corr>ṃ</corr></choice> na<surplus>n</surplus>vaḥ<g type="danda">.</g></l> 
                <l n="c">ya<choice><sic>d</sic><corr>s</corr></choice>yā<supplied reason="omitted">ḥ</supplied> toraṇa-citra-karma-kanaka-graiveyakādi-sphu<lb n="11" break="no"/>ṭam</l> 
-               <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampa<surplus>d</surplus>dyate<g type="ddanda">.</g></l>
+               <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampā<surplus>d</surplus>dyate<g type="ddanda">.</g></l>
             </lg> 
             <p>tasmāt śrī-yayāti-nagarāt<supplied reason="omitted">.</supplied></p>
              <lg n="6" met="śikhariṇī">
@@ -161,7 +160,7 @@
              </lg> 
              <lg n="7" met="anuṣṭubh">
                 <l n="a">Akṣa<lb n="14" break="no"/>triyakule bhūtvā</l> 
-                <l n="b">sakuṭumvo mahādbhutam<g type="danda">.</g></l> 
+                <l n="b">sakuṭumvo mahādbhutaM<g type="danda">.</g></l> 
                 <l n="c">kariṣyāmīti tenāpi</l> 
                 <l n="d">pratijajñe śivāgrataḥ<g type="ddanda">.</g></l>
              </lg> 
@@ -177,7 +176,7 @@
                   <l n="a">śirasi kr̥ta-śivājñ<choice><sic>ā</sic><corr>o</corr></choice> martya-loke vivasvān</l> 
                   <l n="b">ajani ca kula-putro bhīma<lb n="18" break="no"/>nāmottama-śrīḥ<g type="danda">.</g></l> 
                   <l n="c">Ayam alabhata <persName type="queen">durgā<supplied reason="omitted">ṁ</supplied></persName> pūrva-patnīñ ca patnīm</l> 
-                  <l n="d">ajanayad atha tasyāṁ pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice> ca putrān<g type="ddanda">.</g></l>
+                  <l n="d">ajanayad atha tasyāṁ pūrva-put<choice><sic>rī</sic><corr>rāṁ</corr></choice> ca putrāN<g type="ddanda">.</g></l>
                </lg>
                         <pb n="2r"/>
             <lg n="11" met="śārdūlavikrīḍita">
@@ -350,12 +349,13 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">’gniśikṣā-piśaṅgī</rdg>
                   </app>
                   <app loc="1">
-                     <lem source="bib:Shastri1995_02">viṣabhañja°</lem>
-                     <rdg source="bib:Behera1988_01">viṣam añja°</rdg>
+                     <lem>viṣam añjana<unclear>ṁ</unclear> hatya<supplied reason="omitted">ḥ</supplied></lem><!-- here the tya is very cleqr -->
+                     <rdg source="bib:Shastri1995_02">viṣabhañjanābhaM<g type="danda">.</g>°</rdg>
+                     <rdg source="bib:Behera1988_01">viṣam añjanābhaM</rdg>
                   </app>
                   <app loc="2">
                      <lem source="bib:Behera1988_01">gatavate ’stu</lem>
-                     <note><foreign>’stu</foreign> is omitted in <bibl><ptr target="bib:Shastri1995_02"/></bibl>’s edition.</note>
+                     <note><foreign>’stu</foreign> is omitted in <bibl><ptr target="bib:Shastri1995_02"/></bibl>’s edition, while it is clearly legible on the photo.</note>
                   </app>
                   <app loc="3">
                      <lem source="bib:Shastri1995_02">°sphuradbhābhiḥ</lem><!-- it is clear from the photo of the plate  -->
@@ -378,35 +378,31 @@ amwb : Sircar 71
                      <rdg source="bib:Shastri1995_02"><unclear>’haḥ</unclear> patiḥ</rdg>
                      <rdg source="bib:Behera1988_01">’har patiḥ</rdg>
                   </app>
-                  <app loc="5">
-                     <lem>pracāra<choice><sic>ḥ</sic><corr>M</corr></choice></lem>
-                     <rdg source="bib:Behera1988_01">pracāram</rdg>
-                     <rdg source="bib:Shastri1995_02">pracāraṁ</rdg>
-                  </app>
                   <app loc="6">
-                     <lem source="bib:Behera1988_01">mukura°</lem>
-                     <rdg source="bib:Shastri1995_02">makura°</rdg>
+                     <lem source="bib:Shastri1995_02">makura°</lem>
+                     <rdg source="bib:Behera1988_01">mukura°</rdg>
                   </app>
                   <app loc="8">
-                     <lem source="bib:Shastri1995_02">°valānāṅgaṇair</lem>
+                     <lem source="bib:Shastri1995_02">°valānāṅgaṇair</lem><!-- the laa is long I checked on the photo -->
                      <rdg source="bib:Behera1988_01">°valaṅ gaṇair</rdg>
                   </app>
                   <app loc="8">
-                     <lem>ambhaḥ</lem>
+                     <lem>amvaḥ</lem><!-- mvq: I compared with other "mva" in this plate -->
                      <rdg source="bib:Shastri1995_02">°vair a<choice><sic>ma</sic><corr>mbhaḥ</corr></choice></rdg>
                      <rdg source="bib:Behera1988_01">°vair a<supplied reason="omitted">ṁ</supplied>bhaḥ</rdg>
                   </app>
                   <app loc="8">
-                     <lem source="bib:Behera1988_01">sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya
-            <lb n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></lem>
+                     <lem>sugapādya<lb n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></lem><!-- the u for su is not very clear but I have no doubt on gapaadya  -->
+                     <rdg source="bib:Behera1988_01">sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya<unclear>te</unclear><g type="ddanda">.</g></rdg>
                      <rdg source="bib:Shastri1995_02">samu<supplied reason="omitted">t</supplied>pītate<g type="ddanda">.</g></rdg>
                   </app>
                   <app loc="10">
-                     <lem source="bib:Shastri1995_02">yad vartti°</lem>
+                     <lem source="bib:Shastri1995_02">yad vartti°</lem><!-- the d is clear on the photo -->
                      <rdg source="bib:Behera1988_01">yat vartti°</rdg>
                   </app>
                   <app loc="10">
-                     <lem source="bib:Shastri1995_02">°nīnānnavaḥ</lem>
+                     <lem>°nīnā<choice><sic>n</sic><corr>ṃ</corr></choice> na<surplus>n</surplus>vaḥ</lem>
+                     <rdg source="bib:Shastri1995_02">°nīnānnavaḥ</rdg>
                      <rdg source="bib:Behera1988_01">°nī<choice><sic>nānnanvaḥ</sic><corr>nām ānvayaḥ</corr></choice></rdg>
                   </app>
                   <app loc="11">
@@ -418,7 +414,7 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">viditv evāhūya</rdg>
                   </app>
                   <app loc="13">
-                     <lem/>
+                     <lem>vivasva<surplus>n</surplus>tā</lem>
                      <rdg source="bib:Behera1988_01">vivasvant<choice><sic>ā</sic><corr>aṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice></rdg>
                      <rdg source="bib:Shastri1995_02">vikavasva<choice><sic>nnī</sic><corr>ntaṁ</corr></choice> mā<choice><sic>na</sic><corr>nyaṁ</corr></choice></rdg>
                   </app>
@@ -440,8 +436,12 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">paṇitari</rdg>
                   </app>
                   <app loc="16">
-                     <lem source="bib:Behera1988_01">valād ā°</lem>
-                     <rdg source="bib:Shastri1995_02">valād a°</rdg>
+                     <lem source="bib:Shastri1995_02">valād a°</lem><!-- short a it is clear from the photo -->
+                     <rdg source="bib:Behera1988_01">valād ā°</rdg>
+                  </app>
+                  <app loc="18">
+                     <lem source="bib:Shastri1995_02">pūrva-put<choice><sic>rī</sic><corr>rāṁ</corr></choice></lem><!-- clear on the photo -->
+                     <rdg source="bib:Behera1988_01">pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice></rdg>
                   </app>
                   <app loc="20">
                      <lem source="bib:Shastri1995_02">°lbhya-satyā°</lem>
@@ -622,7 +622,7 @@ amwb : Sircar 71
          </div>
          <div type="translation" resp="part:amwb">
  	<!--translation encoded as per EGD §9.2 -->
-            <p rend="stanza" n="6">Pinākin (Śiva) tandis que les gens lui rapportaient la déviance du <foreign>dharma</foreign> sur terre et qu’ils mandaient sa personne, se rendit sur les lieux indiqués: “Que l’honorable Vivasvant aille sur terre sans délai en traversant le ciel pour l’apaiser et que l’<foreign>adharma</foreign> soit vaincu!</p>
+            <p rend="stanza" n="6">Pinākin (Śiva), lorsqu’il comprit que les gens s’écartaient de la voie du dharma sur la surface de la terre, les invita et les conduisit personnellement vers le chemin de l’instruction: "</p>
             <p rend="stanza" n="7">En présence de Śiva, il y consentit par ces mots “Je prendrai naissance dans une famille non guerrière et avec mon clan, j’accomplirai un grand miracle”.</p>
             <p rend="stanza" n="8">Parmi les fils de celui-ci, le magnanime d’entre eux, dévot de Maheśvara, l’aîné se concentra sur le bienheureux époux d’Ambikā pour sa descente sur terre.</p>
             <p rend="stanza" n="9">Une fois le bienheureux devenu compatissant et une fois la lune devenue l’ornement de sa famille, à partir de la force de son père et de son intelligence, grâce à son dévouement, il obtint la faveur d’une royauté (semblable à celle) d’Indra. </p>
