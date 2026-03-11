@@ -53,8 +53,8 @@
                   <idno/><!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary>Grant by the king of the village Bṛhadbhusāī included in the Uṅgāḍa viṣaya and the village Mārañjamurā in the Santonārta Khaṇḍa included in the Gandharavāḍimaṇḍala, both attahced to Kosala in favour of Yaśakara, son of Śāntikara, grandson of Nārāyaṇa, who had immigrated fri; Hastigrāma in Madhyadeśa, belonged to the Parāśara gotra with the Ātreya pravara of three ṛśis, student of the Kāṇva śākhā of the Yajurveda. 
-                     Written by the sandhivigrahin Rāṇaka Rduradatta, grandson of Harṣadatta and son of the brother of Siṁhadatta.<!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                  <summary>Grant by the king of the village Bṛhadbhusāī included in the Uṅgāḍa viṣaya and the village Mārañjamurā in the Santonārta Khaṇḍa included in the Gandharavāḍimaṇḍala, both attached to Kosala in favour of Yaśakara, son of Śāntikara, grandson of Nārāyaṇa, who had immigrated from Hastigrāma in Madhyadeśa, belonged to the Parāśara gotra with the Ātreya pravara of three ṛśis, student of the Kāṇva śākhā of the Yajurveda. 
+                     Written by the sandhivigrahin Rāṇaka Rudradatta, grandson of Harṣadatta and son of the brother of Siṁhadatta. (Alternative title: Mārañja-Mura Charter of Mahāśivagupta alias Yayāti)<!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
                   <handDesc>
@@ -294,6 +294,7 @@ n="2" break="no"/>ndravimbo°</rdg>
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --><!-- First edition Mazumdar JBORS vol 2 1916 pp 45-55  --></p>
         	<listBibl type="primary">
         	   <!-- Don't forget adding ARIE 1964-65 CP4 published in BC MAzumbar  JBORS vol ii (1) 1916 p 45-59 and plates and DR Bhandarkar Indian Antiquary vol LXI p 241 -->
+        	   <bibl n="M"><ptr target="bib:Mazumdar1916_01"/></bibl>
         	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">34</citedRange><citedRange unit="page">218-224</citedRange></bibl>
 	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXI</citedRange><citedRange unit="page">276-284</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
