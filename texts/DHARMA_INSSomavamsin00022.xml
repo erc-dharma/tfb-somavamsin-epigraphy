@@ -308,6 +308,7 @@ n="50" break="no"/>ñ cakāra<supplied reason="omitted">.</supplied></l>
 	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIII</citedRange><citedRange unit="page">226-231</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1565</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1952-1953"/><citedRange unit="item">19</citedRange></bibl>
               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">952</citedRange></bibl>
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">126-128</citedRange></bibl>
