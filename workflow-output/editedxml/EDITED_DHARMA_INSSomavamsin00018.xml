@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 28</title>
+            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+            <!-- Add your name in the respStmt matching your involvement -->
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <!-- Work done in the file, e.g. editor ...-->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <!-- This may be the same as the creator of the file -->
+               <persName ref="part:amwb"><!-- Update the id -->
+                  <forename>Amandine</forename>
+                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+            <idno type="filename">DHARMA_INSSomavamsin00018</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Amandine
+                            Wattelier-Bricout.</p>
+                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:amwb" when="2026-03-27">Creation of the file</change>
+         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+              <pb n="1v"/><p><lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/>
+                  <pb n="2r"/><lb n="18"/><lb n="19"/><lb n="20"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><lb n="25"/><lb n="26"/><lb n="27"/><lb n="28"/><lb n="29"/><lb n="30"/><lb n="31"/><lb n="32"/><lb n="33"/><lb n="34"/><lb n="35"/>
+                  <pb n="2v"/><lb n="36"/><lb n="37"/><lb n="38"/><lb n="39"/><lb n="40"/><lb n="41"/><lb n="42"/><lb n="43"/><lb n="44"/><lb n="45"/><lb n="46"/><lb n="47"/><lb n="48"/><lb n="49"/><lb n="50"/><lb n="51"/>
+                  <pb n="3r"/><lb n="52"/><lb n="53"/><lb n="54"/><lb n="55"/><lb n="56"/><lb n="57"/><lb n="58"/><lb n="59"/><lb n="60"/><lb n="61"/><lb n="62"/><lb n="63"/><lb n="64"/><lb n="65"/><lb n="66"/><lb n="67"/><lb n="68"/><lb n="69"/>
+                  <pb n="3v"/><lb n="70"/><lb n="71"/><lb n="72"/><lb n="73"/><lb n="74"/><lb n="75"/>
+              </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Laskar1905_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" source="bib:Laskar1905_01">
+ 	<!--translation encoded as per EGD §9.2 -->
+             <p n="1-4">Om Hail! From that glorious town of Yayatinagara,—where the enjoyment of love is being continually intensified and still more intensified by the close embraces (of lovers), by which fatigue is removed, in which hissing sound often appears and in which hairs often stand on their ends, although such enjoyment suffers interruptions as the ardent young couple show their skill in the various processes of conjugal enjoyment with their eyes dilated (with excitement) and with their minds subdued and fascinated by amorous thoughts;</p>
+             <p n="4-7">—where, even in the midst of quarrels arising from jealousy, lovers, beaten by lotuses from the ears of women who have cast the beauty of the celestial damsels into shade by the ereatness of their endless and peculiar charms, have all their mental anguishes roused to action by the entrance of the sharp arrows of Cupid, with their hairs standing on the ends (lit. sprouting up) on account of the sprinkling of the drops of sweat (from the persons of the objects of their love); </p>
+             <p n="7-11">—where, at the tops of houses beautifully white- washed, the places of assignation of unchaste women and their earl ornaments were whitened by the clusters of rays issuing from the club-like tusks of very lofty elephants—the rays which rendered the autumn moon useless in the matter of dispelling darkness;</p>
+             <p n="11-13">(and) where the fatigue of the women enjoying conjugal caresses with ardent attachment is removed by the breezes surcharged with the particles of water sent up by the breaking and - swelling of the high waves of the Mahānadī.</p>
+             <p n="13-16">There was on the earth a beautiful king named Janamejaya, who had a pure and mild appearance and a lotus-like face, who had subjugated by the force of his arms all his enemies, and whose spotless fame, well known throughout the three worlds, covered the eight quarters like a canopy.</p>
+             <p n="16-18">From him sprang King Yayāti, whose glory was sung in all the three worlds, who defeated his enemies with contempt as it were, and whose sword had its sharp edge made rugged with the pearls coming out of the foreheads of the elephants rent asunder by it;</p>
+             <p n="18-21">whose sword rent asunder with its point the foreheads of a large number of elephants, from which heaps of pearls came out and adorned the bosom of the damsel of the earth in every battle; the dusts of whose lotus-like feet, as pure as the rays of the gems in the head-dresses of kings constantly bowing down at his doors, assumed, through equality, the lustre of these (7.e. the gems);</p>
+             <p n="21-24">who, having defeated Ajāpāla in battle, astonished the heavenly damsels by capturing alive, with a smiling
+face, thirty-two big elephants, named KAmadeva, etc., whose riders had been killed,—elephants who had sharp and huge tusks and whose temples were discharging ichor and therefore abounded with flocks of greedy bees getting intoxicated (by draughts of the fragrant fluid).</p>
+             <p n="26-29">The most devout worshipper of (the god) Maheśvara, the Paramabhaṭṭāraka, the Mahārājādhirāja, the Parameśvara, the ornament of the Somakula, the lord of the three Kalingas,the glorious Mahā-Śivagupta-rāja-deva, who meditates on the feet of</p>
+             <p n="24-27">the most devout worshipper of (the god) Maheśvara, Paramabhaṭṭāraka, the Mahārājādhirāja, the Parameśvara, the ornament of the Somakula, the lord of the three Kalingas,the glorious Mahā-Bhavagupta-rāja-deva,</p>
+             <p n="29-33">being in good health and having done worship to the Brahmans of the lishach at the village of Lluttarumā of Telātaṭṭa Viṣaya or district in Ṣaṇṇavati, issues a command to all the dependants of the king such as the samāhatṛs, the sannidhātṛs, the Niyuktādhikārikas, the Daṇḍapāśikas, the Piśunas, the Vetrikas, the Avarodhajanas, the Rāṇakas, the Rājaballabhas etc (the following words):</p>
+             <p n="33-43">“Be it known to you that for the enhancement of the religious merit and glory of ourselves and our parents,
+this village, extending to its four boundaries—with its hidden treasures and deposits, with the right to fines for the ten offences, with the freedom from all lets and hindrances, with the right to mango-trees and honey-combs, with its ditches and barren lands, with its lands and waters, with the privilege that it shall not be entered into by the regular and irregular troops—is, by a copper-plate charter, granted by us as revenue-free, with libations of water, to be enjoyed as long as the moon, the stars, the sun and the earth exist,</p>
+             <p n="37-40">o Bhaṭṭa Mahodadhi, son of Siddheśvara and grand-son of Parameśvara, an inhabitant of Ntaraḍī in the Lāvaḍā
+district (viṣaya), an immigrant from Kasili in the Srāvasti Maṇḍala, a member of the Kauśīka gotra, with the pravaras Devarāta, Audala and Viśvāmitra and a student of the Gautama Śākhā.</p>
+             <p n="43-44">Being aware of this, you should dwell in happiness rendering unto him the rents and other shares of enjoyment due to him." This my grant should be preserved like their own grants by future kings also, from a regard for religious laws and my own earnest request. </p>
+             <p n="46">Thus it is said in religious books:</p>
+             <p n="48-49">Land has been given by many kings commencing with Sagara; whoever at any time possesses the earth, to him at that time the reward accrues.</p>
+             <p n="49-50">The giver of land enjoys happiness in heaven for 60,000 years; while both the confiscator and the person who acquiesces in so doing go to hell.</p>
+             <p n="51-52">Gold is the first offspring of fire; the earth is the daughter of Visnu; and the cows are born of the sun. He who gives gold and cows and lands, by him, by that act, are given all the three worlds.</p>
+             <p n="52-54">Fathers (in the world of the dead) clap their hands upon their arms, and grand-fathers leap from joy, saying “A giver of land has been born in our family; he shall become our deliverer.". </p>
+             <p n="54-55">Both the giver and the receiver of land are doers of meritorious works and will cer tainly go to heaven.</p>
+             <p n="55-56">A confiscator of (gifted) lands is not purified even by the excavation of a thousand oe tanks, by the performance of a hundred of vājapeya sacrifices and by the gift of a crore of cows.</p>
+             <p n="56-57">He whosteals a piece of gold or a cow or even half-a-finger’s breadth of land is consigned to hell till the destruction of the world.</p>
+             <p n="57-59">That ignorant fool who confiscates or causes the confiscation of lands is, being tightly bound in the fetters of Varuṇa, reborn of lower animals.</p>
+             <p n="59-60">He who confiscates lands given by himself or others becomes a worm in the ordure and stinks there with his
+ancestors.</p>
+             <p n="61-62">The sun, Varuṇa, Viṣṇu, Brahmā, Soma, the god of fire and the great god Śūlapāṇi welcome the giver of land (as he goes to heaven).</p>
+             <p n="62-63">Rāmabhadra again and again requests all the future kings, saying, “This bridge of religion is common to all men; it is to be observed by you in all times."</p>
+             <p n="64-66">Thinking that wealth as well as human life are as unstable as a drop of water on the leaf of a lotus and understanding all that has been said above, men should not destroy the good works of others.</p>
+             <p n="66-69">He who surpassed the preceptors of the kings of the gods and of the demons (i.e., Vṛhaspati and Śukrācārya) in wisdom and pride, who bore with perfect ease the heavy burden of the state affairs imposed by the king and who had both policy and prowess as his dear and constant friends,—that fortunate person of the name of (Śrī) Singhadatta (Siṁhadatta) was the holder of the post of “the minister of peace and war." </p>
+             <p n="69-71">This charter, written by Kāyastha Sūryasena belonging to the office of (or a servant of) the ‘minister of peace and war’ of the Kosala country, is to last as long as the moon, the sun and the stars endure.</p>
+             <p n="71-74">On the fifth tithi in the bright fortnight of the month of Bhādrapada in the 28th year of the victorious reign of the most devout worshipper of (the god) Maheśvara, the Mahārājādhirāja, the Parameśvara, the ornament of the Somakula — (lunar race), the lord of the three Kalingas, the glorious Yayāti-deva. Or, in figures, Samvat 28, Sudi 5.</p>
+             <p n="74-75">Engraved by Vināli (Vijñanī) Madhumathana.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="L"><ptr target="bib:Laskar1905_01"/><citedRange unit="item">J</citedRange><citedRange unit="page">8-12</citedRange><citedRange unit="page">19-23</citedRange></bibl>
+        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">196-204</citedRange></bibl>
+	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XVII</citedRange><citedRange unit="page">251-256</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1569</citedRange></bibl>
+              <bibl><ptr target="bib:ARIE1952-1953"/><citedRange unit="item">21</citedRange></bibl>
+              <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">947</citedRange></bibl>
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">129-131</citedRange></bibl>
+              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">28</citedRange><citedRange unit="page">261</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
