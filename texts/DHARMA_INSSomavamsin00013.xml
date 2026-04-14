@@ -196,9 +196,9 @@ n="20" break="no"/>lbhya-satyāśrayaḥ<g type="danda">.</g></l>
 n="21"/><persName>śaṅkararathas</persName> tasyānurūpānujau<g type="ddanda">.</g></l>
             </lg> 
             <lg n="12" met="śārdūlavikrīḍita">
-               <l n="a">yo 'sāv <persName type="king" key="PSN01004">indraratha<supplied reason="omitted">ḥ</supplied></persName> rathāṅga-mahimā somānvaya-kṣmāpatiḥ</l> 
-              <l n="b"> śri<lb 
-n="22" break="no"/>mad-<persName type="king" key="PSN01007">dharmarathasya</persName> vallabhatayā lebhe kaliṅga-śriyam<g type="danda">.</g></l> 
+               <l n="a">yo 'sāv <persName type="king" key="PSN01004">indraratho</persName> rathāṅgi-mahimā somā<choice><sic>dv</sic><corr>nv</corr></choice>aya-kṣmāpatiḥ</l> 
+              <l n="b"> śrī<lb 
+n="22" break="no"/>mad-<persName type="king" key="PSN01007">dharmarathasya</persName> vallabhatayā lebhe kaliṅga-śriyaM<g type="danda">.</g></l> 
                <l n="c">sañjagrāha ca vigrahe bhuja-<choice><orig>v</orig><reg>b</reg></choice>alāt tām vajra<lb 
 n="23" break="no"/>-hastād aho<supplied reason="omitted">.</supplied></l> 
                <l n="d">vikrāntir mahatī-padāti-<choice><orig>v</orig><reg>b</reg></choice>ahutālpatve tu nyastādaraḥ<g type="ddanda">.</g></l>
@@ -284,7 +284,7 @@ n="47"/>pitaro</l>
 n="48"/>
                <lg n="20" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0029" -->
     <l n="a">bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
-    <l n="b">yaś ca bhūmiṁ prayacchati<g type="danda">.</g></l>
+    <l n="b">yaś ca bhūmi<choice><sic>mā</sic><corr>m pra</corr></choice>yacchati<g type="danda">.</g></l>
     <l n="c">Ubhau tau puṇya-ka<unclear>r</unclear>māṇau</l>
     <l n="d">niyataṁ sva<supplied reason="omitted">r</supplied>ga-gā<lb 
 n="49" break="no"/>minau<g type="ddanda">.</g></l><!-- 
@@ -405,13 +405,13 @@ n="71" break="no"/>dam yatrānkenāpi samvat <num value="6">6</num> kārttika <a
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
-                     <lem source="bib:bib:Tripathy1966_01 Shastri1995_02">'gniśikhā-piśaṅgī</lem>
+                     <lem source="bib:Tripathy1966_01 Shastri1995_02">'gniśikhā-piśaṅgī</lem>
                      <rdg source="bib:Behera1988_01">'gniśikṣā-piśaṅgī</rdg>
                   </app>
                   <app loc="1">
                      <lem>viṣam añjan<choice><sic>ā</sic><corr>e</corr></choice> hatya<supplied reason="omitted">ḥ</supplied></lem><!-- here the tya is very clear -->
                      <rdg source="bib:Shastri1995_02">viṣabhañjanābhaM<g type="danda">.</g>°</rdg>
-                     <rdg source="bib:bib:Tripathy1966_01 Behera1988_01">viṣam añjanābhaM</rdg>
+                     <rdg source="bib:Tripathy1966_01 Behera1988_01">viṣam añjanābhaM</rdg>
                   </app>
                   <app loc="1">
                      <lem source="bib:Tripathy1966_01 Shastri1995_02">sattvaṁ</lem>
@@ -527,7 +527,7 @@ n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></lem><!-- the u fo
                   </app>
                   <app loc="18">
                      <lem>pūrva-putrīś ca</lem>
-                     <rdg source="bib.Tripathy_01">pūrva-putrīṁśca</rdg>                     
+                     <rdg source="bib.Tripathy1966_01">pūrva-putrīṁśca</rdg>                     
                      <rdg source="bib:Shastri1995_02">pūrva-put<choice><sic>rī</sic><corr>raṁ</corr></choice> ca</rdg><!-- clear on the photo -->
                      <rdg source="bib:Behera1988_01">pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice></rdg>
                   </app>
@@ -548,16 +548,25 @@ n="9" break="no"/><unclear>te</unclear><g type="ddanda">.</g></lem><!-- the u fo
                      <rdg source="bib:Behera1988_01">°līlāspad<choice><sic>e</sic><corr>au</corr></choice></rdg>
                   </app>
                   <app loc="21">
-                     <lem source="bib:Shastri1995_02">yo 'sāv indra°</lem>
+                     <lem source="bib:Tripathy1966_01 Shastri1995_02">yo 'sāv indra°</lem>
                      <rdg source="bib:Behera1988_01">yośāv indra°</rdg>
                   </app>
-                  <app loc="21">
-                     <lem source="bib:Behera1988_01">°ratha<supplied reason="omitted">ḥ</supplied></lem>
-                     <rdg source="bib:Shastri1995_02">ratho</rdg>
+                  <app loc="21">                 
+                     <lem source="bib:Shastri1995_02">ratho</lem>
+                     <rdg source="bib:Tripathy1966_01 Behera1988_01">°ratha<supplied reason="omitted">ḥ</supplied></rdg>
                   </app>
                   <app loc="21">
-                     <lem source="bib:Behera1988_01">rathāṅga°</lem>
-                     <rdg source="bib:Shastri1995_02">rathāṅka°</rdg><!-- amwb : Monier-Williams rathāṅkā with a long ā is a name of a river -->
+                     <lem>rathāṅgi°</lem><!-- it is clear from the picture I compared with other Nga Ngo... -->
+                     <rdg source="bib:Behera1988_01">rathāṅga°</rdg>
+                     <rdg source="bib:Tripathy1966_01 Shastri1995_02">rathāṅka°</rdg><!-- amwb : Monier-Williams rathāṅkā with a long ā is a name of a river -->
+                  </app>
+                  <app loc="21">
+                     <lem>somā<choice><sic>dv</sic><corr>nv</corr></choice>aya°</lem><!-- I compared several examples of nva and dva in the plates -->
+                     <rdg source="bib:Tripathy1966_01 Behera1988_01 Shastri1995_02">somānvaya°</rdg>
+                  </app>
+                  <app loc="21">
+                     <lem source="bib:Tripathy1966_01 Shastri1995_02">śrī°</lem>
+                     <rdg source="bib:Behera1988_01">śri°</rdg>
                   </app>
                   <app loc="23">
                      <lem source="bib:Shastri1995_02">vikrāntir mahatī</lem>
@@ -675,8 +684,10 @@ n="35" break="no"/>rūva-</rdg>
                      <rdg source="bib:Behera1988_01">loke</rdg>
                   </app>
                   <app loc="48">
-                     <lem source="bib:Shastri1995_02">prayacchati</lem>
-                     <rdg source="bib:Behera1988_01"><choice><sic>mā</sic><corr>pra</corr></choice>yacchati</rdg>
+                     <lem>bhūmi<choice><sic>mā</sic><corr>m pra</corr></choice>yacchati</lem>
+                     <rdg source="bib:Shastri1995_02">bhūmim prayacchati</rdg>
+                     <rdg source="bib:Behera1988_01">bhūmiṁ <choice><sic>mā</sic><corr>pra</corr></choice>yacchati</rdg>
+                     <note><bibl><ptr target="bib:Tripathy1966_01"/></bibl> does not edit the imprecatory stanzas.</note>
                   </app>
                   <app loc="49">
                      <lem source="bib:Shastri1995_02">pradānena</lem>
