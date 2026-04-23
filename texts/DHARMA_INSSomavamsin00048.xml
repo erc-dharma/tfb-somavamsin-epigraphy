@@ -103,10 +103,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <lb 
- n="1"/><ab><g type="spiralL"/></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb
- n="2"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"></space> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></p><lb
- n="3" style="text-align: left"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
+            <lb n="1"/><ab><g ref="sym:spiral-left" type="symbol">*</g></ab><p>śrī-Ācārya<surplus>ḥ</surplus> kulacandrasya<surplus>ḥ</surplus> tasya<lb n="2"/>śiṣya-vell<unclear>u</unclear>-subhacandrasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></p><lb n="3" style="text-align: left"/><ab>śrī-vara<unclear>ḥ</unclear>-chātra</ab><space unit="character" quantity="8"/><ab>chātra-vij<supplied reason="omitted">ñ</supplied>o</ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -127,8 +124,8 @@
                      <rdg source="bib:Shastri1995_02">śiṣya-racella°</rdg>
                   </app>
                   <app loc="2">
-                     <lem>°drasya<space unit="character" quantity="1"></space> <surplus>ḥ</surplus><g type="ddandaStrokeLeft">.</g></lem>
-                     <rdg source="bib:Rajaguru1966_01">°drasya<g type="ddanda">.</g></rdg>
+                     <lem>°drasya<space unit="character" quantity="1"/> <surplus>ḥ</surplus><g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></lem>
+                     <rdg source="bib:Rajaguru1966_01">°drasya<g ref="sym:doubleBar" type="punctuation">.</g></rdg>
                      <rdg source="bib:Shastri1995_02">°drasya</rdg>
                   </app>
                   <app loc="3">
