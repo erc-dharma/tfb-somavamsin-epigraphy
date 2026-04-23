@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
             <!-- amwb shastri and rajaguru combination of the two editions -->
-           <lb n="1"/><ab><g type="spiralL"/></ab> <p><roleName>śrī</roleName>-<persName type="king" key="PSN01002">Udyotakeśarī</persName> vijayarājya-samvaT <num value="5">5</num><lb n="2"/>śrī-<placeName type="naturalPlace" subtype="mountain">kumāra-parvvata</placeName>-sthāne j<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">r</supplied>nna-vāpī-jirnna Isaṇa<lb n="3"/>Udyotita tasmin yāne catur-vinsati tīrtha<supplied reason="omitted">ṁ</supplied> kara<lb n="4" break="no"/>sthāpita pratiṣṭha-kāle hari Aupā jasanandika<lb n="5"/><unclear>nanditadrathā</unclear> śrī-pārasthanāthasya karmmakhayaḥ</p>
+           <lb n="1"/><ab><g ref="sym:spiral-left" type="symbol">*</g></ab> <p><roleName>śrī</roleName>-<persName type="king" key="PSN01002">Udyotakeśarī</persName> vijayarājya-samvaT <num value="5">5</num><lb n="2"/>śrī-<placeName type="naturalPlace" subtype="mountain">kumāra-parvvata</placeName>-sthāne j<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">r</supplied>nna-vāpī-jirnna Isaṇa<lb n="3"/>Udyotita tasmin yāne catur-vinsati tīrtha<supplied reason="omitted">ṁ</supplied> kara<lb n="4" break="no"/>sthāpita pratiṣṭha-kāle hari Aupā jasanandika<lb n="5"/><unclear>nanditadrathā</unclear> śrī-pārasthanāthasya karmmakhayaḥ</p>
             
          </div>
          <div type="apparatus">
