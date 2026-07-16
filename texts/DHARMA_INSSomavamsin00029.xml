@@ -134,7 +134,7 @@
                </listApp>
          </div>
          <div type="translation" resp="part:amwb">
-               <p>Hail ! During the year 18 of the glorious king Uddyotakesarin !</p>
+               <p>Hail ! During the year 18 of the glorious king Uddyotakesarin!</p>
                <p>From<note>
                   This is an adverbial genitive which expresses an original value "from" "on the part of" <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.  
                </note>
@@ -159,7 +159,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Whereas <bibl><ptr target="bib:Prinsep1837_04"/></bibl> was the first to edit the inscriptions found in Khaṇḍagiri and Udayagiri, he did not edit this which was first noticed by <bibl><ptr target="bib:Beglar1882_01"/></bibl>, who published it with Cunningham's reading of it in the Archaelogical Survey Report, vol XIII, p. 85, note 1. First published by <bibl><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="page">165-166</citedRange></bibl>. Re-edited here by Amandine Wattelier-Bricout based on the photos taken with Annette Schmiedchen in January 2023.</p>
+           <p>Whereas <bibl><ptr target="bib:Prinsep1837_04"/></bibl> was the first to edit some inscriptions found in Khaṇḍagiri and Udayagiri, he did not edit this one which was first noticed by <bibl><ptr target="bib:Beglar+Cunningham1882_01"/></bibl>, who published it with Cunningham's reading of it in the Archaelogical Survey Report, vol XIII, p. 85, note 1. First published by <bibl><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="page">165-166</citedRange></bibl>. Re-edited here by Amandine Wattelier-Bricout based on the photos taken with Annette Schmiedchen in January 2023.</p>
         	<listBibl type="primary">
         	   <bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XIV</citedRange><citedRange unit="page">165-166</citedRange></bibl>
         	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>

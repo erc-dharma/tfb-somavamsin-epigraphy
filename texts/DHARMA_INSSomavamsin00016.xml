@@ -186,10 +186,10 @@ amwb : Sircar 29
     -->
 </lg>
             <lg n="10" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0090" -->
-               <l n="a">Asmadvaśānvaye kāle</l><!-- Sircar 90 asmin vaṁśe kṣayakṣīṇe -->
+               <l n="a">Asmad-va<unclear>ṁśa</unclear> kśayikṣīṇe</l><!-- check from the estampages ARIE -->
                <l n="b">yaḥ kaścinnr̥patir bhaveT<supplied reason="omitted">.</supplied></l><!-- Sircar 90 yo 'nyo rājā bhaviṣyati -->
-               <l n="c">tasyāhaṁ tasmād āyāda</l><!-- Sircar 90 tasyāhaṁ pādalagno 'smi -->
-               <l n="d">yomasmin yayā<lb n="42"/>ti prāyata<supplied reason="omitted">.</supplied></l><!-- Sircar 90 mayā dattaṁ na lopayet -->
+               <l n="c">tasyāhaṁ pādalagno 'smi</l><!-- Sircar 90 tasyāhaṁ pādalagno 'smi -->
+               <l n="d">mayā <supplied reason="lost">da</supplied><lb n="42"/>ttaḥ lloprayeT</l><!-- Sircar 90 mayā dattaṁ na lopayet -->
             </lg>
             <lg n="11" met="puṣpitāgrā"><!-- corresp="#Sircar1965_st0071" -->
                <l n="a">Iti kamala-dalāmbu-vindu-lolāṁ</l>
@@ -224,6 +224,21 @@ amwb : Sircar 71
                      <lem source="bib:Shastri1995_02">°pav<choice><sic>ī</sic><corr>i</corr></choice>trī°</lem>
                      <rdg source="bib:Rajaguru1966_01">°pavitrī°</rdg>
                   </app>
+                  <app loc="41">
+                     <lem>Asmad-va<unclear>ṁśa</unclear> kśayikṣīṇe</lem><!-- reconstruction from my reading of the estampage and comparison with my imprecatory list -->
+                     <rdg source="bib:Mazumdar1916_01">Asmadvaṅgānvaye</rdg>
+                     <rdg source="bib:Rajaguru1966_01">Asmadva<supplied reason="omitted">ṁ</supplied>śānvaye kāle</rdg>
+                     <rdg source="bib:Shastri1995_02">smadva<choice><sic>ṅśā</sic><corr>ṁśā</corr></choice>nvaye</rdg>
+                  </app>
+                   <app loc="41">
+                     <lem source="bib:Shastri1995_02">tasyāhaṁ pādalagno 'smi</lem><!-- reconstruction from my reading of the estampage and comparison with my imprecatory list -->
+                      <rdg source="bib:Rajaguru1966_01">tasyāhaṁ tasmād āyāda</rdg>
+                  </app>
+                   <app loc="41-42">
+                     <lem>mayā <supplied reason="lost">da</supplied><lb n="42"/>ttaḥ lloprayeT</lem><!-- reconstruction from my reading of the estampage and comparison with my imprecatory list -->
+                      <rdg source="bib:Rajaguru1966_01">yomasmin yayā<lb n="42"/>ti prāyata<supplied reason="omitted">.</supplied></rdg>
+                      <rdg source="bib:Shastri1995_02">mayā <supplied reason="lost">dattaḥ</supplied><lb n="42"/>na lopayeT</rdg>
+                  </app>
                </listApp>
          </div>
          <div type="translation" source="bib:Mazumdar1916_01">
@@ -238,8 +253,9 @@ amwb : Sircar 71
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
             <!-- Rajaguru's notes : plates discovered in 1912 at the boundary of two villages named Jatesinga and Dungri now Balangir district 
-               Shastri1995_01 p.189-90 : D.R. Bhandarkar is inclined to ascribe the Jatesinga-Dungari Plates to Śivagupta, the first member of the Somavaṁśa known fro, the records of his son Mahābhavagupta I Janamejaya. But this view cannot be accepted in viez of the mention in it of Rudradatta, nephew of Siṁhadatta, as holding the office of Mahāsāndhivigrahin which proves indisputably that the grant must be attributed to the post=Bhīmaratha period. Noreover the description f the ;ilitary successes of Yayāti in the present record tallies well with what is stated about him in the later records of he family. 
+               Shastri1995_01 p.189-90 : D.R. Bhandarkar is inclined to ascribe the Jatesinga-Dungari Plates to Śivagupta, the first member of the Somavaṁśa known from the records of his son Mahābhavagupta I Janamejaya. But this view cannot be accepted in view of the mention in it of Rudradatta, nephew of Siṁhadatta, as holding the office of Mahāsāndhivigrahin which proves indisputably that the grant must be attributed to the post-Bhīmaratha period. Moreover the description of the military successes of Yayāti in the present record tallies well with what is stated about him in the later records of the family. 
             -->
+<p><bibl><ptr target="bib:Acharya1969_01"/><citedRange unit="page">61-65</citedRange></bibl> devotes several pages to the incorrect reading of the verse 10 made by <bibl><ptr target="bib:Mazumdar1916_01"/></bibl>. He compares the verse to other examples of exhortative stanzas close to BEst_0090. My own reading of the verse 10 is based on the variations of BEst_0090 I had gathered and on the estampage preserved at the Archeological Survey of India. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

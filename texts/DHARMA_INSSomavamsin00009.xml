@@ -187,7 +187,7 @@ amwb : Sircar 29
                 </lg>
              <p>
                  paramabhaṭṭāraka-mahārājādhi<lb n="42" break="no"/>rāja-parameśvara-soma-kula-tilaka-trikaliṅgādhipati-śrī<supplied reason="omitted">ma</supplied>j-<persName>jana<lb n="43" break="no"/>mejaya</persName>-devasya vijayarājye samvatsare saptadasame Āṣāḍha<lb n="44" break="no"/>māsasitapakṣapañcabhyāṁ<g ref="sym:bar" type="punctuation">.</g> yatrāṅkataḥ<g ref="sym:bar" type="punctuation">.</g> samvaT <num value="17">17</num> Āṣāḍha-śudi <num value="5">5</num><g ref="sym:bar" type="punctuation">.</g></p>            
-                 <lg met="sragdharā">
+                 <lg met="sragdharā" n="15">
                      <l n="a">jñeyā<lb n="45"/> 'śeṣārtha<choice><orig>s</orig><reg>ś</reg></choice>āstra-smṛti-vima<supplied reason="omitted">la</supplied>dhiyā deva-devāṅga-vidyā<g ref="sym:bar" type="punctuation">.</g></l>
                      <l n="b"><choice><sic>sī</sic><corr>śi</corr></choice>kṣākalpetihāsapra<lb n="46" break="no"/>kaṭa-sura-guru-prāpta-bhūyiṣṭha-dhāmnā<g ref="sym:bar" type="punctuation">.</g></l> 
                      <l n="c">nāmnā sādhāraṇena dvijavaratanunā ma<lb n="47" break="no"/>ntriṇā yasya rājyaṁ</l>
@@ -223,6 +223,13 @@ to the illustrious Kamalavana Merchants’ Association, immigrant from Khadirapa
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+            <p>The verse 15 (lines 44-47) can be found in :
+               <list><item><ref target="INSSomavamsin00004.xml">Gopalpur plates of Mahābhavagupta Janamejaya year 12</ref> (verse 15; lines 56-59)</item>
+               <item><ref target="INSSomavamsin00009.xml">Sonpur plates of Mahābhavagupta Janamejaya year 17</ref> (verse 15; lines 44-47)</item>
+                  <item><ref target="INSSomavamsin00011.xml">Chaudwār plates #1 of Mahābhavagupta Dharmakandarpa year 31</ref> (verse 15; lines 39-42)</item>
+                  <item><ref target="INSSomavamsin00012.xml">Kālibhanā Plates of Mahābhavagupta I Janamejaya, Year 34</ref> (verse 15; lines 43-46)</item>
+               </list>
+            </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

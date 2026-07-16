@@ -111,11 +111,11 @@
                   <!-- one <app> for each apparatus entry -->
                   <app loc="1">
                      <lem>Ācārya<surplus>ḥ</surplus></lem>
-                     <rdg source="bib:Rajaguru1966 bib:Shastri1995_02">Ācārya°</rdg>
+                     <rdg source="bib:Rajaguru1966 Shastri1995_02">Ācārya°</rdg>
                   </app>
                   <app loc="1">
                      <lem>°candrasya<surplus>ḥ</surplus></lem>
-                     <rdg source="bib:Rajaguru1966_01 bib:Shastri1995_02">candrasya</rdg>
+                     <rdg source="bib:Rajaguru1966_01 Shastri1995_02">candrasya</rdg>
                   </app>
                   <app loc="2"><!-- update the value of @loc.-->
                         <lem>śiṣya-vell<unclear>u</unclear>°</lem>
@@ -150,12 +150,12 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-            <p>The record consists of two parts and is incised between the two inner chambers in the cave. During the fieldtrip in January 2023, I observed that the whole text was anointed by devotees living in the cave. </p>
-            <p><bibl><ptr target="bib:Beglar1882_01"/><citedRange unit="page">90</citedRange></bibl> who first noticed this inscription gives the following reading: <q>Sri acārya Kula Candra, the disciple of Saha Candra Katuriji, *** rest oblitared; another Sri Sravaki Vi***</q>. </p>
+            <p>The record consists of two parts and is incised between the two inner chambers in the cave. During the fieldtrip in January 2023, I observed that the whole text was anointed by devotees living in the cave. As the name of Subhacandra, disciple of Kulacandra is found inscribed in the same cave (<ref target="INSSomavamsin00029.xml">Navamuni cave Inscription of the time of Uddyotakeśarin year 18</ref>), it is highly likely that this inscription dates from the reign of Uddyotakeśarin.  </p>
+            <p><bibl><ptr target="bib:Beglar+Cunningham1882_01"/><citedRange unit="page">90</citedRange></bibl> who first noticed this inscription gives the following reading: <q>Sri acārya Kula Candra, the disciple of Saha Candra Katuriji, *** rest oblitared; another Sri Sravaki Vi***</q>. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>This inscription was noticed first by <bibl><ptr target="bib:Beglar1882_01"/><citedRange unit="page">90</citedRange></bibl>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>This inscription was noticed first by <bibl><ptr target="bib:Beglar+Cunningham1882_01"/><citedRange unit="page">90</citedRange></bibl>.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Banerji1915-1916_01"/><citedRange unit="item">XV</citedRange><citedRange unit="page">166</citedRange></bibl>
         	   <bibl n="P"><ptr target="bib:Panigrahi1961_01"/><citedRange unit="page">55</citedRange></bibl>

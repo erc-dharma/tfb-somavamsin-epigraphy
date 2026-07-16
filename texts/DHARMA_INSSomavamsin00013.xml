@@ -272,7 +272,7 @@ amwb : Sircar 29
     amwb : Sircar 132 
     -->
 </lg>
-               <lg n="25" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0004" -->
+            <lg n="25" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0004" -->
     <l n="a">Ādityo varu<surplus>r</surplus>ṇo vi<lb n="54" break="no"/>ṣṇu<supplied reason="omitted">ḥ</supplied></l>
     <l n="b">vrahmā somo hutāśanaḥ<g ref="sym:bar" type="punctuation">.</g></l>
      <l n="c">śulpāṇis ca bhagavān</l>
@@ -334,6 +334,7 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">'gniśikṣā-piśaṅgī</rdg>
                   </app>
                   <app loc="1">
+
                      <lem>viṣam añjan<choice><sic>ā</sic><corr>e</corr></choice> hatya<supplied reason="omitted">ḥ</supplied></lem><!-- here the tya is very clear -->
                      <rdg source="bib:Shastri1995_02">viṣabhañjanābhaM<g ref="sym:bar" type="punctuation">.</g>°</rdg>
                      <rdg source="bib:Tripathy1966_01 Behera1988_01">viṣam añjanābhaM</rdg>
@@ -385,6 +386,10 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">sa<choice><sic>gapā</sic><corr>muptī</corr></choice>ya<unclear>te</unclear><g ref="sym:doubleBar" type="punctuation">.</g></rdg>
                      <rdg source="bib:Shastri1995_02">samu<supplied reason="omitted">t</supplied>pītate<g ref="sym:doubleBar" type="punctuation">.</g></rdg>
                   </app>
+                  <app loc="9">
+                     <lem source="bib:Tripathy1966_01 Shastri1995_02">vidhir</lem>
+                     <rdg source="bib:Behera1988_01">vidhi<supplied reason="omitted">r</supplied></rdg>
+                  </app>
                   <app loc="10">
                      <lem source="bib:Shastri1995_02">yad vartti°</lem><!-- the d is clear on the photo -->
                      <rdg source="bib:Behera1988_01">yat vartti°</rdg>
@@ -435,7 +440,7 @@ amwb : Sircar 71
                      <note>There is enough space for an additional akṣara at the end of the line. For my emendation, see below.</note>
                   </app>
                   <app loc="17">
-                     <lem>°lam<choice><unclear>bi</unclear><unclear>bhi</unclear></choice>tenendra°</lem>
+                     <lem>°lam<choice><unclear>v</unclear><unclear>bh</unclear></choice>itenendra°</lem>
                      <rdg source="bib:Tripathy1966_01">lambhi tena Indra°</rdg>
                      <rdg source="bib:Shastri1995_01">lambhi tenendra°</rdg>
                      <rdg source="bib:Behera1988_01"><supplied reason="subaudible">la</supplied>mbhitenendra°</rdg>
@@ -451,7 +456,7 @@ amwb : Sircar 71
                   </app>
                   <app loc="18">
                      <lem>pūrva-putrīś ca</lem>
-                     <rdg source="bib.Tripathy1966_01">pūrva-putrīṁśca</rdg>                     
+                     <rdg source="bib.Tripathy1966_01">pūrva-putrīṁś ca</rdg>                     
                      <rdg source="bib:Shastri1995_02">pūrva-put<choice><sic>rī</sic><corr>raṁ</corr></choice> ca</rdg><!-- clear on the photo -->
                      <rdg source="bib:Behera1988_01">pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice></rdg>
                   </app>
@@ -497,8 +502,10 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">vikrānti<supplied reason="omitted">m</supplied> mahatīṁ</rdg>
                   </app>
                   <app loc="23">
-                      <lem source="bib:Shastri1995_02">nyasthādaraḥ</lem>
-                     <rdg source="bib:Behera1988_01"><choice><sic>nya</sic><corr>nira</corr></choice>sthādaraḥ</rdg>
+                     <lem><choice><orig>v</orig><reg>b</reg></choice>ahutālpatve tu nyastād<choice><sic>i</sic><corr>a</corr></choice>raḥ</lem>
+                      <rdg source="bib:Shastri1995_02"><choice><orig>v</orig><reg>b</reg></choice>ahutālpatve tu nyastādaraḥ</rdg>
+                     <rdg source="bib:Tripathy1966_01">vahutālpatve <sic>tu</sic><corr>tva</corr>nyastādaraḥ</rdg>
+                     <rdg source="bib:Behera1988_01"><choice><orig>v</orig><reg>b</reg></choice>ahutālpatve <choice><sic>nya</sic><corr>nira</corr></choice>sthādaraḥ</rdg>
                     <note>The correction suggested by <bibl><ptr target="bib:Behera1988_01"/></bibl> is unmetrical.</note>
                   </app>
                   <app loc="23">
@@ -509,30 +516,45 @@ amwb : Sircar 71
                      <lem source="bib:Shastri1995_02">vatsarājo nr̥p<choice><sic>ā</sic><corr>o</corr></choice></lem>
                      <rdg source="bib:Behera1988_01">vatsarāj<choice><sic>o</sic><corr>e</corr></choice> nr̥p<choice><sic>a</sic><corr>e</corr></choice></rdg>
                   </app>
+                  
+                     <app loc="24">
+<lem>bhr̥tyāt sādayati</lem>
+                     <rdg source="bib:Behera1988_01 Shastri1995_02">bhr̥tyān sādayati</rdg>
+                     <rdg source="Tripathy1966_01">bhr̥tyāN sādayati</rdg>
+                     <note>The previous editors read the akṣara "nsa" while they had read the same one as "tsa" in the word before (vatsarājo).</note>
+                  </app>
                   <app loc="24">
                      <lem source="bib:Shastri1995_02">ya<lb n="25"/>Āgatya</lem>
                      <rdg source="bib:Behera1988_01">y<choice><sic>a</sic><corr>o</corr></choice><lb n="25"/>Āgatya</rdg>
                   </app>
                   <app loc="25">
-                     <lem source="bib:Behera1988_01 bib:Shastri1995_02">bhujādarpeṇa</lem>
-                     <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> suggests with a question mark <foreign>bhujāddarpeṇa</foreign>.</note>
+                     <lem source="bib:Tripathy1966_01 Behera1988_01 Shastri1995_02">bhujādarpeṇa</lem>
+                     <note><bibl><ptr target="bib:Shastri1995_02"/></bibl> suggests with a question mark <foreign>bhujāddarpeṇa</foreign>. Given that <foreign>bhujā</foreign> as a feminine noun is recorded in dictionaries with the same meanings as the masculine form, this emendation seems superfluous.  </note>
                   </app>
                   <app loc="26">
-                     <lem source="bib:Behera1988_01">°patpyam bhuvo</lem>
-                     <rdg source="bib:Shastri1995_02">°patpya<choice><sic>n</sic><corr>ṁ</corr></choice> bhuvo</rdg>
+                     <lem>manaḥ</lem>
+                     <rdg source="bib:Tripathy1966_01 Behera1988_01 Shastri1995_02">mataḥ</rdg>
+                  </app>
+                  <app loc="26">
+                     <lem source="bib:Behera1988_01">°patyam bhuvo</lem>
+                     <rdg source="bib:Shastri1995_02">°patya<choice><sic>n</sic><corr>ṁ</corr></choice> bhuvo</rdg>
                   </app>
                   <app loc="26">
                      <lem source="bib:Shastri1995_02">va<choice><sic>ṅ</sic><corr>ṁ</corr></choice>śasyā°</lem>
                      <rdg source="bib:Behera1988_01">va<choice><sic>ṅ</sic><corr>ṁ</corr></choice>śyasyā°</rdg>
                   </app>
                   <app loc="27">
-                     <lem source="bib:Behera1988_01">āsādya se<unclear>nā</unclear>°</lem>
+                     <lem>āsādya sampā</lem>
+                     <rdg source="bib:Tripathy1966_01">āsvādya stamyā°</rdg>
+                     <rdg source="bib:Behera1988_01">āsādya se<unclear>nā</unclear>°</rdg>
                      <rdg source="bib:Shastri1995_02">āsādya stamyase<unclear>nā</unclear></rdg>
                      <note>The reading suggested by <bibl><ptr target="bib:Shastri1995_02"/></bibl> is unmetrical.</note>
                   </app>
                   <app loc="28">
-                     <lem source="bib:Shastri1995_02"><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice> trairājyañ</lem>
+                     <lem>dya <unclear>ca</unclear></lem>
+                     <rdg source="bib:Tripathy1966_01">dyapa(?) trairājyaṃ</rdg>
                      <rdg source="bib:Behera1988_01"><choice><sic>dyapattrai</sic><corr>dhipair taṁ</corr></choice> rājyañ</rdg>
+                     <rdg source="bib:Shastri1995_02"><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice> trairājyañ</rdg>
                   </app>
                   <app loc="28">
                      <lem>turaṅgake<choice><sic>ṇ</sic><corr>n</corr></choice>a</lem><!-- correction suggested by Daniel Balogh -->
@@ -664,6 +686,8 @@ amwb : Sircar 71
             <p rend="stanza" n="8">Among his sons, the magnanimous devotee of Maheśvara, the eldest focused his attention on the blessed consort of Ambikā for his descent to earth.</p>
             <p rend="stanza" n="9">When the Blessed One became compassionate, and whilst the moon implored to be the eternal adornment of that clan, and by virtue of his father’s strong good intentions, he immediately won the favour of a kingship (like that) of Indra.</p>
             <p rend="stanza" n="10">Having humbly received Śiva’s command, Visvasvat took birth as a son of (this) lineage under the famous and excellent name Bhīma; he took Durgā as his first wife and (another) wife; by the latter he first begot daughters and then sons.</p>
+            <p rend="stanza" n="11">The illustrious Indraratha was born first; he is a source of beauty, heroism, patience, righteousness, generosity, compassion, discernment, humility, determination and honesty; then came the two who were the source of unique joy through the accumulation of qualities such as courage: first Vaṅkaratha, then Śaṅkararatha, both in every respect similar to him (Indraratha). </p>
+            <p rend="stanza" n="12">This Indraratha, endowed with the power of Viṣṇu, this lord of the earth of the lunar lineage, received the fortune of Kaliṅga through the favour of the illustrious Dharmaratha; he seized it from Vajrahasta<note>I regard Vajrahasta as a proper name, as <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">326</citedRange></bibl> mentions in his summary of the inscription’s content , but he offers no identification for this Vajrahasta. I suggest here that this king could potentially be identified with a king of the Eastern Gāṅga dynasty, perhaps Vajrahasta II, also known as Aniyaṅkabhīma, mentioned in seven charters commissioned by one of his descendants (see <bibl><ptr target="bib:Rajaguru1960_01"/><citedRange unit="note">2</citedRange><citedRange unit="page">353</citedRange></bibl> and for the dates of this king <bibl><ptr target="bib:Rajaguru1960_01"/><citedRange unit="page">354</citedRange></bibl>).</note> in battle by the strength of his arm; ah, his great strength lies in disregarding reverence, whether there be an abundance or a scarcity of foot soldiers.</p>
             <!-- 
             <p rend="stanza" n="1">Hommage à Śiva, lui qui établit progressivement la triple qualité : l'intelligence (sattva), claire comme la lune dans ses cheveux nattés, la passion (rajas), rouge comme la flamme dans son troisième œil, l'obscurité (tamas), en détruisant le poison dans sa gorge noircie !  </p>
             -->
@@ -672,9 +696,9 @@ amwb : Sircar 71
             <p rend="stanza" n="7">En présence de Śiva, il lui fit la promesse suivante : « Après avoir pris naissance dans une lignée non kṣatriya, avec ma famille j’accomplirai un grand miracle ! »</p> --> <!-- tena traduit par suivante --> 
             <!-- <p rend="stanza" n="8">Parmi les fils de celui-ci, le magnanime d'entre eux, dévot de Maheśvara, l'aîné se concentra sur le bienheureux époux d'Ambikā pour sa descente sur terre.</p>
             <p rend="stanza" n="9">Lorsque le bienheureux devint compatissant et tandis que la lune suppliait d’être l’éternel ornement de ce clan, et à cause de la force des bonnes intentions de son père, il obtint sans délai la faveur d'une royauté (semblable à celle) d'Indra. </p>
-            <p rend="stanza" n="10">SAyant reçu l’ordre de Śiva avec déférence, Visvasvat naquit comme fils de (cette) lignée sous le célèbre et excellent nom Bhīma ; ce dernier obtint une première épouse Durgā et une (autre) épouse ; de cette dernière il enfanta d’abord des filles puis des fils. </p>
-            <p rend="stanza" n="11">Le premier à naître fut Indraratha, refuge de beauté, de valeur, de patience, de droiture, de libéralité, de compassion, de justesse, d'humilité, de détermination et d'honnêteté. Après lui, naquirent ensuite en tout point semblable à lui ces deux qui firent l'unique joie des villages par leurs excellentes qualités telles que le courage, d'abord Vaṅgaratha puis Śaṅkararatha.</p>
-            <p rend="stanza" n="12">Cet Indraratha, roi issu de la lignée lunaire, lui qui possède la force du disque (de Viṣṇu), grâce à l'affection de Dharmaratha, obtint la fortune du Kaliṅga. Il s'en saisit dans la bataille grâce à la force de son bras tenant à la main sa lance, hélàs, sa prouesse fut de déposer sa révérence lors du manque de moyens face à la puissance d'une multitude de soldats armés.  </p>
+            <p rend="stanza" n="10">Ayant reçu l’ordre de Śiva avec déférence, Visvasvat naquit comme fils de (cette) lignée sous le célèbre et excellent nom Bhīma ; ce dernier obtint une première épouse Durgā et une (autre) épouse ; de cette dernière il enfanta d’abord des filles puis des fils. </p>
+            <p rend="stanza" n="11">L’illustre Indraratha naquit en premier lui qui est une source de beauté, d’héroïsme, de patience, de droiture, de générosité, de compassion, de discernement, d'humilité, de détermination et d’honnêteté ; ensuite apparurent les deux qui firent l’objet d’une joie unique par l’accumulation de qualités comme le courage, d’abord Vaṅkaratha puis Śaṅkararatha, tous deux en tout point semblable à lui (Indraratha). </p>
+            <p rend="stanza" n="12">Cet Indraratha à la puissance de Viṣṇu, ce seigneur de la terre de la lignée de la lune, obtint la fortune du Kaliṅga grâce à l’affection de l’illustre Dharmaratha ; il s’empara de celle-ci qui provenait de Vajrahasta  dans une bataille grâce à la force de son bras, ah ! sa grande force est de faire fi des révérences qu’il y ait abondance ou pénurie d’infanterie.  </p>
             <p rend="stanza" n="13">Lorsque le seigneur de la terre Dharma (Dharmaratha?) s'en alla au ciel, il entendit la rumeur selon laquelle le roi sa majesté Vatsarāja maltraitait ministres et sujets. Totalement habité de la fougue due à la fierté de son propre territoire, il partit du Kaliṅga et lui dont le comportement et le coeur ne sont que générosité, après s'être entretenu avec lui, il porta son attention sur Abhimanyu.    </p>
             <p rend="stanza" n="14">Apprenant que même Abhimanyu avait obtenu la souveraineté sur la terre de façon incorrecte sans l'accord de la lignée, il tua cet ennemi sur le champ de bataille. Après avoir réuni l'approbation des meilleurs des deux fois nés, grâce au cheval qui avait circulé à l'intérieur du royaume, il se saisit du triple royaume par ses chefs armés.  </p>
 -->
@@ -703,7 +727,7 @@ amwb : Sircar 71
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see <bibl><ptr target="bib:WattelierBricout2024_01"/><citedRange unit="page">10-12</citedRange></bibl>). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
+           <p>First published by <bibl><ptr target="bib:Tripathy1967_01"/></bibl> in 1967 and then reedited by the same author in the <title>Journal of the Asiatic Society</title>, 8, pp.271-276 with only one plate as facsimiles and without line numbers. The text was reedited by <bibl><ptr target="bib:Shastri1995_02"/></bibl> in his appendix. The plates are currently preserved at the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar (see Amandine Wattelier-Bricout. Catalogue of the Archaeological Museum, Departments of History and Ancient Indian History Culture and Archaeology, Utkal University, Bhubaneswar. 2024. <ref target="https://hal.science/hal-04543317">hal-04543317v2</ref>, p.10-11). The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/8910k3112">here</ref>.</p>
         	<listBibl type="primary">
         	   <bibl n="T"><ptr target="bib:Tripathy1966_01"/></bibl>
 	  <bibl n="B"><ptr target="bib:Behera1988_01"/></bibl>
