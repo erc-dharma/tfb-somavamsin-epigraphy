@@ -88,7 +88,7 @@
                   <!-- one <app> for each apparatus entry -->
                   <app loc="1">
                      <lem>Ācārya<surplus>ḥ</surplus></lem>
-                     <rdg source="bib:Rajaguru1966 Shastri1995_02">Ācārya°</rdg>
+                     <rdg source="bib:Rajaguru1966_01 Shastri1995_02">Ācārya°</rdg>
                   </app>
                   <app loc="1">
                      <lem>°candrasya<surplus>ḥ</surplus></lem>

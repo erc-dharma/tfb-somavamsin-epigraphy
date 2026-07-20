@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSSomavamsin00042</idno>
+                <idno type="filename">DHARMA_INSSomavamsin00042.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -281,11 +281,13 @@ n="53"/>Utk<choice><sic>irn</sic><corr>īrṇṇ</corr></choice>itaṁ <persName
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="M"><ptr target="bib:Mitra1882_01"/></bibl>
+	       <bibl n="M"><ptr target="bib:Mitra1882_01"/></bibl>       	    
         	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">24</citedRange><citedRange unit="page">145-150</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="entry">D</citedRange><citedRange unit="page">346-347</citedRange></bibl>
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1563</citedRange></bibl>
+               	<bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="item">VIII</citedRange><citedRange unit="page">206</citedRange></bibl>
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="item">6</citedRange><citedRange unit="page">140-141</citedRange></bibl>
                <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">17</citedRange><citedRange unit="page">248-249</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>

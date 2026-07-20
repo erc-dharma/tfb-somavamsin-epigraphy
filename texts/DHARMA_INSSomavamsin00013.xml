@@ -433,7 +433,7 @@ amwb : Sircar 71
                   </app>
                   <app loc="18">
                      <lem>pūrva-putrīś ca</lem>
-                     <rdg source="bib.Tripathy1966_01">pūrva-putrīṁś ca</rdg>                     
+                     <rdg source="bib:Tripathy1966_01">pūrva-putrīṁś ca</rdg>                     
                      <rdg source="bib:Shastri1995_02">pūrva-put<choice><sic>rī</sic><corr>raṁ</corr></choice> ca</rdg><!-- clear on the photo -->
                      <rdg source="bib:Behera1988_01">pūrva-put<choice><sic>rī<unclear>ṁ</unclear></sic><corr>rān</corr></choice></rdg>
                   </app>

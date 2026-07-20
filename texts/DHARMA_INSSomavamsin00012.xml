@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSSomavamsin00012</idno>
+                <idno type="filename">DHARMA_INSSomavamsin00012.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -248,7 +248,7 @@ n="48" break="no"/>la-tilaka-t<choice><orig>r̥</orig><reg>ri</reg></choice>kali
 n="49"/>vi<supplied reason="omitted">ja</supplied>ye rājye samvatsare caturstriṅśattame <choice><sic>A</sic><corr>Ā</corr></choice>śvinavadi AṣṭamyāM tithau<lb 
 n="50"/>samvaT <num value="34">34</num> <choice><sic>A</sic><corr>Ā</corr></choice>śvinavadi <num value="8">8</num> l<surplus>l</surplus>ikhitam idaṁ tāmra-<choice><orig>s</orig><reg>ś</reg></choice>āsanaṁ mahāsā<lb 
 n="51" break="no"/>ndhivigrah<choice><sic>ī</sic><corr>i</corr></choice>ka-rāṇaka-śrī-<persName>Iyokena</persName><lb 
-n="52"/>śrī-yqpqsutena Ut<surplus>a</surplus>k<choice><sic>i</sic><corr>ī</corr></choice>rṇṇaM<surplus>ḥ</surplus><g ref="sym:doubleBar" type="punctuation">.</g>
+n="52"/>śrī-yapasutena Ut<surplus>a</surplus>k<choice><sic>i</sic><corr>ī</corr></choice>rṇṇaM<surplus>ḥ</surplus><g ref="sym:doubleBar" type="punctuation">.</g>
                  </p> 
          </div>
          <div type="apparatus">
