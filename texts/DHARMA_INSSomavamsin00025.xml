@@ -69,13 +69,153 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
-             <p><pb n="1v"/>
-                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/>
-                 <pb n="2r"/><lb n="16"/><lb n="17"/><lb n="18"/><lb n="19"/><lb n="20"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><lb n="25"/><lb n="26"/><lb n="27"/><lb n="28"/><lb n="29"/><lb n="30"/><lb n="31"/>
-                 <pb n="2v"/><lb n="32"/><lb n="33"/><lb n="34"/><lb n="35"/><lb n="36"/><lb n="37"/><lb n="38"/><lb n="39"/><lb n="40"/><lb n="41"/><lb n="42"/><lb n="43"/><lb n="44"/><lb n="45"/><lb n="46"/>
-                 <pb n="3r"/><lb n="47"/><lb n="48"/><lb n="49"/><lb n="50"/><lb n="51"/><lb n="52"/><lb n="53"/><lb n="54"/><lb n="55"/><lb n="56"/><lb n="57"/><lb n="58"/><lb n="59"/><lb n="60"/><lb n="61"/><lb n="62"/><lb n="63"/><lb n="64"/>
-                 </p>
+            <!--edition encoded as per EGD §§2−7--><!-- SHASTRI edition p 246 -->             
+             <ab><lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g></ab>            
+             <lg n="1" met="śārdūlavikrīḍita">
+               <l n="a">svasti prema-niruddha-mugdha-manasoḥ sphārībhavac-cakṣu<lb n="2" break="no"/>ṣor</l>
+               <l n="b">yūnor yatravicitra-nirbhara-rata-krīḍā-kramaṁ tanvatoḥ<g ref="sym:bar" type="punctuation">.</g></l>
+               <l n="c">vicchinno<lb n="3" break="no"/> 'pi kr̥tātimātra-pulakair āvirbhavat-sītkr̥tair</l>
+               <l n="d">āśleṣair glapila-kla<lb n="4" break="no"/>maiḥ smara-rasaḥ kāmaṁ muhustāyyate<g ref="sym:doubleBar" type="punctuation">.</g><!-- apparently same reading as in Soma 23 soma 25 --></l>
+             </lg>
+             <lg n="2" met="śārdūlavikrīḍita">
+                  <l n="a">yatrāśeṣa-viśeṣa-rūpa<lb n="5" break="no"/>-mahimāpāstāpsaraḥ kāntibhir</l>
+                  <l n="b">jāterṣyā-kalehaṣv api praṇayina<lb n="6" break="no"/>ḥ karṇṇotpalais tāḍitāḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                  <l n="c">jāyante praviśac-chata-smara-śara-protthāpi<lb n="7" break="no"/>tāntar-vyathā<supplied reason="omitted">ḥ</supplied></l>
+                  <l n="d">syāndi<!-- same reading in Soma 23 soma 25  -->-sveda-jalāvasecana-vaśān niryāta-romā<lb n="8" break="no"/>ṅkurāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+               </lg>
+            <lg n="3" met="śārdūlavikrīḍita">
+                <l n="a">Atyuttuṅga-karīndra-da<choice><sic>tt</sic><corr>nt</corr></choice>a-musala-prodbhāsi-rociś cayai<lb n="9" break="no"/>r</l>
+                <l n="b">ddhvānta-dhvansana-niṣphalīkr̥ta-śaraccandrodayaiḥ sarvvadā<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">yatrāsī<lb n="10" break="no"/>d asatī-janasya viśadaṁ muktāmayaṁ maṇḍanaṁ</l>
+                <l n="d">saṅketāspadam apy atīva dha<lb n="11" break="no"/>vala-prāsāda-śr̥ṅgāgrataḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+            </lg>
+            <lg n="4" met="upajāti">
+                <l n="a">mahānadī-tuṅga-taraṅga-bhaṅgā</l>
+                <l n="b">-sphāroccha<lb n="12" break="no"/>lac-chīkaravādbhir ārāT<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">yasmin natāsaktimad-aṅganānāṁ</l>
+                <l n="d">śramāpanoda<lb n="13" break="no"/>ḥ kriyate marudbhiḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+            </lg>
+             <ab>tasmāT śrī-yayāti-nagarāT<g ref="sym:doubleBar" type="punctuation">.</g></ab>
+            <lg n="5" met="vasantatilakā">
+                <l n="a">loka-traya-prathi<lb n="14" break="no"/>ta-śubhra-yaśo-vitāna</l>
+                <l n="b">-vyāpta-prāṣṭa-dik-prasabha-nirjita-vairi-varggaḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">rājā <lb n="15"/><choice><orig>v</orig><reg>b</reg></choice>abhūva bhuvi bhāvita-bhavya-mūrtiḥ</l>
+                <l n="d">śrīmān saroja-vadano <persName type="king" key="PSN01001">janamejayā</persName><pb n="2r" break="no"/><lb n="16" break="no"/>khyaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+            </lg>
+            <lg n="6" met="vasantatilakā">
+                <l n="a">nirddāritāri-kari-kumbha-samudga-mukta</l>
+                <l n="b">-muktāphala-prakara-dantu-rakhaṅga<lb n="17" break="no"/>-dhāraḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">tasmād ajāyata jagat-traya-gīta-kīrttir</l>
+                <l n="d">helā-vinirjita-ripur nr̥patir <persName type="king" key="PSN01005">ya<lb n="18" break="no"/>yātiḥ</persName><g ref="sym:doubleBar" type="punctuation">.</g></l>
+            </lg>
+            <lg n="7" met="sragdharā">
+                <l n="a">mādyal-lolāli-mālākula-karaṭa-puṭāsyandi-dāna-pravāhāN</l>
+                <l n="b">sindūrāra<lb n="19" break="no"/>kta-kumbhāN śita-pr̥thula-radāN kāmadevādi-saṁjñāN<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">jitvā 'jāpālam ājau ja<lb n="20" break="no"/>nita-sukhadhū-vismayaḥ smera-vaktraḥ</l>
+                <l n="d">sa dvātriṁśatkarīndrāN śara-nikara-hatāro<lb n="21" break="no"/>hak<choice><sic>a</sic><corr>ā</corr></choice>n agrahīd yaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+            </lg>
+          <p><roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājadhirāja</roleName>-<roleName>para<lb n="22" break="no"/>meśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king">mahābhavagupta</persName>-<roleName>rāja-deva</roleName><lb n="23" break="no"/>-pādānudhyāta-<roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mahārājadhirāja</roleName>-<roleName>pa<lb n="24" break="no"/>rameśvara</roleName>-soma-kula-tilaka-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrī</roleName>-<persName type="king">mahāśivagu<lb n="25" break="no"/>pta</persName>-<roleName>rājadevaḥ</roleName> kuśalī<g ref="sym:bar" type="punctuation">.</g> kosaladeśe telātaṭa-viṣaye<lb n="26" break="no"/>ḍelaḍelī-grāme <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇānva sampūjya tad-viṣayīya-yathā-kālā<lb n="27" break="no"/>dhyāsinaḥ samāhartr̥-sannidhārtr̥-niyuktādhikārika-d<choice><sic>a</sic><corr>ā</corr></choice>ṇḍap<choice><sic>a</sic><corr>ā</corr></choice>śika-ca<lb n="28" break="no"/>ṭṭa-bhaṭṭa-piśuna-v<choice><sic>e</sic><corr>ai</corr></choice>t<choice><sic>r̥</sic><corr>ri</corr></choice>kāvarodhajana-rājñī-rāja-putra-raṇaka-rāja<lb n="29" break="no"/>vallabhādīN sarvvān rājapādopajīvinaḥ samājñāpayati vi<lb n="30" break="no"/>ditam astu bhavatām yathāsmābhir ayaṁ grāmaḥ sa-nidhiḥ sopanidhiḥ<lb n="31"/> sadaśāparādhaḥ sarvva-<choice><orig>v</orig><reg>b</reg></choice>ādhā-vivarjitaḥ sarvoparikarādāna-sahi<pb n="2v" break="no"/><lb n="32" break="no"/>taḥ<g ref="sym:bar" type="punctuation">.</g> catuḥ-sīmāparyyantaḥ sāmra-madhukaḥ sa-gartoṣaraḥ sa-jala-stha<lb n="33" break="no"/>laḥ pratiniṣiddha-caṭabhaṭapraveśaḥ kauśika-gotrāya devarāta<lb n="34" break="no"/>-Audala-viśvāmitra-pravarāya gautama-śākhādhyāyine śrāvast<choice><sic>i</sic><corr>ī</corr></choice>-ma<lb n="35" break="no"/>ṇḍale kāsilī-vinirgatāya lāvaṭā-viṣayentaraḍi vāstavyāya<lb n="36" break="no"/>-parameśvaranaptre siddheśvara-sutāya bhaṭṭa-śrī-mahodadhaye U<lb n="37" break="no"/>dakadhārāpuraḥ saraṁ Ācandra-tārakārkka-kṣiti-samakālopabhogā<lb n="38" break="no"/>rthe mātāpitror ātmanaś ca puṇya-yaśo 'bhivr̥ddhaye tāmra-śāsa<lb n="39" break="no"/>nenākarīkr̥tya pratipādita Ity avagamya samucita-bhāga-<lb n="40" break="no"/>bhoga-kara-hiraṇyādi-pratyāyam upanayadbhir bhavadbhiḥ sukhe<lb n="41" break="no"/>na vastavyam iti <choice><sic>t</sic><corr>bh</corr></choice>āvibhiś ca bhūpatibhir datir iyam asmadīyā dharmma-gau<lb n="42" break="no"/>ravād asmad anurodhāc ca sva-dattir ivānupālanīyā tathā coktaṁ dharmma<lb n="43" break="no"/>śastre</p>
+            <lg n="8" met="anuṣṭubh"><!--corresp="#Sircar1965_st0023"  -->
+                <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vasudhā dat<supplied reason="omitted">t</supplied>ā</l>
+                   <l n="b">rājabhiḥ sagarādibhiḥ</l>
+                   <l n="c">yasya yasya yadā<lb n="44"/> bhūmis</l>
+                   <l n="d">tasya tasya tadā phalaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
+                    amwb: Sircar 23
+                     -->
+            </lg>
+            <lg n="9" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0085" -->                
+               <l n="a">mā bhūd aphala-śaṅkā vaḥ</l>
+                  <l n="b">para-datteti pā<lb n="45" break="no"/>rthivāḥ</l>
+                  <l n="c">sva-dānāt phalam ānantyaṁ</l>
+                  <l n="d">para-dattā<supplied reason="omitted">nu</supplied>pālane<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
+                  amwb : Sircar 85
+                   -->
+            </lg>
+            <lg n="10" met="indravajrā"><!-- corresp="#Sircar1965_st0123" -->
+                 <l n="a">ṣaṣṭhim varṣa-sahasrā<lb n="46" break="no"/>ṇi</l>
+                 <l n="b">svarge modati bhūmidaḥ</l>
+                 <l n="c">Ākṣeptā cānumantā ca</l>
+                 <l n="d">dvau tau naraka-gāmi<pb n="3r"/><lb n="47" break="no"/>nau<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
+                    amwb : Sircar 123 caution d is different (tāny eva narake vaseT)
+                   -->
+            </lg>
+            <lg n="11" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0005" -->
+                <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ</l>
+                   <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
+                   <l n="c">yaḥ kāñcanaṁ gāñ ca ma<lb n="48" break="no"/>hīñ ca dadyād</l>
+                   <l n="d">datt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">s</supplied> trayas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice><g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 5 with inversion of the pādas c and d  
+    -->
+            </lg>
+            <lg n="12" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0020" -->
+                 <l n="a">Āspho<lb n="53" break="no"/>ṭayanti pitaro</l>
+                  <l n="b">valgayanti pitāmahāḥ</l>
+                  <l n="c"><lb n="49"/>bhūmi-dātā kule jātaḥ</l>
+                  <l n="d">sa nas trātā bhaviṣyati<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+                   amwb : Sircar 20
+                    -->
+            </lg>
+            <lg n="13" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0029" -->
+                  <l n="a">bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+                  <l n="b">yaś ca bhūmiṁ prayaccha<lb n="50" break="no"/>tti</l>
+                  <l n="c">Ubhau tau puṇya-karmmāṇau</l>
+                  <l n="d">niyataṁ svargga-gāminau<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+                  amwb : Sircar 29 
+                  -->
+            </lg>
+            <lg n="14" met="anuṣṭubh"><!--corresp="#Sircar1965_st0137  -->
+                  <l n="a">taḍāgānāṁ sahasreṇa</l>
+                  <l n="b">vājapeya-śa<lb n="51" break="no"/>tena ca</l>
+                  <l n="c">gavāṁ koṭi-pradānena</l>
+                  <l n="d">bhūmi-harttā na śudhyati<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+                   amwb : Sircar 137 caution in Sircar śudhyati
+                   -->
+            </lg>
+             <lg n="15" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0064" -->
+                 <l n="a">harate hārayati yas tu</l>
+                 <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis ta<lb n="52"/>mo-vr̥taḥ</l>
+                 <l n="c">su<choice><orig>v</orig><reg>b</reg></choice>addho vāruṇaiḥ</l>
+                  <l n="d">pāśais tiryag-yoniṁ sa gacchati<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 64  
+    -->
+            </lg>
+             <lg n="16" met="anuṣṭubh"><!-- best_0055 -->
+                   <l n="a">suvarṇṇam ekaṁ grām ekāṁ</l>
+                   <l n="b">bhūmer apy a<lb n="53" break="no"/>rddham aṅgulaṁ</l>
+                   <l n="c">haran narakam āyāti</l>
+                   <l n="d">yāvad—ā-hūta-saṁplavaṁ</l>
+                            </lg>
+             <lg n="17" met="anuṣṭubh"><!--  corresp="#Sircar1965_st0132"-->
+                  <l n="a">sva-dattāṁ para-dattām vā</l>
+                  <l n="b">yo hareta<lb n="54"/> vasundharāṁ</l>
+                  <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                  <l n="d">pitr̥bhiḥ saha pacyate<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 132 
+    -->
+            </lg>
+            <lg met="anuṣṭubh" n="18"><!-- best_0004 -->
+                <l n="a">Ādityo varuṇo viṣṇur</l>
+                <l n="b"><choice><orig>v</orig><reg>b</reg></choice>rahmā<lb n="55"/> somo hutāśanaḥ</l>
+                <l n="c">śūlapāṇiś ca bhagavān</l>
+                <l n="d">abhinandanti bhūmidaṁ<g ref="sym:bar" type="punctuation">.</g></l>
+                </lg>
+             <lg met="śālinī" n="19">
+                    <l n="a">sāmānyo 'yaṁ dha<lb n="56" break="no"/>rmma-setur nr̥pāṇāṁ</l>
+                    <l n="b">kāle kāle pālanīyo bhavadbhiḥ</l>
+                    <l n="c">sarvān etāN bhāvinaḥ pārthi<lb n="57" break="no"/>vendrān<surplus>a</surplus></l>
+                    <l n="d">bhūyo bhūyo yācate rāmabhadraḥ</l>
+                    </lg>
+             <lg n="20" met="puṣpitāgrā"><!-- best_0071 -->
+                 <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lolāṁ</l>
+                 <l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>ya<lb n="58" break="no"/>m anucintya manuṣya-jīvitañ ca</l>
+                 <l n="c">sa-kalam idam udāhr̥tañ ca <choice><orig>v</orig><reg>b</reg></choice>u<supplied reason="omitted">d</supplied>dhvā</l>
+               <l n="d">na hi puruṣaiḥ para-kī<lb n="59" break="no"/>rttayo vilopyāḥ</l><!-- 
+amwb : Sircar 71
+-->
+</lg>
+            <p>
+               <roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mah<choice><sic>a</sic><corr>ā</corr></choice>rājādhirāja</roleName>-parameśva<lb n="60" break="no"/>ra-soma-kula-tilaka-trikaliṅgādhitpati-śrīmad-<persName>yayāti</persName>devasya pra<lb n="61" break="no"/>varddhamāna-vijaya-rājye caturvvaṅśati-samvatsare Āṣādha-śuklapakṣe ti<lb n="62" break="no"/>thau pañcabhyāṁ yatrāṅkenāpi samvaT <num value="24">24</num> Āṣādha<abbr>śudi</abbr> <num value="5">5</num> likhitam idaṃ śā<lb n="63" break="no"/>sanaṁ mahāsāndhivigrahī rāṇaka-śrī-dhāradattāvagatena mahāsāndhivigraha<lb n="64" break="no"/>kāyasthatathātenetu vināṇivāsukenotkaritaM<g ref="sym:doubleBar" type="punctuation">.</g>
+            </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

@@ -239,9 +239,9 @@ amwb : Sircar 29
     -->
 </lg>
             <lg n="22" met="puṣpitāgrā"><!-- best_0071 -->
-                 <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
+                 <l n="a">Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lolāṁ</l>
                  <l n="b">śriyam anucintya<lb n="65"/>manuṣya-jīvitañ ca<g ref="sym:bar" type="punctuation">.</g></l>
-                 <l n="c">sa-kalam idam udāhr̥tañ ca vu<choice><sic>dvā</sic><corr>ddhvā</corr></choice></l>
+                 <l n="c">sa-kalam idam udāhr̥tañ ca <choice><orig>v</orig><reg>b</reg></choice>u<choice><sic>dvā</sic><corr>ddhvā</corr></choice></l>
                <l n="d">na hi puruṣaiḥ pa<lb n="66" break="no"/>ra-kīrttayo vilopyāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
 amwb : Sircar 71
 -->
