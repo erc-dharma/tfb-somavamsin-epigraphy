@@ -367,8 +367,10 @@ amwb : Sircar 71
                </list>
             </p>
             <p>The verse 15 (lines 56-59) can be found in :
-               <list><item><ref target="INSSomavamsin00004.xml">Gopalpur plates of Mahābhavagupta Janamejaya year 12</ref> (verse 15; lines 56-59.  deva-janamejaya-śrīḥ in pāda d)</item>
-               <item><ref target="INSSomavamsin00009.xml">Sonpur plates of Mahābhavagupta Janamejaya year 17</ref> (verse 15; lines 44-47)</item>
+               <list>
+                  <item><ref target="INSSomavamsin00004.xml">Gopalpur plates of Mahābhavagupta Janamejaya year 12</ref> (verse 15; lines 56-59:  deva-janamejaya-śrīḥ in pāda d)</item>
+               <item><ref target="INSSomavamsin00009.xml">Sonpur plates of Mahābhavagupta Janamejaya year 17</ref> (verse 15; lines 44-47: deva-janamejaya-śrīḥ in pāda d)</item>
+                  <item><ref target="INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref> (verse 16; lines 48-51: deva-janamejaya-śrīḥ in pāda d)</item>
                   <item><ref target="INSSomavamsin00011.xml">Chaudwār plates #1 of Mahābhavagupta Dharmakandarpa year 31</ref> (verse 15; lines 39-42:  dharma-kandarpa-devaḥ in pāda d)</item>
                   <item><ref target="INSSomavamsin00012.xml">Kālibhanā Plates of Mahābhavagupta Janamejaya, Year 34</ref> (verse 15; lines 43-46)</item>
                   <item><ref target="DHARMA_INSSomavamsin00042.xml">Chaudwār Plates #2 of Mahābhavagupta Janamejaya, Year 31</ref> (verse 15; lines 43-47 : dharma-kandarpa-devaḥ in pāda d)</item>

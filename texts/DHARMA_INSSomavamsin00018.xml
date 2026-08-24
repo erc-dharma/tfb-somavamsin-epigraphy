@@ -240,16 +240,12 @@
                 <l n="c">yasyāsīn naya-vikrama-dvayam api preyā<choice><sic>ṁ</sic><corr>N</corr></choice> sakhā sa<lb n="69" break="no"/>rvvadā</l>
                 <l n="d">sa śrīman dhr̥ta-s<choice><sic>ā</sic><corr>a</corr></choice>ndhi-vigraha-padaḥ śrī-<persName>siṅgadattahayaḥ</persName><g ref="sym:bar" type="punctuation">.</g></l>
             </lg>
+             <p>kosalīya-sandhivigrah<choice><sic>ī</sic><corr>i</corr></choice>s<choice><sic>a</sic><corr>e</corr></choice> vaka<pb n="3v"/><lb 
+n="70"/>kāyasthena sūryaseṇena likhitaṁ śa<choice><sic>ś</sic><corr>s</corr></choice>anasthāsnu</p> 
              <lg n="25" met="anuṣṭubh">
-                 <l n="ab">kosalīya-sandhivigrah<choice><sic>ī</sic><corr>i</corr></choice>s<choice><sic>a</sic><corr>e</corr></choice> vaka<pb n="3v"/><lb n="70"/>kāyasthena </l>
-                 <l n="cd">sūryaseṇena likhitaṁ śa<choice><sic>ś</sic><corr>s</corr></choice>anasthāsnu yāvac candrārka-tā<lb n="71" break="no"/>rakāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+                 <l n="d">yāvac candrārka-tā<lb 
+n="71" break="no"/>rakāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
-            <lg n="25" met="anuṣṭubh">
-                  <l n="a">Nāmnā <persName>maṇgaladattena</persName></l> 
-                  <l n="b">kāyasthena sa <gap reason="illegible" quantity="3" unit="character"/></l> 
-                   <l n="c">alekhi śāsanam <gap reason="illegible" quantity="1" unit="character"/><lb n="70" break="no"/>saṃ</l>
-               <l n="d">yāvac candrārka-tārakāṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
-            </lg>
             <p>
                <roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mah<choice><sic>a</sic><corr>ā</corr></choice>rājādhirāja</roleName>-parame<lb n="72" break="no"/>śvara-soma-kula-tilaka-trikaliṅgādhitpati-śrīmad-<persName>yayāti</persName>devasya pra<lb n="73" break="no"/>varddhamāna-vijaya-rājye 'ṣṭaviśatime-samvatsare bhādrapadamāse<lb n="74"/>sita-pakṣe tithau pañcabhyāṁ yatrāṅke<supplied reason="omitted">nā</supplied>pi samvaT <num value="28">28</num> bhādrapada<lb n="75" break="no"/><abbr><choice><orig>s</orig><reg>ś</reg></choice>udi</abbr> <num value="5">5</num> śivaṁ <g ref="sym:doubleBar" type="punctuation">.</g> vināṇi-madhumathanenotkīritaM<g ref="sym:doubleBar" type="punctuation">.</g>
             </p>
@@ -303,6 +299,17 @@ ancestors.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+              <p><bibl><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">405-409</citedRange></bibl> observed that the praśasti verses used in the present charter (Cuttack plates of Mahāśivagupta Yayāti year 9) were subsequently reused in other charters, but he omitted to mention the reuse in <ref target="DHARMA_INSSomavamsin00018.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 28</ref>. So the following summary list of common verses takes this charter into account: 
+                 <list>
+                     <item>Verses 1-5 of <ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref>: they can be read in <ref target="DHARMA_INSSomavamsin00025.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 24
+</ref>, <ref target="DHARMA_INSSomavamsin00018.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 28</ref>, <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref>. The verse 5 can be read in <ref target="DHARMA_INSSomavamsin00020.xml">Mahulpara plates of Mahāśivagupta Dharmaratha year 11</ref> but it ends with the name Yayāti instead of Janamejaya: consequently all the deeds attributed to Janamejaya in other charters are attributed here to Yayāti.</item>                    
+                     <item>Verse 6 of <ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref>: it is omitted in <ref target="DHARMA_INSSomavamsin00025.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 24
+</ref>. In <ref target="DHARMA_INSSomavamsin00018.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 28</ref>, the verses numbered 6 and 7 in <ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref> are reversed, with the result that the events described in line 6 are attributed to Yayāti rather than to Janamejaya. The reverse order is reproduced in <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref>, while all the deeds are attributed to Yayāti from the verse 5 in <ref target="DHARMA_INSSomavamsin00020.xml">Mahulpara plates of Mahāśivagupta Dharmaratha year 11</ref>. </item>
+                     <item>Verse 7 of <ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref>: it can be read in <ref target="DHARMA_INSSomavamsin00025.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 24
+</ref> and <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref>. As the genealogy begins with Yayāti (verse 5) instead of Janamejaya in <ref target="DHARMA_INSSomavamsin00020.xml">Mahulpara plates of Mahāśivagupta Dharmaratha year 11</ref>, this specific verse is omitted in this charter. </item>
+                 </list>.  
+             The verse numbered 7 in <ref target="DHARMA_INSSomavamsin00025.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 24</ref> can be read in <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref> and <ref target="DHARMA_INSSomavamsin00020.xml">Mahulpara plates of Mahāśivagupta Dharmaratha year 11</ref>. The verse numbered 9 in <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref> is only attested in this charter, while the three last verses of <ref target="DHARMA_INSSomavamsin00020.xml">Mahulpara plates of Mahāśivagupta Dharmaratha year 11</ref> (numbered 8 to 10) occur only in this charter.</p>
+             <p>Two verses appear only in <ref target="DHARMA_INSSomavamsin00018.xml">Pāṭṇā Plates of Mahāśivagupta Yayāti, Year 28</ref> (lines 67-71) and in <ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref> (lines 66-70).</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
