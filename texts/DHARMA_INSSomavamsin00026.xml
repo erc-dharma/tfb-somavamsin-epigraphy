@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kudopali plates of the time of Mahābhavagupta year 13</title>
+                <title>Kuḍopāli plates of the time of Mahābhavagupta year 13</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -81,7 +81,7 @@
     <pb n="2v" break="no"/>
     <lb n="19" break="no"/>sanenākar<choice><sic>i</sic><corr>ī</corr></choice>kr̥tya pratipāditosmābhi<supplied reason="omitted">ḥ</supplied> śāsana-gauragaura<lb n="20" break="no"/>vā dharmma-gauvaṇā ca bhavadbhī pratipālanipā tathā coktaṁ dharma<lb n="21" break="no"/>-śāstre</p> 
              <lg met="anuṣṭubh" n="1"> <!-- Sircar1965_st0023 -->     
-            <l n="a">vahubhir vvasudhā dattā</l><!-- bhuktā -->            
+            <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir <choice><orig>vv</orig><reg>v</reg></choice>asudhā dattā</l><!-- bhuktā -->            
             <l n="b">rājana sagarā<supplied reason="omitted">di</supplied>bhiḥ</l><!-- rājabhiḥ-->
             <l n="c">yasya yasya yadā<lb n="22"/>bh<unclear>ū</unclear>mi</l>
             <l n="d">tasya tasya tadā phalam</l>
@@ -106,7 +106,7 @@
                     </lg>
              <lg met="anuṣṭubh" n="5"><!--  Sircar1965_st0004 -->
                 <l n="a">Āditya varu<lb n="26" break="no"/>ṇo viṣṇu</l>
-                <l n="b">vrahmā somo hutāśana</l>
+                <l n="b"><choice><orig>v</orig><reg>b</reg></choice>rahmā somo hutāśana</l>
                 <l n="c">śūlapāṇis tu bhagavāṁ</l>
                 <l n="d">mabhinandanti bhū<lb n="27" break="no"/>mida</l>
                 </lg>
@@ -125,8 +125,8 @@
              </lg>
              <lg met="anuṣṭubh" n="8"><!--  Sircar1965_st0064 -->
                         <l n="a">harate hāravate yas tu</l>
-                        <l n="b">manda-vuddhis tamā-vr̥ta</l>
-                        <l n="c">sa vaddhaḥ vāru<lb n="31" break="no"/>ṇai pāśai</l>
+                        <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamā-vr̥ta</l>
+                        <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addhaḥ vāru<lb n="31" break="no"/>ṇai pāśai</l>
                         <l n="d">tiryag-yoni ca gacchati<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh" n="9"><!--  Sircar1965_st0132 -->
@@ -136,9 +136,9 @@
                         <l n="d">pitr̥bhi<supplied reason="omitted">ḥ</supplied> saha pa<lb n="33" break="no"/>cyate<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="puṣpitāgrā" n="10"><!--  Sircar1965_st0071 -->
-                    <l n="a">Iti<surplus>ḥ</surplus> kamala-dalāmvu-vindu-lolā</l>
+                    <l n="a">Iti<surplus>ḥ</surplus> kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lolā</l>
                     <l n="b">śrīm anucintya manuṣya-ji<lb n="34" break="no"/>vitaṁ ca</l>
-                    <l n="c">sakalam idam udāhr̥taṁ ca vuddhāḥ</l>
+                    <l n="c">sakalam idam udāhr̥taṁ ca <choice><orig>v</orig><reg>b</reg></choice>uddhāḥ</l>
                     <l n="d">na hi puruṣaṁ para-kirtima vilo<lb n="35" break="no"/>pyate<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
              <p><g ref="sym:doubleBar" type="punctuation">.</g> lenapura-śreṣṭhi-śrī-kiraṇa-suta-<unclear>pū</unclear>rṇṇadat<unclear>e</unclear>na Idaṁ tāmvraṁ yalikhi<lb n="36"/>taṁ</p>
