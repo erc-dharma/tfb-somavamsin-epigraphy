@@ -90,14 +90,180 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+            <!--edition encoded as per EGD §§2−7--><!-- text enoded based on Shastri 1995 's edition -->
+             <pb n="1v"/>
+             <p><lb 
+n="1"/>siddhaM svasti śrī<supplied reason="omitted">ma</supplied>to vin<choice><sic>i</sic><corr>ī</corr></choice>ta-purāt  parama-bhaṭṭāraka-mahārājādhirāja-pa<lb 
+n="2" break="no"/>ra<supplied reason="omitted">ma</supplied>-māheśvara-<persName type="king" subtype="coronation">m<choice><sic>ā</sic><corr>a</corr></choice>hābhavagupta</persName>-rāja-deva-pādānudhyā<choice><sic>tpa</sic><corr>ta-pa</corr></choice>para<lb 
+n="3" break="no"/>ma-bhaṭṭāraka-mahārājādhirāja-māheśvara-soma-kula-tilaka-trika<lb 
+n="4" break="no"/>liṅgādhipati-śrī-<persName type="king" subtype="coronation">mahāśivagupta</persName>-rāja-devaḥ kuśalī ko<choice><sic>s</sic><corr>ś</corr></choice>ala-de<lb 
+n="5" break="no"/><choice><sic>s</sic><corr>ś</corr></choice>a-prati<choice><orig>v</orig><reg>b</reg></choice>addha-gandhaṭapāṭila-maṇḍale cottara-pallīya-nivaṇḍā-grāme<lb 
+n="6"/><choice><orig>v</orig><reg>b</reg></choice>rāhmaṇān sampūjya tadviṣayīyāN yathākālādhyāsinaḥ samā<lb 
+n="7" break="no"/>hartr̥-san<supplied reason="omitted">n</supplied>idhātr̥-yuktādhikārika-d<choice><sic>a</sic><corr>ā</corr></choice>ṇḍapā<choice><orig>s</orig><reg>ś</reg></choice>ika-cāṭabhaṭa-pi<choice><orig>s</orig><reg>ś</reg></choice>u<lb 
+n="8" break="no"/>na-v<choice><sic>e</sic><corr>ai</corr></choice><unclear>tri</unclear>kāvarodha-jana-rāṇaka-rāja-putra-rājñī-rāja-va<unclear>lla</unclear><lb 
+n="9" break="no"/>bh<choice><sic>a</sic><corr>ā</corr></choice>dīN sarvāN rājapādopaj<choice><sic>i</sic><corr>ī</corr></choice>vinaḥ samājñāpayati<supplied reason="omitted">.</supplied> viditam astu<lb 
+n="10"/>bha<supplied reason="omitted">va</supplied>tāṁ yathās<supplied reason="omitted">m</supplied>ābhir aya<supplied reason="omitted">ṁ</supplied> grāmaḥ sanidhiḥ sopanidhiḥ sada<choice><orig>s</orig><reg>ś</reg></choice>ā parādhaḥ<lb 
+n="11"/>sarva-<choice><orig>v</orig><reg>b</reg></choice>ādhā-vivarjitaḥ sa<supplied reason="omitted">r</supplied>voparikarādāna-sahitaś catuḥs<choice><sic>i</sic><corr>ī</corr></choice>māpa<lb 
+n="12" break="no"/>ryantaḥ sāmramadhukaḥ sagartto<choice><orig>s</orig><reg>ṣ</reg></choice>araḥ sajalasthalaḥ  pratiniṣiddha-cāṭa<lb 
+n="13" break="no"/>-bhaṭa-praveśaḥ bhāradvājasagotrāya<g ref="sym:bar" type="punctuation">.</g> Āṅgirasa<choice><orig>v</orig><reg>b</reg></choice>ārhaspatya-bhāra<lb 
+n="14" break="no"/>dvāja-pravarāya<g ref="sym:bar" type="punctuation">.</g> U<choice><sic>lh</sic><corr>ll</corr></choice>āsa-śarmmaṇaḥ pautrāya<g ref="sym:bar" type="punctuation">.</g>  n<choice><sic>a</sic><corr>ā</corr></choice>rāyaṇaśa<unclear>rmmā</unclear>    savācatuḥ-simā-vācchinnaḥ 
+    <pb n="2r" break="no"/><lb 
+n="15" break="no"/>ṇa<supplied reason="omitted">ḥ</supplied> putrāya<g ref="sym:bar" type="punctuation">.</g> bhaṭaparolī-vin<choice><sic>ī</sic><corr>i</corr></choice>rgatāya<g ref="sym:bar" type="punctuation">.</g> kosalīya-marameṇḍā-<unclear>grā</unclear><lb 
+n="16" break="no"/>m<choice><sic>e</sic><corr>a</corr></choice>vāstavyāya śrī-puṇḍarika-sarmmane dīkṣitāya<g ref="sym:bar" type="punctuation">.</g> gandhaḍapāṭī<lb 
+n="17" break="no"/>maṇḍale Uttarapallikāyānovinnāgrāmaḥ <supplied reason="omitted">saliladhārā</supplied> puraḥsaramā-candra-tārā<lb n="18" break="no"/>kā<supplied reason="omitted">r</supplied>kka-kṣiti-samak<choice><sic>e</sic><corr>ā</corr></choice>lopabhogārtha<supplied reason="omitted">ṁ</supplied> mātāpitror ātmanaś ca puṇ<supplied reason="omitted">y</supplied>a<lb 
+n="19" break="no"/>ya<choice><sic>s</sic><corr>ś</corr></choice>o vṛddhaye <surplus>tāmvra</surplus>tāmra-<choice><sic>s</sic><corr>ś</corr></choice>āsanenākarīkr̥tya pratipādita Ity ava<lb 
+n="20" break="no"/>gamya samucita bhoga-bhāya-kara-hiraṇy<choice><sic>a</sic><corr>ā</corr></choice>dipraty<choice><sic>a</sic><corr>ā</corr></choice>yam upanayadbhir bhava<lb 
+n="21" break="no"/>dbhiḥ sukhena prativ<choice><sic>ā</sic><corr>a</corr></choice>stavyam iti bhāvibhiś ca bhūpatibhir dda<choice><sic>nt</sic><corr>tt</corr></choice>ir i<lb 
+n="22" break="no"/>yam asmadīyā dharma-gauravād asmad-anurodhāc ca svadatt<choice><sic>ī</sic><corr>i</corr></choice>r ivānup<choice><sic>a</sic><corr>ā</corr></choice><lb 
+n="23" break="no"/>l<choice><sic>i</sic><corr>a</corr></choice>nīy<choice><sic>a</sic><corr>ā</corr></choice><g ref="sym:bar" type="punctuation">.</g> tathā <supplied reason="omitted">co</supplied>kta<supplied reason="omitted">ṁ</supplied> dharmmaśāstre<supplied reason="omitted">.</supplied></p>
+            <lg n="1" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0023" -->
+                  <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir <choice><orig>vv</orig><reg>b</reg></choice>asudhā dattā<g ref="sym:bar" type="punctuation">.</g></l> 
+                  <l n="b">rājabhiḥ saga<lb 
+n="24" break="no"/>rādibhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                  <l n="c">yasya yasya yadā bhūmis</l>
+                  <l n="d">tasya tasya tadā phalaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l><!-- 
+    amwb: Sircar 23 
+    -->
+</lg>
+            <lg n="2" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0085" -->
+                  <l n="a">mā bhū<lb 
+n="25" break="no"/><choice><sic>t</sic><corr>d</corr></choice> a-phala-śaṅkā vaḥ</l>
+                  <l n="b">para-datteti pārthivāḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                  <l n="c">sva-dānāt phalam ānantyaṁ</l>
+                  <l n="d"><lb 
+n="26"/>para-dattānupālane<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 85
+    -->
+</lg>
+             <lg n="3" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0123" -->
+                  <l n="a">ṣa<choice><sic>ṣṭhi</sic><corr>ṣṭi</corr></choice><supplied reason="omitted">ṁ</supplied> varṣasahasrāṇi</l>
+                  <l n="b">svarge modati bhūmi<surplus><g ref="sym:bar" type="punctuation">.</g></surplus><lb 
+n="27" break="no"/>daḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                  <l n="c">Ākṣ<choice><sic>i</sic><corr>e</corr></choice>ptā cānumantā ca</l>
+                  <l n="d">dvāvet tau narakagāminau<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+   amwb : Sircar 123  caution tāny eva  narake vaseT replace by dvau tau + -->
+</lg>
+             <lg n="4" met="indravajrā"><!-- corresp="#Sircar1965_st0005" -->
+                   <l n="a">Agner apatya<supplied reason="omitted">ṁ</supplied><lb 
+n="28"/>pra<unclear>tha</unclear>ma<supplied reason="omitted">ṁ</supplied> suvarṇṇaṁ<g ref="sym:bar" type="punctuation">.</g></l>
+                   <l n="b">bh<choice><sic>u</sic><corr>ū</corr></choice>r vv<choice><sic>a</sic><corr>ai</corr></choice>ṣṇavī s<choice><sic>u</sic><corr>ū</corr></choice>rya-sutāś ca gāvaḥ<g ref="sym:bar" type="punctuation">.</g></l>
+                   <l n="c">yaḥ kāñcana<supplied reason="omitted">ṁ</supplied> gāñ ca
+                       <pb n="2v"/><lb 
+n="29"/>mahīñ ca dadyā<choice><sic>T</sic><corr>d</corr></choice></l>
+                   <l n="d">da<unclear>ttās tra</unclear>yas tena bhavanti lok<choice><sic>e</sic><corr>āḥ</corr></choice><g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 5 with inversion of the pādas c and d  
+    -->
+</lg>
+            <lg n="5" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0020" -->
+                   <l n="a">Āsphoṭayanti pitarāḥ</l>
+                   <l n="b"><lb 
+n="30"/>pravalgayanti pitāmahāḥ<g ref="sym:bar" type="punctuation">.</g></l><!-- mention the reading pitaro valgayanti instead of pitaraḥ pravalganti -->
+                   <l n="c">bhūmi-dātā kule jātaḥ</l>
+                   <l n="d">sa nas tr<choice><sic>e</sic><corr>ā</corr></choice>tā<lb 
+n="31"/>bhaviṣyati<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+                    amwb : Sircar 20
+                    -->
+</lg>           
+            <lg n="6" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0029" -->
+                   <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> ya<g ref="sym:bar" type="punctuation">.</g> pratigr̥hṇāti</l>
+                   <l n="b">yaś ca bhūmi<supplied reason="omitted">ṁ</supplied> prayacchati<g ref="sym:bar" type="punctuation">.</g></l>
+                   <l n="c">Ubh<choice><sic>o</sic><corr>au</corr></choice><lb 
+n="32"/>tau puṇya-karmmāṇau</l>
+                   <l n="d">niyat<choice><sic>au</sic><corr>aṁ</corr></choice> svarga-gāminau<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+amwb : Sircar 29 
+-->
+</lg>
+            <lg n="7" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0137" -->
+                  <l n="a">taḍāgānā<supplied reason="omitted">ṁ</supplied> sahasre<lb 
+n="33"/>ṇa</l>
+                  <l n="b">vāja-peya-<choice><sic>s</sic><corr>ś</corr></choice>atāṇi ca</l>
+                  <l n="c">gavā<supplied reason="omitted">ṁ</supplied> koṭi-pradānena</l>
+                 <l n="d">bhūmi-harttā na <choice><sic>s</sic><corr>ś</corr></choice>udhya<lb 
+n="34"/>ti<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 137 
+    -->
+</lg>
+            <lg n="8" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0064" -->
+               <l n="a">harate hārayeta yas tu</l>
+               <l n="b">manda-<choice><orig>v</orig><reg>b</reg></choice>uddhis tamo-vr̥taḥ<supplied reason="omitted">.</supplied></l>
+               <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho vāruṇai<supplied reason="omitted">ḥ</supplied></l>
+               <l n="d"><lb 
+n="35"/>pā<choice><sic>s</sic><corr>ś</corr></choice>ais tiryag-<choice><sic>go</sic><corr>yo</corr></choice><choice><sic>nṛ</sic><corr>niṁ</corr></choice> sa gacchati<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 64  
+    -->
+</lg>
+             <lg n="9" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0055" -->
+               <l n="a"><lb n="28"/>suvarṇṇam ekā<supplied reason="omitted">ṁ</supplied> gām ekā<supplied reason="omitted">ṁ</supplied> <supplied reason="omitted">vā</supplied></l><!-- I introduce the <supplied reason="omitted">vā</supplied> -->
+               <l n="b">bhūm<choice><sic>i</sic><corr>e</corr></choice><lb 
+n="36"/>r apy arddham aṅgula<supplied reason="omitted">M<g ref="sym:bar" type="punctuation">.</g></supplied></l>
+               <l n="c">haraṁ na<supplied reason="omitted">ra</supplied>kam āyāti</l><!-- āpnoti in SOma31 and āyāti in SIrcar -->
+               <l n="d">yāvad āhūta-saṁplava<choice><sic>ḥ</sic><corr>ṁ</corr></choice><g ref="sym:bar" type="punctuation">.</g></l><!-- 
+   amwb Sircar 55 
+   -->
+</lg>
+            <lg n="10" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0132" -->
+               <l n="a"><lb 
+n="37"/><unclear>sva-da</unclear>ttā<supplied reason="omitted">ṁ</supplied> para-dattām vā<g ref="sym:bar" type="punctuation">.</g></l>
+               <l n="b">yo hared vasundharā<choice><sic>ḥ</sic><corr>ṁ</corr></choice><g ref="sym:bar" type="punctuation">.</g></l>
+               <l n="c">sa viṣṭhāyāṁ kr̥mi<lb 
+n="38" break="no"/><unclear>r bhūtvā</unclear></l>
+               <l n="d"><lb n="30"/>pitr̥bhiḥ saha pacyate<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 132 
+    -->
+</lg>
+            <lg n="11" met="anuṣṭubh"><!-- corresp="#Sircar1965_st0004"  -->
+               <l n="a">Ādityo varuṇo viṣṇu<supplied reason="omitted">ḥ</supplied></l>
+               <l n="b"><supplied reason="omitted">brahmā</supplied> somo hu<lb 
+n="39"/>tā<choice><sic>s</sic><corr>ś</corr></choice>anaḥ<supplied reason="omitted">.</supplied></l>
+               <l n="c"><choice><sic>su</sic><corr>śū</corr></choice>lpāṇiś ca bhagavā<supplied reason="omitted">n</supplied></l><!-- tu instead of ca -->
+               <l n="d"><supplied reason="omitted">a</supplied>bhina<supplied reason="omitted">nda</supplied>nti bhūmida<choice><sic>ḥ</sic><corr>M</corr></choice><g ref="sym:bar" type="punctuation">.</g></l><!-- 
+     amwb : Sircar 4      -->
+</lg>
+            <lg n="12" met="śālinī"><!-- corresp="#Sircar1965_st0117"  -->
+               <l n="a">sāmānyo<lb 
+n="40"/> 'ya<choice><sic>n</sic><corr>ṁ</corr></choice> dharmma-setur nr̥pāṇā<supplied reason="omitted">ṁ</supplied></l>
+               <l n="b">kāle kāle pālanīyo bhavadbhiḥ<supplied reason="omitted">.</supplied></l>
+               <l n="c">sa<unclear>rvā</unclear><lb 
+n="41" break="no"/>n etān<surplus>a</surplus> bhāvinaḥ pārthivedrāN</l><!-- amwb here as in Soma3-4 but in Soma1-2 bhūpatīndrāN -->
+               <l n="d">bh<choice><sic>u</sic><corr>ū</corr></choice>yo <supplied reason="omitted">bhūyo</supplied> yācate rāmabhadraḥ<g ref="sym:bar" type="punctuation">.</g></l><!-- 
+    amwb : Sircar 117 
+    in soma1-2-3-4 rāmacandraḥ
+    -->
+</lg>
+            <lg n="13" met="puṣpitāgrā"><!-- corresp="#Sircar1965_st0071" -->
+               <l n="a"><pb n="3r"/><lb 
+n="42"/>Iti kamala-dalām<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>indu-lolā<supplied reason="omitted">ṁ</supplied></l>
+               <l n="b">śr<choice><sic>ī</sic><corr>i</corr></choice>yam anuci<unclear>ntya</unclear> manuṣya-jīvi<lb 
+n="43" break="no"/>tañ ca<g ref="sym:bar" type="punctuation">.</g></l>
+               <l n="c">sa-kalam idam udā<choice><sic>ha</sic><corr>hr̥</corr></choice><choice><sic>ri</sic><corr>ta</corr></choice>ñ ca <choice><orig>v</orig><reg>b</reg></choice>uddh<supplied reason="omitted">v</supplied>ā</l>
+               <l n="d">na hi puruṣai<supplied reason="omitted">ḥ</supplied> para-kīrtayo<lb 
+n="44"/>vilop<supplied reason="omitted">y</supplied>ā</l><!-- 
+amwb : Sircar 71
+-->
+</lg><p>Iti<g ref="sym:doubleBar" type="punctuation">.</g>
+   <roleName>parama-māheśvara</roleName>-<roleName>para<supplied reason="omitted">ma</supplied>bhaṭ<supplied reason="omitted">ṭ</supplied>āraka</roleName>-<roleName>mahārājādhirā<lb 
+n="45" break="no"/>ja</roleName>-<roleName>parameśvara</roleName>-soma-kula-<roleName>trikaliṅgādhipati</roleName>-<roleName>śrīmad</roleName>-<persName type="king">yayā<lb 
+n="46" break="no"/>ti</persName>rājadevasya pādānupravarddhamāna-vijayarājye pañcada<choice><orig>s</orig><reg>ś</reg></choice>ame<lb n="47"/>sāmvatsare<g ref="sym:doubleBar" type="punctuation">.</g> m<choice><sic>a</sic><corr>ā</corr></choice>rgga<choice><orig>s</orig><reg>ś</reg></choice>iramāse<g ref="sym:doubleBar" type="punctuation">.</g> <choice><orig>s</orig><reg>ś</reg></choice>uklapakṣe trayoda<choice><orig>s</orig><reg>ś</reg></choice>yāntithau samva<lb 
+n="48" break="no"/>T <num value="15">15</num> mārgga<abbr>śudi</abbr> <num value="13">13</num><g ref="sym:doubleBar" type="punctuation">.</g> likhi<supplied reason="omitted">ta</supplied>m idaṁ <choice><orig>s</orig><reg>ś</reg></choice>āsana<supplied reason="omitted">ṁ</supplied> mahāsandhi<lb 
+n="49" break="no"/>vigrahi rāṇaka-śrī-dhāradattasyāvagatena mahākṣapa<lb 
+n="50" break="no"/>ṭa<choice><sic><unclear>la</unclear></sic><corr>li</corr></choice>ka śrī Ucchavanāgenāllanāga-suten<choice><sic>e</sic><corr>o</corr></choice>tkīrṇṇa<supplied reason="omitted">ṁ</supplied> ṭṭhakkurapanā<lb 
+n="51" break="no"/>keneti<g ref="sym:doubleBar" type="punctuation">.</g></p>
+            <lg n="14" met="rathoddhatā"><!-- Certainly to add to the list of BEST it occurs also in SV22 -->
+               <l n="a">sampado jalaja-parṇṇaja-lābhā<g ref="sym:doubleBar" type="punctuation">.</g></l> 
+               <l n="b">jīvit<surplus>t</surplus>a<supplied reason="omitted">ṁ</supplied> maraṇa-santa<lb 
+n="52" break="no"/>ti-sa<supplied reason="omitted">ṁ</supplied>sthaṁ<supplied reason="omitted">.</supplied><!-- Sircar1953 SV22: santati-saṁsthaṁ --></l>
+               <l n="c">bhoga-m<choice><sic>ū</sic><corr>u</corr></choice>ktiracirāya<!-- Sircar1953 SV22: bhoga-bhuktī(corr kti)r-acirā --> vilokyaḥ<!-- Sircar1953: ya vilokyāḥ(corr kya) --></l> 
+               <l n="d">kīrttayo nr̥patibhir n<choice><sic>r̥</sic><corr>a</corr></choice><lb 
+n="53"/><supplied reason="omitted">vi</supplied>lopyā<!-- Sircar1953:  vilopyā(corr pyāḥ) --></l>
+            </lg> <!-- meaning close to best_0141 best_046 -->
+            <p>Iti<g ref="sym:bar" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Shastri1995_02"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1-2"><!-- update the value of @loc.-->
+                     <lem>para<supplied reason="omitted">ma</supplied>-māheśvara</lem>
+                     <rdg source="bib:Shastri1995_02">para-māheśvara</rdg>
                   </app>
                </listApp>
          </div>
