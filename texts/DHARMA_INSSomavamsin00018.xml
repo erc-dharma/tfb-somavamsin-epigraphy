@@ -34,7 +34,7 @@
                 <idno type="filename">DHARMA_INSSomavamsin00018.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -240,11 +240,9 @@
                 <l n="c">yasyāsīn naya-vikrama-dvayam api preyā<choice><sic>ṁ</sic><corr>N</corr></choice> sakhā sa<lb n="69" break="no"/>rvvadā</l>
                 <l n="d">sa śrīman dhr̥ta-s<choice><sic>ā</sic><corr>a</corr></choice>ndhi-vigraha-padaḥ śrī-<persName>siṅgadattahayaḥ</persName><g ref="sym:bar" type="punctuation">.</g></l>
             </lg>
-             <p>kosalīya-sandhivigrah<choice><sic>ī</sic><corr>i</corr></choice>s<choice><sic>a</sic><corr>e</corr></choice> vaka<pb n="3v"/><lb 
-n="70"/>kāyasthena sūryaseṇena likhitaṁ śa<choice><sic>ś</sic><corr>s</corr></choice>anasthāsnu</p> 
+             <p>kosalīya-sandhivigrah<choice><sic>ī</sic><corr>i</corr></choice>s<choice><sic>a</sic><corr>e</corr></choice> vaka<pb n="3v"/><lb n="70"/>kāyasthena sūryaseṇena likhitaṁ śa<choice><sic>ś</sic><corr>s</corr></choice>anasthāsnu</p> 
              <lg n="25" met="anuṣṭubh">
-                 <l n="d">yāvac candrārka-tā<lb 
-n="71" break="no"/>rakāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
+                 <l n="d">yāvac candrārka-tā<lb n="71" break="no"/>rakāḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
             <p>
                <roleName>parama-māheśvara</roleName>-<roleName>parama-bhaṭṭāraka</roleName>-<roleName>mah<choice><sic>a</sic><corr>ā</corr></choice>rājādhirāja</roleName>-parame<lb n="72" break="no"/>śvara-soma-kula-tilaka-trikaliṅgādhitpati-śrīmad-<persName>yayāti</persName>devasya pra<lb n="73" break="no"/>varddhamāna-vijaya-rājye 'ṣṭaviśatime-samvatsare bhādrapadamāse<lb n="74"/>sita-pakṣe tithau pañcabhyāṁ yatrāṅke<supplied reason="omitted">nā</supplied>pi samvaT <num value="28">28</num> bhādrapada<lb n="75" break="no"/><abbr><choice><orig>s</orig><reg>ś</reg></choice>udi</abbr> <num value="5">5</num> śivaṁ <g ref="sym:doubleBar" type="punctuation">.</g> vināṇi-madhumathanenotkīritaM<g ref="sym:doubleBar" type="punctuation">.</g>
