@@ -232,7 +232,8 @@
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	    <bibl n="SR"><ptr target="bib:Sircar+Rath1944_01"/><citedRange unit="page">245-250</citedRange></bibl>
-				<bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XI</citedRange><citedRange unit="page">213-218</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">25</citedRange><citedRange unit="page">151-158</citedRange></bibl>
+	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XI</citedRange><citedRange unit="page">213-218</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:ARIE1959-1960"/><citedRange unit="item">63</citedRange></bibl>

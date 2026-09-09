@@ -348,6 +348,8 @@ Beyond these specific features, these two copper plates are really connected eac
 	  <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXIV</citedRange><citedRange unit="page">296-302</citedRange></bibl><!-- The bibliography is not complete for the moment Don't forget adding ARIE1953-54 CP14 p.15 ARIE1954-55 CP5 p,24 Epigraphia Indica XXII 1933-34 p.135-138  -->
 			</listBibl>
            <listBibl type="secondary">
+              <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">945</citedRange></bibl>
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">131-133</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="page">226</citedRange></bibl><!-- Don't forget adding Tripathy2010_01 131 133  Gai1986_01 number 945-->
            </listBibl>
         </div>

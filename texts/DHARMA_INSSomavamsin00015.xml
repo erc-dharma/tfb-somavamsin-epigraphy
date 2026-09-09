@@ -547,7 +547,7 @@ amwb : Sircar 71
                <p>The translation below is the one proposed <bibl><ptr target="bib:Misra1931_01"/></bibl>, which will then be reproduced by <bibl><ptr target="bib:Rajaguru1966_01"/></bibl>.</p>
             <p n="1-4">The joyful luminous and nectar-rayed lord (Moon) -- who is skilful in causing lilies to laugh -- who rests on the mansion of the head of Dhūrjjaṭi -- who is the store of nectar streams -- who is the lord of the stars in the inner appartments -- who serves as point of arrow of the good archer love-god and who is the son of milk-ocean -- triumphs ever</p>
            <p n="4-6">In this illustrious dynasty of the Moon, whose lustre dispels the spot of intense darkness covering the horizon, were born the enjoyers of the earth, who, like bulb sent forth all the good qualities, and whose fame was as white as <foreign>kunda</foreign> flower.</p> 
-            <p n="6-9" rend="stanza">Janamejaya became king and then his son king Yayāti was floowed by Bhīmaratha, the ornament and the protectors of the earth. He (Bhīmaratha), through his frontier guards, built the pillars of victory on all sides beyond his kingdom, which served as glittering weapons piercing the heart of the possessors of the regions.</p>
+            <p n="6-9">Janamejaya became king and then his son king Yayāti was floowed by Bhīmaratha, the ornament and the protectors of the earth. He (Bhīmaratha), through his frontier guards, built the pillars of victory on all sides beyond his kingdom, which served as glittering weapons piercing the heart of the possessors of the regions.</p>
             <p n="9-12">Dharmaratha, the son of the glory of the Lunar Race, the achiever of the desired object and the only friend of the sword, became the head-jewel of all the kings, when the hostile kings retreated to the extremity of the far-off country, being chased by his soldiers marching on <foreign>digvijaya</foreign>, in the course of which the dusts swelled. 
             </p>
            <p n="12-15">
@@ -615,7 +615,7 @@ and rot with his forefathers.</p>
         	<listBibl type="primary">
         	   <bibl n="M"><ptr target="bib:Misra1931_01"/></bibl>
         	   <bibl n="D"><ptr target="bib:Debala1959_01"/></bibl>
-        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="page">225-234</citedRange></bibl>
+        	   <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">35</citedRange><citedRange unit="page">225-234</citedRange></bibl>
         	   <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXII</citedRange><citedRange unit="page">285-293</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">

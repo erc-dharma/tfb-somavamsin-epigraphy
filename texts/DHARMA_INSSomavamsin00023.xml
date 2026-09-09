@@ -198,7 +198,7 @@
                  <l n="a"><pb n="3v"/><lb n="60"/>yenātyanta-surāsurādhipa-guru<supplied reason="omitted">ḥ</supplied> prajñābhimāno jito</l>
                  <l n="b">rājñāroptita-rājya-bhā<lb n="61" break="no"/>ram atulaṁ yaś cāvahal<supplied reason="omitted">l</supplied>īlayā<g ref="sym:bar" type="punctuation">.</g></l>
                  <l n="c">yasyāsīn naya-vikrama-dvayam api preyān<lb n="62"/>sakhā sarvvadā</l>
-                 <l n="d">yaḥ khyato dhṛta-s<choice><sic>ā</sic><corr>a</corr></choice>ndhi-vigraha-padaḥ śrī-<persName>cchicchṭeś<surplus>v</surplus>aḥ</persName> kṛtī<g ref="sym:doubleBar" type="punctuation">.</g></l>
+                 <l n="d">yaḥ khyato dhṛta-s<choice><sic>ā</sic><corr>a</corr></choice>ndhi-vigraha-padaḥ śrī-<persName>cchicchaṭeś<surplus>v</surplus>aḥ</persName> kṛtī<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
              <p>   <lb n="63"/>parama-māheśvara-parama-bhaṭṭāraka-mahārāja-parameśva<supplied reason="omitted">ra</supplied>-soma-kula-ti<lb n="64" break="no"/>laka-trikaliṅgādhipati--śrī-<persName><choice><sic>j</sic><corr>y</corr></choice>ayāti</persName>-rājadeva-pravarddhamāna-v<choice><sic>e</sic><corr>i</corr></choice>jaya-rājye<lb n="65"/>navame samvatsare <num value="9">9</num> jyeṣṭha-<choice><orig>ś</orig><reg>s</reg></choice>ita-trayodaśyā<supplied reason="omitted">ṁ</supplied><g ref="sym:bar" type="punctuation">.</g> <num value="13">10 3</num> <supplied reason="omitted">divasa</supplied>ḥ Utkīrṇṇā<lb n="66"/>vijñān<choice><sic>ī</sic><corr>i</corr></choice>-<persName>mādhavene</persName>t<choice><sic>ī</sic><corr>i</corr></choice> Om Om<g ref="sym:bar" type="punctuation">.</g> 
                  </p>
@@ -258,7 +258,7 @@
         	<listBibl type="primary">
         	    <bibl n="B"><ptr target="bib:Banerjea1877_01"/></bibl>
 	    <bibl n="F"><ptr target="bib:Fleet1894-1895_03"/><citedRange unit="item">E</citedRange><citedRange unit="page">351-355</citedRange></bibl>
-        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">28</citedRange><citedRange unit="page">177-183</citedRange></bibl>
+        	    <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">28</citedRange><citedRange unit="page">176-183</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIV</citedRange><citedRange unit="page">233-239</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">

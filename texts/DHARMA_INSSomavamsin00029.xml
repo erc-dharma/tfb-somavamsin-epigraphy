@@ -110,12 +110,15 @@
                   
                </listApp>
          </div>
+         <div type="translation" source="bib:Rajaguru1966_01">
+            <p>The year 18 of the increasing and victorious reign of the illustrious Udyotakeśarīdeva. (The work of) Śubhacandra, the disciple of the lord, the illustrious Ācārya Kulacandra, (who) belonged to the graha=kula of the illustrious Ārya congregation (and belonged to) the Desīgaṇa. </p>
+         </div>
          <div type="translation" resp="part:amwb">
                <p>Hail ! During the year 18 of the glorious king Uddyotakesarin!</p>
                <p>From<note>
                   This is an adverbial genitive which expresses an original value "from" "on the part of" <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222b</citedRange><citedRange unit="page">305</citedRange></bibl></supplied>.  
                </note>
-               Subahcandra, disciple of the venerable lord Kulacandra, master of the guild Deśī from the Graha corporation, linked to the community of the venerable Ārya (or to the respectful community Ārya).</p>
+               Subhacandra, disciple of the venerable lord Kulacandra, master of the guild Deśī from the Graha corporation, linked to the community of the venerable Ārya (or to the respectful community Ārya).</p>
          </div>   
             <div type="translation" xml:lang="fra" resp="part:amwb">
                <p>Hommage ! En l'année prospère 18 du règne du glorieux <supplied reason="explanation"><foreign>śrī</foreign></supplied> roi <supplied reason="explanation"><foreign>deva</foreign></supplied> Uddyotakesarin </p>
