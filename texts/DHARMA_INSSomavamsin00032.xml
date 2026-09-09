@@ -27,7 +27,7 @@
                   <surname>Wattelier-Bricout</surname>
                </persName>
             </respStmt>
-         </titleStmt>
+         <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
          <publicationStmt>
             <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Berlin</pubPlace>
@@ -160,7 +160,7 @@ amwb : Sircar 71 sat? in pāda d adds here
                   <app loc="3"><!-- update the value of @loc.-->
                      <lem>pādānudhyāta<supplied reason="omitted">ḥ</supplied><g ref="sym:doubleBar" type="punctuation">.</g></lem>
                      <rdg source="bib:Shastri1995_02">pādānudhyāta<surplus><g ref="sym:doubleBar" type="punctuation">.</g></surplus></rdg>
-                     <note>Unlike <bibl><ptr target="bib:Shastri1995_02"/></bibl>, I consider that this word forms the end of a compound describing Someśvara and thus resolves the inconsistency in the coronation name suggested by <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">322</citedRange><citedRange unit="note">56</citedRange></bibl>. This understanding of the passage was already suggested by <bibl><ptr target="bib:Misra1931_01 "/><citedRange unit="page">6</citedRange></bibl>.</note>
+                     <note>Unlike <bibl><ptr target="bib:Shastri1995_02"/></bibl>, I consider that this word forms the end of a compound describing Someśvara and thus resolves the inconsistency in the coronation name suggested by <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">322</citedRange><citedRange unit="note">56</citedRange></bibl>. This understanding of the passage was already suggested by <bibl><ptr target="bib:Misra1931_01"/><citedRange unit="page">6</citedRange></bibl>.</note>
                   </app>
                </listApp>
          </div>
