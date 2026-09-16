@@ -194,6 +194,7 @@
               <bibl n="K"><ptr target="bib:Kielhorn1896-1897_05"/></bibl>
         	     <bibl n="R"><ptr target="bib:Rajaguru1966_01"/><citedRange unit="item">37</citedRange><citedRange unit="page">237-241</citedRange></bibl>
         	    <bibl n="S"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XIX</citedRange><citedRange unit="page">263-267</citedRange></bibl>
+        	    <bibl n="A"><ptr target="bib:Acharya2022_01"/><citedRange unit="item">I</citedRange><citedRange unit="page">286-288</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1561</citedRange></bibl>

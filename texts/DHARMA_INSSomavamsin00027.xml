@@ -132,6 +132,7 @@
         	   <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1571</citedRange></bibl>
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">299</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

@@ -181,6 +181,7 @@ amwb : Sircar 71 sat? in pāda d adds here
 	   <bibl n="Sh"><ptr target="bib:Shastri1995_02"/><citedRange unit="item">XXVIII</citedRange><citedRange unit="page">318-324</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="entry">1744</citedRange></bibl>
               <bibl><ptr target="bib:ARIE1950-1951"/><citedRange unit="item">6</citedRange></bibl>
               <bibl><ptr target="bib:Gai1986_01"/><citedRange unit="item">939</citedRange></bibl>
               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">467-469</citedRange></bibl>

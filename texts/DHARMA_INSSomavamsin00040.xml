@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Baragaon plates of the time of Janamejaya year 13</title>
+                <title>Baragaon plates of Pr̥thivīvigraha of the time of Janamejaya year 13</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -43,7 +43,7 @@
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                        <summary>The charter records the gift of the village Sakamrā situated in Kāsamvadāviṣaya to Kedārabhaṭṭa, son of Golasvāmin and grandson of Vṛhaka belonging to the Kāśyapa gotra and the pravaras of fives sqges and a student of the Vājasaneya śākhā by Rāṇaka Pr̥thivīvigraha, son of Vāmanavigraha and grandson of Vyāghrarāja.<!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -188,7 +188,8 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p>The plates are currently preserved at the Prof. N. K. Sahu Museum of the Sambalpur University (see <bibl><ptr target="bib:Padhan2011_01"/><citedRange unit="item">2</citedRange><citedRange unit="page"/></bibl>. The photos are available <ref target="https://didomena.ehess.fr/concern/data_sets/kp78gq996">here</ref>.</p>
         	<listBibl type="primary">
-	      <bibl n="N"><ptr target="bib:Nayak2012_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	      <bibl n="N"><ptr target="bib:Nayak2012_01"/></bibl>
+        	    <bibl n="A"><ptr target="bib:Acharya2022_01"/><citedRange unit="item">I</citedRange><citedRange unit="page">276-278</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">11</citedRange><citedRange unit="page">241-242</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
