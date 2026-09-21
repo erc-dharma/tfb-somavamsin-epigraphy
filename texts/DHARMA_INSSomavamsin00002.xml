@@ -98,7 +98,7 @@
                 -->
 <g ref="sym:spiral-left" type="symbol">*</g> svasti<supplied reason="omitted">.</supplied></ab>
                    <lg n="1" met="āryā">
-                   <l n="ab">kr̥tvāntaḥ sura-saritam phaṇi-patita-nr̥-māla-<choice><orig>v</orig><reg>b</reg></choice>ālam ādhāya</l>
+                   <l n="ab">kr̥tvāttuḥ sura-saritam phaṇi-patita-nr̥-māla-<choice><orig>v</orig><reg>b</reg></choice>ālam ādhāya</l>
                    <l n="cd">su-jaṭā-taru-ni<lb n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied> janayati yaḥ pātu sa śivo vaḥ</l><!-- 
 amwb note on the word kurumva by Shastri+Tripathy2011-2012_01 : "it gives no sense. Can we correct it to nikaraṁ vaḥ which would give a good sens though vaḥ would be redundant
 -->
@@ -106,7 +106,7 @@ amwb note on the word kurumva by Shastri+Tripathy2011-2012_01 : "it gives no sen
                    <lg n="2" met="upajāti">
                    <l n="a">yasya pratāpānalato 'tidagdhaḥ</l>
                    <l n="b">śatru-drumaḥ<lb n="3"/>soma-kul<choice><sic>ā</sic><corr>o</corr></choice>dbhavasya</l>
-                   <l n="c">śauryāṅkura<supplied reason="omitted">ṁ</supplied> jāttu na muñcatīha</l><!-- 
+                   <l n="c">śauryāsphurajātdana muñcatīha</l><!-- 
 amwb on the photo it seems to have one or two circles (visarga) after ṅku, so it would be written śauryāṅkuḥra , need to check
 -->
                    <l n="d"><persName type="king" key="PSN01000">svabhāvatuṅgaḥ</persName> sa nr̥po <choice><orig>v</orig><reg>b</reg></choice>abhūva</l></lg>
@@ -244,33 +244,56 @@ see photo 252.jpg https://sharedocs.huma-num.fr/wl/?id=GneIC1MMVbQuIzh1yanftPaZN
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem source="bib:Tripathy2000_01">-māla-</lem>
+                     <lem>kr̥tvāt tuḥ</lem><!-- checked on the photo and compared with other aksara with the same shape inside these three plates -->
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">kr̥tvāntaḥ</rdg>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">kr̥taya<unclear>ḥ</unclear></rdg>
+                  </app>
+                  <app loc="1">
+                     <lem source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">phaṇi</lem>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">phaṇe</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem source="bib:Patnaik+Subuddhi1990_01 bib:Tripathy2000_01">-māla-</lem>
                      <rdg source="bib:Shastri+Tripathy2011-2012_01">-mala-</rdg>
                   </app>
                   <app loc="1">
                      <lem source="bib:Tripathy2000_01">ādhāya</lem>
                      <rdg source="bib:Shastri+Tripathy2011-2012_01">ādhyāya</rdg>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">ādāya</rdg>
                   </app>
                   <app loc="1">
-                     <lem>ni<lb n="2" break="no"/>kurumva<supplied reason="omitted">ṁ</supplied></lem>
-                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">nikurumva</rdg>
+                     <lem source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">jaṭā-taru</lem>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">jaṭṭa-tarū</rdg>
+                  </app>
+                  <app loc="1-2">
+                     <lem>nikurumva<supplied reason="omitted">ṁ</supplied></lem>
+                     <rdg source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01 bib:Patnaik+Subuddhi1990_01">nikurumva</rdg>
                      <note><bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="note">1</citedRange><citedRange unit="page">111</citedRange></bibl> suggest correcting <foreign>nikurmva</foreign> by <foreign>nikaraṁ vaḥ</foreign> but add the <foreign>vaḥ</foreign> inserted could be redundant. I prefer to correct simply by assuming an omitted <foreign>anusvāra</foreign>.</note>
                   </app>
                   <app loc="2">
-                     <lem source="bib:Tripathy2000_01">śivo vaḥ</lem>
+                     <lem source="bib:Tripathy2000_01 bib:Patnaik+Subuddhi1990_01">śivo vaḥ</lem>
                      <rdg source="bib:Shastri+Tripathy2011-2012_01">śivo yaḥ</rdg>
                   </app>
+                  <app loc="2">
+                     <lem source="bib:Tripathy2000_01 bib:Shastri+Tripathy2011-2012_01">tidagdhaḥ</lem>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">vidagdhaḥ</rdg>
+                  </app>
+                  
                   <app loc="3">
-                     <lem source="bib:Shastri+Tripathy2011-2012_01">śauryāṅkura<supplied reason="omitted">ṁ</supplied></lem>
+                     <lem source="bib:Patnaik+Subuddhi1990_01">śauryāsphura</lem>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">śauryāṅkura<supplied reason="omitted">ṁ</supplied></rdg>
                      <rdg source="bib:Tripathy2000_01">śauryāṅkur<choice><sic>a</sic><corr>o</corr></choice></rdg>
                   </app>
                   <app loc="3">
-                     <lem>jāttu</lem>
+                     <lem>jātda</lem>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">jāta</rdg>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">jāttu</rdg>
                      <rdg source="bib:Tripathy2000_01">jātu</rdg>
                   </app>
                   <app loc="4">
-                     <lem source="bib:Tripathy2000_01">-kadamvaka-</lem>
-                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-kadamvaja-</rdg>
+                     <lem source="bib:Tripathy2000_01">-kadamvaka-staneṣu</lem>
+                     <rdg source="bib:Shastri+Tripathy2011-2012_01">-kadamvaja-staneṣu</rdg>
+                     <rdg source="bib:Patnaik+Subuddhi1990_01">kadamvadambarastaneṣu</rdg>
                   </app>
                   <app loc="4">
                      <lem>'stra-jālaka<supplied reason="omitted">ṁ</supplied></lem>
@@ -724,8 +747,9 @@ la terre, telle celle tenue fermement par les bras de Hari, lui le support de la
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published in 1991 by G.C. Patnail, U.K. Subuddhi and Rajendra Luha of the Departement of History, Ravenshaw College, Cuttac under the title <title>The Somavansis Rediscovered</title>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda. Photos available <ref target="https://didomena.ehess.fr/concern/data_sets/1g05fm96g">here</ref>.</p>
+           <p>First published by <bibl><ptr target="bib:Patnaik+Subuddhi1990_01"/></bibl>. Reediting by <bibl><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl>, but this edition contains a lot of printed errors. <bibl><ptr target="bib:Shastri1995_02"/><citedRange unit="page">383</citedRange></bibl> mentions the set of the the three Gopalpur plates in his addenda. Photos available <ref target="https://didomena.ehess.fr/concern/data_sets/1g05fm96g">here</ref>.</p>
         	<listBibl type="primary">
+        	   <bibl n="P"><ptr target="bib:Patnaik+Subuddhi1990_01"/><citedRange unit="page">3-9</citedRange></bibl>
         	   <bibl n="T"><ptr target="bib:Tripathy2000_01"/><citedRange unit="page">223-228</citedRange></bibl>
             <bibl n="ST"><ptr target="bib:Shastri+Tripathy2011-2012_01"/><citedRange unit="page">91-114</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
