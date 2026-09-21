@@ -43,7 +43,7 @@
                   <idno/><!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary>Gift by the king Indraratha of a village called Laghukumbhi situated in the subdivision (khaṇḍa) of Saghṛtakhallā in the district (viṣaya) of Thoraṇa which belonged to Koṅgoda-maṇḍala, for defraying the expenses on the bali, caru, naivedya and dōla of the goddess Khadiravanī-bhaṭṭarikā. Written by Amṛta Candra and engraved by a smith called Vāheruka. <!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                  <summary>Gift by the king Indraratha of a village called Laghukumbhi situated in the subdivision (khaṇḍa) of Saghr̥takhallā in the district (viṣaya) of Thoraṇa which belonged to Koṅgoda-maṇḍala, for defraying the expenses on the bali, caru, naivedya and dōla of the goddess Khadiravanī-bhaṭṭarikā. Written by Amr̥ta Candra and engraved by a smith called Vāheruka. <!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
                   <handDesc>
@@ -109,7 +109,7 @@
                </lg>
             <lg n="5" met="śārdūlavikrīḍita">
                <l n="a"><space type="binding-hole"/>yad bhūmīvalayasya bhūṣaṇa-vidhi<supplied reason="omitted">r</supplied> yasyāpi saudha-śriyo</l> 
-               <l n="b">yat saudhasya mr̥gīdr̥śo<lb n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnā<choice><sic>n</sic><corr>ṃ</corr></choice> na<surplus>n</surplus>vaḥ<g ref="sym:bar" type="punctuation">.</g></l> 
+               <l n="b">yat saudhasya mr̥gīdr̥śo<lb n="10"/><unclear>mr̥ga</unclear><space type="binding-hole"/>dr̥śām yad varttinīnā<choice><sic>n</sic><corr>ṁ</corr></choice> na<surplus>n</surplus>vaḥ<g ref="sym:bar" type="punctuation">.</g></l> 
                <l n="c">ya<choice><sic>d</sic><corr>s</corr></choice>yā<supplied reason="omitted">ḥ</supplied> toraṇa-citra-karma-kanaka-graiveyakādi-sphu<lb n="11" break="no"/>ṭam</l> 
                <l n="d">vīthībhūtam athedam apy anumuhuḥ krīḍeti sampā<surplus>d</surplus>dyate<g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg> 
@@ -372,7 +372,7 @@ amwb : Sircar 71
                      <rdg source="bib:Behera1988_01">yat vartti°</rdg>
                   </app>
                   <app loc="10">
-                     <lem>°nīnā<choice><sic>n</sic><corr>ṃ</corr></choice> na<surplus>n</surplus>vaḥ</lem>
+                     <lem>°nīnā<choice><sic>n</sic><corr>ṁ</corr></choice> na<surplus>n</surplus>vaḥ</lem>
                      <rdg source="bib:Shastri1995_02">°nīnānnavaḥ</rdg>
                      <rdg source="bib:Behera1988_01">°nī<choice><sic>nānnanvaḥ</sic><corr>nām ānvayaḥ</corr></choice></rdg>
                   </app>
@@ -529,7 +529,7 @@ amwb : Sircar 71
                   </app>
                   <app loc="28">
                      <lem>dya <unclear>ca</unclear></lem>
-                     <rdg source="bib:Tripathy1966_01">dyapa(?) trairājyaṃ</rdg>
+                     <rdg source="bib:Tripathy1966_01">dyapa(?) trairājyaṁ</rdg>
                      <rdg source="bib:Behera1988_01"><choice><sic>dyapattrai</sic><corr>dhipair taṁ</corr></choice> rājyañ</rdg>
                      <rdg source="bib:Shastri1995_02"><choice><sic>dyapa</sic><corr>dhipaiḥ</corr></choice> trairājyañ</rdg>
                   </app>
@@ -695,7 +695,7 @@ amwb : Sircar 71
             Recipient Khadiravaṇī Bhaṭṭārikā
             Written by Amr̥tacandra
             Interesting detail . first verse invocation to śiva 
-            Genealogy . important because as Behera1988_01 remarks page 39 "the ruler indraratha is new in this record and he is not met with in the Brahmeśvara isncription of Uddyotakesari's reign (Soma30) and the Ratnagiri grant of Karṇadeva which provide the complete genealogical table of the Somavaṃśi dynasty. In the Banpur charter Indraratha is mentioned as born in the lunar family. He was the son of Bhīma who is identical with Bhīmaratha (Mahābhavagupta II son and successor of Yayāti Mahāśivagupta I). He had two younger brothers, viz., Vaṅkaratha and Śankararatha who are noticed in any other record. Indraratha is said to have won the royal fortune of Kaliṅga being a favourite of Dharmaratha (Khandapara grant)"
+            Genealogy . important because as Behera1988_01 remarks page 39 "the ruler indraratha is new in this record and he is not met with in the Brahmeśvara isncription of Uddyotakesari's reign (Soma30) and the Ratnagiri grant of Karṇadeva which provide the complete genealogical table of the Somavaṁśi dynasty. In the Banpur charter Indraratha is mentioned as born in the lunar family. He was the son of Bhīma who is identical with Bhīmaratha (Mahābhavagupta II son and successor of Yayāti Mahāśivagupta I). He had two younger brothers, viz., Vaṅkaratha and Śankararatha who are noticed in any other record. Indraratha is said to have won the royal fortune of Kaliṅga being a favourite of Dharmaratha (Khandapara grant)"
             See Mallaram charter Śaktivarman I who claims the victory over Dharmarath and Indra note 6 the Mallavaram Plates of Paraantaaka in Copper plate Inscriptions of Andhra Pradesh Government Museum p.89-90
             Vatsarāja is probably a feudatory of the Paramāra king Sindhurāja note 7 OHRJ vol XXXIII n 1 & 2 p.164 
             From the Udayapur Praśāsti Indraratha seems to have been defeated by the Paramāra king Bhoja (1001-1047) note 9 : History and Culture of the Indian people vol V p 66 
