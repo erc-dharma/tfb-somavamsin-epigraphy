@@ -226,7 +226,7 @@ n="27"/>tya-suta somanātham iti
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-            <p>I reproduce here the edition of Dr. Satyanarayana Rajaguru but it seems there is a lot of printed errors and so on... Moreover there is no mention of the place of preservation and I have no idea where I can find the copper plates to check his readings and produce a better edition. <bibl n="R"><ptr target="bib:Rajaguru2011_01"/></bibl> attributes this charter to the time of Yayāti the second.</p>
+            <p>The edition is based on the editions of <bibl><ptr target="bib:Rajaguru2011_01"/></bibl> and <bibl><ptr target="bib:Acharya2022_01"/></bibl> but both of them seem to contain some printed errors and so on... Moreover there is no mention of the place of preservation and I have no idea where I can find the copper plates to check the readings and produce a better edition. <bibl n="R"><ptr target="bib:Rajaguru2011_01"/></bibl> attributes this charter to the time of Yayāti the second.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
